@@ -1,0 +1,959 @@
+{
+  "overview": {
+    "total_questions": 5044,
+    "year_range": [
+      1995,
+      2025
+    ],
+    "papers": [
+      "GS4",
+      "GS1",
+      "GS2",
+      "GS3",
+      "PTGS",
+      "Essay"
+    ]
+  },
+  "by_subject": {
+    "Geography": {
+      "total": 1699,
+      "prelims": 1290,
+      "mains": 409,
+      "topics": [
+        "Geomorphology",
+        "Agriculture",
+        "Climatology",
+        "Drainage System",
+        "Oceanography",
+        "Natural Vegetation",
+        "Soils",
+        "Industries",
+        "Minerals & Energy",
+        "Resource Distribution",
+        "Physiography",
+        "Climate & Monsoon",
+        "Biogeography",
+        "Continents & Regions"
+      ]
+    },
+    "Society": {
+      "total": 125,
+      "prelims": 70,
+      "mains": 55,
+      "topics": [
+        "Women's Issues",
+        "Poverty & Inequality",
+        "Caste System",
+        "Population Issues",
+        "Urbanization",
+        "Family & Kinship",
+        "Religion & Communalism",
+        "Regionalism",
+        "Features of Indian Society",
+        "Women Empowerment",
+        "Impact of Globalization"
+      ]
+    },
+    "Polity": {
+      "total": 308,
+      "prelims": 264,
+      "mains": 44,
+      "topics": [
+        "CAG",
+        "State Legislature",
+        "Vice President",
+        "Historical Background",
+        "Preamble",
+        "Other Bodies",
+        "President",
+        "Election Commission",
+        "UPSC & State PSCs",
+        "RPA Act",
+        "Centre-State Relations",
+        "Constitutional Amendments",
+        "Electoral System",
+        "DPSP & Fundamental Duties",
+        "Regulatory Bodies",
+        "Statutory Bodies",
+        "Prime Minister & Council",
+        "Fundamental Rights",
+        "Local Government",
+        "Governor",
+        "Supreme Court",
+        "Parliament",
+        "Finance Commission",
+        "High Court",
+        "Basic Structure"
+      ]
+    },
+    "History": {
+      "total": 1164,
+      "prelims": 974,
+      "mains": 190,
+      "topics": [
+        "Constitutional Development",
+        "Delhi Sultanate",
+        "Political Philosophies",
+        "Medieval Art & Architecture",
+        "Buddhism",
+        "Rise of Nationalism",
+        "Integration of States",
+        "Communal Politics & Partition",
+        "Post-Mauryan Period",
+        "Decolonization",
+        "Economic Impact of British Rule",
+        "Post-Gupta Period",
+        "Jainism",
+        "Mughal Empire",
+        "Sufi Movement",
+        "Reorganization of States",
+        "Industrial Revolution",
+        "Gupta Empire",
+        "Prehistoric Period",
+        "Revolutionary Movement",
+        "Bhakti Movement",
+        "Mauryan Empire",
+        "Social & Religious Reform",
+        "1857 Revolt",
+        "Gandhian Era",
+        "Regional Kingdoms",
+        "World Wars",
+        "Vedic Age",
+        "British Expansion",
+        "Indus Valley Civilization",
+        "Sangam Age"
+      ]
+    },
+    "International Relations": {
+      "total": 233,
+      "prelims": 200,
+      "mains": 33,
+      "topics": [
+        "Global Challenges",
+        "India-Sri Lanka",
+        "India-Pakistan",
+        "Regional Groupings",
+        "India-Bangladesh",
+        "Multilateral Forums",
+        "Indian Diaspora",
+        "India-China",
+        "Other Neighbours",
+        "United Nations"
+      ]
+    },
+    "Ethics": {
+      "total": 31,
+      "prelims": 16,
+      "mains": 15,
+      "topics": [
+        "Case Study Approach",
+        "Probity in Governance",
+        "Emotional Intelligence",
+        "Ethics Basics",
+        "Ethical Governance",
+        "Aptitude for Civil Service",
+        "Indian Thinkers",
+        "Human Values",
+        "Western Thinkers"
+      ]
+    },
+    "Economy": {
+      "total": 276,
+      "prelims": 221,
+      "mains": 55,
+      "topics": [
+        "Irrigation & Technology",
+        "Taxation",
+        "Inflation",
+        "Exchange Rate",
+        "Balance of Payments",
+        "Energy",
+        "Industrial Policy",
+        "Fiscal Federalism",
+        "Infrastructure",
+        "National Income",
+        "Banking System",
+        "Human Development",
+        "Planning",
+        "Money & Banking",
+        "Foreign Investment",
+        "Land Reforms",
+        "Government Budget",
+        "Inclusive Growth",
+        "Agricultural Economy"
+      ]
+    },
+    "Governance": {
+      "total": 882,
+      "prelims": 563,
+      "mains": 319,
+      "topics": [
+        "Social Sector Schemes",
+        "Transparency & Accountability",
+        "Education",
+        "Food Security",
+        "E-Governance",
+        "Health Issues",
+        "Role of NGOs & SHGs",
+        "Role of Civil Services",
+        "Development Issues",
+        "Welfare of Vulnerable Sections"
+      ]
+    },
+    "General": {
+      "total": 28,
+      "prelims": 28,
+      "mains": 0,
+      "topics": [
+        "Uncategorized"
+      ]
+    },
+    "Science & Technology": {
+      "total": 143,
+      "prelims": 136,
+      "mains": 7,
+      "topics": [
+        "Defence R&D",
+        "Biotech Applications",
+        "Chemistry",
+        "Space Applications",
+        "IPR",
+        "Indian Space Programme",
+        "Biology",
+        "Digital Technology",
+        "Physics",
+        "Nuclear Programme"
+      ]
+    },
+    "Environment": {
+      "total": 75,
+      "prelims": 65,
+      "mains": 10,
+      "topics": [
+        "Conservation Laws & Bodies",
+        "Biodiversity",
+        "Protected Areas",
+        "Disaster Management",
+        "Ecology Basics",
+        "Climate Change",
+        "Disasters",
+        "Pollution"
+      ]
+    },
+    "Internal Security": {
+      "total": 53,
+      "prelims": 42,
+      "mains": 11,
+      "topics": [
+        "Terrorism",
+        "Left Wing Extremism",
+        "Organized Crime",
+        "Security Apparatus",
+        "Border Management",
+        "Insurgency"
+      ]
+    },
+    "Current Affairs": {
+      "total": 27,
+      "prelims": 23,
+      "mains": 4,
+      "topics": [
+        "Science & Tech News",
+        "Government Initiatives",
+        "Sports",
+        "Awards & Honours",
+        "Global Events"
+      ]
+    }
+  },
+  "by_year": {
+    "1995": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "1998": {
+      "total": 149,
+      "PTGS": 149,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "1999": {
+      "total": 149,
+      "PTGS": 149,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2002": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2004": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2007": {
+      "total": 149,
+      "PTGS": 149,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2009": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2010": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2011": {
+      "total": 100,
+      "PTGS": 100,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2015": {
+      "total": 186,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 18,
+      "Essay": 8
+    },
+    "1997": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2001": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2005": {
+      "total": 146,
+      "PTGS": 146,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2006": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2008": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2000": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2003": {
+      "total": 150,
+      "PTGS": 150,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2020": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "1996": {
+      "total": 149,
+      "PTGS": 149,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2021": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2012": {
+      "total": 100,
+      "PTGS": 100,
+      "GS1": 0,
+      "GS2": 0,
+      "GS3": 0,
+      "GS4": 0,
+      "Essay": 0
+    },
+    "2013": {
+      "total": 205,
+      "PTGS": 100,
+      "GS1": 30,
+      "GS2": 25,
+      "GS3": 28,
+      "GS4": 18,
+      "Essay": 4
+    },
+    "2017": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2014": {
+      "total": 192,
+      "PTGS": 100,
+      "GS1": 25,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2018": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2019": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2022": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2023": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2024": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2025": {
+      "total": 187,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 19,
+      "Essay": 8
+    },
+    "2016": {
+      "total": 186,
+      "PTGS": 100,
+      "GS1": 20,
+      "GS2": 20,
+      "GS3": 20,
+      "GS4": 18,
+      "Essay": 8
+    }
+  },
+  "by_paper": {
+    "PTGS": {
+      "total": 3892,
+      "top_subjects": {
+        "Geography": 1290,
+        "History": 974,
+        "Governance": 563,
+        "Polity": 264,
+        "Economy": 221,
+        "International Relations": 200,
+        "Science & Technology": 136,
+        "Society": 70,
+        "Environment": 65,
+        "Internal Security": 42
+      },
+      "top_topics": {
+        "Industries": 655,
+        "Welfare of Vulnerable Sections": 491,
+        "Rise of Nationalism": 213,
+        "Revolutionary Movement": 173,
+        "United Nations": 148,
+        "Oceanography": 101,
+        "Climatology": 94,
+        "Parliament": 80,
+        "Drainage System": 73,
+        "Minerals & Energy": 73,
+        "Agriculture": 69,
+        "Energy": 58,
+        "Continents & Regions": 53,
+        "Statutory Bodies": 51,
+        "Buddhism": 50
+      }
+    },
+    "GS4": {
+      "total": 244,
+      "top_subjects": {
+        "Governance": 91,
+        "Geography": 72,
+        "History": 34,
+        "Ethics": 13,
+        "International Relations": 13,
+        "Polity": 7,
+        "Economy": 5,
+        "Society": 3,
+        "Internal Security": 3,
+        "Science & Technology": 2
+      },
+      "top_topics": {
+        "Welfare of Vulnerable Sections": 76,
+        "Industries": 52,
+        "Geomorphology": 15,
+        "Rise of Nationalism": 13,
+        "United Nations": 10,
+        "Social & Religious Reform": 7,
+        "Gandhian Era": 6,
+        "Role of Civil Services": 6,
+        "Ethics Basics": 5,
+        "Transparency & Accountability": 4,
+        "Probity in Governance": 3,
+        "Border Management": 3,
+        "Statutory Bodies": 3,
+        "Revolutionary Movement": 2,
+        "Education": 2
+      }
+    },
+    "GS3": {
+      "total": 268,
+      "top_subjects": {
+        "Governance": 89,
+        "Geography": 75,
+        "Economy": 36,
+        "History": 35,
+        "Environment": 8,
+        "Society": 5,
+        "Internal Security": 5,
+        "Science & Technology": 4,
+        "International Relations": 4,
+        "Polity": 4
+      },
+      "top_topics": {
+        "Welfare of Vulnerable Sections": 79,
+        "Industries": 46,
+        "Rise of Nationalism": 16,
+        "Agricultural Economy": 15,
+        "Social & Religious Reform": 8,
+        "Agriculture": 8,
+        "Revolutionary Movement": 7,
+        "Climate Change": 6,
+        "Government Budget": 5,
+        "Energy": 5,
+        "Oceanography": 5,
+        "Geomorphology": 5,
+        "Minerals & Energy": 4,
+        "Development Issues": 4,
+        "Parliament": 3
+      }
+    },
+    "GS1": {
+      "total": 275,
+      "top_subjects": {
+        "Geography": 119,
+        "History": 62,
+        "Governance": 42,
+        "Society": 33,
+        "Economy": 7,
+        "International Relations": 4,
+        "Ethics": 2,
+        "Polity": 2,
+        "Science & Technology": 1,
+        "Current Affairs": 1
+      },
+      "top_topics": {
+        "Industries": 60,
+        "Welfare of Vulnerable Sections": 40,
+        "Geomorphology": 21,
+        "Climatology": 11,
+        "Women's Issues": 8,
+        "Revolutionary Movement": 7,
+        "Rise of Nationalism": 7,
+        "Oceanography": 7,
+        "Urbanization": 7,
+        "Indus Valley Civilization": 6,
+        "Physiography": 6,
+        "Gandhian Era": 5,
+        "Regionalism": 4,
+        "Biogeography": 4,
+        "Decolonization": 4
+      }
+    },
+    "GS2": {
+      "total": 265,
+      "top_subjects": {
+        "Governance": 92,
+        "Geography": 58,
+        "History": 51,
+        "Polity": 31,
+        "Society": 14,
+        "International Relations": 11,
+        "Economy": 6,
+        "Internal Security": 2
+      },
+      "top_topics": {
+        "Welfare of Vulnerable Sections": 72,
+        "Industries": 38,
+        "Revolutionary Movement": 15,
+        "Social & Religious Reform": 12,
+        "Rise of Nationalism": 11,
+        "Geomorphology": 9,
+        "United Nations": 8,
+        "Parliament": 7,
+        "Health Issues": 7,
+        "Development Issues": 6,
+        "Women Empowerment": 4,
+        "Climatology": 4,
+        "Transparency & Accountability": 4,
+        "Continents & Regions": 4,
+        "Women's Issues": 4
+      }
+    },
+    "Essay": {
+      "total": 100,
+      "top_subjects": {
+        "Geography": 85,
+        "History": 8,
+        "Governance": 5,
+        "Economy": 1,
+        "International Relations": 1
+      },
+      "top_topics": {
+        "Industries": 79,
+        "Welfare of Vulnerable Sections": 4,
+        "Rise of Nationalism": 3,
+        "Biogeography": 2,
+        "Revolutionary Movement": 2,
+        "Climatology": 1,
+        "Minerals & Energy": 1,
+        "Gandhian Era": 1,
+        "Social & Religious Reform": 1,
+        "Agricultural Economy": 1,
+        "Political Philosophies": 1,
+        "Oceanography": 1,
+        "Drainage System": 1,
+        "Education": 1,
+        "Global Challenges": 1
+      }
+    }
+  },
+  "high_frequency_topics": [
+    {
+      "topic": "Industries",
+      "count": 930,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Welfare of Vulnerable Sections",
+      "count": 762,
+      "subject": "Governance"
+    },
+    {
+      "topic": "Rise of Nationalism",
+      "count": 263,
+      "subject": "History"
+    },
+    {
+      "topic": "Revolutionary Movement",
+      "count": 206,
+      "subject": "History"
+    },
+    {
+      "topic": "United Nations",
+      "count": 168,
+      "subject": "International Relations"
+    },
+    {
+      "topic": "Oceanography",
+      "count": 118,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Climatology",
+      "count": 113,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Parliament",
+      "count": 90,
+      "subject": "Polity"
+    },
+    {
+      "topic": "Geomorphology",
+      "count": 84,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Minerals & Energy",
+      "count": 80,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Drainage System",
+      "count": 79,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Agriculture",
+      "count": 78,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Energy",
+      "count": 70,
+      "subject": "Economy"
+    },
+    {
+      "topic": "Social & Religious Reform",
+      "count": 63,
+      "subject": "History"
+    },
+    {
+      "topic": "Continents & Regions",
+      "count": 60,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Statutory Bodies",
+      "count": 58,
+      "subject": "Polity"
+    },
+    {
+      "topic": "Gandhian Era",
+      "count": 54,
+      "subject": "History"
+    },
+    {
+      "topic": "Buddhism",
+      "count": 52,
+      "subject": "History"
+    },
+    {
+      "topic": "British Expansion",
+      "count": 49,
+      "subject": "History"
+    },
+    {
+      "topic": "Biogeography",
+      "count": 49,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Biotech Applications",
+      "count": 44,
+      "subject": "Science & Technology"
+    },
+    {
+      "topic": "1857 Revolt",
+      "count": 43,
+      "subject": "History"
+    },
+    {
+      "topic": "Physiography",
+      "count": 40,
+      "subject": "Geography"
+    },
+    {
+      "topic": "Agricultural Economy",
+      "count": 39,
+      "subject": "Economy"
+    },
+    {
+      "topic": "Indus Valley Civilization",
+      "count": 35,
+      "subject": "History"
+    },
+    {
+      "topic": "Border Management",
+      "count": 35,
+      "subject": "Internal Security"
+    },
+    {
+      "topic": "Post-Gupta Period",
+      "count": 34,
+      "subject": "History"
+    },
+    {
+      "topic": "Climate Change",
+      "count": 33,
+      "subject": "Environment"
+    },
+    {
+      "topic": "Vedic Age",
+      "count": 32,
+      "subject": "History"
+    },
+    {
+      "topic": "Sangam Age",
+      "count": 32,
+      "subject": "History"
+    }
+  ],
+  "dimension_patterns": {
+    "PTGS": {
+      "WHAT": 2672,
+      "VS": 82,
+      "WHY": 232,
+      "WHEN": 269,
+      "WHERE": 132,
+      "HOW": 236,
+      "WHO": 223,
+      "IMPACT": 46
+    },
+    "GS4": {
+      "WHAT": 98,
+      "VS": 13,
+      "WHY": 39,
+      "HOW": 50,
+      "WHO": 14,
+      "WHERE": 9,
+      "IMPACT": 13,
+      "WHEN": 8
+    },
+    "GS3": {
+      "WHAT": 127,
+      "HOW": 85,
+      "IMPACT": 19,
+      "VS": 9,
+      "WHEN": 5,
+      "WHO": 2,
+      "WHY": 19,
+      "WHERE": 2
+    },
+    "GS1": {
+      "WHAT": 148,
+      "HOW": 56,
+      "WHEN": 8,
+      "WHY": 39,
+      "VS": 6,
+      "WHERE": 4,
+      "IMPACT": 13,
+      "WHO": 1
+    },
+    "GS2": {
+      "WHAT": 176,
+      "HOW": 38,
+      "WHY": 16,
+      "VS": 17,
+      "IMPACT": 10,
+      "WHERE": 3,
+      "WHO": 2,
+      "WHEN": 3
+    },
+    "Essay": {
+      "WHAT": 93,
+      "VS": 2,
+      "WHY": 2,
+      "HOW": 1,
+      "WHEN": 1,
+      "WHO": 1
+    }
+  },
+  "prelims_traps": [],
+  "mains_themes": {
+    "Development": 148,
+    "Governance": 86,
+    "Ethics": 77,
+    "Security": 73,
+    "Environment": 71,
+    "International": 66,
+    "Social Reform": 45
+  }
+}
