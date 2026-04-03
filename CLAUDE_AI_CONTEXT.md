@@ -121,19 +121,79 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 
 ## SYLLABUS ID FORMAT
 
-Use: `SUBJECT_CODE.CATEGORY_CODE.TOPIC_CODE`
-- History: HIS.ANC / HIS.MED / HIS.MOD / HIS.POST / HIS.WLD
-- Geography: GEO.PHY / GEO.IND / GEO.WLD
-- Society: SOC.IND / SOC.WOM / SOC.POP / SOC.GLOB
-- Polity: POL.CON / POL.UNI / POL.ST / POL.FED / POL.CB / POL.SRB / POL.ELX
-- Governance: GOV.SCH / GOV.DEV / GOV.HED / GOV.POV / GOV.EGV / GOV.CS / GOV.AWD / GOV.PERS
-- IR: IR.FP / IR.NBR / IR.IO / IR.GLB / IR.AFR / IR.GPM
-- Economy: ECO.MAC / ECO.PUB / ECO.EXT / ECO.AGR / ECO.IND / ECO.DEV
-- Environment: ENV.ECO / ENV.ISS / ENV.CON / ENV.DIS
-- S&T: S&T.SPC / S&T.DEF / S&T.BIO / S&T.IT / S&T.NUC / S&T.PHY / S&T.IPR / S&T.ASTRO / S&T.EMR
-- Internal Security: SEC.CH / SEC.BDR / SEC.CYB / SEC.SF
-- Ethics: ETH.FND / ETH.THK / ETH.APP / ETH.PAE / ETH.CS
-- CSAT: CSAT.QA / CSAT.LR / CSAT.RC
+**STRICT FORMAT: `PREFIX.1` — always end with `.1`**
+
+Derive the prefix from subject + category using this exact table:
+
+| Subject | Category | syllabus_id prefix |
+|---------|----------|--------------------|
+| History | Ancient India | HIS.ANC |
+| History | Medieval India | HIS.MED |
+| History | Modern India | HIS.MOD |
+| History | Post-Independence India | HIS.POST |
+| History | World History | HIS.WLD |
+| Geography | Physical Geography | GEO.PHY |
+| Geography | Indian Geography | GEO.IND |
+| Geography | World Geography | GEO.WLD |
+| Society | Indian Society | SOC.IND |
+| Society | Women & Gender | SOC.WOM |
+| Society | Population & Development | SOC.POP |
+| Society | Globalization | SOC.GLOB |
+| Polity | Constitutional Framework | POL.CON |
+| Polity | Union Government | POL.UNI |
+| Polity | State Government | POL.ST |
+| Polity | Federalism | POL.FED |
+| Polity | Constitutional Bodies | POL.CB |
+| Polity | Statutory & Regulatory Bodies | POL.SRB |
+| Polity | Elections & Representation | POL.ELX |
+| Governance | Government Schemes & Policies | GOV.SCH |
+| Governance | Development & Civil Society | GOV.DEV |
+| Governance | Health & Education | GOV.HED |
+| Governance | Poverty & Hunger | GOV.POV |
+| Governance | E-Governance & Transparency | GOV.EGV |
+| Governance | Civil Services | GOV.CS |
+| Governance | Awards and Honours | GOV.AWD |
+| Governance | Prominent Personalities | GOV.PERS |
+| International Relations | India's Foreign Policy | IR.FP |
+| International Relations | India & Neighbours | IR.NBR |
+| International Relations | International Organizations | IR.IO |
+| International Relations | Global Issues | IR.GLB |
+| International Relations | Africa | IR.AFR |
+| International Relations | Global Political Movements | IR.GPM |
+| Economy | Macroeconomics | ECO.MAC |
+| Economy | Public Finance | ECO.PUB |
+| Economy | External Sector | ECO.EXT |
+| Economy | Agriculture | ECO.AGR |
+| Economy | Industry & Infrastructure | ECO.IND |
+| Economy | Development & Planning | ECO.DEV |
+| Environment | Ecology & Ecosystem | ENV.ECO |
+| Environment | Environmental Issues | ENV.ISS |
+| Environment | Conservation | ENV.CON |
+| Environment | Disaster Management | ENV.DIS |
+| Science & Technology | Space Technology | S&T.SPC |
+| Science & Technology | Defence Technology | S&T.DEF |
+| Science & Technology | Biotechnology | S&T.BIO |
+| Science & Technology | IT & Communication | S&T.IT |
+| Science & Technology | Nuclear Technology | S&T.NUC |
+| Science & Technology | Basic Sciences | S&T.BSC |
+| Science & Technology | Intellectual Property | S&T.IPR |
+| Science & Technology | Astronomy | S&T.ASTRO |
+| Science & Technology | Emerging Technologies | S&T.EMR |
+| Internal Security | Security Challenges | SEC.CH |
+| Internal Security | Border Security | SEC.BDR |
+| Internal Security | Cyber & Communication Security | SEC.CYB |
+| Internal Security | Security Forces | SEC.SF |
+| Ethics | Ethics Fundamentals | ETH.FND |
+| Ethics | Thinkers & Philosophers | ETH.THK |
+| Ethics | Applied Ethics | ETH.APP |
+| Ethics | Public Administration Ethics | ETH.PAE |
+| Ethics | Case Studies | ETH.CS |
+| CSAT | Quantitative Aptitude | CSAT.QA |
+| CSAT | Logical Reasoning | CSAT.LR |
+| CSAT | Reading Comprehension | CSAT.RC |
+
+**Examples:** `HIS.MED.1` / `GEO.IND.1` / `CSAT.QA.1` / `S&T.BSC.1`
+**NEVER use:** paper codes like `PTGS.x`, old codes like `S&T.PHY`, or numbers other than `.1`
 
 ---
 

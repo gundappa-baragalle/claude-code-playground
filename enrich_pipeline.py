@@ -268,6 +268,98 @@ def cmd_save_file(path: str):
     cmd_save(json_str)
 
 
+# ── --extract-all ─────────────────────────────────────────────────────────────
+
+def cmd_extract_all(batch_size: int, out_dir: str):
+    """Pre-generate ALL remaining batch files at once into out_dir."""
+    import math
+    with open(QUESTIONS_FILE) as f:
+        raw = json.load(f)
+    questions = raw[0]["json_result"]
+    total = len(questions)
+
+    cp = load_checkpoint()
+    processed = cp.get("processed_indices", set())
+    pending = [i for i in range(total) if i not in processed]
+
+    if not pending:
+        print("ALL DONE — no questions left to extract.")
+        return
+
+    Path(out_dir).mkdir(parents=True, exist_ok=True)
+    n_batches = math.ceil(len(pending) / batch_size)
+    print(f"Generating {n_batches} batch files ({len(pending)} questions, {batch_size}/batch) → {out_dir}/")
+    print()
+
+    for batch_num in range(n_batches):
+        start = batch_num * batch_size
+        batch_indices = pending[start:start + batch_size]
+        batch = []
+        for pos, idx in enumerate(batch_indices):
+            q = questions[idx]
+            batch.append({
+                "idx": pos,
+                "original_idx": idx,
+                "year": q.get("year"),
+                "paper": q.get("paper"),
+                "marks": q.get("marks"),
+                "question": q.get("question", "").strip(),
+                "option_a": q.get("option_a", ""),
+                "option_b": q.get("option_b", ""),
+                "option_c": q.get("option_c", ""),
+                "option_d": q.get("option_d", ""),
+                "correct_option": q.get("correct_option", ""),
+                "word_limit": q.get("word_limit", 0),
+            })
+
+        filename = f"batch_{batch_num+1:03d}.json"
+        filepath = Path(out_dir) / filename
+        with open(filepath, "w", encoding="utf-8") as f:
+            json.dump(batch, f, indent=2, ensure_ascii=False)
+
+        q_range = f"{batch_indices[0]}–{batch_indices[-1]}"
+        print(f"  {filename}  ({len(batch)} questions, orig idx {q_range})")
+
+    print()
+    print(f"Done. {n_batches} files in {out_dir}/")
+    print()
+    print("Next steps:")
+    print(f"  1. Open Claude.ai Project (context already uploaded there)")
+    print(f"  2. Upload each batch_NNN.json → get result → save as result_NNN.json in {out_dir}/")
+    print(f"  3. When all results ready: python3 enrich_pipeline.py --merge-all {out_dir}")
+
+
+# ── --merge-all ───────────────────────────────────────────────────────────────
+
+def cmd_merge_all(results_dir: str):
+    """Merge all result_NNN.json files from results_dir into questions_enriched.json."""
+    results_path = Path(results_dir)
+    result_files = sorted(results_path.glob("result_*.json"))
+
+    if not result_files:
+        print(f"No result_*.json files found in {results_dir}/")
+        return
+
+    print(f"Found {len(result_files)} result files to merge:")
+    total_saved = 0
+    for rf in result_files:
+        print(f"  Merging {rf.name} ...", end=" ")
+        with open(rf) as f:
+            json_str = f.read()
+        try:
+            enrichments = json.loads(json_str)
+        except json.JSONDecodeError as e:
+            print(f"SKIPPED (invalid JSON: {e})")
+            continue
+        cmd_save(json_str)
+        total_saved += len(enrichments)
+        print(f"done ({len(enrichments)} questions)")
+
+    print()
+    print(f"Total merged: {total_saved} questions")
+    cmd_stats()
+
+
 # ── --extract ─────────────────────────────────────────────────────────────────
 
 def cmd_extract(batch_size: int, out_path: str):
@@ -345,13 +437,16 @@ def cmd_stats():
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--next-batch",  action="store_true", help="Print next batch for classification")
-    parser.add_argument("--batch-size",  type=int, default=BATCH_SIZE)
-    parser.add_argument("--extract",     type=int, metavar="N", help="Extract next N questions to a file for Claude.ai")
-    parser.add_argument("--extract-out", type=str, default="next_batch.json", help="Output path for --extract (default: next_batch.json)")
-    parser.add_argument("--save",        type=str,  help="JSON string of enriched batch to save")
-    parser.add_argument("--save-file",   type=str,  help="Path to JSON file of enriched batch to save")
-    parser.add_argument("--stats",       action="store_true")
+    parser.add_argument("--next-batch",   action="store_true", help="Print next batch for classification")
+    parser.add_argument("--batch-size",   type=int, default=BATCH_SIZE)
+    parser.add_argument("--extract",      type=int, metavar="N", help="Extract next N questions to a file for Claude.ai")
+    parser.add_argument("--extract-out",  type=str, default="next_batch.json", help="Output path for --extract (default: next_batch.json)")
+    parser.add_argument("--extract-all",  action="store_true", help="Pre-generate ALL remaining batch files at once")
+    parser.add_argument("--batches-dir",  type=str, default="batches", help="Directory for --extract-all and --merge-all (default: batches/)")
+    parser.add_argument("--merge-all",    action="store_true", help="Merge all result_NNN.json files from --batches-dir")
+    parser.add_argument("--save",         type=str,  help="JSON string of enriched batch to save")
+    parser.add_argument("--save-file",    type=str,  help="Path to JSON file of enriched batch to save")
+    parser.add_argument("--stats",        action="store_true")
     args = parser.parse_args()
 
     if args.stats:
@@ -360,6 +455,10 @@ def main():
         cmd_next_batch(args.batch_size)
     elif args.extract:
         cmd_extract(args.extract, args.extract_out)
+    elif args.extract_all:
+        cmd_extract_all(args.batch_size, args.batches_dir)
+    elif args.merge_all:
+        cmd_merge_all(args.batches_dir)
     elif args.save:
         cmd_save(args.save)
     elif args.save_file:
