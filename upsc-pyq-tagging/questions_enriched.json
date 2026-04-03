@@ -1,0 +1,4359 @@
+[
+  {
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists\nList I | List II\nI. Ernesto Zedillo | (A) Uruguay\nII. Alberto Fujimori | (B) Brazil\nIII. Julio Maria Sanguinetti | (C) Mexico\nIV. Fernando H. Cardoso | (D) Bolivia\n| (E) Peru",
+    "year": 1995,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I-C, II-E, III-A IV-B",
+    "option_b": "I-D, II-E, III-C, IV-A",
+    "option_c": "I-C, II-D, III-V, IV-B",
+    "option_d": "I-E, II-C, III-A, IV-D",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.1",
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "concept": "Global Challenges",
+    "dimension": "WHO",
+    "aspect": "WHO – Global Challenges",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Names have misleading phonetics — 'Cardoso' sounds Central American, 'Zedillo' sounds generically Spanish. Without specific knowledge of 1990s Latin American politics, all options look plausible.",
+      "elimination_hint": "Anchor on Fujimori = Peru (famous Japanese-Peruvian, unique identifier). From the code that maps II to E (Peru), check which option has II→E and work outward.",
+      "factual_hooks": [
+        "Alberto Fujimori = Peru (Japanese-Peruvian president 1990–2000)",
+        "Ernesto Zedillo = Mexico (PRI party, last PRI president)",
+        "Fernando H. Cardoso = Brazil (sociologist-economist president)",
+        "Julio Maria Sanguinetti = Uruguay (twice president)"
+      ],
+      "paired_with": [
+        "Global Challenges",
+        "India's Foreign Policy",
+        "Decolonization"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Latin American political geography",
+      "1990s world leaders"
+    ],
+    "related_concepts": [
+      "Global Challenges",
+      "India's Foreign Policy",
+      "Decolonization",
+      "Political Philosophies"
+    ],
+    "contrast_with": [
+      "Cardoso (Brazil) vs Zedillo (Mexico) — both technocrat-economists from same era, easily swapped"
+    ],
+    "keywords": [
+      "Zedillo",
+      "Fujimori",
+      "Sanguinetti",
+      "Cardoso",
+      "Latin America",
+      "Mexico",
+      "Peru",
+      "Uruguay",
+      "Brazil"
+    ],
+    "_original_idx": 0,
+    "_enriched": true
+  },
+  {
+    "question": "A, B, C, D, E and F, not necessarily in that order are sitting on six chairs regularly placed around a round table. It is observed that A is between D and F, C is opposite D, and D and E are not on neighbouring chairs.\nWhich one of the following pairs must be sitting on neighbouring chairs ?",
+    "year": 1998,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "A and B",
+    "option_b": "C and E",
+    "option_c": "B and F",
+    "option_d": "A and C",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.1",
+    "subject": "CSAT",
+    "category": "Logical Reasoning",
+    "topic": "Seating Arrangement",
+    "concept": "Seating Arrangement",
+    "dimension": "HOW",
+    "aspect": "HOW – Seating Arrangement",
+    "question_type": "CSAT",
+    "difficulty": "Hard",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Circular seating is counter-intuitive — 'opposite' means 3 seats apart in a 6-seat circle. Students also confuse 'A is between D and F' in circular context with linear meaning.",
+      "elimination_hint": "Draw the 6-seat circle. Fix C opposite D (seats 1 & 4). Place A between D and F. D and E are non-adjacent, so E must be placed away from D. Verify each option against all constraints.",
+      "factual_hooks": [
+        "In 6-chair circle, 'opposite' = 3 seats apart",
+        "'Between' in circle = one on each side",
+        "Each person has exactly 2 neighbors in a 6-seat circle"
+      ],
+      "paired_with": [
+        "Blood Relations",
+        "Direction Sense",
+        "Linear Arrangement"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Circular arrangement rules",
+      "Opposite seat concept in even-number circles"
+    ],
+    "related_concepts": [
+      "Blood Relations",
+      "Direction Sense",
+      "Linear Arrangement",
+      "Puzzles & Grids"
+    ],
+    "contrast_with": [
+      "Circular arrangement (no absolute ends) vs linear arrangement (fixed left/right endpoints)"
+    ],
+    "keywords": [
+      "seating",
+      "circular",
+      "arrangement",
+      "neighbors",
+      "table",
+      "CSAT",
+      "logical reasoning"
+    ],
+    "_original_idx": 1,
+    "_enriched": true
+  },
+  {
+    "question": "Persons below the poverty line in India are classified as such based on whether",
+    "year": 1999,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "they are entitled to a minimum prescribed food basket",
+    "option_b": "they get work for a prescribed minimum number of days in a year",
+    "option_c": "they belong to agricultural labourer household and the scheduled caste/tribe social group",
+    "option_d": "their daily wages fall below the prescribed minimum wages",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Development & Planning",
+    "topic": "Inclusive Growth",
+    "concept": "Inclusive Growth",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Inclusive Growth",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Option D ('wages below minimum wages') sounds logical since low wages = poverty. Option C ('agricultural labourers + SC/ST') conflates social identity with poverty criterion. India's official poverty line is purely consumption-based.",
+      "elimination_hint": "India's poverty line = minimum food basket/caloric intake (Tendulkar committee). Eliminate B (employment-based), C (caste/occupation-based), D (wage-based). Only A (food basket) is the official criterion.",
+      "factual_hooks": [
+        "India poverty line = minimum caloric consumption (2100 kcal urban, 2400 kcal rural)",
+        "Tendulkar Committee (2009) revised poverty estimation",
+        "Rangarajan Committee (2014) further revised — higher poverty count",
+        "BPL cards linked to food entitlements under NFSA"
+      ],
+      "paired_with": [
+        "Food Security",
+        "Poverty Alleviation",
+        "MGNREGA"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "India now also uses Multidimensional Poverty Index (MPI) alongside consumption-based poverty line; significant MPI reduction reported post-2015.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "India's poverty estimation methodology",
+      "Tendulkar vs Rangarajan committees",
+      "Caloric norm approach"
+    ],
+    "related_concepts": [
+      "Food Security",
+      "Poverty Alleviation",
+      "MGNREGA",
+      "Human Development"
+    ],
+    "contrast_with": [
+      "Absolute poverty (caloric/consumption based — India's method) vs Relative poverty (% below median income — used in Europe)"
+    ],
+    "keywords": [
+      "poverty line",
+      "BPL",
+      "food basket",
+      "caloric",
+      "Tendulkar",
+      "poverty classification",
+      "India",
+      "economy"
+    ],
+    "_original_idx": 2,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I with List II and select the correct answer using the codes given below the Lists\nList I | List II\nI. Cotton | (A) Rainfall 1000-1500 mm; Temperature 40° - 60°C\nII. Flax | (B) Rainfall 1500-2000 mm; Temperature 25° - 35°C\nIII. Sugarbeet | (C) Rainfall 600 - 800 mm; Temperature 5° - 18°C\nIV. Jute | (D) Rainfall 500 - 1000 mm; Temperature 18° - 22°C\n| (E) Rainfall 500 - 600 mm; Temperature 18°- 22°C",
+    "year": 1999,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I-A, II-C, III-D, IV-B",
+    "option_b": "I-B, II-C, III-E, IV-D",
+    "option_c": "I-D, II-E, III-B, IV-A",
+    "option_d": "I-D, II-C, III-E, IV-B",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.3",
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Agriculture",
+    "concept": "Agriculture",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Agriculture",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Jute needs HIGH rainfall (1500–2000mm) which students confuse with Cotton. Sugarbeet is a TEMPERATE crop (5–18°C) which is counter-intuitive since India is tropical.",
+      "elimination_hint": "Anchor on Jute = Bengal delta = high rainfall (1500–2000mm). Sugarbeet = European/temperate crop = low temperature (5–18°C). Cotton = semi-arid = moderate rainfall. Match remaining.",
+      "factual_hooks": [
+        "Jute = high rainfall 1500–2000mm (Bengal/Bangladesh)",
+        "Sugarbeet = temperate crop, low temp 5–18°C",
+        "Cotton = semi-arid, 500–1000mm (Deccan plateau)",
+        "Flax = cool, moderate rainfall 600–800mm"
+      ],
+      "paired_with": [
+        "Soils",
+        "Climate & Monsoon",
+        "Physiography"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Major cash crops and their agroclimatic requirements",
+      "Rabi vs Kharif vs Zaid classification",
+      "India's rainfall distribution zones"
+    ],
+    "related_concepts": [
+      "Soils",
+      "Climate & Monsoon",
+      "Physiography",
+      "Agricultural Economy"
+    ],
+    "contrast_with": [
+      "Jute (high rainfall, tropical) vs Cotton (low rainfall, semi-arid) — both cash crops but opposite water needs"
+    ],
+    "keywords": [
+      "cotton",
+      "flax",
+      "sugarbeet",
+      "jute",
+      "rainfall",
+      "temperature",
+      "crop",
+      "climate",
+      "agriculture"
+    ],
+    "_original_idx": 3,
+    "_enriched": true
+  },
+  {
+    "question": "Consider the volumes of the following:\n1. A parallelepiped of length 5 cm, breadth 3 cm and height 4 cm\n2. A cube of each side 4 cm\n3. A cylinder of radius 3 cm and length 3 cm\n4. A sphere of radius 3 cm The volumes of these in the decreasing order is",
+    "year": 2002,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I, III, II, IV",
+    "option_b": "IV, II, III, I",
+    "option_c": "I, II, III, IV",
+    "option_d": "IV, III, II, I",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.1",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "concept": "Geometry",
+    "dimension": "HOW",
+    "aspect": "HOW – Geometry",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Students misremember sphere volume as (4/3)πr² instead of (4/3)πr³. Also confusion between cylinder r×h and r²×h.",
+      "elimination_hint": "Calculate: Parallelepiped=5×3×4=60; Cube=4³=64; Cylinder=π×9×3≈84.8; Sphere=(4/3)×π×27≈113.1. Decreasing: Sphere>Cylinder>Cube>Parallelepiped = IV,III,II,I = D.",
+      "factual_hooks": [
+        "Sphere volume = (4/3)πr³",
+        "Cylinder volume = πr²h",
+        "Cube volume = a³",
+        "Parallelepiped = l×b×h"
+      ],
+      "paired_with": [
+        "Arithmetic",
+        "Algebra",
+        "Data Interpretation"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "3D shape volume formulas",
+      "π ≈ 3.14159"
+    ],
+    "related_concepts": [
+      "Arithmetic",
+      "Algebra",
+      "Data Interpretation"
+    ],
+    "contrast_with": [],
+    "keywords": [
+      "volume",
+      "parallelepiped",
+      "cube",
+      "cylinder",
+      "sphere",
+      "geometry",
+      "CSAT",
+      "calculation"
+    ],
+    "_original_idx": 4,
+    "_enriched": true
+  },
+  {
+    "question": "Consider the following statements about Sikh Gurus: 1. Banda Bahadur was appointed as the military leader of the Sikhs by Guru Tegh Bahadur. 2. Guru Arjan Dev became the Sikh Guru after Guru Ram Das. 3. Guru Arjan Dev gave to Sikhs their own script—Gurumukhi. Which one of the statements given above is/are correct?",
+    "year": 2004,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "1 only",
+    "option_b": "2 and 3",
+    "option_c": "1 and 3",
+    "option_d": "1 and 2",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.2",
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Regional Kingdoms",
+    "concept": "Regional Kingdoms",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Regional Kingdoms",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.87,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Statement 1 tricky — both Guru Tegh Bahadur (9th) and Guru Gobind Singh (10th) are prominent; students confuse who sent Banda Bahadur. Statement 3 about Gurumukhi plausible since Arjan Dev compiled the Adi Granth in Gurumukhi script.",
+      "elimination_hint": "Gurumukhi = Guru Angad Dev (2nd Guru), NOT Arjan Dev — eliminate S3. Banda Bahadur commissioned by Guru Gobind Singh (10th), not Guru Tegh Bahadur (9th). Guru Arjan Dev DID succeed Guru Ram Das — S2 correct.",
+      "factual_hooks": [
+        "Guru Arjan Dev = 5th Guru, son/successor of Guru Ram Das (4th)",
+        "Gurumukhi = Guru Angad Dev (2nd Guru, not Arjan Dev)",
+        "Banda Bahadur sent to Punjab by Guru Gobind Singh (10th, not 9th)",
+        "Guru Arjan Dev compiled Adi Granth and built Harmandir Sahib"
+      ],
+      "paired_with": [
+        "Bhakti Movement",
+        "Sufi Movement",
+        "Mughal Empire"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "10 Sikh Gurus in order",
+      "Sikh sacred texts",
+      "Key contributions of each Guru"
+    ],
+    "related_concepts": [
+      "Bhakti Movement",
+      "Sufi Movement",
+      "Mughal Empire",
+      "Medieval Art & Architecture"
+    ],
+    "contrast_with": [
+      "Guru Arjan Dev (5th, Adi Granth) vs Guru Angad Dev (2nd, Gurumukhi) — commonly confused",
+      "Guru Tegh Bahadur (9th, martyrdom) vs Guru Gobind Singh (10th, Khalsa, Banda Bahadur)"
+    ],
+    "keywords": [
+      "Sikh Gurus",
+      "Banda Bahadur",
+      "Guru Arjan Dev",
+      "Gurumukhi",
+      "Guru Ram Das",
+      "medieval India",
+      "Sikhism"
+    ],
+    "_original_idx": 5,
+    "_enriched": true
+  },
+  {
+    "question": "Assertion (A)\n: In our houses, the current in AC electricity line changes direction 60 times per second.\nReason (R)\n: The frequency of alternating voltage supplied is 60 hertz.",
+    "year": 2004,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Both A and R are individually true and R is the correct explanation of A",
+    "option_b": "Both A and R are individually true but R is not the correct explanation of A",
+    "option_c": "A is true but R is false",
+    "option_d": "A is false but R is true",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.7",
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Physics",
+    "concept": "Physics",
+    "dimension": "WHY",
+    "aspect": "WHY – Physics",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Students who know India uses 50 Hz may mark Assertion as false. Trap: the question tests logical consistency between A and R. The Reason incorrectly states India's frequency as 60 Hz — so R is factually wrong for India.",
+      "elimination_hint": "India's AC frequency = 50 Hz, NOT 60 Hz (60 Hz = USA/Canada). So the Reason is factually WRONG. At 50 Hz, current changes direction 100 times/sec (not 60). Answer C: the assertion may be stated as true (in 60 Hz context) but the Reason is false for India.",
+      "factual_hooks": [
+        "India uses 50 Hz AC (like Europe, Australia)",
+        "USA/Canada use 60 Hz AC",
+        "At frequency f Hz, current changes direction 2f times per second",
+        "AC direction changes = twice per complete cycle"
+      ],
+      "paired_with": [
+        "Energy",
+        "Nuclear Technology",
+        "Industrial Policy"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "AC vs DC electricity basics",
+      "Frequency and period relationship",
+      "Grid standards by region"
+    ],
+    "related_concepts": [
+      "Energy",
+      "Nuclear Technology",
+      "Industrial Policy",
+      "Basic Sciences"
+    ],
+    "contrast_with": [
+      "50 Hz systems (India, Europe) vs 60 Hz systems (Americas) — incompatible appliances without converters"
+    ],
+    "keywords": [
+      "AC electricity",
+      "frequency",
+      "50 Hz",
+      "60 Hz",
+      "current direction",
+      "assertion reason",
+      "physics"
+    ],
+    "_original_idx": 6,
+    "_enriched": true
+  },
+  {
+    "question": "What was the purpose of the Operation Sukoon launched by the Government of India?",
+    "year": 2007,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Helping Indonesia in its efforts to rehabilitate the victims of earthquake in that country",
+    "option_b": "Evacuating the Indian Nationals from Lebanon during the conflict in the Middle East",
+    "option_c": "Assisting United Nations in its efforts to help the civil war victims in the Darfur region of North Africa",
+    "option_d": "Providing a relief package to farmers after a spate of suicides by other farmers in Andhra Pradesh",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.1",
+    "subject": "International Relations",
+    "category": "India's Foreign Policy",
+    "topic": "Foreign Policy Principles",
+    "concept": "Foreign Policy Principles",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Foreign Policy Principles",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Options A (Indonesia earthquake) and C (Darfur/UN) sound like plausible humanitarian missions. 'Sukoon' name exploited: sounds like it could relate to any peace operation.",
+      "elimination_hint": "'Sukoon' = peace/relief in Urdu/Hindi → fits evacuation from conflict zone. 2006 = Israel-Hezbollah war in Lebanon → Indian nationals evacuated. INS Mumbai deployed. Eliminate A (earthquake relief, not evacuation) and C (UN Darfur).",
+      "factual_hooks": [
+        "Operation Sukoon = 2006, Lebanon evacuation during Israel-Hezbollah war",
+        "~2,000 Indian nationals evacuated by INS Mumbai and INS Brahmaputra",
+        "'Sukoon' = comfort/peace in Urdu"
+      ],
+      "paired_with": [
+        "Indian Diaspora",
+        "India & Neighbours",
+        "Internal Security"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "India's NEO capability demonstrated in Yemen (2015) and Ukraine (2022); key component of diaspora security policy.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "India's diaspora protection policy",
+      "2006 Lebanon War",
+      "Indian Navy NEO operations"
+    ],
+    "related_concepts": [
+      "Indian Diaspora",
+      "India & Neighbours",
+      "Internal Security",
+      "Global Challenges"
+    ],
+    "contrast_with": [
+      "Operation Sukoon (Lebanon 2006) vs Operation Raahat (Yemen 2015) vs Operation Ganga (Ukraine 2022) — all Indian evacuations from conflict zones"
+    ],
+    "keywords": [
+      "Operation Sukoon",
+      "Lebanon",
+      "evacuation",
+      "Indian nationals",
+      "2006",
+      "Israel-Hezbollah",
+      "Indian Navy"
+    ],
+    "_original_idx": 7,
+    "_enriched": true
+  },
+  {
+    "question": "With reference to Union Government, consider the following statements :\n1. The number of Ministries at the Centre on 15th August 1947 was 18.\n2. The number of Ministries at the Centre at present is 36.\nWhich of the statements given above is/are correct ?",
+    "year": 2009,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "Both 1 and 2",
+    "option_d": "Neither 1 nor 2",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.4",
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Prime Minister & Council",
+    "concept": "Prime Minister & Council",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Prime Minister & Council",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Both statements require specific numerical recall. Statement 2 about '36 at present' (2009) seems plausible — India had more than 36 ministries by 2009 making S2 wrong.",
+      "elimination_hint": "S1 (18 ministries on Aug 15, 1947) = known historical fact about Nehru's lean cabinet. S2 ('36 at present in 2009') = wrong, India had more ministries by 2009. With S1 correct and S2 wrong, answer = A.",
+      "factual_hooks": [
+        "Nehru's first cabinet: 18 Ministries on Independence Day 1947",
+        "Ministry count grew significantly over decades",
+        "91st Amendment 2003: CoM capped at 15% of Lok Sabha strength"
+      ],
+      "paired_with": [
+        "Parliament",
+        "President",
+        "Constitutional Amendments"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Article 74 (Council of Ministers)",
+      "Article 75 (CoM size)",
+      "91st Amendment Act 2003"
+    ],
+    "related_concepts": [
+      "Parliament",
+      "President",
+      "Constitutional Amendments",
+      "Election Commission"
+    ],
+    "contrast_with": [
+      "Council of Ministers (political, changes with government) vs IAS/Civil Services (permanent administration)"
+    ],
+    "keywords": [
+      "Union Government",
+      "ministries",
+      "1947",
+      "Council of Ministers",
+      "Nehru",
+      "Polity"
+    ],
+    "_original_idx": 8,
+    "_enriched": true
+  },
+  {
+    "question": "Two numbers X and Y are respectively 20% ad 28% less than a third number Z. By what percentage is the number Y less than the number X?",
+    "year": 2010,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "8%",
+    "option_b": "9%",
+    "option_c": "10%",
+    "option_d": "12%",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.1",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "concept": "Percentages",
+    "dimension": "HOW",
+    "aspect": "HOW – Percentages",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Most common error: subtract 28%−20%=8% directly, picking option A. Wrong because percentages must be compared relative to BASE (X), not to Z.",
+      "elimination_hint": "Set Z=100. Then X=80 (20% less), Y=72 (28% less). Y less than X = (80−72)/80 × 100 = 8/80 × 100 = 10%. Answer: C.",
+      "factual_hooks": [
+        "Set Z=100 to simplify",
+        "Percentage difference formula: (X−Y)/X × 100",
+        "Never subtract percentages referenced to different bases"
+      ],
+      "paired_with": [
+        "Arithmetic",
+        "Profit & Loss",
+        "Averages & Mixtures"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Percentage calculation",
+      "Percentage change vs percentage point difference"
+    ],
+    "related_concepts": [
+      "Arithmetic",
+      "Profit & Loss",
+      "Averages & Mixtures"
+    ],
+    "contrast_with": [],
+    "keywords": [
+      "percentage",
+      "CSAT",
+      "calculation",
+      "X Y Z",
+      "quantitative aptitude"
+    ],
+    "_original_idx": 9,
+    "_enriched": true
+  },
+  {
+    "question": "In the context of Indian economy, consider the following statements:\n\n1. The growth rate of GDP has steadily increased in the last five years.\n2. The growth rate in per capita income has steadily increased in the last five years.\n\nWhich of the statements given above is/are correct?",
+    "year": 2011,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "Both 1 and 2",
+    "option_d": "Neither 1 nor 2",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "National Income",
+    "concept": "National Income",
+    "dimension": "WHAT",
+    "aspect": "WHAT – National Income",
+    "question_type": "Analytical",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Students assume India's economy was on smooth upward trajectory in 2000s. The 2008 global financial crisis caused a dip — growth was NOT monotonically increasing. Both statements say 'steadily increased' which was false.",
+      "elimination_hint": "India's GDP growth: peaked ~9.8% in 2006-07, fell to ~6.7% in 2008-09. 'Steadily increased' = false. Per capita also did not steadily increase. Both statements wrong = D (Neither).",
+      "factual_hooks": [
+        "India GDP growth 2006-07 ≈ 9.8% (peak)",
+        "2008-09 global crisis: India's growth dipped to ~6.7%",
+        "'Steadily increasing' ≠ growth that dipped",
+        "Per capita = GDP growth minus population growth (~1.4%/yr)"
+      ],
+      "paired_with": [
+        "Banking System",
+        "Inflation",
+        "Government Budget"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "India's 7%+ growth in recent years marks recovery; V-shaped recovery post-COVID frequently referenced.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "GDP growth calculation",
+      "Impact of 2008 global crisis on India",
+      "Per capita income = National Income ÷ Population"
+    ],
+    "related_concepts": [
+      "Banking System",
+      "Inflation",
+      "Government Budget",
+      "Balance of Payments",
+      "Inclusive Growth"
+    ],
+    "contrast_with": [
+      "GDP growth rate (can dip) vs cumulative GDP (always grows nominally)"
+    ],
+    "keywords": [
+      "GDP",
+      "per capita income",
+      "growth rate",
+      "national income",
+      "economy",
+      "India"
+    ],
+    "_original_idx": 10,
+    "_enriched": true
+  },
+  {
+    "question": "When the Reserve Bank of India reduces the Statutory Liquidity Ratio by 50 basis points, which of the following is likely to happen?",
+    "year": 2015,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "India's GDP growth rate increases drastically",
+    "option_b": "Foreign Institutional Investors may bring more capital into our country",
+    "option_c": "Scheduled Commercial Banks may cut their lending rates",
+    "option_d": "It may drastically reduce the liquidity to the banking system",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Banking System",
+    "concept": "Banking System",
+    "dimension": "IMPACT",
+    "aspect": "IMPACT – Banking System",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Option B (FII capital inflow) tempting if SLR confused with interest rate cuts. Option D says 'drastically reduce liquidity' which is the exact OPPOSITE of SLR reduction's effect.",
+      "elimination_hint": "SLR reduction = banks hold LESS in liquid assets = MORE funds for lending = expanded credit supply = competitive pressure to cut rates = C. SLR reduction INCREASES liquidity (eliminate D). Doesn't directly affect FII flows (eliminate B).",
+      "factual_hooks": [
+        "SLR = % deposits kept in liquid assets (govt securities, gold, cash)",
+        "Reducing SLR frees more funds for lending",
+        "SLR = expansionary monetary policy tool",
+        "Current SLR ~18%, down from historical high of 38.5%"
+      ],
+      "paired_with": [
+        "Money & Banking",
+        "Inflation",
+        "Government Budget"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "RBI regularly adjusts SLR for monetary transmission; SLR reduction now less frequent as RBI focuses on repo rate-based policy.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "SLR vs CRR distinction",
+      "RBI monetary policy instruments",
+      "Liquidity vs solvency in banking"
+    ],
+    "related_concepts": [
+      "Money & Banking",
+      "Inflation",
+      "Government Budget",
+      "Fiscal Federalism"
+    ],
+    "contrast_with": [
+      "SLR (liquid assets including govt securities) vs CRR (cash held with RBI) — both reserve requirements but SLR broader"
+    ],
+    "keywords": [
+      "SLR",
+      "statutory liquidity ratio",
+      "RBI",
+      "lending rate",
+      "monetary policy",
+      "banks"
+    ],
+    "_original_idx": 11,
+    "_enriched": true
+  },
+  {
+    "question": "Which one of the following dances involves solo performance ?",
+    "year": 1997,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Bharatanatyam",
+    "option_b": "Kuchipudi",
+    "option_c": "Katahak",
+    "option_d": "Odissi",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.2",
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Sangam Age",
+    "concept": "Sangam Age",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Sangam Age",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.82,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Kathak and Odissi are also solo forms, so students may second-guess Bharatanatyam. Key: Kuchipudi ORIGINALLY was a GROUP performance by male Brahmin community — it was NOT historically solo unlike the others.",
+      "elimination_hint": "Kuchipudi = originated as group dramatic performance by male Brahmin community of Kuchipudi village (AP), NOT traditionally solo. Bharatanatyam = Devadasi solo tradition (Tamil Nadu). Answer: A.",
+      "factual_hooks": [
+        "Bharatanatyam = Tamil Nadu, Devadasi tradition, always solo female",
+        "Kuchipudi = Andhra Pradesh, originally group male Brahmin performance",
+        "Kathak = North Indian courts, solo",
+        "Odissi = Odisha temple tradition, solo"
+      ],
+      "paired_with": [
+        "Medieval Art & Architecture",
+        "Bhakti Movement",
+        "Indian Society"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "8 classical dances of India",
+      "Devadasi tradition",
+      "Natya Shastra"
+    ],
+    "related_concepts": [
+      "Medieval Art & Architecture",
+      "Bhakti Movement",
+      "Indian Society",
+      "Features of Indian Society"
+    ],
+    "contrast_with": [
+      "Kuchipudi (originally group/male, AP) vs Bharatanatyam (solo/female, Tamil Nadu)"
+    ],
+    "keywords": [
+      "Bharatanatyam",
+      "Kuchipudi",
+      "Kathak",
+      "Odissi",
+      "classical dance",
+      "solo",
+      "India"
+    ],
+    "_original_idx": 12,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I with List II and select the correct answer using the codes given below the lists\nList I | List II\nI. Theory of Mutation | (A) Beadk and Tatum\nII. Theory of Evolution | (B) Jacob and Monod\nIII. One gene one enzyme hypothesis | (C) Darwin\nIV. Operon concept | (D) De Vries",
+    "year": 1998,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I-C, II-D, III-A, IV-B",
+    "option_b": "I-D, II-C, III-A, IV-B",
+    "option_c": "I-D, II-C, III-B, IV-A",
+    "option_d": "I-C, II-D, III-B, IV-A",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.7",
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "concept": "Biology",
+    "dimension": "WHO",
+    "aspect": "WHO – Biology",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.92,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Beadle & Tatum (one gene-one enzyme) vs Jacob & Monod (operon) easily mixed up — both 20th-century molecular biology Nobel laureates.",
+      "elimination_hint": "Anchor: Darwin = Evolution. De Vries = Mutation (1901). Beadle & Tatum = One gene-one enzyme (1941, Nobel 1958). Jacob & Monod = Operon/lac operon (1961, Nobel 1965). Match: I-D, II-C, III-A, IV-B = B.",
+      "factual_hooks": [
+        "Hugo De Vries = Mutation Theory (1901)",
+        "Charles Darwin = Theory of Evolution",
+        "Beadle & Tatum = One gene-one enzyme hypothesis (1941)",
+        "Jacob & Monod = Operon concept (1961)"
+      ],
+      "paired_with": [
+        "Biotechnology",
+        "Biotech Applications",
+        "Basic Sciences"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "History of genetics/molecular biology",
+      "Evolution vs mutation mechanisms",
+      "Gene expression and regulation basics"
+    ],
+    "related_concepts": [
+      "Biotechnology",
+      "Biotech Applications",
+      "Basic Sciences",
+      "IPR"
+    ],
+    "contrast_with": [
+      "De Vries (abrupt heritable change = mutation) vs Darwin (gradual accumulation = evolution)"
+    ],
+    "keywords": [
+      "mutation",
+      "evolution",
+      "one gene one enzyme",
+      "operon",
+      "De Vries",
+      "Darwin",
+      "Beadle Tatum",
+      "Jacob Monod",
+      "biology"
+    ],
+    "_original_idx": 13,
+    "_enriched": true
+  },
+  {
+    "question": "The Minimum Alternative Tax (MAT) was introduced in the Budget of the Government of India for the year",
+    "year": 1997,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "1991-92",
+    "option_b": "1992-93",
+    "option_c": "1995-96",
+    "option_d": "1996-97",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Public Finance",
+    "topic": "Taxation",
+    "concept": "Taxation",
+    "dimension": "WHEN",
+    "aspect": "WHEN – Taxation",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Students associate MAT with 1991 LPG reforms, marking 1991-92. Actually introduced in 1996-97 budget — 5 years after LPG reforms.",
+      "elimination_hint": "MAT introduced in Budget 1996-97 by Finance Minister P. Chidambaram. Purpose: ensure companies with book profits but zero taxable income pay minimum tax. Answer: D.",
+      "factual_hooks": [
+        "MAT introduced Budget 1996-97",
+        "Finance Minister P. Chidambaram",
+        "MAT ensures zero-tax companies pay minimum on book profits",
+        "MAT credit can be carried forward 15 years"
+      ],
+      "paired_with": [
+        "Taxation",
+        "Government Budget",
+        "Fiscal Federalism"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "2019 corporate tax cuts reduced base rates; MAT continues as floor. MAT vs normal tax is key corporate tax planning issue.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Corporate taxation in India",
+      "Tax avoidance vs evasion",
+      "Direct tax structure"
+    ],
+    "related_concepts": [
+      "Taxation",
+      "Government Budget",
+      "Fiscal Federalism",
+      "Economy"
+    ],
+    "contrast_with": [
+      "MAT (companies) vs AMT (Alternate Minimum Tax, non-corporate entities)"
+    ],
+    "keywords": [
+      "MAT",
+      "minimum alternate tax",
+      "corporate tax",
+      "1996-97",
+      "Chidambaram",
+      "taxation"
+    ],
+    "_original_idx": 14,
+    "_enriched": true
+  },
+  {
+    "question": "Consider the following States :\nI. Gujarat\nII. Karnataka\nIII. Maharashtra\nIV. Tamil Nadu.\nThe descending order of these States with reference to their level of Per Capita Net State Domestic Product is",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I, III, IV, II",
+    "option_b": "III, I, II, IV",
+    "option_c": "I, III, II, IV",
+    "option_d": "III, I, IV, II",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "National Income",
+    "concept": "National Income",
+    "dimension": "WHAT",
+    "aspect": "WHAT – National Income",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.75,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Students rank by total GSDP (absolute size) rather than per capita NSDP. Maharashtra highest in both, but Tamil Nadu vs Karnataka ordering is non-obvious.",
+      "elimination_hint": "Maharashtra = highest per capita NSDP (Mumbai = financial capital). Gujarat = 2nd (Surat/Ahmedabad industrial wealth). Tamil Nadu slightly above Karnataka in 2001. Order: Maharashtra>Gujarat>Tamil Nadu>Karnataka = III,I,IV,II = B.",
+      "factual_hooks": [
+        "Maharashtra = historically India's highest per capita NSDP",
+        "Gujarat = 2nd (strong trade/industry)",
+        "NSDP = Net State Domestic Product = state-level NDP",
+        "Per capita = NSDP ÷ state population"
+      ],
+      "paired_with": [
+        "Inclusive Growth",
+        "Planning",
+        "Urbanization"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "NSDP vs GSDP",
+      "Per capita income calculation",
+      "State economic indicators"
+    ],
+    "related_concepts": [
+      "Inclusive Growth",
+      "Planning",
+      "Urbanization",
+      "Population Issues"
+    ],
+    "contrast_with": [
+      "NSDP (after depreciation) vs GSDP (gross) — NSDP more accurate welfare indicator"
+    ],
+    "keywords": [
+      "NSDP",
+      "per capita",
+      "Maharashtra",
+      "Gujarat",
+      "Karnataka",
+      "Tamil Nadu",
+      "state domestic product"
+    ],
+    "_original_idx": 15,
+    "_enriched": true
+  },
+  {
+    "question": "A big rectangular plot of area 4320 m^2 is divided in to 3 square-shaped smaller plots by fencing parallel to the smaller side of the plot. However some area of land was still left as a square could not be formed. So, 3 more square-shaped plots were formed by fencing parallel to the longer side of the original plot such that no area of the plot was left surplus. What was the dimensions of the original plot?",
+    "year": 2005,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "160 m x 27 m",
+    "option_b": "240 mx 18 m",
+    "option_c": "120 m x 36 m",
+    "option_d": "135 m x 32 m",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.1",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "concept": "Geometry",
+    "dimension": "HOW",
+    "aspect": "HOW – Geometry",
+    "question_type": "CSAT",
+    "difficulty": "Hard",
+    "confidence_score": 0.97,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Students confuse which direction squares are formed first (parallel to shorter vs longer side). The two-step fencing process is counter-intuitive.",
+      "elimination_hint": "Option C (120×36): Shorter side=36. 3 squares of 36×36 use 108m, leaving 12×36=432. 3 squares of 12×12=432 (36/12=3 ✓). Total=4320 ✓. Answer: C.",
+      "factual_hooks": [
+        "Area 4320=120×36 satisfies both conditions",
+        "First phase: 3 squares of 36m side",
+        "Second phase: 3 squares of 12m side",
+        "Key: remainder (12) must divide breadth (36) exactly into 3"
+      ],
+      "paired_with": [
+        "Arithmetic",
+        "Algebra"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Rectangle area",
+      "Divisibility and remainder",
+      "Square properties"
+    ],
+    "related_concepts": [
+      "Arithmetic",
+      "Algebra"
+    ],
+    "contrast_with": [],
+    "keywords": [
+      "rectangular plot",
+      "squares",
+      "fencing",
+      "dimensions",
+      "CSAT",
+      "geometry",
+      "area",
+      "4320"
+    ],
+    "_original_idx": 16,
+    "_enriched": true
+  },
+  {
+    "question": "Consider the following statements regarding the political parties in India:\nI. The Representation of the People Act, 1951 provides for the registration of political parties.\nII. Registration of political parties is carried out by the Election Commission.\nIII. A national level political party is one which is recognised in four or more States.\nIV. During the 1999 general elections, there were six National and 48 State level parties recognised by the Election Commission.\nWhich of these statements are correct ?",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I, II and IV",
+    "option_b": "I and III",
+    "option_c": "II and IV",
+    "option_d": "I, II, III and IV",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.4",
+    "subject": "Polity",
+    "category": "Elections & Representation",
+    "topic": "RPA Act",
+    "concept": "RPA Act",
+    "dimension": "WHAT",
+    "aspect": "WHAT – RPA Act",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Statement IV mentions specific numbers (6 national, 48 state parties 1999). Students unsure of exact counts may eliminate D despite I,II,III being clearly correct.",
+      "elimination_hint": "Statements I (RPA 1951 provides registration), II (EC registers parties), III (national party = 4+ states) are all textbook facts. Statement IV is historically correct for 1999. If I,II,III all correct and 'all four' option exists, choose D.",
+      "factual_hooks": [
+        "RPA 1951 = key electoral law",
+        "Election Commission = sole authority for party recognition",
+        "National party = recognized in at least 4 states",
+        "1999: 6 national parties (INC, BJP, NCP, CPI, CPM, BSP)"
+      ],
+      "paired_with": [
+        "Electoral System",
+        "Political Parties",
+        "Election Commission"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Party recognition rules debated; 2024 elections saw realignment of national vs state status. Electoral bond controversy.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Article 324 (Election Commission)",
+      "Anti-defection law (10th Schedule)",
+      "Model Code of Conduct"
+    ],
+    "related_concepts": [
+      "Electoral System",
+      "Political Parties",
+      "Election Commission",
+      "Constitutional Bodies"
+    ],
+    "contrast_with": [
+      "National party (4+ states, national symbol) vs State party (specific state, state symbol)"
+    ],
+    "keywords": [
+      "RPA 1951",
+      "political parties",
+      "Election Commission",
+      "national party",
+      "state party",
+      "registration"
+    ],
+    "_original_idx": 17,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I with List II and select the correct answer using the codes given below the Lists\n(Institute) | (Location)\nI. Central Institute of Medicinal and Aromatic Plants | (A) Chandigarh\nII. Centre for DNA Finger Printing and Diagnostics | (B) Hyderabad\nIII. Institute of Microbial Technology | (C) New Delhi\nIV. National Institute of Immunology | (D) Lucknow",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I-B, II-D, III-A, IV-C",
+    "option_b": "I-D, II-B, III-A, IV-C",
+    "option_c": "I-B, II-D, III-C, IV-A",
+    "option_d": "I-D, II-B, III-C, IV-A",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.7",
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "concept": "Biology",
+    "dimension": "WHERE",
+    "aspect": "WHERE – Biology",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "CDFD=Hyderabad well-known. But CIMAP=Lucknow (not Delhi) and IMTech=Chandigarh create confusion. NII in New Delhi (not Hyderabad despite biotech hub) is counter-intuitive.",
+      "elimination_hint": "CDFD=Hyderabad (biotech hub, B). NII=New Delhi (National=Capital, C). IMTech=Chandigarh (CSIR Microbial Technology, Punjab-region, A). CIMAP=Lucknow (CSIR medicinal plants = UP, D). I-D,II-B,III-A,IV-C = option B.",
+      "factual_hooks": [
+        "CIMAP = Lucknow (CSIR, medicinal & aromatic plants)",
+        "CDFD = Hyderabad (DNA fingerprinting, DBT)",
+        "IMTech = Chandigarh (CSIR, microbial technology)",
+        "NII = New Delhi (DBT, immunology)"
+      ],
+      "paired_with": [
+        "Biotechnology",
+        "Biotech Applications",
+        "IPR"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "CSIR vs DBT labs in India",
+      "Major scientific institutions by city"
+    ],
+    "related_concepts": [
+      "Biotechnology",
+      "Biotech Applications",
+      "IPR",
+      "Science & Technology"
+    ],
+    "contrast_with": [
+      "CSIR labs (industrial R&D) vs DBT institutions (biotechnology/life sciences)"
+    ],
+    "keywords": [
+      "CIMAP",
+      "CDFD",
+      "IMTech",
+      "NII",
+      "Lucknow",
+      "Hyderabad",
+      "Chandigarh",
+      "Delhi",
+      "research institutes"
+    ],
+    "_original_idx": 18,
+    "_enriched": true
+  },
+  {
+    "question": "In which one of the following areas did the Indira Gandhi Centre for Atomic Research make significant progress in the year 2005?",
+    "year": 2006,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Reprocessing the uranium-plutonium mixed carbide fuel of the Fast Breeder Test Reactor.",
+    "option_b": "New applications of radioisotopes in metallurgy.",
+    "option_c": "A new technology for production of heavy water.",
+    "option_d": "A new technology for high level nuclear waste management.",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.7",
+    "subject": "Science & Technology",
+    "category": "Nuclear Technology",
+    "topic": "Nuclear Programme",
+    "concept": "Nuclear Programme",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Nuclear Programme",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Options B (radioisotopes/metallurgy) and C (heavy water) sound more broadly significant. Students unfamiliar with fast breeder milestones may choose them.",
+      "elimination_hint": "IGCAR = Kalpakkam = SPECIFICALLY for fast breeder reactor. FBTR = Fast Breeder Test Reactor = uses mixed carbide fuel. 2005 milestone = reprocessing this unique carbide fuel. Anchor on IGCAR=FBR=Kalpakkam.",
+      "factual_hooks": [
+        "IGCAR = Kalpakkam, Tamil Nadu (fast breeder research)",
+        "FBTR uses mixed uranium-plutonium carbide fuel",
+        "India's 3-stage nuclear: Stage 1 (PHWR) → Stage 2 (FBR) → Stage 3 (AHWR/Thorium)",
+        "Carbide fuel reprocessing = closing fast breeder fuel cycle"
+      ],
+      "paired_with": [
+        "Nuclear Programme",
+        "Energy",
+        "Science & Technology"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "India's fast breeder program key to energy security using thorium; PFBR commissioning awaited.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "India's 3-stage nuclear program",
+      "Fast breeder vs thermal reactors",
+      "Nuclear fuel cycle"
+    ],
+    "related_concepts": [
+      "Nuclear Programme",
+      "Energy",
+      "Science & Technology",
+      "Defence Technology"
+    ],
+    "contrast_with": [
+      "FBTR (test reactor, 40MW, since 1985) vs PFBR (500MW commercial prototype, also Kalpakkam)"
+    ],
+    "keywords": [
+      "IGCAR",
+      "Fast Breeder",
+      "FBTR",
+      "carbide fuel",
+      "nuclear",
+      "Kalpakkam",
+      "reprocessing"
+    ],
+    "_original_idx": 19,
+    "_enriched": true
+  },
+  {
+    "question": "Match List-I (Distinguished Person) with List-II (Area of Work) and select the correct answer using the code given below the list\nList I | List II\nA. B. V. Rao | 1. Automobile Manufacture\nB. C. K. Prahalad | 2. Fisheries Economy\nC. John Kurien | 3. Information Technology and Software\nD. Kiran Karnik | 4. Poultry Farming\n| 5. Management Science",
+    "year": 2005,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "A-2, B-5, C-1, D-3",
+    "option_b": "A-4, B-3, C-2, D-5",
+    "option_c": "A-2, B-3, C-1, D-5",
+    "option_d": "A-4, B-5, C-2, D-3",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Development & Planning",
+    "topic": "Inclusive Growth",
+    "concept": "Inclusive Growth",
+    "dimension": "WHO",
+    "aspect": "WHO – Inclusive Growth",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "C.K. Prahalad famous for 'Fortune at Bottom of Pyramid' — students may associate with development/social work rather than 'Management Science'. Kiran Karnik=NASSCOM=IT is most guessable.",
+      "elimination_hint": "Kiran Karnik=NASSCOM=IT(D→3). C.K. Prahalad=Wharton=Management Science(B→5). John Kurien=Kerala fisheries economist(C→2). B.V. Rao=Venkateshwara Hatcheries=Poultry(A→4). Answer: D.",
+      "factual_hooks": [
+        "B.V. Rao = 'Father of poultry revolution' (Venkateshwara Hatcheries)",
+        "C.K. Prahalad = 'Fortune at Bottom of Pyramid'",
+        "John Kurien = fisheries economist, Thiruvananthapuram",
+        "Kiran Karnik = NASSCOM president"
+      ],
+      "paired_with": [
+        "Development Issues",
+        "Fisheries",
+        "IT & Communication"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Key Indian industry personalities",
+      "India's economic sectors"
+    ],
+    "related_concepts": [
+      "Development Issues",
+      "Fisheries",
+      "IT & Communication",
+      "Agricultural Economy"
+    ],
+    "contrast_with": [],
+    "keywords": [
+      "B.V. Rao",
+      "C.K. Prahalad",
+      "John Kurien",
+      "Kiran Karnik",
+      "NASSCOM",
+      "poultry",
+      "fisheries",
+      "management",
+      "IT"
+    ],
+    "_original_idx": 20,
+    "_enriched": true
+  },
+  {
+    "question": "The range of\nAgni-II\nmissile is around",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "500 km",
+    "option_b": "2000 km",
+    "option_c": "3500 km",
+    "option_d": "5000 km",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.7",
+    "subject": "Science & Technology",
+    "category": "Defence Technology",
+    "topic": "Defence R&D",
+    "concept": "Defence R&D",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Defence R&D",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Agni ranges commonly confused: Agni-I≈700km, Agni-II≈2000km, Agni-III≈3500km. Option C (3500km) = Agni-III's range — classic mix-up.",
+      "elimination_hint": "Memorize: Agni-I=700km, Agni-II=2000km, Agni-III=3500km, Agni-IV=4000km, Agni-V=5000+km. Answer = B (2000km).",
+      "factual_hooks": [
+        "Agni-II = ~2000km range = MRBM",
+        "DRDO developed, first tested 1999",
+        "Can reach major Chinese cities from central India",
+        "Pattern: Agni-I(700) II(2000) III(3500) IV(4000) V(5000+)"
+      ],
+      "paired_with": [
+        "Nuclear Technology",
+        "Internal Security",
+        "India's Foreign Policy"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Agni-V with MIRV capability is India's strategic deterrent against China; Agni-Prime is new composite missile.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "India's missile program",
+      "DRDO",
+      "ICBM vs IRBM vs MRBM by range"
+    ],
+    "related_concepts": [
+      "Nuclear Technology",
+      "Internal Security",
+      "India's Foreign Policy"
+    ],
+    "contrast_with": [
+      "Agni (ballistic, strategic) vs BrahMos (supersonic cruise, tactical)"
+    ],
+    "keywords": [
+      "Agni-II",
+      "missile",
+      "range",
+      "2000 km",
+      "DRDO",
+      "ballistic",
+      "defence"
+    ],
+    "_original_idx": 21,
+    "_enriched": true
+  },
+  {
+    "question": "What is IndoNext which was launched in Jan. 2005?",
+    "year": 2006,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "A new scheme to promote Indian tourism.",
+    "option_b": "A new scheme to promote export of Indian handicrafts.",
+    "option_c": "An association of the Non-Resident Indians to organize Pravasi Bharatiya Divas every year in India.",
+    "option_d": "An alternative trading platform being promoted by the Bombay Stock Exchange and Regional Stock Exchanges.",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Industry & Infrastructure",
+    "topic": "Industrial Policy",
+    "concept": "Industrial Policy",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Industrial Policy",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Name 'IndoNext' sounds NRI-related or tourism ('India's next generation'). Options A (tourism) and C (NRI organization) designed to exploit this name ambiguity.",
+      "elimination_hint": "'BSE and Regional Stock Exchanges' in option D = financial/capital markets. IndoNext = BSE + 19 Regional Stock Exchanges joint venture for alternative trading platform for smaller companies.",
+      "factual_hooks": [
+        "IndoNext = BSE + Regional Stock Exchanges joint venture",
+        "Launched January 2005",
+        "Alternative trading platform for companies not qualifying for main BSE",
+        "Targeted SMEs and regional companies"
+      ],
+      "paired_with": [
+        "External Sector",
+        "Regulatory Bodies",
+        "Industry & Infrastructure"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "IndoNext evolved into BSE SME exchange; SEBI's SME platform enables small companies to access public capital.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "BSE operations",
+      "Regional Stock Exchanges",
+      "Capital markets in India"
+    ],
+    "related_concepts": [
+      "External Sector",
+      "Regulatory Bodies",
+      "Industry & Infrastructure"
+    ],
+    "contrast_with": [
+      "BSE Main Board (large companies) vs IndoNext/SME platform (smaller companies, relaxed norms)"
+    ],
+    "keywords": [
+      "IndoNext",
+      "BSE",
+      "stock exchange",
+      "trading platform",
+      "2005",
+      "regional exchanges",
+      "SME"
+    ],
+    "_original_idx": 22,
+    "_enriched": true
+  },
+  {
+    "question": "Which one of the following is the correct statement? Service Tax is a/an",
+    "year": 2006,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Direct Tax levied by the Central Government",
+    "option_b": "Indirect Tax levied by the Central Government",
+    "option_c": "Direct Tax levied by the State Government",
+    "option_d": "Indirect Tax levied by the Statement Government",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Public Finance",
+    "topic": "Taxation",
+    "concept": "Taxation",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Taxation",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Students confuse who levies it — service tax is Central Government (not State). Also confuse direct vs indirect: indirect tax = paid through intermediary (service provider) not directly by consumer to government.",
+      "elimination_hint": "Indirect tax = paid by intermediary and passed on to consumer (GST, service tax, excise). Direct tax = paid directly by taxpayer (income tax, corporate tax). Central Government levied service tax before GST. Answer: B.",
+      "factual_hooks": [
+        "Service tax = indirect tax (consumer pays through service provider)",
+        "Levied by Central Government",
+        "Introduced 1994 by Finance Minister Manmohan Singh",
+        "Replaced by GST in July 2017",
+        "Standard rate 12.36% (with education cess)"
+      ],
+      "paired_with": [
+        "Taxation",
+        "GST",
+        "Government Budget"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Understanding service tax prerequisite to GST structure; input tax credit and Centre-State revenue sharing disputes ongoing.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Direct vs indirect tax",
+      "Constitutional division of taxation powers",
+      "Schedule 7 lists"
+    ],
+    "related_concepts": [
+      "Taxation",
+      "GST",
+      "Government Budget",
+      "Fiscal Federalism"
+    ],
+    "contrast_with": [
+      "Service tax (Central, indirect) vs Entertainment tax (State, indirect) — both indirect but different government levels; both subsumed into GST"
+    ],
+    "keywords": [
+      "service tax",
+      "indirect tax",
+      "central government",
+      "taxation",
+      "GST precursor",
+      "India"
+    ],
+    "_original_idx": 23,
+    "_enriched": true
+  },
+  {
+    "question": "Which of the following pairs in respect of current power generation in India is/are correctly matched? (Rounded Figure)\n1. Installed electricity generation capacity : 100000 MW\n2. Electricity generation : 660 billion kWh\nSelect the correct answer using the code given below: Code:",
+    "year": 2008,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "Both 1 and 2",
+    "option_d": "Neither 1 nor 2",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Industry & Infrastructure",
+    "topic": "Energy",
+    "concept": "Energy",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Energy",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Both 100,000 MW (installed capacity) and 660 billion kWh (generation) seem plausible for 2008. India's actual installed capacity was ~140,000-150,000 MW in 2008, making S1 wrong.",
+      "elimination_hint": "India's installed electricity capacity 2008 ≈ 140,000-150,000 MW (NOT 100,000 MW). S1 wrong. 660 billion kWh generation was approximately correct for 2007-08. Answer: B (S2 only).",
+      "factual_hooks": [
+        "India installed capacity 2008 ≈ 140,000-150,000 MW",
+        "660 billion kWh generation approximately correct 2007-08",
+        "India crossed 100,000 MW installed capacity around 2006",
+        "India = world's 3rd largest electricity producer"
+      ],
+      "paired_with": [
+        "Energy",
+        "Nuclear Technology",
+        "Climate Change"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "India's installed capacity crossed 900,000 MW (900 GW) by 2024 with major renewable expansion.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "MW vs kWh: capacity vs generation",
+      "India power sector structure",
+      "PLF (Plant Load Factor)"
+    ],
+    "related_concepts": [
+      "Energy",
+      "Nuclear Technology",
+      "Climate Change",
+      "Industrial Policy"
+    ],
+    "contrast_with": [
+      "Installed capacity (MW, maximum potential) vs Actual generation (kWh, actually produced)"
+    ],
+    "keywords": [
+      "power generation",
+      "installed capacity",
+      "MW",
+      "kWh",
+      "electricity",
+      "India",
+      "energy"
+    ],
+    "_original_idx": 24,
+    "_enriched": true
+  },
+  {
+    "question": "How do most insects respire?",
+    "year": 2007,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Through skin",
+    "option_b": "Through gills",
+    "option_c": "By lungs",
+    "option_d": "By tracheal system",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.7",
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "concept": "Biology",
+    "dimension": "HOW",
+    "aspect": "HOW – Biology",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Students near water may associate insects with gills. 'Simple' looking insects suggest skin respiration. Tracheal system is specific to arthropods and counter-intuitive — no visible breathing organ.",
+      "elimination_hint": "Insects = Arthropoda = tracheal system. Spiracles on thorax/abdomen connect to tracheal tubes running through body. No blood carries oxygen. Fish=gills, mammals=lungs, earthworms/frogs=skin. Answer: D.",
+      "factual_hooks": [
+        "Insects breathe via tracheal system (tracheae + tracheoles)",
+        "Spiracles = external openings on thorax/abdomen",
+        "No respiratory pigment in insect blood — oxygen via air tubes directly",
+        "Tracheal system limits insect body size"
+      ],
+      "paired_with": [
+        "Basic Sciences",
+        "Biotechnology",
+        "Biogeography"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Insect tracheal system studied for bioinspired micro-robotics and pesticide delivery mechanisms.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Kingdom Animalia respiratory diversity",
+      "Structural adaptations for gas exchange",
+      "Comparative: gills vs lungs vs trachea vs skin"
+    ],
+    "related_concepts": [
+      "Basic Sciences",
+      "Biotechnology",
+      "Biogeography",
+      "Environment"
+    ],
+    "contrast_with": [
+      "Trachea in insects (entire tube network) vs trachea in humans (single windpipe) — same word, different structures"
+    ],
+    "keywords": [
+      "insects",
+      "respiration",
+      "tracheal system",
+      "spiracles",
+      "biology",
+      "arthropods",
+      "breathing"
+    ],
+    "_original_idx": 25,
+    "_enriched": true
+  },
+  {
+    "question": "Consider the following statements : Glass can be etched or scratched by\nI.\ndiamond.\nII.\nhydrofluoric acid.\nIII.\naquaregia.\nIV.\ncone, sulphuric acid.\nWhich of these statements are correct ?",
+    "year": 1999,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I and IV",
+    "option_b": "II and III",
+    "option_c": "I and II",
+    "option_d": "II and IV",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.7",
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "concept": "Chemistry",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Chemistry",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Aqua regia famous for dissolving gold — students assume it dissolves everything. Conc. H₂SO₄ is powerful, suggesting it attacks glass. Neither attacks glass = SiO₂.",
+      "elimination_hint": "Glass = SiO₂. Only HF reacts with Si-O bonds: SiO₂ + 4HF → SiF₄ + 2H₂O. Diamond scratches physically (Mohs 10 vs glass 5-6). Aqua regia attacks noble metals, not silicon. Conc. H₂SO₄ doesn't react with SiO₂. Answer: C (I and II).",
+      "factual_hooks": [
+        "Glass = SiO₂ (amorphous silicon dioxide)",
+        "HF unique in attacking silicon compounds",
+        "SiO₂ + 4HF → SiF₄ + 2H₂O",
+        "Diamond = Mohs 10, glass = 5-6",
+        "Aqua regia = 3:1 HCl:HNO₃, dissolves Au and Pt only"
+      ],
+      "paired_with": [
+        "Chemistry",
+        "Physics",
+        "Basic Sciences"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "HF glass etching fundamental to semiconductor chip manufacturing and decorative glass.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Glass composition",
+      "Acid-base reactivity of oxides",
+      "Mohs hardness scale"
+    ],
+    "related_concepts": [
+      "Chemistry",
+      "Physics",
+      "Basic Sciences"
+    ],
+    "contrast_with": [
+      "HF (attacks silicon/glass chemically) vs aqua regia (attacks noble metals) — different reactive targets"
+    ],
+    "keywords": [
+      "glass",
+      "etching",
+      "diamond",
+      "hydrofluoric acid",
+      "HF",
+      "aqua regia",
+      "SiO2",
+      "chemistry"
+    ],
+    "_original_idx": 26,
+    "_enriched": true
+  },
+  {
+    "question": "Which one of the following is not a member of the Shanghai Cooperation Organization?",
+    "year": 2007,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Russia",
+    "option_b": "Kazakhstan",
+    "option_c": "Ukraine",
+    "option_d": "Uzbekistan",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.1",
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "Regional Groupings",
+    "concept": "Regional Groupings",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Regional Groupings",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "All options are post-Soviet states — hard to distinguish without specific knowledge. Russia, Kazakhstan, Uzbekistan are original SCO members. Ukraine's European orientation is the key differentiator.",
+      "elimination_hint": "SCO = China + Russia + Central Asian states. Original members (2001): China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan. Ukraine oriented toward Europe/NATO, never joined SCO. Answer: C (Ukraine).",
+      "factual_hooks": [
+        "SCO founded June 2001",
+        "Original 6: China, Russia, Kazakhstan, Kyrgyzstan, Tajikistan, Uzbekistan",
+        "India + Pakistan joined 2017 (Astana Summit)",
+        "Ukraine = EU/NATO orientation, never SCO member",
+        "Iran joined 2023; Belarus 2024"
+      ],
+      "paired_with": [
+        "Multilateral Forums",
+        "India's Foreign Policy",
+        "Global Challenges"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "SCO expansion significant for India's Central Asia connectivity; India's SCO chairmanship 2023 was diplomatically important.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Post-Soviet geopolitics",
+      "Central Asian geography",
+      "SCO vs CIS vs CSTO"
+    ],
+    "related_concepts": [
+      "Multilateral Forums",
+      "India's Foreign Policy",
+      "Global Challenges",
+      "Security Challenges"
+    ],
+    "contrast_with": [
+      "SCO (China-Russia led, Eurasian security/trade) vs NATO (US-led, transatlantic defence) — Ukraine's choice reflects geopolitical orientation"
+    ],
+    "keywords": [
+      "SCO",
+      "Shanghai Cooperation Organisation",
+      "Ukraine",
+      "Russia",
+      "Kazakhstan",
+      "Uzbekistan",
+      "non-member"
+    ],
+    "_original_idx": 27,
+    "_enriched": true
+  },
+  {
+    "question": "With reference to the steel industry in India in the recent times, consider the following statements:\n1. Vizag Steel Plant (RINL) has been declared Mini Ratna.\n2. Merger of IISCO with SAIL has been completed.\nWhich of the statements given above is/are correct?",
+    "year": 2007,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "1 only",
+    "option_b": "2 only",
+    "option_c": "Both 1 and 2",
+    "option_d": "Neither 1 nor 2",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.5",
+    "subject": "Economy",
+    "category": "Industry & Infrastructure",
+    "topic": "Industrial Policy",
+    "concept": "Industrial Policy",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Industrial Policy",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Students unsure of PSU classification tiers. RINL being 'Mini Ratna' (not Navratna) for a large steel plant seems counter-intuitive. IISCO-SAIL merger is specific corporate fact.",
+      "elimination_hint": "RINL = Rashtriya Ispat Nigam Limited = Vizag Steel = declared Mini Ratna. IISCO = Indian Iron & Steel Co., Burnpur (WB) formally merged into SAIL in 2006. Both statements correct. Answer: C.",
+      "factual_hooks": [
+        "RINL = Vizag Steel Plant (only integrated coastal steel plant)",
+        "Mini Ratna = PSU with some operational autonomy",
+        "IISCO = Burnpur (WB), merged with SAIL 2006",
+        "SAIL = Steel Authority of India (Maharatna PSU)"
+      ],
+      "paired_with": [
+        "Industrial Policy",
+        "Economy",
+        "Infrastructure"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "RINL privatization attempted 2021-22 but stalled; debate about strategic PSU disinvestment in steel.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "PSU categories: Mini Ratna, Navratna, Maharatna",
+      "India's steel sector structure"
+    ],
+    "related_concepts": [
+      "Industrial Policy",
+      "Economy",
+      "Infrastructure",
+      "Government Budget"
+    ],
+    "contrast_with": [
+      "SAIL (integrated, multiple plants, Maharatna) vs RINL (single coastal plant, Mini Ratna)"
+    ],
+    "keywords": [
+      "RINL",
+      "Vizag Steel",
+      "Mini Ratna",
+      "IISCO",
+      "SAIL",
+      "merger",
+      "steel",
+      "PSU"
+    ],
+    "_original_idx": 28,
+    "_enriched": true
+  },
+  {
+    "question": "With reference to the international meetings held in the year 2006, which of the following pairs is/are correctly matched?\n1. NAM Summit : Havana\n2. APEC Meeting : Bangkok\n3. EU-India Summit : Helsinki\n4. UN Climate : Geneva Change Conference\nSelect the correct answer using the code given below:",
+    "year": 2007,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "1 only",
+    "option_b": "1 and 3 only",
+    "option_c": "1, 2 and 3",
+    "option_d": "2, 3 and 4",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "PTGS.1",
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "Multilateral Forums",
+    "concept": "Multilateral Forums",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Multilateral Forums",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "APEC 2006 location (Hanoi, Vietnam) confused with Bangkok (Thailand). UN Climate 2006 = Nairobi, Kenya (COP12) NOT Geneva. Only NAM=Havana and EU-India=Helsinki correct.",
+      "elimination_hint": "NAM 2006 = Havana, Cuba (14th NAM Summit) ✓. EU-India 2006 = Helsinki (Finnish EU Presidency) ✓. APEC 2006 = Hanoi, Vietnam ✗. UNFCCC COP12 = Nairobi ✗ (not Geneva). Answer: B (pairs 1 and 3).",
+      "factual_hooks": [
+        "NAM Summit 2006 = Havana, Cuba (14th Summit)",
+        "EU-India Summit 2006 = Helsinki (Finnish EU Presidency H2 2006)",
+        "APEC 2006 = Hanoi, Vietnam",
+        "UNFCCC COP12 2006 = Nairobi (first African COP)"
+      ],
+      "paired_with": [
+        "United Nations",
+        "Multilateral Forums",
+        "India's Foreign Policy"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "NAM founding and principles",
+      "APEC hosting rotation",
+      "UN climate conference (COP) history"
+    ],
+    "related_concepts": [
+      "United Nations",
+      "Multilateral Forums",
+      "India's Foreign Policy",
+      "Global Challenges"
+    ],
+    "contrast_with": [
+      "APEC (Asia-Pacific, includes USA, economic focus) vs SCO (Eurasian security, excludes USA)"
+    ],
+    "keywords": [
+      "NAM",
+      "Havana",
+      "APEC",
+      "Hanoi",
+      "EU-India",
+      "Helsinki",
+      "UN Climate",
+      "Nairobi",
+      "2006",
+      "international meetings"
+    ],
+    "_original_idx": 29,
+    "_enriched": true
+  },
+  {
+    "question": "A rectangular water tank measures 15 m x 6 m at top and is 10 m deep. It is full of water. If water is drawn out lowering the level by 1 metre, how much of water has been drawn out ?",
+    "year": 2000,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "45,000 litres",
+    "option_b": "90,000 litres",
+    "option_c": "4,500 litres",
+    "option_d": "900 litres",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.3",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Volume and Mensuration",
+    "concept": "Volume and Mensuration",
+    "dimension": "HOW",
+    "aspect": "HOW – Volume and Mensuration",
+    "question_type": "CSAT",
+    "difficulty": "Easy",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Test-takers often compute 15×6×10 (full tank volume) and then divide by 10, giving 45,000 litres — forgetting that only 1m depth is drawn, not the full 10m.",
+      "elimination_hint": "Volume drawn = 15 × 6 × 1 = 90 m³. Convert: 1 m³ = 1000 litres → 90,000 litres. Eliminate options that use full depth or wrong unit conversion.",
+      "factual_hooks": [
+        "1 cubic metre = 1000 litres",
+        "volume = length × breadth × depth"
+      ],
+      "paired_with": [
+        "Pipes and Cisterns",
+        "Work and Time"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Unit conversion m³ to litres",
+      "Volume of cuboid"
+    ],
+    "related_concepts": [
+      "Pipes and Cisterns",
+      "Work and Time"
+    ],
+    "contrast_with": [
+      "Pipes & Cisterns — time-based vs volume-based framing"
+    ],
+    "keywords": [
+      "volume",
+      "water tank",
+      "mensuration",
+      "litres",
+      "cubic metres"
+    ],
+    "_original_idx": 30,
+    "_enriched": true
+  },
+  {
+    "question": "Solve the given equations : x^2 + y^2 = 34\nx^4 - y^4 = 544 The values of x and y are",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "± 4, ± 3",
+    "option_b": "± 5, ± 3",
+    "option_c": "±3, ±5",
+    "option_d": "±3, ±4",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.5",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "concept": "Algebra",
+    "dimension": "HOW",
+    "aspect": "HOW – Algebra",
+    "question_type": "CSAT",
+    "difficulty": "Hard",
+    "confidence_score": 0.96,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "x⁴−y⁴ can be factored as (x²+y²)(x²−y²); skipping this step leads to brute-force substitution errors. Also, negative values like ±3,±5 get confused with ±5,±3.",
+      "elimination_hint": "Factor: (x²+y²)(x²−y²)=544 → 34(x²−y²)=544 → x²−y²=16. Combine with x²+y²=34 → x²=25, y²=9 → x=±5, y=±3.",
+      "factual_hooks": [
+        "Difference of squares: a²−b²=(a+b)(a−b)",
+        "System of equations with even powers"
+      ],
+      "paired_with": [
+        "Quadratic Equations",
+        "Number System"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Factorisation of polynomials",
+      "Simultaneous equations"
+    ],
+    "related_concepts": [
+      "Quadratic Equations",
+      "Number System"
+    ],
+    "contrast_with": [
+      "Linear equations — direct substitution vs polynomial factoring"
+    ],
+    "keywords": [
+      "algebra",
+      "simultaneous equations",
+      "polynomial",
+      "factorisation",
+      "CSAT"
+    ],
+    "_original_idx": 31,
+    "_enriched": true
+  },
+  {
+    "question": "A worker reaches his factory 3 minutes late if his speed from his house to the factory is 5 km/hr. If he walks at a speed of 6 km/hr, then he reaches the factory 7 minutes early. The distance of the factory from his house is",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "4 km",
+    "option_b": "5 km",
+    "option_c": "6 km",
+    "option_d": "7 km",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.2",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "concept": "Time, Speed and Distance",
+    "dimension": "HOW",
+    "aspect": "HOW – Time, Speed and Distance",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Combining 3 minutes late and 7 minutes early as a difference of 10 minutes is correct, but many students set up the equation as d/5 − d/6 = 3/60 (only using 3 min) giving wrong answer.",
+      "elimination_hint": "Total time difference = 3+7 = 10 min = 1/6 hr. Equation: d/5 − d/6 = 1/6 → d(1/30) = 1/6 → d = 5 km. Verify: at 5 km/h takes 60 min; at 6 km/h takes 50 min — difference = 10 min ✓",
+      "factual_hooks": [
+        "d/s = time formula",
+        "When late+early, add both times for total difference"
+      ],
+      "paired_with": [
+        "Relative Speed",
+        "Work and Time"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Speed, Distance, Time relationship",
+      "Linear equations"
+    ],
+    "related_concepts": [
+      "Relative Speed",
+      "Work and Time"
+    ],
+    "contrast_with": [
+      "Relative speed problems — involve two moving objects, not one with two speeds"
+    ],
+    "keywords": [
+      "speed",
+      "distance",
+      "time",
+      "CSAT",
+      "late",
+      "early"
+    ],
+    "_original_idx": 32,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I (Ethnic Community) with List II (Country ) and select the correct answer using the codes given below the lists\n(Ethnic community) | (Country)\nA. Apatani | 1. China\nB. Dayak | 2. India\nC. Dinka | 3. Indonesia\nD. Uighur | 4. Sudan",
+    "year": 2002,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "A-2, B-3, C-4, D-1",
+    "option_b": "A-3, B-2, C-4, D-1",
+    "option_c": "A-2, B-3, C-1, D-4",
+    "option_d": "A-3, B-2, C-1, D-4",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "GEO.W.5",
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Ethnic Communities and Tribes",
+    "concept": "Ethnic Communities and Tribes",
+    "dimension": "WHERE",
+    "aspect": "WHERE – Ethnic Communities and Tribes",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.91,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Dayak people live in Borneo which spans both Indonesia and Malaysia; Uighur-China link is well-known but some confuse them with Central Asian countries. Dinka-Sudan link is confused with Ethiopia.",
+      "elimination_hint": "Lock Uighur=China (highly newsworthy) and Dinka=Sudan/South Sudan first. Apatani are from Arunachal Pradesh (India). Dayak are from Borneo=Indonesia. Use elimination once 2-3 are confirmed.",
+      "factual_hooks": [
+        "Apatani: Arunachal Pradesh, India — known for facial tattoos",
+        "Dayak: Borneo/Indonesia — sea-faring indigenous",
+        "Dinka: South Sudan — largest ethnic group there",
+        "Uighur: Xinjiang, China — Turkic Muslim minority"
+      ],
+      "paired_with": [
+        "Indigenous Communities in India",
+        "African Ethnic Groups",
+        "Central Asian Peoples"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Uighur issue remains a major human rights and geopolitical concern involving China and western nations.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "World physical map",
+      "Major ethnic/indigenous communities"
+    ],
+    "related_concepts": [
+      "Indigenous Communities in India",
+      "African Ethnic Groups",
+      "Central Asian Peoples"
+    ],
+    "contrast_with": [
+      "Maasai — East Africa (Kenya/Tanzania) vs Dinka — South Sudan"
+    ],
+    "keywords": [
+      "Apatani",
+      "Dayak",
+      "Dinka",
+      "Uighur",
+      "ethnic communities",
+      "indigenous tribes",
+      "world geography"
+    ],
+    "_original_idx": 33,
+    "_enriched": true
+  },
+  {
+    "question": "A conveyer belt delivers baggage at the rate of 3 tons in 5 minutes, and a second conveyer belt delivers baggage at the rate of 1 ton in 2 minutes. How much time will it take to get 33 tons of baggage delivered using both the conveyer belts ?",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "25 minutes and 30 seconds",
+    "option_b": "30 minutes",
+    "option_c": "35 minutes",
+    "option_d": "40 minutes and 45 seconds",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.4",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Work and Rates",
+    "concept": "Work and Rates",
+    "dimension": "HOW",
+    "aspect": "HOW – Work and Rates",
+    "question_type": "CSAT",
+    "difficulty": "Easy",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Students add rates incorrectly as 3+1=4 tons per 5+2=7 minutes. Must convert to common unit (per minute) before adding.",
+      "elimination_hint": "Rate1 = 3/5 tons/min = 0.6; Rate2 = 1/2 tons/min = 0.5; Combined = 1.1 tons/min. Time = 33/1.1 = 30 minutes exactly.",
+      "factual_hooks": [
+        "Work rate addition: R_total = R1 + R2",
+        "Always convert to same unit before adding rates"
+      ],
+      "paired_with": [
+        "Pipes and Cisterns",
+        "Time Speed Distance"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Work and Time",
+      "Rate problems"
+    ],
+    "related_concepts": [
+      "Pipes and Cisterns",
+      "Time Speed Distance"
+    ],
+    "contrast_with": [
+      "Pipes & Cisterns — one fills, one empties; here both add"
+    ],
+    "keywords": [
+      "work rate",
+      "combined rate",
+      "conveyor belt",
+      "CSAT",
+      "time"
+    ],
+    "_original_idx": 34,
+    "_enriched": true
+  },
+  {
+    "question": "Water is filled in a container in such a manner that its volume doubles after every five minutes. If takes 30 minutes for the container to be full, in how much time will it be one-fourth full ?",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "7 minutes and 30 seconds",
+    "option_b": "10 minutes",
+    "option_c": "20 minutes",
+    "option_d": "25 minutes",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.6",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Exponential Growth and Series",
+    "concept": "Exponential Growth and Series",
+    "dimension": "HOW",
+    "aspect": "HOW – Exponential Growth and Series",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Students work forward (1/4 full at 7.5 or 10 min) instead of backward from full. If full at 30 min, half-full at 25 min, quarter-full at 20 min — work backward.",
+      "elimination_hint": "Think backward: full at t=30; halved each step backward means half-full at t=25, quarter-full at t=20. The answer is 20 minutes.",
+      "factual_hooks": [
+        "Doubling time: reverse means halving each step back",
+        "1/4 = two halvings backward from full"
+      ],
+      "paired_with": [
+        "Number Series",
+        "Percentage"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Geometric progression",
+      "Exponential doubling"
+    ],
+    "related_concepts": [
+      "Number Series",
+      "Percentage"
+    ],
+    "contrast_with": [
+      "Arithmetic growth — linear vs geometric/exponential growth pattern"
+    ],
+    "keywords": [
+      "doubling",
+      "exponential",
+      "geometric progression",
+      "CSAT",
+      "container"
+    ],
+    "_original_idx": 35,
+    "_enriched": true
+  },
+  {
+    "question": "A city has a population of 3,00,000 out of which 1,80,000 are males. 50% of the population is literate. If 70% of the males are literate, the number of literate females is",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "24,000",
+    "option_b": "30,000",
+    "option_c": "54,000",
+    "option_d": "60,000",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.1",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Percentages and Population",
+    "concept": "Percentages and Population",
+    "dimension": "HOW",
+    "aspect": "HOW – Percentages and Population",
+    "question_type": "CSAT",
+    "difficulty": "Easy",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Some students compute 50% of 120,000 females directly = 60,000 (treating female literacy rate as 50%) instead of using total literate minus literate males.",
+      "elimination_hint": "Total literate = 50% × 300,000 = 150,000. Literate males = 70% × 180,000 = 126,000. Literate females = 150,000 − 126,000 = 24,000.",
+      "factual_hooks": [
+        "Total literate = overall rate × total population",
+        "Literate females = Total literate − Literate males"
+      ],
+      "paired_with": [
+        "Venn Diagrams",
+        "Data Sufficiency"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Percentage calculation",
+      "Data interpretation"
+    ],
+    "related_concepts": [
+      "Venn Diagrams",
+      "Data Sufficiency"
+    ],
+    "contrast_with": [
+      "Directly applying female literacy rate — incorrect since female rate isn't given"
+    ],
+    "keywords": [
+      "percentage",
+      "literacy",
+      "population",
+      "gender",
+      "CSAT"
+    ],
+    "_original_idx": 36,
+    "_enriched": true
+  },
+  {
+    "question": "In a survey, it was found that 80% of those surveyed owned a car while 60% of those surveyed owned a mobile phone. If 55% owned both a car and a mobile phone, what per cent of those surveyed owned a car or a mobile phone or both ?",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "65%",
+    "option_b": "80%",
+    "option_c": "85%",
+    "option_d": "97.5%",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.7",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Set Theory and Venn Diagrams",
+    "concept": "Set Theory and Venn Diagrams",
+    "dimension": "HOW",
+    "aspect": "HOW – Set Theory and Venn Diagrams",
+    "question_type": "CSAT",
+    "difficulty": "Easy",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Many pick 80% thinking 'car owners' is already the maximum; they forget to add phone-only owners and subtract double-counted 'both' group.",
+      "elimination_hint": "P(A∪B) = P(A) + P(B) − P(A∩B) = 80 + 60 − 55 = 85%. Standard Venn diagram formula.",
+      "factual_hooks": [
+        "P(A∪B) = P(A) + P(B) − P(A∩B)",
+        "Always subtract the intersection to avoid double counting"
+      ],
+      "paired_with": [
+        "Probability",
+        "Data Interpretation"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Set theory basics",
+      "Venn diagrams"
+    ],
+    "related_concepts": [
+      "Probability",
+      "Data Interpretation"
+    ],
+    "contrast_with": [
+      "Mutually exclusive events — P(A∩B)=0, so union = simple addition"
+    ],
+    "keywords": [
+      "set theory",
+      "Venn diagram",
+      "union",
+      "intersection",
+      "CSAT",
+      "percentage"
+    ],
+    "_original_idx": 37,
+    "_enriched": true
+  },
+  {
+    "question": "In the figure below, ABCD is a cyclic quadrilateral, AB = BC and angle BAC = 70°, then angle ADC is",
+    "year": 2001,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "40°",
+    "option_b": "80°",
+    "option_c": "110°",
+    "option_d": "140°",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.8",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Geometry and Angles",
+    "concept": "Geometry and Angles",
+    "dimension": "HOW",
+    "aspect": "HOW – Geometry and Angles",
+    "question_type": "CSAT",
+    "difficulty": "Hard",
+    "confidence_score": 0.95,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Students often confuse angle in the same segment theorem with the opposite angles of a cyclic quadrilateral. AB=BC creates an isosceles triangle trap where BAC≠BCA is assumed.",
+      "elimination_hint": "AB=BC → △ABC isosceles → ∠BAC=∠BCA=70°. So ∠ABC=180−140=40°. Opposite angles in cyclic quad sum to 180°: ∠ADC=180−40=140°.",
+      "factual_hooks": [
+        "Opposite angles of cyclic quadrilateral sum to 180°",
+        "Isosceles triangle: base angles equal"
+      ],
+      "paired_with": [
+        "Circle theorems",
+        "Polygon angle sum"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Properties of cyclic quadrilateral",
+      "Isosceles triangle theorem"
+    ],
+    "related_concepts": [
+      "Circle theorems",
+      "Polygon angle sum"
+    ],
+    "contrast_with": [
+      "Inscribed angle theorem — angle at centre vs angle at circumference"
+    ],
+    "keywords": [
+      "cyclic quadrilateral",
+      "geometry",
+      "angles",
+      "isosceles",
+      "CSAT"
+    ],
+    "_original_idx": 38,
+    "_enriched": true
+  },
+  {
+    "question": "Among the following cities, which one is at the highest altitude above mean sea level?",
+    "year": 2003,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Bangalore",
+    "option_b": "Delhi",
+    "option_c": "Jodhpur",
+    "option_d": "Nagpur",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "GEO.I.1",
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Physical Features of India",
+    "concept": "Physical Features of India",
+    "dimension": "WHERE",
+    "aspect": "WHERE – Physical Features of India",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Delhi is India's capital and seems prominent; Jodhpur feels elevated due to desert/hill imagery. Nagpur is geographic centre of India. Bangalore on Deccan Plateau (~920m) is easily overlooked.",
+      "elimination_hint": "Deccan Plateau = elevated (600-900m). Bangalore (~920m) >> Nagpur (~310m) >> Jodhpur (~231m) >> Delhi (~216m). Remember Bangalore sits on the highest part of the Deccan Plateau.",
+      "factual_hooks": [
+        "Bangalore: ~920m above sea level on Deccan Plateau",
+        "Delhi: ~216m, the lowest among options",
+        "Deccan Plateau avg elevation: 600-900m"
+      ],
+      "paired_with": [
+        "Indian Plateau Region",
+        "Major Indian Cities"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Bangalore's elevation contributes to its pleasant climate, making it a tech hub — relevant to urban geography discussions.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Deccan Plateau geography",
+      "India's physical geography"
+    ],
+    "related_concepts": [
+      "Indian Plateau Region",
+      "Major Indian Cities"
+    ],
+    "contrast_with": [
+      "Shimla/Manali in Himalayas — much higher but not among options"
+    ],
+    "keywords": [
+      "altitude",
+      "Bangalore",
+      "Deccan Plateau",
+      "elevation",
+      "cities",
+      "Indian geography"
+    ],
+    "_original_idx": 39,
+    "_enriched": true
+  },
+  {
+    "question": "With reference to Visible Light Communication (VLC) technology, which of the following statements are correct?\n\n1. VLC uses electromagnetic spectrum wavelengths 375 to 780 nm.\n2. VLC is known as long-range optical wireless communication.\n3. VLC can transmit large amounts of data faster than Bluetooth.\n4. VLC has no electromagnetic interference.\n\nSelect the correct answer using the code given below:",
+    "year": 2020,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "1, 2 and 3 only",
+    "option_b": "1, 2 and 4 only",
+    "option_c": "1, 3 and 4 only",
+    "option_d": "2, 3 and 4 only",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "S&T.IT.3",
+    "subject": "Science & Technology",
+    "category": "Emerging Technologies",
+    "topic": "Optical and Wireless Communication",
+    "concept": "Optical and Wireless Communication",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Optical and Wireless Communication",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Statement 2 says VLC is 'long-range' which sounds plausible for modern tech, but VLC is explicitly SHORT-range (limited by line-of-sight and light intensity). This is the key trap.",
+      "elimination_hint": "VLC uses visible light (375-780nm) ✓ and has no EM interference ✓. But VLC is short-range (line of sight, blocked by walls), not long-range. Eliminate options containing statement 2 (A,B,D). Answer: C (1,3,4).",
+      "factual_hooks": [
+        "VLC uses 375-780nm (visible light spectrum)",
+        "VLC is short-range, line-of-sight technology",
+        "No electromagnetic interference — uses light not radio waves",
+        "Faster data transfer than Bluetooth possible"
+      ],
+      "paired_with": [
+        "Li-Fi Technology",
+        "Radio Frequency Communication",
+        "5G"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "VLC/Li-Fi being explored as alternative to Wi-Fi in secure environments like hospitals and aircraft.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Electromagnetic spectrum",
+      "Wireless communication types"
+    ],
+    "related_concepts": [
+      "Li-Fi Technology",
+      "Radio Frequency Communication",
+      "5G"
+    ],
+    "contrast_with": [
+      "Radio waves — long range, penetrate walls vs VLC — short range, blocked by walls"
+    ],
+    "keywords": [
+      "VLC",
+      "visible light communication",
+      "Li-Fi",
+      "optical",
+      "wireless",
+      "electromagnetic spectrum"
+    ],
+    "_original_idx": 40,
+    "_enriched": true
+  },
+  {
+    "question": "Who among the following was never the Lok Sabha Speaker?",
+    "year": 2004,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "K. V. K. Sundaram",
+    "option_b": "G. S. Dhillon",
+    "option_c": "Baliram Bhagat",
+    "option_d": "Hukum Singh",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "POL.PARL.2",
+    "subject": "Polity",
+    "category": "Parliament",
+    "topic": "Lok Sabha",
+    "concept": "Lok Sabha",
+    "dimension": "WHO",
+    "aspect": "WHO – Lok Sabha",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "G.S. Dhillon, Baliram Bhagat, Hukum Singh are all real Lok Sabha Speakers. K.V.K. Sundaram is a real IAS officer and Chief Election Commissioner, never Lok Sabha Speaker — his name sounds like a parliamentary figure.",
+      "elimination_hint": "Know actual speakers list: Mavalankar, Ananthasayanam, Hukum Singh, Dhillon, Bhagat... K.V.K. Sundaram was Chief Election Commissioner (1958-67), not Lok Sabha Speaker.",
+      "factual_hooks": [
+        "K.V.K. Sundaram: Chief Election Commissioner, NOT Lok Sabha Speaker",
+        "Hukum Singh: Speaker 1962-67",
+        "G.S. Dhillon: Speaker 1969-75",
+        "Baliram Bhagat: Speaker 1976-77"
+      ],
+      "paired_with": [
+        "Rajya Sabha Chairman",
+        "Constitutional Offices",
+        "Parliament Procedures"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Role of Lok Sabha Speaker remains contested in anti-defection disputes and parliamentary adjournments.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Constitutional position of Lok Sabha Speaker",
+      "Historical Lok Sabha Speakers list"
+    ],
+    "related_concepts": [
+      "Rajya Sabha Chairman",
+      "Constitutional Offices",
+      "Parliament Procedures"
+    ],
+    "contrast_with": [
+      "Rajya Sabha Chairman — is Vice President ex-officio vs Lok Sabha Speaker elected by members"
+    ],
+    "keywords": [
+      "Lok Sabha",
+      "Speaker",
+      "Parliament",
+      "K.V.K. Sundaram",
+      "constitutional office"
+    ],
+    "_original_idx": 41,
+    "_enriched": true
+  },
+  {
+    "question": "The original home of the gypsies was",
+    "year": 1995,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Egypt",
+    "option_b": "Russia",
+    "option_c": "India",
+    "option_d": "Persia",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "SOC.COM.2",
+    "subject": "Society",
+    "category": "Communities and Ethnicities",
+    "topic": "Romani and Diaspora Communities",
+    "concept": "Romani and Diaspora Communities",
+    "dimension": "WHERE",
+    "aspect": "WHERE – Romani and Diaspora Communities",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.89,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "The word 'gypsy' derives from 'Egyptian' — a common medieval European belief — making Egypt seem correct. Russia is plausible due to large Romani population in Eastern Europe.",
+      "elimination_hint": "Linguistic and genetic studies conclusively place Romani origins in Northwest India (Punjab/Sindh). The Egyptian etymology is a misnomer. Eliminate Egypt (etymology trap) and Russia (settlement, not origin).",
+      "factual_hooks": [
+        "Romani/Gypsies: originated from NW India (Punjab-Sindh region)",
+        "Word 'gypsy' = misnomer from 'Egyptian'",
+        "Romani language related to Sanskrit/Hindi",
+        "Genetic studies confirm South Asian origin"
+      ],
+      "paired_with": [
+        "Indian Diaspora",
+        "Ancient Migration Patterns",
+        "Indus Valley Civilization"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Romani rights remain a significant human rights issue in Europe with debates on inclusion and discrimination.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Diaspora and migration history",
+      "Linguistic analysis of communities"
+    ],
+    "related_concepts": [
+      "Indian Diaspora",
+      "Ancient Migration Patterns",
+      "Indus Valley Civilization"
+    ],
+    "contrast_with": [
+      "Sinti (German Romani) vs Roma (Balkan Romani) — same origin, different regional names"
+    ],
+    "keywords": [
+      "Romani",
+      "gypsies",
+      "India",
+      "diaspora",
+      "etymology",
+      "migration",
+      "Punjab"
+    ],
+    "_original_idx": 42,
+    "_enriched": true
+  },
+  {
+    "question": "Which of the following are correctly matched ?\nI. Hamas—Palestinian extremist group\nII. Sinn Fein—IRA’s political wing\nIII. True Path Party—A major constituent of the ruling coalition in Turkey\nChoose the correct answer from the codes given below : Codes :",
+    "year": 1995,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I and II",
+    "option_b": "I and III",
+    "option_c": "I, II and III",
+    "option_d": "II and III",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "IR.ORG.3",
+    "subject": "International Relations",
+    "category": "Global Organizations and Movements",
+    "topic": "International Political Movements",
+    "concept": "International Political Movements",
+    "dimension": "WHAT",
+    "aspect": "WHAT – International Political Movements",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Sinn Féin–IRA link is often questioned (some say Sinn Féin is separate); True Path Party (DYP) of Turkey is obscure — students may confuse it with AKP or MHP.",
+      "elimination_hint": "Hamas as Palestinian group ✓. Sinn Féin as IRA's political wing ✓ (historically correct pre-Good Friday). True Path Party was indeed in Turkish coalition (Çiller govt 1990s) ✓. All three correct → C.",
+      "factual_hooks": [
+        "Hamas: Islamist Palestinian movement, founded 1987",
+        "Sinn Féin: political wing of IRA (pre-Good Friday Agreement 1998)",
+        "True Path Party (DYP): centre-right Turkish party, PM Tansu Çiller's coalition in 1990s"
+      ],
+      "paired_with": [
+        "Palestinian Authority",
+        "PLO vs Hamas",
+        "NATO and Turkey"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Hamas–Israel conflict remains a defining global geopolitical issue; Good Friday Agreement remains a model for conflict resolution.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Middle East conflicts",
+      "Irish independence movement",
+      "Turkish political parties"
+    ],
+    "related_concepts": [
+      "Palestinian Authority",
+      "PLO vs Hamas",
+      "NATO and Turkey"
+    ],
+    "contrast_with": [
+      "Hamas vs Fatah — Islamist vs secular Palestinian factions"
+    ],
+    "keywords": [
+      "Hamas",
+      "Sinn Fein",
+      "IRA",
+      "True Path Party",
+      "international movements",
+      "Palestine",
+      "Turkey"
+    ],
+    "_original_idx": 43,
+    "_enriched": true
+  },
+  {
+    "question": "The normal temperature of human body on the Kelvin scale is",
+    "year": 1995,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "280",
+    "option_b": "290",
+    "option_c": "300",
+    "option_d": "310",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "S&T.PHY.2",
+    "subject": "Science & Technology",
+    "category": "Physics",
+    "topic": "Temperature and Thermometry",
+    "concept": "Temperature and Thermometry",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Temperature and Thermometry",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.99,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Students confuse the conversion: some add 273 to Fahrenheit (98.6°F), others mistakenly use 37+260=297 or 37+270=307, arriving at 300K.",
+      "elimination_hint": "K = °C + 273. Normal body temperature = 37°C. 37 + 273 = 310K. Eliminate 300K (uses 27°C=room temp), 280K and 290K (too cold).",
+      "factual_hooks": [
+        "K = °C + 273.15",
+        "Normal body temperature = 37°C = 310K = 98.6°F",
+        "Room temperature ≈ 27°C = 300K"
+      ],
+      "paired_with": [
+        "Absolute Zero",
+        "Heat Transfer",
+        "Ideal Gas Law"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Temperature scale conversions",
+      "Celsius to Kelvin"
+    ],
+    "related_concepts": [
+      "Absolute Zero",
+      "Heat Transfer",
+      "Ideal Gas Law"
+    ],
+    "contrast_with": [
+      "Fahrenheit scale — 98.6°F (not 37°F) for body temperature"
+    ],
+    "keywords": [
+      "Kelvin",
+      "Celsius",
+      "temperature",
+      "body temperature",
+      "thermometry",
+      "conversion"
+    ],
+    "_original_idx": 44,
+    "_enriched": true
+  },
+  {
+    "question": "A simple machine helps a person doing",
+    "year": 1996,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "less work.",
+    "option_b": "the same amount of work with lesser force.",
+    "option_c": "the same amount of work.",
+    "option_d": "the same amount of work much faster.",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "S&T.PHY.3",
+    "subject": "Science & Technology",
+    "category": "Physics",
+    "topic": "Simple Machines and Mechanics",
+    "concept": "Simple Machines and Mechanics",
+    "dimension": "HOW",
+    "aspect": "HOW – Simple Machines and Mechanics",
+    "question_type": "Conceptual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Option A ('less work') is tempting because machines seem to 'save' effort. Option D ('much faster') is tempting for modern context. The key principle: machines don't reduce work, they redistribute force over distance.",
+      "elimination_hint": "Work = Force × Distance. Simple machines trade force for distance while keeping work constant. Eliminates A (less work), C (same work without context), D (not faster necessarily). Answer: B.",
+      "factual_hooks": [
+        "Simple machines: lever, pulley, inclined plane, wheel, wedge, screw",
+        "No machine increases total work — work input ≥ work output",
+        "Mechanical advantage: less force over greater distance"
+      ],
+      "paired_with": [
+        "Pulley systems",
+        "Lever arm",
+        "Efficiency of machines"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Work-energy theorem",
+      "Mechanical advantage"
+    ],
+    "related_concepts": [
+      "Pulley systems",
+      "Lever arm",
+      "Efficiency of machines"
+    ],
+    "contrast_with": [
+      "Motor/engine — converts energy form vs simple machine — redirects force"
+    ],
+    "keywords": [
+      "simple machines",
+      "mechanical advantage",
+      "force",
+      "work",
+      "physics",
+      "lever",
+      "pulley"
+    ],
+    "_original_idx": 45,
+    "_enriched": true
+  },
+  {
+    "question": "About 50% of the world population is concentrated between the latitudes of",
+    "year": 1997,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "5°N and 20°N",
+    "option_b": "20°N and 40°N",
+    "option_c": "40°N and 60°N",
+    "option_d": "20°S and 40°S",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "GEO.W.4",
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "World Population Distribution",
+    "concept": "World Population Distribution",
+    "dimension": "WHERE",
+    "aspect": "WHERE – World Population Distribution",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "5°N–20°N seems correct as it includes tropical India/SE Asia/Africa; 40°N–60°N seems correct as it includes all of Europe. The actual answer 20°N–40°N covers China, India's most populated belt, USA, and Europe.",
+      "elimination_hint": "20°N–40°N covers: North China, Indo-Gangetic plain, Bangladesh, Pakistan, North Africa coast, USA, Southern Europe — together these hold >50% of world population. Eliminate equatorial belt (too sparse in Amazon/Congo) and high northern latitudes.",
+      "factual_hooks": [
+        "20°N–40°N: densest human habitation belt",
+        "Includes: China's heartland, India's north, USA, Mediterranean Europe",
+        "World population concentration follows monsoon + temperate zones"
+      ],
+      "paired_with": [
+        "Population Density",
+        "Monsoon Climate",
+        "Carrying Capacity"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Demographic shifts — China and India together hold ~35% of world population within this belt.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Latitude and longitude basics",
+      "Population distribution factors"
+    ],
+    "related_concepts": [
+      "Population Density",
+      "Monsoon Climate",
+      "Carrying Capacity"
+    ],
+    "contrast_with": [
+      "5°N–20°N — tropical belt, less densely settled due to heat/humidity in parts"
+    ],
+    "keywords": [
+      "population distribution",
+      "latitude",
+      "world geography",
+      "density",
+      "20N",
+      "40N"
+    ],
+    "_original_idx": 46,
+    "_enriched": true
+  },
+  {
+    "question": "After consolidating his power, Balban assumed the grand title of",
+    "year": 1997,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Tute-i-Hind",
+    "option_b": "Kaisr-i-Hind",
+    "option_c": "Zil-i-Ilahi",
+    "option_d": "Din-i-Ilahi",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "HIS.MED.2",
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Delhi Sultanate",
+    "concept": "Delhi Sultanate",
+    "dimension": "WHO",
+    "aspect": "WHO – Delhi Sultanate",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Din-i-Ilahi (Akbar's syncretic religion) and Zil-i-Ilahi both sound similar and divine. Tute-i-Hind ('Parrot of India') is Amir Khusrau's title. Students confuse these between Balban and Akbar.",
+      "elimination_hint": "Balban's title: 'Zil-i-Ilahi' = Shadow of God on Earth — reflects his divine kingship theory. Tute-i-Hind = Amir Khusrau (poet). Din-i-Ilahi = Akbar (religion). Kaisr-i-Hind = British medal (Mahatma Gandhi returned it).",
+      "factual_hooks": [
+        "Zil-i-Ilahi = Shadow of God on Earth — Balban's claim to divine authority",
+        "Balban's theory: king is god's representative, established court protocol (sijda, paibos)",
+        "Tute-i-Hind = Amir Khusrau"
+      ],
+      "paired_with": [
+        "Slave Dynasty",
+        "Iltutmish",
+        "Khilji Dynasty"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Delhi Sultanate polity",
+      "Ilbari dynasty",
+      "Theory of kingship in Sultanate"
+    ],
+    "related_concepts": [
+      "Slave Dynasty",
+      "Iltutmish",
+      "Khilji Dynasty"
+    ],
+    "contrast_with": [
+      "Akbar's Din-i-Ilahi — attempted religious synthesis vs Balban's divine kingship — political authority claim"
+    ],
+    "keywords": [
+      "Balban",
+      "Zil-i-Ilahi",
+      "Delhi Sultanate",
+      "divine kingship",
+      "Ilbari",
+      "titles"
+    ],
+    "_original_idx": 47,
+    "_enriched": true
+  },
+  {
+    "question": "The average rate of domestic savings (gross) for the Indian economy is currently estimated to be in the range of",
+    "year": 1997,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "15 to 20 per cent",
+    "option_b": "20 to 25 per cent",
+    "option_c": "25 to 30 per cent",
+    "option_d": "30 to 35 per cent",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "ECO.MAC.3",
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Savings and Investment",
+    "concept": "Savings and Investment",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Savings and Investment",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.72,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "This is a time-specific factual question (1997 data). The 'currently estimated' in 1997 = 20-25%; by 2007 it had risen to ~32-34%. Modern students applying current data pick option D.",
+      "elimination_hint": "This question is dated (1997); the answer B (20-25%) reflected India's savings rate in the late 1990s. Modern savings rate ~30-35% (option D). Flag as historically-contextual — note year before answering.",
+      "factual_hooks": [
+        "India's gross domestic savings rate 1997: ~20-24% of GDP",
+        "India's savings rate peaked ~36% in 2008, now ~30%",
+        "High savings rate supports investment and growth"
+      ],
+      "paired_with": [
+        "Investment Rate",
+        "Current Account Balance",
+        "Capital Formation"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "India's savings rate decline post-2012 is a concern for sustaining investment-led growth.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Gross Domestic Savings",
+      "National Income Accounting"
+    ],
+    "related_concepts": [
+      "Investment Rate",
+      "Current Account Balance",
+      "Capital Formation"
+    ],
+    "contrast_with": [
+      "Household savings vs government savings vs corporate savings — components of national savings"
+    ],
+    "keywords": [
+      "domestic savings",
+      "GDP",
+      "macroeconomics",
+      "savings rate",
+      "India economy"
+    ],
+    "_original_idx": 48,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists\nList I | List II\nI. Butler Committee Report | (A) Jallianwala Bagh Massacre\nII. Hurtog Committee Report | (B) Relationship between the Indian States and Paramount Power\nIII. Hunter Inquiry Committee Report | (C) Working of Dyarchy as laid down in the Montague-Chelmsford Reforms\nIV. Muddiman Committee Report | (D) The growth of education in British India and potentialities of its further progress",
+    "year": 1997,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I-C, II-B, III-A, IV-D",
+    "option_b": "I-A, II-D, III-B, IV-C",
+    "option_c": "I-B, II-A, III-C, IV-D",
+    "option_d": "I-B, II-D, III-A, IV-C",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "HIS.MOD.4",
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "British-Era Committees and Commissions",
+    "concept": "British-Era Committees and Commissions",
+    "dimension": "WHAT",
+    "aspect": "WHAT – British-Era Committees and Commissions",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.94,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Butler Committee (Indian States) vs Muddiman Committee (Dyarchy) gets swapped. Hunter Committee for Jallianwala Bagh vs Hunter Education Commission (earlier, 1882) creates confusion — two different Hunter committees.",
+      "elimination_hint": "Lock Hunter=Jallianwala Bagh (1919-20) first — most memorable. Then Butler=Indian States & Paramount Power (1927). Hartog=Education (1929). Muddiman=Dyarchy review. Answer: I-B, II-D, III-A, IV-C.",
+      "factual_hooks": [
+        "Hunter Inquiry Committee (1919): investigated Jallianwala Bagh massacre",
+        "Butler Committee (1927): relationship between Indian States and Paramount Power",
+        "Hartog Committee (1929): growth of education in British India",
+        "Muddiman Committee (1924): working of Dyarchy under Montagu-Chelmsford Reforms"
+      ],
+      "paired_with": [
+        "Simon Commission",
+        "Nehru Report",
+        "Jallianwala Bagh Massacre"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Montagu-Chelmsford Reforms (1919)",
+      "Princely States and paramountcy",
+      "British education policy in India"
+    ],
+    "related_concepts": [
+      "Simon Commission",
+      "Nehru Report",
+      "Jallianwala Bagh Massacre"
+    ],
+    "contrast_with": [
+      "Simon Commission (1927) — constitutional review vs Butler (1927) — princely states specifically"
+    ],
+    "keywords": [
+      "Butler Committee",
+      "Hartog Committee",
+      "Hunter Committee",
+      "Muddiman Committee",
+      "British India",
+      "commissions"
+    ],
+    "_original_idx": 49,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists\nList I (Crops) | List II (Geographical conditions)\nI. Barley | (A) Hot and dry climate with poor soil\nII. Rice | (B) Cool climate with poorer soil\nIII. Millets | (C) Warm and moist climate with high altitude",
+    "year": 1997,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I-B, II-D, III-A, IV-C",
+    "option_b": "I-C, II-D, III-A, IV-B",
+    "option_c": "I-B, II-A, III-D, IV-C",
+    "option_d": "I-C, II-B, III-D, IV-A",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "GEO.I.4",
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Agricultural Geography",
+    "concept": "Agricultural Geography",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Agricultural Geography",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Rice=moist climate is correct but 'high altitude' element confuses — students expect rice in plains/deltas. Barley thriving in 'cool with poorer soil' surprises those who associate barley with cold Himalayan regions only.",
+      "elimination_hint": "Barley = tolerates cool, poor, dry soils (B). Rice = warm, moist, can grow on higher altitude terraces too (D). Millets = dry/arid with poor soil (A). Match these → Answer A: I-B, II-D, III-A.",
+      "factual_hooks": [
+        "Barley: hardy crop, cool climate, poor soils, used in beer/roti",
+        "Rice: requires standing water, warm-humid, flooded paddies",
+        "Millets (bajra, jowar): drought-resistant, poor soils, hot climate"
+      ],
+      "paired_with": [
+        "Agricultural Zones of India",
+        "Irrigation",
+        "Food Security"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Climate-resilient millets (UPSC millet year 2023) being promoted as sustainable alternative to water-intensive rice and wheat.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Crop ecology",
+      "Kharif vs Rabi crops",
+      "Soil types"
+    ],
+    "related_concepts": [
+      "Agricultural Zones of India",
+      "Irrigation",
+      "Food Security"
+    ],
+    "contrast_with": [
+      "Wheat vs Barley — both rabi, but wheat needs better soil and more moisture than barley"
+    ],
+    "keywords": [
+      "barley",
+      "rice",
+      "millets",
+      "crops",
+      "climate",
+      "soil",
+      "agriculture",
+      "geography"
+    ],
+    "_original_idx": 50,
+    "_enriched": true
+  },
+  {
+    "question": "In a town 25% families own a phone and 15% own a car. 65% families own neither a phone nor a car. 2000 families own both a car and a phone. Consider the following statements in this regard:\nI.\n10% families own both a car and a phone.\nII.\n35% families own either a car or a phone.\nIII.\n40,000 families live in the town.\nWhich of the above statements are correct ?",
+    "year": 1999,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I and II",
+    "option_b": "I and III",
+    "option_c": "II and III",
+    "option_d": "I, II and III",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.QA.7",
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Set Theory and Venn Diagrams",
+    "concept": "Set Theory and Venn Diagrams",
+    "dimension": "HOW",
+    "aspect": "HOW – Set Theory and Venn Diagrams",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Statement I says 10% own both — but the correct 'both' is 5% (25+15−35=5%). Statement III says 40,000 total — this is correct (5%=2000 → total=40,000). Statement I is the deliberate wrong statement.",
+      "elimination_hint": "P(phone∪car)=100−65=35%. P(both)=25+15−35=5%. If 5%=2000 families, total=40,000 ✓ (III). 35% own either ✓ (II). But 10% own both is wrong (I). So II and III only = C.",
+      "factual_hooks": [
+        "P(neither)=65% → P(union)=35%",
+        "P(both)=P(A)+P(B)−P(union)=25+15−35=5%",
+        "If 5%=2000, total population=40,000"
+      ],
+      "paired_with": [
+        "Probability",
+        "Data Interpretation"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Set theory",
+      "Venn diagrams",
+      "Percentage to absolute count"
+    ],
+    "related_concepts": [
+      "Probability",
+      "Data Interpretation"
+    ],
+    "contrast_with": [
+      "P(union) ≠ P(A)+P(B) unless mutually exclusive"
+    ],
+    "keywords": [
+      "set theory",
+      "Venn diagram",
+      "phone",
+      "car",
+      "CSAT",
+      "population",
+      "percentage"
+    ],
+    "_original_idx": 51,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I (Country) with List II (President) and select the correct answer using the codes given below the lists\n(Country) | (President)\nA. Congo | 1. Levy Mwanawasa\nB. Nigeria | 2. Joseph Kabila\nC. Uganda | 3. Olusegum Obasanjo\nD. Zambia | 4. Yoweri Museveni",
+    "year": 2002,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "A-2, B-3, C-4, D-1",
+    "option_b": "A-3, B-2, C-1, D-4",
+    "option_c": "A-2, B-3, C-1, D-4",
+    "option_d": "A-3, B-2, C-4, D-1",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "IR.AFR.1",
+    "subject": "International Relations",
+    "category": "Africa",
+    "topic": "African Political Leadership",
+    "concept": "African Political Leadership",
+    "dimension": "WHO",
+    "aspect": "WHO – African Political Leadership",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.83,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "All four leaders are real but obscure — test-takers confuse Nigeria's Obasanjo (military background turned civilian president) with other military rulers. Zambia's Mwanawasa is least known.",
+      "elimination_hint": "Lock Congo=Joseph Kabila (came to power 2001 after father's assassination — high profile news) and Uganda=Yoweri Museveni (long-serving, well-known). Nigeria=Obasanjo (prominent). Zambia=Mwanawasa by elimination.",
+      "factual_hooks": [
+        "Joseph Kabila: became DRC president in 2001 after Laurent Kabila's assassination",
+        "Olusegun Obasanjo: Nigerian president 1999-2007 (previously military ruler 1976-79)",
+        "Yoweri Museveni: Uganda president since 1986",
+        "Levy Mwanawasa: Zambia president 2002-2008"
+      ],
+      "paired_with": [
+        "African Union",
+        "Sub-Saharan Africa",
+        "Commonwealth Nations"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "DRC continues to face instability; current leadership context different but regional dynamics persist.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "African political geography",
+      "Great Lakes region Africa"
+    ],
+    "related_concepts": [
+      "African Union",
+      "Sub-Saharan Africa",
+      "Commonwealth Nations"
+    ],
+    "contrast_with": [
+      "Congo-Brazzaville vs DRC (Congo-Kinshasa) — two different 'Congo' countries"
+    ],
+    "keywords": [
+      "Congo",
+      "Nigeria",
+      "Uganda",
+      "Zambia",
+      "African leaders",
+      "Kabila",
+      "Obasanjo",
+      "Museveni"
+    ],
+    "_original_idx": 52,
+    "_enriched": true
+  },
+  {
+    "question": "Who among the following was selected for the 2001 Dada Saheb Phalke Award?",
+    "year": 2003,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Dev Anand",
+    "option_b": "Lata Mangeshkar",
+    "option_c": "Ramanand Sagar",
+    "option_d": "Yash Chopra",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "GOV.AWD.1",
+    "subject": "Governance",
+    "category": "Awards and Honours",
+    "topic": "Dadasaheb Phalke Award",
+    "concept": "Dadasaheb Phalke Award",
+    "dimension": "WHO",
+    "aspect": "WHO – Dadasaheb Phalke Award",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims": {
+      "priority": "LOW",
+      "trap_factor": "Lata Mangeshkar is the most famous Indian cultural icon and was highly prominent in 2001 (received Bharat Ratna that year), making her a strong distractor for this award in the same year.",
+      "elimination_hint": "Lata Mangeshkar received Bharat Ratna in 2001, NOT Phalke Award (she received Phalke in 1989). Dev Anand received Phalke in 2002. 2001 Phalke Award = Yash Chopra. Year-Award-Person mapping required.",
+      "factual_hooks": [
+        "Yash Chopra: Dadasaheb Phalke Award 2001 (49th National Film Awards)",
+        "Lata Mangeshkar: Dadasaheb Phalke 1989, Bharat Ratna 2001",
+        "Dadasaheb Phalke: India's highest film honour, given annually"
+      ],
+      "paired_with": [
+        "Bharat Ratna",
+        "Padma Awards",
+        "BAFTA equivalent awards"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "National Film Awards",
+      "Dadasaheb Phalke Award history"
+    ],
+    "related_concepts": [
+      "Bharat Ratna",
+      "Padma Awards",
+      "BAFTA equivalent awards"
+    ],
+    "contrast_with": [
+      "National Award for Best Film vs Phalke Award — one is annual best-film; other is lifetime achievement"
+    ],
+    "keywords": [
+      "Dadasaheb Phalke",
+      "Yash Chopra",
+      "film award",
+      "Lata Mangeshkar",
+      "national award"
+    ],
+    "_original_idx": 53,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I and List II and select the correct answer using the code given below the lists\n(Famous Person) | (Well-Known as)\nA. Anna Hazare | 1. Lawyer\nB. Deepak Parekh | 2. Banker\nC. GVK Reddy | 3. Gandhian and Social activist\nD. Harish Salve | 4. Industrialist",
+    "year": 2009,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "A-1, B-2, C-4, D-3",
+    "option_b": "A-1, B-4, C-2, D-3",
+    "option_c": "A-3, B-2, C-4, D-1",
+    "option_d": "A-3, B-4, C-2, D-1",
+    "correct_option": "A",
+    "word_limit": 0,
+    "syllabus_id": "GOV.PERS.1",
+    "subject": "Governance",
+    "category": "Prominent Personalities",
+    "topic": "Eminent Indians",
+    "concept": "Eminent Indians",
+    "dimension": "WHO",
+    "aspect": "WHO – Eminent Indians",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Deepak Parekh (HDFC) and GVK Reddy (industrialist) are often confused — both are business figures. Harish Salve is commonly mistaken for a politician; Anna Hazare's correct description as 'Gandhian' not 'activist/politician' matters.",
+      "elimination_hint": "Lock Anna Hazare=Gandhian (3) and Harish Salve=Lawyer (1) first. Then Deepak Parekh=Banker (HDFC Chairman) (2). GVK Reddy=Industrialist (GVK Group) (4). Answer C: A-3, B-2, C-4, D-1.",
+      "factual_hooks": [
+        "Anna Hazare: Gandhian social activist, led 2011 anti-corruption movement",
+        "Deepak Parekh: Chairman HDFC Bank, prominent banker",
+        "GVK Reddy: Chairman GVK Group (infrastructure, airports, energy)",
+        "Harish Salve: Senior Advocate, appeared in Kulbhushan Jadhav ICJ case"
+      ],
+      "paired_with": [
+        "India Against Corruption",
+        "Lok Pal Bill",
+        "Indian Banking sector"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "Harish Salve's role in Kulbhushan Jadhav case (ICJ) remains relevant to India's international legal strategy.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Indian corporate and legal personalities"
+    ],
+    "related_concepts": [
+      "India Against Corruption",
+      "Lok Pal Bill",
+      "Indian Banking sector"
+    ],
+    "contrast_with": [
+      "Harish Salve (lawyer) vs P. Chidambaram (lawyer-turned-politician) — different career arcs"
+    ],
+    "keywords": [
+      "Anna Hazare",
+      "Deepak Parekh",
+      "GVK Reddy",
+      "Harish Salve",
+      "eminent Indians",
+      "personalities"
+    ],
+    "_original_idx": 54,
+    "_enriched": true
+  },
+  {
+    "question": "P, Q, R' and S are four men. P is the oldest but not the poorest. R is the richest but not the oldest. Q is older than S but not than P or R. P is richer than Q but not than S. The four men can be ordered (descending) in respect of age and richness, respectively, as",
+    "year": 2010,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "PQRS, RPSQ",
+    "option_b": "PRQS, RSPQ",
+    "option_c": "PRQS, RSQP",
+    "option_d": "PRSQ, RSPQ",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "CSAT.LR.2",
+    "subject": "CSAT",
+    "category": "Logical Reasoning",
+    "topic": "Ordering and Ranking",
+    "concept": "Ordering and Ranking",
+    "dimension": "HOW",
+    "aspect": "HOW – Ordering and Ranking",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Two separate orderings (age and richness) on four people creates cognitive overload. Students often mix clues across the two orderings or forget P is oldest (not R, who is richest).",
+      "elimination_hint": "AGE: P oldest → P first. R not oldest but Q<R in age? Clue: Q not older than R → R>Q. So P>R>Q>S = PRQS. RICHNESS: R richest → R first. P richer than Q but not S → S>P>Q. R,S,P,Q = RSPQ. Answer B.",
+      "factual_hooks": [
+        "Two-parameter ranking: solve each dimension separately",
+        "Read each clue carefully — 'not older than' = equal or younger"
+      ],
+      "paired_with": [
+        "Blood Relations",
+        "Seating Arrangement",
+        "Direction Sense"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Logical deduction",
+      "Linear ordering"
+    ],
+    "related_concepts": [
+      "Blood Relations",
+      "Seating Arrangement",
+      "Direction Sense"
+    ],
+    "contrast_with": [
+      "Seating arrangement — circular vs linear ordering problems"
+    ],
+    "keywords": [
+      "ordering",
+      "ranking",
+      "logical reasoning",
+      "CSAT",
+      "age",
+      "richness",
+      "deduction"
+    ],
+    "_original_idx": 55,
+    "_enriched": true
+  },
+  {
+    "question": "The member of Shivaji’s Astha Pradhana who looked after foreign affairs was",
+    "year": 1998,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Peshwa",
+    "option_b": "Sachiv",
+    "option_c": "Pandit Rao",
+    "option_d": "Sumant",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "HIS.MED.5",
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Maratha Empire",
+    "concept": "Maratha Empire",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Maratha Empire",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.94,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Peshwa (PM) is the most remembered Ashta Pradhan minister; students guess Peshwa for foreign affairs. Sachiv (secretary) sounds administrative. Sumant/Dabir is the least-known minister name.",
+      "elimination_hint": "Peshwa = Prime Minister. Sachiv = correspondence/letters. Pandit Rao = religious affairs. Sumant = foreign affairs/protocol (also called Dabir). Senapati = military. Lock Peshwa=PM first, then Sumant=Foreign by elimination.",
+      "factual_hooks": [
+        "Sumant (Dabir): Shivaji's foreign affairs minister in Ashta Pradhan",
+        "Peshwa: PM of Maratha council",
+        "Pandit Rao: head of religious/charity affairs",
+        "Senapati: commander-in-chief"
+      ],
+      "paired_with": [
+        "Peshwa dynasty",
+        "Maratha Confederacy",
+        "Swaraj concept"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Maratha administrative system",
+      "Shivaji's governance"
+    ],
+    "related_concepts": [
+      "Peshwa dynasty",
+      "Maratha Confederacy",
+      "Swaraj concept"
+    ],
+    "contrast_with": [
+      "Mughal mansabdari system — rank-based vs Maratha Ashta Pradhan — functional ministries"
+    ],
+    "keywords": [
+      "Shivaji",
+      "Ashta Pradhan",
+      "Sumant",
+      "foreign affairs",
+      "Maratha",
+      "medieval India"
+    ],
+    "_original_idx": 56,
+    "_enriched": true
+  },
+  {
+    "question": "Match List I with List II and select the correct answer by using the codes given below the lists\nList I (Special Characteristic) | List II (Name of Planet)\nI. Farthest planet from the sun | (A) Mercury\nII. Largest planet of the solar system | (B) Venus\nIII. Planet second from the Sun in the solar system | (C) Jupiter\nIV. Planet nearest to the Sun | (D) Pluto\n| (E) Saturn",
+    "year": 1998,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "I-B, II-C, III-E, IV-A",
+    "option_b": "I-C, II-E, III-A, IV-B",
+    "option_c": "I-D, II-A, III-B, IV-C",
+    "option_d": "I-D, II-C, III-B, IV-A",
+    "correct_option": "B",
+    "word_limit": 0,
+    "syllabus_id": "S&T.ASTRO.1",
+    "subject": "Science & Technology",
+    "category": "Astronomy",
+    "topic": "Solar System",
+    "concept": "Solar System",
+    "dimension": "WHAT",
+    "aspect": "WHAT – Solar System",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.91,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Pluto was a planet in 1998 (question year) but was reclassified as dwarf planet in 2006 — students with modern knowledge may skip Pluto as farthest. Also Jupiter vs Saturn as 'largest' confuses some.",
+      "elimination_hint": "In 1998 context: Farthest=Pluto (D), Largest=Jupiter (C), Second from Sun=Venus (B), Nearest=Mercury (A). Match: I-D, II-C, III-B, IV-A. Note: Neptune is now considered farthest after Pluto's reclassification.",
+      "factual_hooks": [
+        "Mercury: closest to Sun; Venus: 2nd planet",
+        "Jupiter: largest planet (318× Earth's mass)",
+        "Pluto: farthest (as of 1998); reclassified as dwarf planet 2006",
+        "Saturn: 2nd largest, known for rings"
+      ],
+      "paired_with": [
+        "Asteroid Belt",
+        "Dwarf Planets",
+        "Planetary Motion"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "India's Aditya-L1 solar mission and Mars/Moon missions make astronomy highly relevant to UPSC.",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Order of planets from Sun",
+      "Planetary characteristics"
+    ],
+    "related_concepts": [
+      "Asteroid Belt",
+      "Dwarf Planets",
+      "Planetary Motion"
+    ],
+    "contrast_with": [
+      "Jupiter vs Saturn — both gas giants, but Jupiter is larger; Saturn has prominent rings"
+    ],
+    "keywords": [
+      "planets",
+      "solar system",
+      "Jupiter",
+      "Mercury",
+      "Venus",
+      "Pluto",
+      "astronomy"
+    ],
+    "_original_idx": 57,
+    "_enriched": true
+  },
+  {
+    "question": "An air bubble in water will act like a",
+    "year": 1995,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "convex mirror",
+    "option_b": "convex lens",
+    "option_c": "concave mirror",
+    "option_d": "concave lens",
+    "correct_option": "D",
+    "word_limit": 0,
+    "syllabus_id": "S&T.PHY.4",
+    "subject": "Science & Technology",
+    "category": "Physics",
+    "topic": "Optics and Light",
+    "concept": "Optics and Light",
+    "dimension": "HOW",
+    "aspect": "HOW – Optics and Light",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims": {
+      "priority": "HIGH",
+      "trap_factor": "Intuition says a bubble (curved like a lens) should behave like a convex lens. But it's filled with less-dense air inside more-dense water — a rarer medium inside denser medium acts as diverging (concave) lens.",
+      "elimination_hint": "Refractive index: water > air. A bubble is air (low n) surrounded by water (high n). Light entering a less-dense centre from denser medium diverges — same as concave lens. Contrast with glass (high n) in air = convex behaviour.",
+      "factual_hooks": [
+        "Air bubble in water: rarer medium inside denser → acts as concave lens (diverging)",
+        "Glass lens in air: denser medium inside rarer → acts as convex lens (converging)",
+        "Refractive index of water (~1.33) > air (~1.0)"
+      ],
+      "paired_with": [
+        "Total Internal Reflection",
+        "Optical Fibre",
+        "Mirages"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Snell's law of refraction",
+      "Refractive index",
+      "Lens types"
+    ],
+    "related_concepts": [
+      "Total Internal Reflection",
+      "Optical Fibre",
+      "Mirages"
+    ],
+    "contrast_with": [
+      "Glass lens in water — both have similar refractive index so lensing effect reduced"
+    ],
+    "keywords": [
+      "optics",
+      "refraction",
+      "air bubble",
+      "concave lens",
+      "refractive index",
+      "light",
+      "physics"
+    ],
+    "_original_idx": 58,
+    "_enriched": true
+  },
+  {
+    "question": "Prem Vatika, poems on the life of Krishna, was composed by",
+    "year": 1996,
+    "paper": "PTGS",
+    "marks": 2,
+    "option_a": "Bihari",
+    "option_b": "Surdas",
+    "option_c": "Raskhan",
+    "option_d": "Kabir",
+    "correct_option": "C",
+    "word_limit": 0,
+    "syllabus_id": "HIS.MED.6",
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Bhakti and Sufi Movement",
+    "concept": "Bhakti and Sufi Movement",
+    "dimension": "WHO",
+    "aspect": "WHO – Bhakti and Sufi Movement",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.91,
+    "prelims": {
+      "priority": "MEDIUM",
+      "trap_factor": "Surdas wrote extensively on Krishna (Sur Sagar) making him the obvious choice. Raskhan — a Muslim devotee of Krishna — is the correct answer but is lesser-known among UPSC aspirants.",
+      "elimination_hint": "Prem Vatika = Raskhan (Muslim poet, devotee of Krishna, wrote 52 verses). Sur Sagar = Surdas. Bihari Satsai = Bihari. Kabir = Dohas (monotheist, no Krishna-specific devotion). Raskhan's uniqueness: Muslim writing bhakti poetry on Krishna.",
+      "factual_hooks": [
+        "Raskhan: Muslim Bhakti poet, devoted to Krishna, wrote Prem Vatika and Sujanranjana",
+        "Sur Sagar: Surdas (blind poet, disciple of Vallabhacharya)",
+        "Raskhan: Said 'Maanush hau to wohi Raskhan basio braj gokul gaon ke gwaran'"
+      ],
+      "paired_with": [
+        "Mirabai",
+        "Tulsidas",
+        "Kabir"
+      ]
+    },
+    "mains": {
+      "relevance": "LOW",
+      "themes": [],
+      "answer_structure": {
+        "intro_approach": "",
+        "body_points": [],
+        "conclusion_approach": ""
+      },
+      "interlinkages": [],
+      "contemporary_relevance": "",
+      "word_limit_suggested": 0
+    },
+    "prerequisite_concepts": [
+      "Bhakti movement in North India",
+      "Saguna vs Nirguna Bhakti"
+    ],
+    "related_concepts": [
+      "Mirabai",
+      "Tulsidas",
+      "Kabir",
+      "Surdas"
+    ],
+    "contrast_with": [
+      "Nirguna Bhakti (Kabir, Nanak) — formless God vs Saguna Bhakti (Raskhan, Surdas) — God with form"
+    ],
+    "keywords": [
+      "Raskhan",
+      "Prem Vatika",
+      "Bhakti movement",
+      "Krishna",
+      "medieval literature",
+      "Muslim poet"
+    ],
+    "_original_idx": 59,
+    "_enriched": true
+  }
+]

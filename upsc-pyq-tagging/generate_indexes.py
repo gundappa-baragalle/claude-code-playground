@@ -9,9 +9,18 @@ import os
 from pathlib import Path
 from collections import defaultdict
 
-# Load tagged questions
-with open('/home/claude/pyq-tagging/questions_tagged.json', 'r') as f:
+# Load tagged questions (works with both questions_tagged.json and questions_enriched.json)
+_script_dir = Path(__file__).parent
+_candidates = [
+    _script_dir / 'questions_tagged.json',
+    _script_dir / 'questions_enriched.json',
+]
+_input_file = next((p for p in _candidates if p.exists()), None)
+if not _input_file:
+    raise FileNotFoundError("Neither questions_tagged.json nor questions_enriched.json found.")
+with open(_input_file, 'r') as f:
     questions = json.load(f)
+print(f"Using input file: {_input_file.name}")
 
 print(f"Loaded {len(questions)} tagged questions")
 
@@ -80,7 +89,7 @@ for topic, qs in topic_questions.items():
     }
 
 # Save concept index
-output_path = Path('/home/claude/pyq-tagging/concept-index.json')
+output_path = _script_dir / 'concept-index.json'
 with open(output_path, 'w', encoding='utf-8') as f:
     json.dump(concept_index, f, indent=2, ensure_ascii=False)
 
@@ -95,7 +104,7 @@ print("\n" + "="*60)
 print("GENERATING TOPIC MAPS")
 print("="*60)
 
-topic_maps_dir = Path('/home/claude/pyq-tagging/topic-maps')
+topic_maps_dir = _script_dir / 'topic-maps'
 topic_maps_dir.mkdir(exist_ok=True)
 
 def sanitize_filename(name):
@@ -317,7 +326,7 @@ for q in questions:
 patterns['mains_themes'] = dict(sorted(mains_themes.items(), key=lambda x: -x[1]))
 
 # Save patterns
-patterns_path = Path('/home/claude/pyq-tagging/patterns.json')
+patterns_path = _script_dir / 'patterns.json'
 with open(patterns_path, 'w', encoding='utf-8') as f:
     json.dump(patterns, f, indent=2, ensure_ascii=False)
 
@@ -365,7 +374,7 @@ for subj in subject_index:
             years = subject_index[subj][cat][topic]["years"]
             subject_index[subj][cat][topic]["years"] = sorted(set(years), reverse=True)[:10]
 
-subject_index_path = Path('/home/claude/pyq-tagging/subject-index.json')
+subject_index_path = _script_dir / 'subject-index.json'
 with open(subject_index_path, 'w', encoding='utf-8') as f:
     json.dump(subject_index, f, indent=2, ensure_ascii=False)
 
