@@ -332,7 +332,11 @@ def cmd_extract_all(batch_size: int, out_dir: str):
 # ── --merge-all ───────────────────────────────────────────────────────────────
 
 def cmd_merge_all(results_dir: str):
-    """Merge all result_NNN.json files from results_dir into questions_enriched.json."""
+    """Merge all result_NNN.json files from results_dir into questions_enriched.json.
+
+    Uses the corresponding batch_NNN.json to get the authoritative original_idx mapping,
+    so the checkpoint state does not affect which question each enrichment is assigned to.
+    """
     results_path = Path(results_dir)
     result_files = sorted(results_path.glob("result_*.json"))
 
@@ -340,10 +344,32 @@ def cmd_merge_all(results_dir: str):
         print(f"No result_*.json files found in {results_dir}/")
         return
 
+    with open(QUESTIONS_FILE) as f:
+        raw = json.load(f)
+    questions = raw[0]["json_result"]
+    total = len(questions)
+
+    cp = load_checkpoint()
+    cp["total"] = total
+    results = load_results()
+
     print(f"Found {len(result_files)} result files to merge:")
     total_saved = 0
     for rf in result_files:
-        print(f"  Merging {rf.name} ...", end=" ")
+        # Derive the batch number from the result filename (result_NNN → batch_NNN)
+        batch_num_str = rf.stem.replace("result_", "")  # e.g. "001"
+        batch_file = results_path / f"batch_{batch_num_str}.json"
+
+        if not batch_file.exists():
+            print(f"  Merging {rf.name} ... SKIPPED (no matching {batch_file.name})")
+            continue
+
+        with open(batch_file) as f:
+            batch_data = json.load(f)
+        # Build pos→original_idx map from the batch file (authoritative)
+        idx_map = {item["idx"]: item["original_idx"] for item in batch_data}
+
+        print(f"  Merging {rf.name} (batch {batch_num_str}) ...", end=" ")
         with open(rf) as f:
             json_str = f.read()
         try:
@@ -351,13 +377,33 @@ def cmd_merge_all(results_dir: str):
         except json.JSONDecodeError as e:
             print(f"SKIPPED (invalid JSON: {e})")
             continue
-        cmd_save(json_str)
-        total_saved += len(enrichments)
-        print(f"done ({len(enrichments)} questions)")
+
+        saved = 0
+        for e in enrichments:
+            pos = e.get("idx")
+            if pos is None or pos not in idx_map:
+                continue
+            orig_idx = idx_map[pos]
+            results[orig_idx] = build_tagged(questions[orig_idx], e, orig_idx)
+            cp["processed_indices"].add(orig_idx)
+            saved += 1
+
+        total_saved += saved
+        print(f"done ({saved} questions, original_idx {batch_data[0]['original_idx']}–{batch_data[-1]['original_idx']})")
+
+    cp["processed_count"] = len(cp["processed_indices"])
+    save_checkpoint(cp)
+    save_results(results, total)
 
     print()
     print(f"Total merged: {total_saved} questions")
     cmd_stats()
+
+    if cp["processed_count"] == total:
+        import shutil
+        shutil.copy(OUTPUT_FILE, TAGGED_FILE)
+        print(f"\nALL DONE! Copied to {TAGGED_FILE}")
+        print("Next: python3 upsc-pyq-tagging/generate_indexes.py")
 
 
 # ── --extract ─────────────────────────────────────────────────────────────────
