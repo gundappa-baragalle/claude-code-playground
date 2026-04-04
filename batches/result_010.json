@@ -1,0 +1,3480 @@
+[
+  {
+    "idx": 0,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Continents & Regions",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Amazon and Missouri are more famous rivers, leading students to confuse river fame with waterfall association. Victoria Nile is another distractor.",
+    "elimination_hint": "Victoria Falls is in Africa on the Zambezi River bordering Zambia and Zimbabwe; eliminate all non-African rivers.",
+    "factual_hooks": [
+      "Victoria Falls is on the Zambezi River",
+      "Located on Zambia-Zimbabwe border",
+      "One of the world's largest waterfalls"
+    ],
+    "prerequisite_concepts": [
+      "Major world rivers",
+      "African geography"
+    ],
+    "related_concepts": [
+      "Niagara Falls",
+      "Angel Falls",
+      "Zambezi River basin"
+    ],
+    "contrast_with": [
+      "Amazon — South America",
+      "Missouri — North America",
+      "St Lawrence — Canada"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Victoria Falls faces threats from climate change and reduced water flow.",
+    "keywords": [
+      "Victoria Falls",
+      "Zambezi",
+      "Africa",
+      "waterfall",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  },
+  {
+    "idx": 1,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Buddhism",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHY",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may confuse Hinayana with Mahayana in relation to Gandhara; both A and R seem plausible together since Gandhara did have Buddhist connections.",
+    "elimination_hint": "The Reason is false: Gandhara art influenced Mahayana Buddhism, not Hinayana; Hinayana avoided human depiction of Buddha, so the R contradicts itself.",
+    "factual_hooks": [
+      "Gandhara art shows Hellenistic influence from Greek contact post-Alexander",
+      "Hinayana Buddhism avoided anthropomorphic depiction of Buddha",
+      "Mahayana Buddhism adopted Gandhara's human-form Buddha imagery"
+    ],
+    "prerequisite_concepts": [
+      "Gandhara School of Art",
+      "Hinayana vs Mahayana Buddhism",
+      "Hellenistic influence in India"
+    ],
+    "related_concepts": [
+      "Mathura School of Art",
+      "Kushana Empire",
+      "Indo-Greek rulers"
+    ],
+    "contrast_with": [
+      "Mathura art — purely Indian style without Hellenistic influence"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Gandhara",
+      "Hellenistic",
+      "Hinayana",
+      "Mahayana",
+      "Buddhist art",
+      "assertion-reason"
+    ]
+  },
+  {
+    "idx": 2,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Mauryan Empire",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Rajgir has deep Buddhist associations (Buddha preached there) making the lion capital link plausible; the lion capital is actually at Sarnath, not Rajgir.",
+    "elimination_hint": "Eliminate option with Rajgir-Lion capital: the Lion Capital of Asoka is at Sarnath, not Rajgir. Lothal dockyard, Sarnath first sermon, and Nalanda Buddhist learning are all correct.",
+    "factual_hooks": [
+      "Lothal had an ancient dockyard (Indus Valley Civilization)",
+      "Buddha gave first sermon at Sarnath (Deer Park)",
+      "Lion Capital of Asoka is at Sarnath, not Rajgir",
+      "Nalanda was a great Buddhist university"
+    ],
+    "prerequisite_concepts": [
+      "Ashokan pillars and edicts",
+      "Buddha's life events",
+      "Indus Valley sites"
+    ],
+    "related_concepts": [
+      "Bodh Gaya",
+      "Kushinagar",
+      "Vaishali",
+      "Indus Valley ports"
+    ],
+    "contrast_with": [
+      "Rajgir — associated with Jainism and early Buddhism but not the lion capital"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Lothal",
+      "Sarnath",
+      "Nalanda",
+      "Lion Capital",
+      "Asoka",
+      "dockyard"
+    ]
+  },
+  {
+    "idx": 3,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "LOW",
+    "trap_factor": "Ahadis are an obscure Mughal military unit; the term 'Mirzas' sounds Mughal-specific, tempting students to include statement IV about attaching to Mirzas.",
+    "elimination_hint": "Ahadis served directly under the emperor without intermediaries — they did NOT attach to Mirzas (that negates their independent status). Statements I, II, III define their core character.",
+    "factual_hooks": [
+      "Ahadis were independent troopers directly under the emperor",
+      "They had no mansabdar chief as intermediary",
+      "Emperor served as their immediate colonel"
+    ],
+    "prerequisite_concepts": [
+      "Mansabdari system",
+      "Mughal military organization",
+      "Dagh-o-Chehra system"
+    ],
+    "related_concepts": [
+      "Mansabdars",
+      "Wajahdar",
+      "Mughal cavalry organization"
+    ],
+    "contrast_with": [
+      "Regular Mansabdars — served under a chief, not directly under emperor"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Ahadis",
+      "Mughal",
+      "military",
+      "mansabdari",
+      "emperor",
+      "troopers"
+    ]
+  },
+  {
+    "idx": 4,
+    "subject": "Governance",
+    "category": "Health & Education",
+    "topic": "Health Issues",
+    "syllabus_id": "GOV.HED.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.72,
+    "prelims_priority": "LOW",
+    "trap_factor": "This is a dated 1996 question; the correct answer (Texas) is counterintuitive as the US is more associated with conservative states. Northern Territory of Australia legalised euthanasia briefly.",
+    "elimination_hint": "Northern Territory, Australia briefly legalised euthanasia (1996-97) but it was overturned; the question from 1996 likely refers to this event — verify the correct option carefully for the era.",
+    "factual_hooks": [
+      "Euthanasia laws vary by jurisdiction globally",
+      "Netherlands and Belgium have well-known euthanasia laws",
+      "Legal status of euthanasia changes frequently across jurisdictions"
+    ],
+    "prerequisite_concepts": [
+      "Euthanasia",
+      "Medical ethics",
+      "Comparative law"
+    ],
+    "related_concepts": [
+      "Passive euthanasia in India (Aruna Shanbaug case)",
+      "Right to die",
+      "Advance medical directives"
+    ],
+    "contrast_with": [
+      "Active vs passive euthanasia — different legal treatment globally"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Supreme Court of India recognised passive euthanasia in 2018 (Common Cause case).",
+    "keywords": [
+      "euthanasia",
+      "legalisation",
+      "medical ethics",
+      "right to die",
+      "jurisdiction"
+    ]
+  },
+  {
+    "idx": 5,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Mauryan Empire",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "LOW",
+    "trap_factor": "Rummindei pillar edict is well-known as an Ashokan record, making it an attractive distractor. The Prayaga-Prasasti is associated with Samudragupta, not food security.",
+    "elimination_hint": "The Sohagaura Copper-plate is specifically identified by historians as the earliest royal order related to food storage for crisis — eliminate other options as they deal with different subjects.",
+    "factual_hooks": [
+      "Sohagaura Copper-plate is the earliest royal order for food storage",
+      "Pre-Mauryan or early Mauryan administrative document",
+      "Reflects early state welfare concern for food security"
+    ],
+    "prerequisite_concepts": [
+      "Mauryan administration",
+      "Ashokan edicts and inscriptions",
+      "Ancient Indian epigraphy"
+    ],
+    "related_concepts": [
+      "Arthashastra grain storage provisions",
+      "Rummindei pillar edict",
+      "Mehrauli Pillar"
+    ],
+    "contrast_with": [
+      "Rummindei pillar — commemorates Buddha's birthplace, not food storage"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Sohagaura",
+      "copper plate",
+      "food storage",
+      "Mauryan",
+      "royal order",
+      "famine relief"
+    ]
+  },
+  {
+    "idx": 6,
+    "subject": "Environment",
+    "category": "Ecology & Ecosystem",
+    "topic": "Ecosystem Types",
+    "syllabus_id": "ENV.ECO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "The colour red suggests 'red tides' but students might think of oil spills as 'black tides' or conflate the term. The word 'bloom' might suggest 'sea flowers'.",
+    "elimination_hint": "Red tides are caused by dinoflagellate blooms that produce red/brownish pigmentation; the term is directly associated with estuaries and harmful algal blooms.",
+    "factual_hooks": [
+      "Red tides are caused by dinoflagellate blooms",
+      "They can be toxic to marine life and humans",
+      "Occur in estuaries and coastal areas"
+    ],
+    "prerequisite_concepts": [
+      "Estuaries",
+      "Algal blooms",
+      "Dinoflagellates",
+      "Marine ecology"
+    ],
+    "related_concepts": [
+      "Harmful Algal Blooms (HABs)",
+      "Eutrophication",
+      "Marine pollution"
+    ],
+    "contrast_with": [
+      "Green tides — caused by green algae, different species"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Red tides are increasing globally due to nutrient pollution and climate change.",
+    "keywords": [
+      "red tides",
+      "dinoflagellates",
+      "estuary",
+      "algal bloom",
+      "marine ecosystem",
+      "pigment"
+    ]
+  },
+  {
+    "idx": 7,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse the direction of offset — 6 AM is 6 hours behind noon, so the place is 90° west, not east. Dividing incorrectly (6×15=90) gives the right answer but the direction trips many.",
+    "elimination_hint": "6 AM is 6 hours behind GMT noon → west of GMT. Each hour = 15°, so 6 × 15 = 90° West. Eliminate all eastern longitudes.",
+    "factual_hooks": [
+      "Each hour of time difference = 15° of longitude",
+      "Places west of GMT have earlier time",
+      "6 hours behind GMT = 90° West"
+    ],
+    "prerequisite_concepts": [
+      "Standard time zones",
+      "Longitude calculation",
+      "GMT reference"
+    ],
+    "related_concepts": [
+      "International Date Line",
+      "IST = GMT+5:30",
+      "Time zone calculation"
+    ],
+    "contrast_with": [
+      "90°E — would be 6 hours AHEAD of GMT, giving 6 PM not 6 AM"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "longitude",
+      "GMT",
+      "time zone",
+      "degrees",
+      "east west",
+      "calculation"
+    ]
+  },
+  {
+    "idx": 8,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Gandhian Era",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHEN",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may confuse the Komagata Maru incident (1914) with the Home Rule League (1916); Gandhi returned to India in 1915, making the sequence tricky.",
+    "elimination_hint": "Komagata Maru = 1914; Gandhi's return = 1915; Tilak's Home Rule League = 1916. So the sequence is II, III, I → option D.",
+    "factual_hooks": [
+      "Komagata Maru incident: 1914",
+      "Gandhi returned to India: January 1915",
+      "Tilak's Home Rule League: April 1916"
+    ],
+    "prerequisite_concepts": [
+      "Indian National Movement timeline",
+      "Home Rule Movement",
+      "Gandhi's early career"
+    ],
+    "related_concepts": [
+      "Annie Besant's Home Rule League",
+      "Jallianwala Bagh",
+      "Non-Cooperation Movement"
+    ],
+    "contrast_with": [
+      "Annie Besant's Home Rule League (1916) vs Tilak's (also 1916) — two parallel leagues"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Home Rule League",
+      "Komagata Maru",
+      "Gandhi",
+      "Tilak",
+      "1914",
+      "chronology"
+    ]
+  },
+  {
+    "idx": 9,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHY",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Qandhar's natural resources might seem important, but the real significance was military — it was the gateway to Central Asia and a key defensive stronghold.",
+    "elimination_hint": "Qandhar was important because it controlled the mountain passes to Central Asia — eliminate 'natural resources' and 'communication'; the prime value was as a 'strategic stronghold'.",
+    "factual_hooks": [
+      "Qandhar guarded the northwestern approaches to the Mughal Empire",
+      "It was contested between Mughals and Safavids of Persia",
+      "Its loss weakened Mughal northwestern defense"
+    ],
+    "prerequisite_concepts": [
+      "Mughal-Safavid relations",
+      "Northwestern frontier geography",
+      "Mughal decline factors"
+    ],
+    "related_concepts": [
+      "Khyber Pass",
+      "Safavid Persia",
+      "Mughal expansion under Akbar"
+    ],
+    "contrast_with": [
+      "Kabul — also important but more of a revenue base than strategic gateway"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Qandhar",
+      "Mughal",
+      "strategic",
+      "Safavid",
+      "northwest frontier",
+      "military"
+    ]
+  },
+  {
+    "idx": 10,
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "United Nations",
+    "syllabus_id": "IR.IO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Hindi is not an official UN language, though India promotes it; German is also not official despite being widely spoken. Students often include Hindi mistakenly.",
+    "elimination_hint": "The 6 official UN languages are English, French, Spanish, Russian, Chinese (Mandarin), and Arabic — not German or Hindi. Eliminate any option missing Arabic or Spanish.",
+    "factual_hooks": [
+      "UN has 6 official languages: English, French, Spanish, Russian, Chinese, Arabic",
+      "Hindi is NOT an official UN language",
+      "Arabic was added as the 6th official language in 1973"
+    ],
+    "prerequisite_concepts": [
+      "United Nations structure",
+      "UN Charter",
+      "International diplomacy languages"
+    ],
+    "related_concepts": [
+      "UN General Assembly",
+      "Security Council languages",
+      "India's bid for Hindi at UN"
+    ],
+    "contrast_with": [
+      "Working languages of UN Secretariat — only English and French"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India continues to advocate for Hindi as an official UN language.",
+    "keywords": [
+      "UN official languages",
+      "Arabic",
+      "Spanish",
+      "Chinese",
+      "Russian",
+      "French"
+    ]
+  },
+  {
+    "idx": 11,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse ergotism with food poisoning from rotten vegetables or stale food; the fungal origin on grains is the distinguishing feature.",
+    "elimination_hint": "Ergotism is caused by Claviceps purpurea fungus on rye and other grains — specifically contaminated grains, not vegetables or water.",
+    "factual_hooks": [
+      "Ergotism caused by Claviceps purpurea fungus on grains",
+      "Causes hallucinations, gangrene ('St Anthony's Fire')",
+      "Historically caused mass poisoning epidemics in Europe"
+    ],
+    "prerequisite_concepts": [
+      "Fungal diseases",
+      "Food-borne illnesses",
+      "Mycotoxins"
+    ],
+    "related_concepts": [
+      "Aflatoxin",
+      "Mycotoxins in food",
+      "Grain storage safety"
+    ],
+    "contrast_with": [
+      "Botulism — caused by bacteria in preserved/canned food, not fungal grains"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "ergotism",
+      "Claviceps",
+      "grains",
+      "fungal",
+      "food contamination",
+      "mycotoxin"
+    ]
+  },
+  {
+    "idx": 12,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Glycolysis might seem like the full answer since it is part of glucose breakdown; anaerobic respiration also breaks down glucose but without complete oxidation.",
+    "elimination_hint": "Complete oxidation of glucose to CO2 + H2O in presence of O2 = aerobic respiration by definition. Eliminate anaerobic (no O2), glycolysis (partial), and hydrolysis (water splitting).",
+    "factual_hooks": [
+      "Aerobic respiration: C6H12O6 + O2 → CO2 + H2O + 38 ATP",
+      "Anaerobic respiration produces lactic acid or ethanol without full oxidation",
+      "Glycolysis is only the first step of glucose breakdown"
+    ],
+    "prerequisite_concepts": [
+      "Cellular respiration",
+      "ATP production",
+      "Metabolic pathways"
+    ],
+    "related_concepts": [
+      "Krebs cycle",
+      "Electron transport chain",
+      "Fermentation"
+    ],
+    "contrast_with": [
+      "Anaerobic respiration — incomplete oxidation, produces lactate/ethanol, no O2 needed"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "aerobic respiration",
+      "glucose",
+      "oxygen",
+      "CO2",
+      "water",
+      "energy"
+    ]
+  },
+  {
+    "idx": 13,
+    "subject": "CSAT",
+    "category": "Logical Reasoning",
+    "topic": "Syllogisms",
+    "syllabus_id": "CSAT.LR.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement III says some employed are not honest; students may incorrectly apply this to Mohan's family members who are all honest by Statement I.",
+    "elimination_hint": "All of Mohan's family are honest (I); some members not employed (II). Therefore, employed members of Mohan's family must be honest since all are honest. Option B follows validly.",
+    "factual_hooks": [
+      "All members honest → any subset including employed members is honest",
+      "Statement III applies to outside world, not specifically Mohan's family",
+      "Valid syllogistic inference: subset of honest = honest"
+    ],
+    "prerequisite_concepts": [
+      "Syllogism rules",
+      "Set theory",
+      "Logical deduction"
+    ],
+    "related_concepts": [
+      "Venn diagrams",
+      "Categorical propositions",
+      "CSAT reasoning"
+    ],
+    "contrast_with": [
+      "Option A — cannot conclude ALL are employed when Statement II says some are not"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "syllogism",
+      "logical inference",
+      "honest",
+      "employed",
+      "deduction",
+      "CSAT"
+    ]
+  },
+  {
+    "idx": 14,
+    "subject": "CSAT",
+    "category": "Logical Reasoning",
+    "topic": "Blood Relations",
+    "syllabus_id": "CSAT.LR.1",
+    "dimension": "WHO",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "The family tree has many members making it easy to lose track; students may confuse which children belong to which couple, especially with F and G both being girls.",
+    "elimination_hint": "E is married to A (doctor), D is married to B with child G. F is a girl child of E and A. C must be the remaining adult or child — trace systematically: A-E couple has 2 children, one is F (girl), so C could be F's sibling or related to A.",
+    "factual_hooks": [
+      "4 adults and 3 children in the family",
+      "F and G are girls among children",
+      "A and D are brothers; E married to one brother (A), B married to D"
+    ],
+    "prerequisite_concepts": [
+      "Blood relation puzzles",
+      "Family tree construction",
+      "Logical elimination"
+    ],
+    "related_concepts": [
+      "CSAT family puzzles",
+      "Seating arrangement",
+      "Ordering problems"
+    ],
+    "contrast_with": [
+      "Direction sense puzzles — different type but similar systematic approach needed"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "blood relations",
+      "family",
+      "CSAT",
+      "logical reasoning",
+      "siblings",
+      "relatives"
+    ]
+  },
+  {
+    "idx": 15,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims_priority": "LOW",
+    "trap_factor": "Map-based questions require precise knowledge of Akbar's empire at specific dates; students may confuse the 1557 and 1605 extents of Akbar's empire.",
+    "elimination_hint": "By 1605 (Akbar's death year), Gondwana was the independent territory adjacent to the Mughal Empire; Lahore was a major Mughal city — eliminate 1557 options as empire was smaller then.",
+    "factual_hooks": [
+      "Akbar's empire at death (1605) extended across most of northern India",
+      "Gondwana remained a semi-independent state during Akbar's time",
+      "Lahore was a key Mughal capital"
+    ],
+    "prerequisite_concepts": [
+      "Akbar's conquests",
+      "Mughal territorial expansion",
+      "Medieval Indian political map"
+    ],
+    "related_concepts": [
+      "Akbar's Rajput policy",
+      "Deccan campaigns",
+      "Mughal provincial administration"
+    ],
+    "contrast_with": [
+      "Akbar 1557 — much smaller empire, mainly Punjab and Delhi region"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Akbar",
+      "empire",
+      "Gondwana",
+      "Lahore",
+      "1605",
+      "map"
+    ]
+  },
+  {
+    "idx": 16,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "The Misery Index combines unemployment AND inflation, so higher index doesn't necessarily mean higher inflation alone (Statement IV is wrong). Statement I about Britain being 'most miserable' needs chart verification.",
+    "elimination_hint": "Without the actual chart, use logic: Misery Index = unemployment + inflation, so IV is definitively wrong. Statements II and III are data-dependent but more conservative inferences — choose B.",
+    "factual_hooks": [
+      "Misery Index = Unemployment rate + Inflation rate",
+      "Higher misery index doesn't imply higher inflation alone",
+      "Chart-based DI questions require careful reading of axes"
+    ],
+    "prerequisite_concepts": [
+      "Data interpretation",
+      "Index numbers",
+      "Economic indicators"
+    ],
+    "related_concepts": [
+      "Human Development Index",
+      "GDP comparisons",
+      "Unemployment measurement"
+    ],
+    "contrast_with": [
+      "Happiness Index — inverse of misery, measures wellbeing"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "misery index",
+      "unemployment",
+      "inflation",
+      "data interpretation",
+      "Europe",
+      "CSAT"
+    ]
+  },
+  {
+    "idx": 17,
+    "subject": "Economy",
+    "category": "Development & Planning",
+    "topic": "Inclusive Growth",
+    "syllabus_id": "ECO.DEV.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse India's sectoral GDP shares; since 1980, services sector has consistently grown while agriculture has declined — the trend direction is clear.",
+    "elimination_hint": "Since liberalisation in 1991 and even before, India's tertiary (services) sector has grown steadily as share of GDP — answer is 'increasing trend'.",
+    "factual_hooks": [
+      "Tertiary (services) sector share in India's GDP has risen from ~40% to ~55%+",
+      "Agriculture share has declined from ~40% to ~18%",
+      "IT, banking, and telecom drove tertiary growth post-1991"
+    ],
+    "prerequisite_concepts": [
+      "Sectoral composition of GDP",
+      "Economic structural transformation",
+      "India's economic history"
+    ],
+    "related_concepts": [
+      "Primary vs secondary vs tertiary sectors",
+      "Structural change in economy",
+      "Lewis model of development"
+    ],
+    "contrast_with": [
+      "Manufacturing sector — grew but lagged compared to services in India"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's services-led growth model is debated for its inclusivity.",
+    "keywords": [
+      "tertiary sector",
+      "GDP",
+      "India",
+      "services",
+      "economic structure",
+      "growth trend"
+    ]
+  },
+  {
+    "idx": 18,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Pheromones might be confused with estrogen (both relate to attraction/female), and adrenaline might be wrongly linked to females rather than anger/fear response.",
+    "elimination_hint": "Adrenaline = fight or flight (anger/fear/danger); Estrogen = female hormone; Insulin = glucose regulation; Pheromones = chemical attractant via smell. Match logically: I-A, II-C, III-D, IV-B.",
+    "factual_hooks": [
+      "Adrenaline triggers fight-or-flight response",
+      "Estrogen is the primary female sex hormone",
+      "Insulin regulates blood glucose",
+      "Pheromones are chemical signals for attraction"
+    ],
+    "prerequisite_concepts": [
+      "Endocrine system",
+      "Hormones and their functions",
+      "Chemical communication"
+    ],
+    "related_concepts": [
+      "Testosterone",
+      "Cortisol",
+      "Oxytocin",
+      "Chemical signalling"
+    ],
+    "contrast_with": [
+      "Pheromones (external chemical signals) vs hormones (internal chemical signals)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "adrenaline",
+      "estrogen",
+      "insulin",
+      "pheromones",
+      "hormones",
+      "endocrine"
+    ]
+  },
+  {
+    "idx": 19,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Drainage System",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Map-based question without the actual map; students must rely on knowledge that Kolkata (on Hooghly/Ganges) is the main riverine port of India.",
+    "elimination_hint": "India's only major riverine port is Kolkata (on the Hooghly River, a distributary of the Ganges) — all other major ports are on the coastline.",
+    "factual_hooks": [
+      "Kolkata is India's only major riverine port (on Hooghly river)",
+      "Mumbai, Chennai, Visakhapatnam are coastal ports",
+      "Riverine ports are situated on river banks, not directly on the sea"
+    ],
+    "prerequisite_concepts": [
+      "Types of ports",
+      "Indian port locations",
+      "Major Indian rivers"
+    ],
+    "related_concepts": [
+      "Haldia port",
+      "Hooghly River",
+      "Major ports of India"
+    ],
+    "contrast_with": [
+      "Coastal ports (Mumbai, Chennai) — directly on the sea, not on rivers"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Kolkata port's depth constraints have led to development of Haldia as a complementary facility.",
+    "keywords": [
+      "riverine port",
+      "Kolkata",
+      "Hooghly",
+      "ports of India",
+      "map-based",
+      "drainage"
+    ]
+  },
+  {
+    "idx": 20,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Lathyrism is confused with pellagra (polished rice) or mustard oil consumption disorder; the specific crop Kesari dal (Lathyrus sativus) is the key distinguisher.",
+    "elimination_hint": "Lathyrism derives its name from Lathyrus sativus (Kesari dal/grass pea); its neurotoxin BOAA causes irreversible lower limb paralysis when consumed excessively.",
+    "factual_hooks": [
+      "Lathyrism caused by Lathyrus sativus (Kesari dal/grass pea)",
+      "Neurotoxin BOAA damages spinal cord",
+      "Causes irreversible lower limb paralysis"
+    ],
+    "prerequisite_concepts": [
+      "Food-borne neurological disorders",
+      "Neurotoxins",
+      "Nutritional diseases"
+    ],
+    "related_concepts": [
+      "Ergotism",
+      "Pellagra",
+      "Fluorosis",
+      "Nutritional deficiency diseases"
+    ],
+    "contrast_with": [
+      "Pellagra — caused by niacin deficiency from polished rice/maize diet, not a toxin"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Lathyrism still affects poor communities in drought-prone areas where Kesari dal is consumed as last resort.",
+    "keywords": [
+      "lathyrism",
+      "Kesari dal",
+      "Lathyrus sativus",
+      "neurotoxin",
+      "paralysis",
+      "food-borne disease"
+    ]
+  },
+  {
+    "idx": 21,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may think the reason (large specific heat of water) is about absorption capacity rather than the exothermic dilution reaction, leading to confusion about which explanation is correct.",
+    "elimination_hint": "Both A and R are true AND the large specific heat of water means it absorbs the enormous heat of dilution safely — R correctly explains A. Answer is option A.",
+    "factual_hooks": [
+      "Sulphuric acid dilution is highly exothermic — acid added to water, never vice versa",
+      "Water's high specific heat (4.18 J/g°C) absorbs the heat generated",
+      "Adding water to acid can cause dangerous spattering/boiling"
+    ],
+    "prerequisite_concepts": [
+      "Exothermic reactions",
+      "Specific heat capacity",
+      "Acid safety"
+    ],
+    "related_concepts": [
+      "Heat of dilution",
+      "Concentrated vs dilute acids",
+      "Lab safety protocols"
+    ],
+    "contrast_with": [
+      "Adding water to acid — catastrophic boiling and acid splashing due to localized heat"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "sulphuric acid",
+      "dilution",
+      "specific heat",
+      "water",
+      "exothermic",
+      "lab safety"
+    ]
+  },
+  {
+    "idx": 22,
+    "subject": "Science & Technology",
+    "category": "Biotechnology",
+    "topic": "Biotech Applications",
+    "syllabus_id": "S&T.BIO.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Both A and R are true but students might think R doesn't explain A — however R directly explains the source of the Bt gene used in A.",
+    "elimination_hint": "The Bt gene comes from Bacillus thuringiensis bacterium — R is true and directly explains how the insect-resistant trait was introduced into cotton via bacterial gene, so R correctly explains A.",
+    "factual_hooks": [
+      "Bt cotton contains gene from Bacillus thuringiensis bacterium",
+      "Bt toxin specifically kills bollworm larvae by destroying gut lining",
+      "Bt cotton was approved in India in 2002 — first GM crop"
+    ],
+    "prerequisite_concepts": [
+      "Genetic engineering",
+      "Transgenic organisms",
+      "Pest resistance"
+    ],
+    "related_concepts": [
+      "GMO crops",
+      "Herbicide-resistant crops",
+      "Biosafety regulations in India"
+    ],
+    "contrast_with": [
+      "Non-Bt cotton — susceptible to bollworm, requires heavy pesticide use"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Bt cotton debate continues regarding farmer suicides, seed prices, and resistance development.",
+    "keywords": [
+      "Bt cotton",
+      "Bacillus thuringiensis",
+      "transgenic",
+      "insect resistance",
+      "GMO",
+      "bacterium"
+    ]
+  },
+  {
+    "idx": 23,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Delhi Sultanate",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Alam Khan is a lesser-known figure; students may confuse him with Daulat Khan Lodi who also invited Babur. The uncle vs cousin distinction is the critical trap.",
+    "elimination_hint": "Alam Khan was an uncle of Ibrahim Lodi who claimed rights to the throne — he invited Babur to help him seize power from Ibrahim Lodi.",
+    "factual_hooks": [
+      "Alam Khan was uncle of Ibrahim Lodi, a pretender to Delhi throne",
+      "Daulat Khan Lodi (Governor of Punjab) also invited Babur",
+      "First Battle of Panipat (1526) ended Ibrahim Lodi's rule"
+    ],
+    "prerequisite_concepts": [
+      "First Battle of Panipat",
+      "Lodi dynasty",
+      "Babur's invasion of India"
+    ],
+    "related_concepts": [
+      "Daulat Khan Lodi",
+      "Babur's Baburnama",
+      "Foundation of Mughal Empire"
+    ],
+    "contrast_with": [
+      "Daulat Khan Lodi — Governor of Punjab who invited Babur, not a blood pretender"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Alam Khan",
+      "Ibrahim Lodi",
+      "Babur",
+      "Panipat",
+      "Delhi Sultanate",
+      "Lodi dynasty"
+    ]
+  },
+  {
+    "idx": 24,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Dharmat is a lesser-known battle; students may confuse it with Battle of Samugarh (the decisive battle) between Aurangzeb and Dara Shikoh.",
+    "elimination_hint": "Battle of Dharmat (1658) was the first battle in the Mughal succession war, fought between Aurangzeb's forces and imperial forces supporting Dara Shikoh — choose option C.",
+    "factual_hooks": [
+      "Battle of Dharmat (1658) — Aurangzeb defeated Dara's forces near Ujjain",
+      "Followed by decisive Battle of Samugarh (1658)",
+      "Led to Aurangzeb becoming emperor"
+    ],
+    "prerequisite_concepts": [
+      "Mughal succession wars",
+      "Aurangzeb's rise",
+      "Shah Jahan's sons"
+    ],
+    "related_concepts": [
+      "Battle of Samugarh",
+      "Dara Shikoh",
+      "Shah Jahan imprisonment"
+    ],
+    "contrast_with": [
+      "Battle of Samugarh — more decisive battle of the same succession war"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Battle of Dharmat",
+      "Aurangzeb",
+      "Dara Shikoh",
+      "Mughal succession",
+      "1658",
+      "war of succession"
+    ]
+  },
+  {
+    "idx": 25,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "HOW",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 confuses renal artery (brings blood TO kidney) with renal vein (takes clean blood AWAY); students who don't know the distinction will select it as correct.",
+    "elimination_hint": "After filtration, clean blood leaves via renal VEIN (not artery) — Statement 1 is wrong. Statement 2 correctly describes glucose reabsorption in renal tubules → select 'Only 2'.",
+    "factual_hooks": [
+      "Renal artery brings oxygenated/unfiltered blood TO kidney",
+      "Renal vein takes filtered clean blood AWAY from kidney",
+      "Glucose is reabsorbed in renal tubules after Bowman's capsule filtration"
+    ],
+    "prerequisite_concepts": [
+      "Kidney structure and function",
+      "Nephron",
+      "Renal circulation"
+    ],
+    "related_concepts": [
+      "Bowman's capsule",
+      "Glomerulus",
+      "Dialysis",
+      "Urine formation"
+    ],
+    "contrast_with": [
+      "Renal artery vs renal vein — opposite directions of blood flow"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "kidney",
+      "renal artery",
+      "renal vein",
+      "Bowman's capsule",
+      "glucose reabsorption",
+      "nephron"
+    ]
+  },
+  {
+    "idx": 26,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Supreme Court",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students confuse the President with Parliament for expanding Supreme Court's jurisdiction; the President appoints judges but Parliament has legislative power to expand jurisdiction.",
+    "elimination_hint": "Article 138 states Parliament may by law extend SC's jurisdiction over Union List matters — the power rests with Parliament, not the President or Chief Justice.",
+    "factual_hooks": [
+      "Article 138 empowers Parliament to extend SC jurisdiction",
+      "SC's original jurisdiction can be enlarged by Parliament for Union List matters",
+      "CJI has no power to expand jurisdiction unilaterally"
+    ],
+    "prerequisite_concepts": [
+      "Supreme Court jurisdiction",
+      "Articles 131-140",
+      "Union List"
+    ],
+    "related_concepts": [
+      "Original jurisdiction",
+      "Appellate jurisdiction",
+      "Advisory jurisdiction (Article 143)"
+    ],
+    "contrast_with": [
+      "Article 143 — President can seek SC's advisory opinion, different from jurisdiction expansion"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Supreme Court",
+      "jurisdiction",
+      "Parliament",
+      "Article 138",
+      "Union List",
+      "enlargement"
+    ]
+  },
+  {
+    "idx": 27,
+    "subject": "Polity",
+    "category": "Constitutional Bodies",
+    "topic": "Election Commission",
+    "syllabus_id": "POL.CB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Article 142 (complete justice) sounds like what President might use; Article 143 (advisory opinion) is less known, making students guess incorrectly.",
+    "elimination_hint": "Article 143 specifically allows the President to refer questions of law or fact of public importance to the SC for its opinion — this is the Presidential Reference provision.",
+    "factual_hooks": [
+      "Article 143 = Presidential Reference to Supreme Court for advisory opinion",
+      "The 2002 Gujarat election deferral controversy led to a Presidential Reference",
+      "SC's advice under Article 143 is not binding on the President"
+    ],
+    "prerequisite_concepts": [
+      "Presidential Reference",
+      "Article 143",
+      "Election Commission powers"
+    ],
+    "related_concepts": [
+      "Article 142 (complete justice)",
+      "Article 144 (civil and judicial authorities to act in aid of SC)",
+      "Electoral disputes"
+    ],
+    "contrast_with": [
+      "Article 142 — used by SC suo motu for complete justice, not a Presidential power"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Article 143",
+      "Presidential Reference",
+      "Supreme Court",
+      "advisory opinion",
+      "Election Commission",
+      "Gujarat"
+    ]
+  },
+  {
+    "idx": 28,
+    "subject": "Science & Technology",
+    "category": "Space Technology",
+    "topic": "Indian Space Programme",
+    "syllabus_id": "S&T.SPC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims_priority": "LOW",
+    "trap_factor": "Specific ISRO launches are hard to recall precisely; METSAT launch details (2002) and PSLV-C4 payload are specific factual details tested in contemporaneous PYQs.",
+    "elimination_hint": "Both statements about METSAT launch in September 2002 and PSLV-C4 carrying 1000+ kg payload to GTO were reported as factual at the time — select 'Both 1 and 2'.",
+    "factual_hooks": [
+      "METSAT (now Kalpana-1) launched September 2002 by PSLV-C4",
+      "PSLV-C4 put a payload of over 1000 kg into geosynchronous transfer orbit",
+      "METSAT was India's first dedicated meteorological satellite"
+    ],
+    "prerequisite_concepts": [
+      "ISRO launch vehicles",
+      "Meteorological satellites",
+      "Geosynchronous orbit"
+    ],
+    "related_concepts": [
+      "INSAT series",
+      "PSLV variants",
+      "Kalpana-1 satellite"
+    ],
+    "contrast_with": [
+      "GSLV — used for heavier geosynchronous payloads; PSLV used for polar/sun-synchronous orbits primarily"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "METSAT",
+      "PSLV-C4",
+      "ISRO",
+      "meteorological satellite",
+      "geosynchronous",
+      "2002"
+    ]
+  },
+  {
+    "idx": 29,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Physiography",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Nanda Devi's name might suggest Nepal Himalayas or Punjab Himalayas; the 'Devi' association might link students to religious geography, not physical geography.",
+    "elimination_hint": "Nanda Devi is India's highest peak (7816m) located in Uttarakhand — which falls under Kumaon Himalayas. Eliminate Assam (east), Nepal, and Punjab (west).",
+    "factual_hooks": [
+      "Nanda Devi (7816m) is India's highest peak entirely within India",
+      "Located in Kumaon Himalayas, Uttarakhand",
+      "It is a UNESCO World Heritage Site (Nanda Devi Biosphere Reserve)"
+    ],
+    "prerequisite_concepts": [
+      "Himalayan divisions",
+      "India's major peaks",
+      "Uttarakhand geography"
+    ],
+    "related_concepts": [
+      "K2",
+      "Kangchenjunga",
+      "Himalayan tectonic zones"
+    ],
+    "contrast_with": [
+      "Kangchenjunga — highest peak in India but on Sikkim border, part of Eastern Himalayas not Kumaon"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Nanda Devi",
+      "Kumaon Himalayas",
+      "Uttarakhand",
+      "India's highest peak",
+      "Himalayan divisions",
+      "physiography"
+    ]
+  },
+  {
+    "idx": 30,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Agricultural Geography",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Cotton's origin is debated — while India has ancient cotton history, the Indus Valley, the Americas, and Africa also have ancient cotton. Statement 1 may seem wrong but is accepted academically.",
+    "elimination_hint": "India is recognized as the original/ancient home of cotton (archaeological evidence from Indus Valley). India was also the first to develop hybrid cotton — both statements are correct.",
+    "factual_hooks": [
+      "Cotton cultivation evidence from Indus Valley (~5000 BCE)",
+      "India developed the world's first hybrid cotton variety (H4 variety, 1970)",
+      "India is currently one of the largest cotton producers globally"
+    ],
+    "prerequisite_concepts": [
+      "Agricultural history of India",
+      "Hybrid crops",
+      "Indus Valley economy"
+    ],
+    "related_concepts": [
+      "Green Revolution",
+      "Bt cotton",
+      "Cotton belt of India"
+    ],
+    "contrast_with": [
+      "Americas — also independent center of cotton cultivation; Egypt — ancient cotton, but India's is oldest"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India is the world's largest cotton producer and exporter.",
+    "keywords": [
+      "cotton",
+      "India origin",
+      "hybrid cotton",
+      "Indus Valley",
+      "agricultural history",
+      "crop development"
+    ]
+  },
+  {
+    "idx": 31,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "HOW",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "LOW",
+    "trap_factor": "Jahandar Shah's short reign (1712-13) is obscure; students may confuse deposition by his wazir with defeat by a nephew, as both involve internal power struggles.",
+    "elimination_hint": "Jahandar Shah was defeated and killed by his nephew Farrukhsiyar (with Sayyid Brothers' support) in the Battle of Agra (1713) — choose 'defeated by nephew'.",
+    "factual_hooks": [
+      "Jahandar Shah ruled only 1 year (1712-13)",
+      "Defeated by nephew Farrukhsiyar at Battle of Agra",
+      "Sayyid Brothers (kingmakers) supported Farrukhsiyar"
+    ],
+    "prerequisite_concepts": [
+      "Later Mughal emperors",
+      "Sayyid Brothers era",
+      "Mughal decline"
+    ],
+    "related_concepts": [
+      "Farrukhsiyar",
+      "Muhammad Shah 'Rangeela'",
+      "Mughal succession struggles"
+    ],
+    "contrast_with": [
+      "Wazir deposition — happened to other Mughal emperors but not Jahandar Shah specifically"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Jahandar Shah",
+      "Farrukhsiyar",
+      "Mughal",
+      "Sayyid Brothers",
+      "succession",
+      "later Mughals"
+    ]
+  },
+  {
+    "idx": 32,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "British Expansion",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Cochin and Surat are more famous Dutch trading points; Pulicat (near Chennai) is less known as the Dutch headquarters (Fort Geldria) in India.",
+    "elimination_hint": "The Dutch established their first factory at Masulipatam (1605) but their primary headquarters/earliest fort was at Pulicat on the Coromandel Coast — choose Pulicat.",
+    "factual_hooks": [
+      "Dutch first factory in India: Masulipatam (1605)",
+      "Dutch primary headquarters: Pulicat (Fort Geldria)",
+      "Dutch were major traders in pepper, textiles, and spices"
+    ],
+    "prerequisite_concepts": [
+      "European trading companies in India",
+      "Coromandel Coast trade",
+      "Dutch East India Company (VOC)"
+    ],
+    "related_concepts": [
+      "Portuguese at Goa",
+      "English at Surat",
+      "French at Pondicherry"
+    ],
+    "contrast_with": [
+      "English earliest factory — Surat (1608); Dutch — Pulicat/Masulipatam"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Dutch",
+      "Pulicat",
+      "factory",
+      "VOC",
+      "Coromandel",
+      "European traders"
+    ]
+  },
+  {
+    "idx": 33,
+    "subject": "Science & Technology",
+    "category": "Biotechnology",
+    "topic": "Biotech Applications",
+    "syllabus_id": "S&T.BIO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may think the Agriculture Ministry regulates GM crops since they relate to farming; but environmental safety regulation falls under MoEF.",
+    "elimination_hint": "GEAC (Genetic Engineering Approval Committee) was under the Ministry of Environment and Forests — now Ministry of Environment, Forest and Climate Change — not Agriculture.",
+    "factual_hooks": [
+      "GEAC regulates GMO cultivation and research in India",
+      "GEAC is under Ministry of Environment, Forest and Climate Change",
+      "Bt cotton approved by GEAC in 2002 — India's first GM crop"
+    ],
+    "prerequisite_concepts": [
+      "GMO regulation in India",
+      "Biosafety framework",
+      "Bt cotton approval"
+    ],
+    "related_concepts": [
+      "Protection of Plant Varieties and Farmers' Rights Act",
+      "Cartagena Protocol on Biosafety",
+      "Food Safety and Standards Authority"
+    ],
+    "contrast_with": [
+      "FSSAI — regulates food safety including GM food labelling, not cultivation approval"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "GEAC's role is increasingly important as India debates approval of GM mustard and other crops.",
+    "keywords": [
+      "GEAC",
+      "GMO",
+      "Bt cotton",
+      "Environment Ministry",
+      "biosafety",
+      "genetic engineering"
+    ]
+  },
+  {
+    "idx": 34,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "President",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "The Speaker of Lok Sabha and Deputy PM seem senior in government but the protocol order places the Governor within his state above them due to constitutional position.",
+    "elimination_hint": "In Indian protocol, the Governor within his state ranks above the Speaker of Lok Sabha and Deputy PM — constitutional office in territorial jurisdiction takes precedence.",
+    "factual_hooks": [
+      "Indian protocol order: President > VP > PM > Speaker > Deputy PM (general)",
+      "Governor within his own state ranks above Speaker and Deputy PM",
+      "Protocol order is governed by Ministry of Home Affairs warrant of precedence"
+    ],
+    "prerequisite_concepts": [
+      "Warrant of precedence in India",
+      "Constitutional offices",
+      "Governor's position"
+    ],
+    "related_concepts": [
+      "Vice President's precedence",
+      "Chief Justice vs Speaker precedence",
+      "State vs Central hierarchy"
+    ],
+    "contrast_with": [
+      "Governor outside his state — ranks lower than in his state jurisdiction"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "protocol",
+      "precedence",
+      "Governor",
+      "Speaker",
+      "Deputy PM",
+      "Indian Constitution"
+    ]
+  },
+  {
+    "idx": 35,
+    "subject": "Science & Technology",
+    "category": "Nuclear Technology",
+    "topic": "Nuclear Programme",
+    "syllabus_id": "S&T.NUC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Bordeaux mixture (copper sulphate + lime, not sodium sulphate) is a common wrong option; zinc amalgams are used in the past for dental work but are being phased out. Calcium carbonate is in chalk, not toothpaste.",
+    "elimination_hint": "Liquid sodium is used as coolant in fast breeder reactors (like FBTR at Kalpakkam) because of its excellent heat conductivity — this is the correct and well-established fact.",
+    "factual_hooks": [
+      "Liquid sodium is a coolant in Fast Breeder Reactors (PFBR/FBTR)",
+      "Bordeaux mixture = copper sulphate + lime (not sodium sulphate)",
+      "Calcium carbonate is in chalk; toothpaste uses calcium carbonate as abrasive but also silica"
+    ],
+    "prerequisite_concepts": [
+      "Nuclear reactor types",
+      "Fast breeder reactor",
+      "Coolant materials"
+    ],
+    "related_concepts": [
+      "FBTR Kalpakkam",
+      "PFBR",
+      "PWR vs FBR coolants"
+    ],
+    "contrast_with": [
+      "Heavy water reactors (CANDU) use heavy water as coolant, not liquid sodium"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's PFBR at Kalpakkam uses liquid sodium coolant — key to thorium fuel cycle.",
+    "keywords": [
+      "liquid sodium",
+      "fast breeder reactor",
+      "coolant",
+      "nuclear",
+      "FBTR",
+      "Kalpakkam"
+    ]
+  },
+  {
+    "idx": 36,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Physics",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may select water vapour or carbon dioxide thinking of atmospheric effects; helium doesn't scatter light and CO2 is trace gas — dust particles are the primary scatterers.",
+    "elimination_hint": "Diffusion (scattering) of light in the atmosphere is primarily due to dust particles and aerosols via Tyndall effect/Mie scattering. Water vapour and CO2 absorb rather than scatter.",
+    "factual_hooks": [
+      "Light scattering in atmosphere mainly by dust/aerosol particles",
+      "Tyndall effect causes light diffusion",
+      "Blue sky from Rayleigh scattering by gas molecules; red sunset from dust/particles"
+    ],
+    "prerequisite_concepts": [
+      "Light scattering",
+      "Tyndall effect",
+      "Atmospheric optics"
+    ],
+    "related_concepts": [
+      "Rayleigh scattering",
+      "Blue sky explanation",
+      "Aerosol optical depth"
+    ],
+    "contrast_with": [
+      "Rayleigh scattering — by air molecules; Mie scattering — by dust/larger particles"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Air quality and aerosol concentration affect light scattering and contribute to smog.",
+    "keywords": [
+      "light diffusion",
+      "dust particles",
+      "atmosphere",
+      "scattering",
+      "Tyndall effect",
+      "optics"
+    ]
+  },
+  {
+    "idx": 37,
+    "subject": "International Relations",
+    "category": "India & Neighbours",
+    "topic": "India-Pakistan",
+    "syllabus_id": "IR.NBR.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may believe the Lahore Summit was in 1997 (it was 1999) and that Shimla Agreement sanctity of LoC was explicitly agreed (it was, but called 'Line of Control' from ceasefire line).",
+    "elimination_hint": "Lahore Summit = 1999 (Vajpayee-Nawaz Sharif), not 1997 (II is wrong). Islamabad Summit was between Vajpayee and Musharraf, not Rajiv-Nawaz (III wrong). Only Statement I (Shimla LoC sanctity) is correct.",
+    "factual_hooks": [
+      "Shimla Agreement (1972): India-Pakistan agreed to respect LoC sanctity",
+      "Lahore Declaration: February 1999, Vajpayee-Nawaz Sharif",
+      "Islamabad Summit 2004: Vajpayee-Musharraf, not Rajiv-Nawaz"
+    ],
+    "prerequisite_concepts": [
+      "India-Pakistan bilateral agreements",
+      "Simla Agreement 1972",
+      "Lahore Declaration 1999"
+    ],
+    "related_concepts": [
+      "Agra Summit",
+      "Composite Dialogue",
+      "LoC vs International Boundary"
+    ],
+    "contrast_with": [
+      "Lahore Declaration (1999) vs Simla Agreement (1972) — different contexts and signatories"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India-Pakistan relations remain tense; Simla Agreement is often invoked in bilateral disputes.",
+    "keywords": [
+      "Shimla Agreement",
+      "Lahore Summit",
+      "India-Pakistan",
+      "LoC",
+      "bilateral",
+      "1972"
+    ]
+  },
+  {
+    "idx": 38,
+    "subject": "International Relations",
+    "category": "India & Neighbours",
+    "topic": "Other Neighbours",
+    "syllabus_id": "IR.NBR.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "LOW",
+    "trap_factor": "Bhutan uses Ngultrum (pegged to Indian rupee), Maldives uses Rufiyaa, Malaysia uses Ringgit — Seychelles surprisingly uses Rupee, which is counterintuitive.",
+    "elimination_hint": "Seychelles uses the Seychellois Rupee — the only option that uses 'rupee' among the choices. Bhutan uses Ngultrum; Malaysia uses Ringgit; Maldives uses Rufiyaa.",
+    "factual_hooks": [
+      "Seychelles uses Seychellois Rupee (SCR)",
+      "Several countries use 'Rupee': India, Pakistan, Sri Lanka, Nepal, Seychelles, Mauritius",
+      "Bhutan's Ngultrum is pegged 1:1 to Indian Rupee"
+    ],
+    "prerequisite_concepts": [
+      "World currencies",
+      "South Asian economies",
+      "Indian Ocean island nations"
+    ],
+    "related_concepts": [
+      "Mauritian Rupee",
+      "Sri Lankan Rupee",
+      "Currency boards and pegs"
+    ],
+    "contrast_with": [
+      "Maldives Rufiyaa — often confused with rupee due to regional proximity"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Seychelles",
+      "Rupee",
+      "currency",
+      "Bhutan",
+      "Maldives",
+      "world currencies"
+    ]
+  },
+  {
+    "idx": 39,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Jainism",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 about Mahavira's mother being daughter of Lichchhavi chief Chetaka is often confused — Mahavira's mother was Trishala, sister (not daughter) of Chetaka. Statement 2 about Buddha's mother being from Kosala dynasty is also tricky.",
+    "elimination_hint": "Buddha's mother Mayadevi was from the Koliyan clan, sometimes linked to Kosala region. Parshvanatha was from Varanasi (Banaras) — Statement 3 is correct. Statement 2 is also considered correct — choose C (2 and 3).",
+    "factual_hooks": [
+      "Mahavira's mother Trishala was sister (not daughter) of Chetaka",
+      "Parshvanatha (23rd Tirthankara) was from Varanasi/Banaras",
+      "Buddha's mother Mayadevi was a Kosalan princess"
+    ],
+    "prerequisite_concepts": [
+      "Jainism Tirthankaras",
+      "Mahavira's life",
+      "Buddhism's origin"
+    ],
+    "related_concepts": [
+      "24 Tirthankaras",
+      "Rishabhanatha (1st Tirthankara)",
+      "Jain and Buddhist contemporaneity"
+    ],
+    "contrast_with": [
+      "Mahavira vs Buddha — contemporaries, different philosophies on soul and liberation"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Mahavira",
+      "Jainism",
+      "Tirthankaras",
+      "Parshvanatha",
+      "Buddha",
+      "Lichchhavi"
+    ]
+  },
+  {
+    "idx": 40,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Fundamental Rights",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Article 355 is often confused with Article 356 (President's Rule) and Article 352 (National Emergency) since they are all emergency-related provisions near each other.",
+    "elimination_hint": "Article 355 specifically places a duty on the Union to protect states against external aggression AND internal disturbance — it is the basis for central intervention before invoking Article 356.",
+    "factual_hooks": [
+      "Article 355: Union's duty to protect states from external aggression and internal disturbance",
+      "Article 356: President's Rule (used when state government fails)",
+      "Article 355 is often invoked as justification before imposing Article 356"
+    ],
+    "prerequisite_concepts": [
+      "Emergency provisions",
+      "Federal structure",
+      "Centre-state relations"
+    ],
+    "related_concepts": [
+      "Article 352 (National Emergency)",
+      "Article 356 (President's Rule)",
+      "Article 360 (Financial Emergency)"
+    ],
+    "contrast_with": [
+      "Article 356 — imposes President's Rule; Article 355 — states the duty, doesn't impose Rule directly"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Article 355 is debated in context of Home Ministry's role in internal security.",
+    "keywords": [
+      "Article 355",
+      "Union duty",
+      "external aggression",
+      "internal disturbance",
+      "Constitution",
+      "emergency"
+    ]
+  },
+  {
+    "idx": 41,
+    "subject": "Science & Technology",
+    "category": "Biotechnology",
+    "topic": "Biotech Applications",
+    "syllabus_id": "S&T.BIO.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "The Reason confuses cloning with IVF — students who know Dolly was the first cloned mammal but are unsure of the method may select option A or B thinking R is also true.",
+    "elimination_hint": "Dolly was produced by somatic cell nuclear transfer (SCNT), NOT in vitro fertilization — so A (assertion) is true but R (reason) is false. Answer is C.",
+    "factual_hooks": [
+      "Dolly (1996) was first mammal cloned from adult somatic cell",
+      "Method: Somatic Cell Nuclear Transfer (SCNT), not IVF",
+      "Cloning: nuclear DNA from donor; IVF: natural fertilization outside body"
+    ],
+    "prerequisite_concepts": [
+      "Animal cloning",
+      "Somatic cell nuclear transfer",
+      "IVF vs cloning distinction"
+    ],
+    "related_concepts": [
+      "Therapeutic cloning",
+      "Reproductive cloning ethics",
+      "Stem cells"
+    ],
+    "contrast_with": [
+      "IVF — sperm fertilizes egg outside body; SCNT — nucleus of somatic cell replaces egg nucleus"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Cloning technology advances raise ethical questions about human reproductive cloning.",
+    "keywords": [
+      "Dolly",
+      "cloning",
+      "SCNT",
+      "IVF",
+      "mammal",
+      "biotechnology"
+    ]
+  },
+  {
+    "idx": 42,
+    "subject": "History",
+    "category": "World History",
+    "topic": "Decolonization",
+    "syllabus_id": "HIS.WLD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "LOW",
+    "trap_factor": "East Timor's colonial history is complex — it was a Portuguese (not British) colony; students may confuse the UN takeover date or independence declaration year.",
+    "elimination_hint": "East Timor was a Portuguese colony; UN (UNTAET) administered it from 1999-2002; formal independence was May 2002, not Dec 2001 — option C (UN takeover 1999) is the correct statement.",
+    "factual_hooks": [
+      "East Timor was a Portuguese colony for ~450 years",
+      "Indonesia occupied it 1975-1999 after Portugal withdrew",
+      "UN administered East Timor 1999-2002; independence May 20, 2002"
+    ],
+    "prerequisite_concepts": [
+      "Decolonization of Southeast Asia",
+      "East Timor history",
+      "UN peacekeeping operations"
+    ],
+    "related_concepts": [
+      "UNTAET",
+      "Indonesian occupation",
+      "Timor-Leste today"
+    ],
+    "contrast_with": [
+      "Goa — Portuguese colony in India, liberated 1961 by Indian military action"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "East Timor",
+      "Timor-Leste",
+      "decolonization",
+      "UN",
+      "Portugal",
+      "independence"
+    ]
+  },
+  {
+    "idx": 43,
+    "subject": "Economy",
+    "category": "External Sector",
+    "topic": "Trade Policy",
+    "syllabus_id": "ECO.EXT.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse FEMA's year (1999, replaced FERA from 2000) with 2001, and may think ED can still arrest under FEMA (it cannot for exchange violations — only civil penalties).",
+    "elimination_hint": "Under FEMA, violation of foreign exchange rules is a civil offence, not criminal — the key liberalization. ED cannot arrest for exchange violations under FEMA (only under PMLA).",
+    "factual_hooks": [
+      "FEMA replaced FERA in 1999 (effective June 2000)",
+      "Under FEMA, forex violations are civil, not criminal offences",
+      "FERA violations were criminal; FEMA shifted to civil framework"
+    ],
+    "prerequisite_concepts": [
+      "FERA vs FEMA",
+      "Foreign exchange regulation",
+      "Economic liberalisation 1991"
+    ],
+    "related_concepts": [
+      "RBI's role in forex management",
+      "Current account convertibility",
+      "Capital account"
+    ],
+    "contrast_with": [
+      "FERA — criminal law framework; FEMA — civil law framework for forex management"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "FEMA framework governs India's foreign exchange management, increasingly relevant with capital account liberalisation debates.",
+    "keywords": [
+      "FEMA",
+      "FERA",
+      "foreign exchange",
+      "civil offence",
+      "Enforcement Directorate",
+      "liberalisation"
+    ]
+  },
+  {
+    "idx": 44,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Milk actually contains B-vitamins (riboflavin/B2, B12) — the statement that milk contains 'none of the B-vitamins' is false, making A the incorrect statement.",
+    "elimination_hint": "Milk is rich in riboflavin (B2) and B12 — so Statement A (milk has no B-vitamins) is factually wrong. The question asks for the incorrect statement, so A is the answer.",
+    "factual_hooks": [
+      "Milk contains riboflavin (B2) and cobalamin (B12)",
+      "Vitamin A deficiency causes night blindness and dry skin",
+      "Scurvy (Vitamin C deficiency) causes bleeding gums and joint pain"
+    ],
+    "prerequisite_concepts": [
+      "Vitamins and their functions",
+      "Deficiency diseases",
+      "Nutrition in milk"
+    ],
+    "related_concepts": [
+      "Fat-soluble vs water-soluble vitamins",
+      "Rickets (Vitamin D)",
+      "Beriberi (B1)"
+    ],
+    "contrast_with": [
+      "Fat-soluble vitamins (A, D, E, K) in milk vs water-soluble B-vitamins — milk has both"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "milk",
+      "B-vitamins",
+      "riboflavin",
+      "vitamin deficiency",
+      "nutrition",
+      "B12"
+    ]
+  },
+  {
+    "idx": 45,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Physics",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement C claims velocity decreases with increased humidity — this is the incorrect one, as sound travels FASTER in humid air (less dense than dry air in same conditions).",
+    "elimination_hint": "Humid air is less dense than dry air (water vapour lighter than O2/N2), so sound travels FASTER with higher humidity — Statement C is wrong, making it the answer to 'not correct'.",
+    "factual_hooks": [
+      "Speed of sound increases with temperature",
+      "Speed of sound is independent of pressure (for ideal gas)",
+      "Speed of sound increases with humidity (humid air less dense)",
+      "Amplitude and frequency don't affect speed"
+    ],
+    "prerequisite_concepts": [
+      "Properties of sound waves",
+      "Speed of sound in gases",
+      "Factors affecting wave velocity"
+    ],
+    "related_concepts": [
+      "Doppler effect",
+      "Sonic boom",
+      "Acoustics"
+    ],
+    "contrast_with": [
+      "Speed of light — unaffected by humidity; speed of sound — affected by medium properties"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "speed of sound",
+      "humidity",
+      "temperature",
+      "pressure",
+      "air",
+      "physics"
+    ]
+  },
+  {
+    "idx": 46,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Constitutional Amendments",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Finance Bills and Money Bills are constitutional terms that students confuse; Constitution Amendment Bill requires special majority in each house separately — a fundamental distinction.",
+    "elimination_hint": "Only Constitution Amendment Bills under Article 368 require a special majority (2/3 present and voting + majority of total membership) in EACH house separately. No joint session possible.",
+    "factual_hooks": [
+      "Article 368: Constitution amendment requires special majority in each house separately",
+      "Money Bills can only originate in Lok Sabha; no special majority needed",
+      "Joint sitting is NOT possible for Constitution Amendment Bills"
+    ],
+    "prerequisite_concepts": [
+      "Types of bills in Parliament",
+      "Article 368 amendment procedure",
+      "Special majority vs simple majority"
+    ],
+    "related_concepts": [
+      "Joint sitting (Article 108)",
+      "Money Bill (Article 110)",
+      "Finance Bill categories"
+    ],
+    "contrast_with": [
+      "Ordinary Bill — simple majority; Money Bill — only in Lok Sabha; Constitution Amendment — special majority in each house"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Constitution Amendment",
+      "special majority",
+      "Article 368",
+      "Parliament",
+      "each house",
+      "separately"
+    ]
+  },
+  {
+    "idx": 47,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Resource Distribution",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Tropical Rain Forests are most biodiverse and famous, leading students to assume they cover the most area; but Boreal/Temperate Coniferous forests (Taiga) cover the largest forest area globally.",
+    "elimination_hint": "Temperate Coniferous forests (Taiga/Boreal) form the world's largest forest biome, stretching across Siberia, Canada, and Scandinavia — larger than tropical forests in area.",
+    "factual_hooks": [
+      "Taiga (Temperate Coniferous) is world's largest forest biome by area",
+      "Covers ~27% of world's forest area across Russia, Canada, Scandinavia",
+      "Tropical rainforests have highest biodiversity but smaller total area"
+    ],
+    "prerequisite_concepts": [
+      "World forest biomes",
+      "Biome distribution",
+      "Taiga characteristics"
+    ],
+    "related_concepts": [
+      "Tropical rainforest biodiversity",
+      "Forest cover change",
+      "Carbon sequestration"
+    ],
+    "contrast_with": [
+      "Tropical rainforests — most biodiverse but not the largest by area; Taiga — less diverse but larger"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Boreal forest deforestation is an emerging climate concern alongside Amazon deforestation.",
+    "keywords": [
+      "Taiga",
+      "boreal forest",
+      "temperate coniferous",
+      "world forests",
+      "biome area",
+      "Russia"
+    ]
+  },
+  {
+    "idx": 48,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Post-Mauryan Period",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "HOW",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may think the Andhras replaced the Sunga dynasty directly, not the Kanva dynasty. The sequence Maurya → Sunga → Kanva → Satavahana is frequently confused.",
+    "elimination_hint": "All three statements are correct: Brihadratha (Maurya) killed by Pushyamitra; Devabhuti (Sunga) killed by Vasudeva Kanva; Kanva dynasty ended by Andhra/Satavahanas. Answer: all 1, 2 and 3.",
+    "factual_hooks": [
+      "Pushyamitra Sunga killed Brihadratha (last Maurya) and founded Sunga dynasty",
+      "Vasudeva Kanva killed Devabhuti (last Sunga) and founded Kanva dynasty",
+      "Satavahanas (Andhras) ended Kanva rule"
+    ],
+    "prerequisite_concepts": [
+      "Post-Mauryan dynasties",
+      "Sunga dynasty",
+      "Kanva dynasty"
+    ],
+    "related_concepts": [
+      "Satavahana dynasty",
+      "Kushana Empire",
+      "Western Satraps"
+    ],
+    "contrast_with": [
+      "Sunga → Brahmin restoration of Vedic practices vs Kanva → also Brahmin but weaker"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Pushyamitra Sunga",
+      "Brihadratha",
+      "Kanva dynasty",
+      "Satavahana",
+      "post-Mauryan",
+      "succession"
+    ]
+  },
+  {
+    "idx": 49,
+    "subject": "Polity",
+    "category": "Constitutional Bodies",
+    "topic": "Finance Commission",
+    "syllabus_id": "POL.CB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students confuse Finance Commission with CAG (audit) or Finance Ministry (budget). Statement 1 about Consolidated Fund withdrawal and Statement 4 about supervising tax collection are outside Finance Commission's mandate.",
+    "elimination_hint": "Finance Commission's role (Article 280): allocate taxes between Union and States (2) and consider grants-in-aid to States (3). It does NOT authorize withdrawals (CAG/Parliament does) or supervise tax compliance.",
+    "factual_hooks": [
+      "Finance Commission: Article 280 of Constitution",
+      "Recommends tax devolution percentages and grants-in-aid to states",
+      "Does NOT control Consolidated Fund withdrawals (Parliament does that)"
+    ],
+    "prerequisite_concepts": [
+      "Finance Commission functions",
+      "Article 280",
+      "Fiscal federalism"
+    ],
+    "related_concepts": [
+      "Vertical devolution",
+      "Horizontal devolution",
+      "GST Council",
+      "16th Finance Commission"
+    ],
+    "contrast_with": [
+      "CAG — audits accounts; Finance Commission — recommends revenue sharing"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "16th Finance Commission is deliberating on tax devolution for 2026-31 period.",
+    "keywords": [
+      "Finance Commission",
+      "Article 280",
+      "tax devolution",
+      "grants-in-aid",
+      "fiscal federalism",
+      "states"
+    ]
+  },
+  {
+    "idx": 50,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "British Expansion",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "The Portuguese captured Goa in 1510 (not 1499 — that was Vasco da Gama's arrival at Calicut). Students confuse arrival dates with conquest dates.",
+    "elimination_hint": "Vasco da Gama reached Calicut in 1498/1499; Portuguese captured Goa in 1510 — Statement A (1499 for Goa) is incorrect. All other statements about English and French are accurate.",
+    "factual_hooks": [
+      "Vasco da Gama arrived at Calicut in 1498",
+      "Portuguese captured Goa in 1510 under Albuquerque",
+      "English first factory in South India at Masulipatam (1611)"
+    ],
+    "prerequisite_concepts": [
+      "European arrival in India",
+      "Portuguese in India",
+      "English East India Company"
+    ],
+    "related_concepts": [
+      "French in India",
+      "Dutch in India",
+      "Battle of Plassey"
+    ],
+    "contrast_with": [
+      "Portuguese arrival 1498 (Calicut) vs conquest of Goa 1510 — different events"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Portuguese",
+      "Goa",
+      "1510",
+      "Vasco da Gama",
+      "European traders",
+      "British expansion"
+    ]
+  },
+  {
+    "idx": 51,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Gandhian Era",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "The 1931 Karachi Congress session actually endorsed (not opposed) Gandhi-Irwin Pact and passed the Fundamental Rights resolution — students may remember the session without knowing its stance.",
+    "elimination_hint": "The Karachi Session (1931) accepted and reiterated the Gandhi-Irwin Pact — it did NOT oppose it. This makes Statement D incorrect, making it the answer to 'not correct'.",
+    "factual_hooks": [
+      "Karachi Congress (1931) endorsed Gandhi-Irwin Pact and passed Fundamental Rights resolution",
+      "Bhagat Singh was founder of Hindustan Republican Socialist Association",
+      "Subhash Chandra Bose formed the Forward Bloc (not Forward Blood)"
+    ],
+    "prerequisite_concepts": [
+      "Gandhi-Irwin Pact 1931",
+      "Karachi Session 1931",
+      "Revolutionary movements"
+    ],
+    "related_concepts": [
+      "Civil Disobedience Movement",
+      "Second Round Table Conference",
+      "Bhagat Singh trial"
+    ],
+    "contrast_with": [
+      "Lahore Congress (1929) — declared Purna Swaraj; Karachi (1931) — defined Fundamental Rights"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Karachi Congress 1931",
+      "Gandhi-Irwin Pact",
+      "Forward Bloc",
+      "Bhagat Singh",
+      "HRSA",
+      "freedom struggle"
+    ]
+  },
+  {
+    "idx": 52,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Parliament",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may think nominated members cannot vote or be ministers due to their non-elected status; in reality there is no constitutional bar against appointing a nominated member as minister.",
+    "elimination_hint": "There is no constitutional bar preventing a nominated member from being appointed as a Union Minister — the Constitution requires only that a minister be a member of Parliament (elected or nominated).",
+    "factual_hooks": [
+      "Nominated members can be appointed as Union Ministers under the Constitution",
+      "Both Lok Sabha (2 Anglo-Indian) and Rajya Sabha (12 nominated) have nominated members",
+      "Nominated members can vote in legislative matters but NOT in Presidential/VP elections"
+    ],
+    "prerequisite_concepts": [
+      "Nominated members of Parliament",
+      "Council of Ministers eligibility",
+      "Article 75"
+    ],
+    "related_concepts": [
+      "Anglo-Indian representatives (discontinued after 104th Amendment 2019)",
+      "Rajya Sabha nominated members",
+      "Minister eligibility criteria"
+    ],
+    "contrast_with": [
+      "Nominated members cannot vote in Presidential election — key restriction vs elected members"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Anglo-Indian nomination provision was removed by 104th Constitutional Amendment (2020).",
+    "keywords": [
+      "nominated members",
+      "Parliament",
+      "minister",
+      "Anglo-Indian",
+      "Rajya Sabha",
+      "constitutional bar"
+    ]
+  },
+  {
+    "idx": 53,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Gandhian Era",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Gandhi was associated with Bardoli in guiding the movement; Mahatma Gandhi and Vithalbhai Patel are attractive distractors. Sardar Patel's leadership is the key fact.",
+    "elimination_hint": "Bardoli Satyagraha (1928) was led by Sardar Vallabhbhai Patel against excessive land revenue assessment — this is the event that earned him the title 'Sardar'.",
+    "factual_hooks": [
+      "Bardoli Satyagraha (1928) led by Sardar Vallabhbhai Patel",
+      "Protested against unjust enhancement of land revenue in Bardoli, Gujarat",
+      "Women of Bardoli gave Patel the title 'Sardar' (leader)"
+    ],
+    "prerequisite_concepts": [
+      "Peasant movements in India",
+      "Gujarat's role in freedom struggle",
+      "Sardar Patel's political career"
+    ],
+    "related_concepts": [
+      "Champaran Satyagraha (1917)",
+      "Kheda Satyagraha (1918)",
+      "Civil Disobedience Movement"
+    ],
+    "contrast_with": [
+      "Kheda Satyagraha (1918) — also in Gujarat, led by Gandhi against revenue collection"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Bardoli Satyagraha",
+      "Sardar Patel",
+      "1928",
+      "land revenue",
+      "Gujarat",
+      "peasant movement"
+    ]
+  },
+  {
+    "idx": 54,
+    "subject": "Economy",
+    "category": "Public Finance",
+    "topic": "Taxation",
+    "syllabus_id": "ECO.PUB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "LOW",
+    "trap_factor": "Kelkar Committee is now also associated with direct tax code revision; in 2002-03 context, it specifically referred to Vijay Kelkar's recommendations on tax reforms.",
+    "elimination_hint": "The Kelkar Task Force (2002-03) chaired by Vijay Kelkar made comprehensive recommendations for tax reforms including direct and indirect tax rationalization — choose tax reforms.",
+    "factual_hooks": [
+      "Kelkar Task Force (2002-03) recommended comprehensive tax reforms",
+      "Proposed reduction in income tax rates, simplified tax structure",
+      "Led to later reforms in direct and indirect taxation"
+    ],
+    "prerequisite_concepts": [
+      "Tax reform committees in India",
+      "Direct tax code",
+      "Fiscal consolidation"
+    ],
+    "related_concepts": [
+      "Raja Chellaiah Committee",
+      "GST introduction",
+      "Tax-GDP ratio"
+    ],
+    "contrast_with": [
+      "Rangarajan Committee — focused on disinvestment/privatisation, not tax reform"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Kelkar Committee",
+      "tax reforms",
+      "direct tax",
+      "Vijay Kelkar",
+      "fiscal policy",
+      "India"
+    ]
+  },
+  {
+    "idx": 55,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Parliament",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "The year of the first joint sitting (1961) is obscure; students may think the first joint sitting was for the Dowry Prohibition Bill or confuse the Banking Bill.",
+    "elimination_hint": "Article 108 sanctions joint sittings. First joint sitting (1961): Dowry Prohibition Bill. Second joint sitting: Banking Service Commission (Repeal) Bill. Third: POTA (2002). All three statements are correct.",
+    "factual_hooks": [
+      "Article 108: provisions for joint sitting of Parliament",
+      "First joint sitting (1961): Dowry Prohibition Bill",
+      "Second joint sitting: Banking Service Commission (Repeal) Bill"
+    ],
+    "prerequisite_concepts": [
+      "Joint sitting of Parliament",
+      "Article 108",
+      "Deadlock resolution"
+    ],
+    "related_concepts": [
+      "Money Bill deadlock",
+      "Rajya Sabha's role",
+      "Constitutional provisions for Parliament"
+    ],
+    "contrast_with": [
+      "Constitution Amendment Bills — cannot be resolved by joint sitting; only ordinary bills"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "joint sitting",
+      "Article 108",
+      "Parliament",
+      "1961",
+      "Banking Service Commission",
+      "deadlock"
+    ]
+  },
+  {
+    "idx": 56,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may omit loss of memory (statement 3) thinking AIDS doesn't cause neurological symptoms; AIDS dementia complex does cause memory loss in advanced HIV.",
+    "elimination_hint": "All four symptoms — swollen lymph nodes, night sweats, memory loss (AIDS dementia), and weight loss — are recognized symptoms of AIDS. Answer is D (all four).",
+    "factual_hooks": [
+      "AIDS symptoms: swollen lymph nodes, night sweats, weight loss, memory loss (AIDS dementia complex)",
+      "HIV attacks CD4+ T cells weakening immunity",
+      "AIDS opportunistic infections cause diverse symptoms"
+    ],
+    "prerequisite_concepts": [
+      "HIV/AIDS biology",
+      "Immune system",
+      "Opportunistic infections"
+    ],
+    "related_concepts": [
+      "CD4+ T cells",
+      "Antiretroviral therapy",
+      "AIDS dementia complex"
+    ],
+    "contrast_with": [
+      "HIV-positive status vs AIDS — distinction in CD4 count and symptom severity"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India has one of the largest HIV-positive populations globally; NACO's role is significant.",
+    "keywords": [
+      "AIDS",
+      "HIV",
+      "symptoms",
+      "lymph nodes",
+      "night sweats",
+      "memory loss"
+    ]
+  },
+  {
+    "idx": 57,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Historical Background",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Vande Mataram was originally in Sanskrit (embedded in Anandamath novel), not Bengali — though Bankim wrote it in Bengali script; students confuse language of original composition.",
+    "elimination_hint": "Vande Mataram was composed in Sanskrit (with some Bengali) by Bankimchandra — calling it 'originally in Bengali' is incorrect. The question asks for the incorrect statement.",
+    "factual_hooks": [
+      "Vande Mataram composed in Sanskrit by Bankimchandra Chattopadhyay (in Anandamath novel)",
+      "National Calendar (Saka era): 1st Chaitra = 22 March (21 March in leap year)",
+      "National Flag adopted by Constituent Assembly on 22 July 1947"
+    ],
+    "prerequisite_concepts": [
+      "National symbols of India",
+      "Constituent Assembly decisions",
+      "Indian calendar systems"
+    ],
+    "related_concepts": [
+      "National Anthem (Jana Gana Mana)",
+      "National Song (Vande Mataram)",
+      "Saka calendar"
+    ],
+    "contrast_with": [
+      "Jana Gana Mana — originally composed in Bengali by Tagore, then adopted in Hindi version"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Vande Mataram",
+      "National symbols",
+      "Bankimchandra",
+      "Sanskrit",
+      "National Flag",
+      "Saka calendar"
+    ]
+  },
+  {
+    "idx": 58,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims_priority": "LOW",
+    "trap_factor": "Pie chart matching requires careful interpretation of relative sizes; without the actual pie diagrams, the question relies on conceptual understanding of marketing philosophy models.",
+    "elimination_hint": "Match based on marketing philosophy: Customer as controlling factor = customer-centric model (center of pie). Marketing as integrating factor = spider web model. Use elimination based on descriptions.",
+    "factual_hooks": [
+      "Marketing management philosophy models shown via pie diagrams",
+      "Customer-centric approach places customer at center/controlling position",
+      "Integrated marketing approach shows marketing connecting other functions"
+    ],
+    "prerequisite_concepts": [
+      "Marketing management concepts",
+      "Business organization functions",
+      "Data interpretation from charts"
+    ],
+    "related_concepts": [
+      "Marketing mix",
+      "Consumer behaviour",
+      "Business management"
+    ],
+    "contrast_with": [
+      "Production orientation vs Marketing orientation — different business philosophy models"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "data interpretation",
+      "pie diagram",
+      "marketing",
+      "customer",
+      "business functions",
+      "CSAT"
+    ]
+  },
+  {
+    "idx": 59,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Pollution",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "IMPACT",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "Dead zones are hypoxic areas in ocean/water bodies caused by excess nutrients (eutrophication)",
+      "They severely deplete marine biodiversity and fish populations",
+      "Gulf of Mexico dead zone is one of the world's largest"
+    ],
+    "prerequisite_concepts": [
+      "Eutrophication",
+      "Marine hypoxia",
+      "Ocean dead zones",
+      "Nitrogen cycle"
+    ],
+    "related_concepts": [
+      "Algal blooms",
+      "Ocean acidification",
+      "Marine food chain disruption"
+    ],
+    "contrast_with": [
+      "Dead zones vs coral bleaching — different stressors but both cause marine biodiversity loss"
+    ],
+    "mains_themes": [
+      "Marine ecosystem degradation",
+      "Consequences of agricultural runoff",
+      "Ocean hypoxia and fisheries impact"
+    ],
+    "mains_intro": "Dead zones — hypoxic regions in marine/freshwater bodies — have expanded significantly due to nutrient pollution, threatening marine biodiversity and coastal livelihoods.",
+    "mains_body_points": [
+      "Dead zones form when excess nitrogen/phosphorus (from fertilizers, sewage) causes algal blooms; decomposition depletes oxygen",
+      "Marine biodiversity collapses — fish, crustaceans, and bottom-dwellers die or flee, disrupting food webs",
+      "Fisheries decline severely impacting coastal communities' livelihoods and food security",
+      "Dead zones disrupt nutrient cycling — altered nitrogen and phosphorus cycles affect broader ecosystem functioning",
+      "Climate change warms water (reducing oxygen solubility), expanding dead zone frequency and size",
+      "Over 700 dead zones identified globally; Gulf of Mexico, Baltic Sea, and Arabian Sea are major examples"
+    ],
+    "mains_conclusion": "Combating dead zones requires integrated approaches: reducing agricultural runoff, improving wastewater treatment, and international cooperation on marine pollution.",
+    "mains_interlinkages": [
+      "GS3: Environment — Eutrophication and water pollution",
+      "GS2: Governance — Coastal zone management, fisheries policy"
+    ],
+    "contemporary_relevance": "Dead zones are expanding globally due to intensified agriculture and climate change, threatening food security and coastal economies.",
+    "keywords": [
+      "dead zones",
+      "hypoxia",
+      "eutrophication",
+      "marine ecosystem",
+      "algal bloom",
+      "ocean pollution"
+    ]
+  },
+  {
+    "idx": 60,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Physical Features of India",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse Gujarat beaches (Gopnath = Gujarat), Andhra Pradesh (Lawsons Bay, Visakhapatnam), Karnataka (Devbagh, Karwar), and Goa (Sinquerim) due to lesser familiarity with beach locations.",
+    "elimination_hint": "Gopnath Beach is in Gujarat (3), Lawsons Bay Beach is in Andhra Pradesh (1), Devbagh Beach is in Karnataka (5), Sinquerim Beach is in Goa (4) — matches option B (A-3, B-1, C-5, D-4).",
+    "factual_hooks": [
+      "Gopnath Beach: Gujarat",
+      "Lawsons Bay Beach: Andhra Pradesh (Visakhapatnam)",
+      "Devbagh Beach: Karnataka (Karwar)",
+      "Sinquerim Beach: Goa"
+    ],
+    "prerequisite_concepts": [
+      "India's coastal geography",
+      "State-wise beach locations",
+      "Western and Eastern coastal features"
+    ],
+    "related_concepts": [
+      "India's coastline length",
+      "Beach tourism in India",
+      "Coastal states of India"
+    ],
+    "contrast_with": [
+      "Goa beaches (western coast) vs Andhra/Odisha beaches (eastern coast) — different coastal characteristics"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "beaches India",
+      "Gopnath",
+      "Lawsons Bay",
+      "Devbagh",
+      "Sinquerim",
+      "coastal geography"
+    ]
+  },
+  {
+    "idx": 61,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Constitutional Amendments",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Analytical",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 about Public Accounts being subject to Parliamentary vote is tricky — Public Account disbursements do NOT require Parliamentary vote (unlike Consolidated Fund); they are executive actions.",
+    "elimination_hint": "Public Account disbursements do NOT require Parliamentary vote (only Consolidated Fund does) — Statement 1 is wrong. Statements 2 and 3 about State Funds and Railway Budget control are correct.",
+    "factual_hooks": [
+      "Consolidated Fund: all revenues; requires Parliamentary appropriation",
+      "Public Account: funds held in trust (PF, small savings); no Parliamentary vote needed for disbursement",
+      "Each state has all three funds: Consolidated, Public Account, Contingency (Article 266-267)"
+    ],
+    "prerequisite_concepts": [
+      "Government accounts structure",
+      "Consolidated Fund vs Public Account",
+      "Railway budget integration"
+    ],
+    "related_concepts": [
+      "Contingency Fund",
+      "Appropriation Bill",
+      "CAG audit"
+    ],
+    "contrast_with": [
+      "Consolidated Fund — requires Parliamentary appropriation; Public Account — executive discretion without vote"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Railway Budget was merged with Union Budget in 2017, ending its separate status.",
+    "keywords": [
+      "Public Account",
+      "Consolidated Fund",
+      "Parliament",
+      "appropriation",
+      "Railway Budget",
+      "government finance"
+    ]
+  },
+  {
+    "idx": 62,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Constitutional Development",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may think Government of India Act 1935 abolished dyarchy everywhere; it actually abolished dyarchy only in provinces (not the Centre). Statement 3 about communal representation abolition is wrong — 1935 retained it.",
+    "elimination_hint": "1935 Act abolished dyarchy in provinces (1) and gave governors power to veto/legislate (2); it did NOT abolish communal representation (retained it, creating separate electorates). So only 1 and 2 are correct.",
+    "factual_hooks": [
+      "GoI Act 1935 abolished provincial dyarchy introduced by Montagu-Chelmsford reforms",
+      "Governors retained special powers to veto and legislate",
+      "Communal representation was retained (and expanded) in 1935 Act"
+    ],
+    "prerequisite_concepts": [
+      "Government of India Act 1935",
+      "Dyarchy system",
+      "Constitutional history of India"
+    ],
+    "related_concepts": [
+      "Montagu-Chelmsford Reforms 1919",
+      "Indian Independence Act 1947",
+      "Federal structure in 1935 Act"
+    ],
+    "contrast_with": [
+      "1919 Act introduced dyarchy; 1935 Act abolished it in provinces but strengthened Governor's role"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Government of India Act 1935",
+      "dyarchy",
+      "Governor",
+      "communal representation",
+      "constitutional history",
+      "provinces"
+    ]
+  },
+  {
+    "idx": 63,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Rise of Nationalism",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "The First INC session was in Bombay (not Calcutta) in 1885; students may confuse this with later sessions. Dadabhai Naoroji presided over the Second Session (Calcutta, 1886), making Statement 2 correct.",
+    "elimination_hint": "First INC session: Bombay 1885 (W.C. Bonnerjee presiding) — Statement 1 is wrong. Statement 2 (Dadabhai Naoroji at 2nd session) and Statement 3 (Lucknow Pact 1916) are correct. Answer: C (2 and 3).",
+    "factual_hooks": [
+      "1st INC Session: Bombay, 1885, presided by W.C. Bonnerjee",
+      "2nd INC Session: Calcutta, 1886, presided by Dadabhai Naoroji",
+      "Lucknow Pact 1916: INC and Muslim League joint sessions in Lucknow"
+    ],
+    "prerequisite_concepts": [
+      "Indian National Congress history",
+      "Early nationalism",
+      "Congress-League unity"
+    ],
+    "related_concepts": [
+      "Bal Gangadhar Tilak",
+      "Lucknow Pact significance",
+      "Congress founding"
+    ],
+    "contrast_with": [
+      "Calcutta vs Bombay as INC's first session venue — common confusion in UPSC"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "INC first session",
+      "Bombay 1885",
+      "Dadabhai Naoroji",
+      "Lucknow Pact",
+      "Muslim League",
+      "nationalism"
+    ]
+  },
+  {
+    "idx": 64,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Lok Sabha",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Analytical",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 2 about automatic dissolution after 5 years is nuanced — the Constitution doesn't explicitly say 'automatic'; it requires Presidential proclamation. However, dissolution by efflux of time is effectively automatic.",
+    "elimination_hint": "All three statements are constitutionally sound: Speaker adjourns sine die (1); Lok Sabha dissolves by efflux (effectively, 2); Speaker continues until first meeting of new House (3). Answer: D (all correct).",
+    "factual_hooks": [
+      "Speaker adjourns House sine die; President prorogues (summons/prorogues)",
+      "Lok Sabha dissolves at 5-year term end; President's order is formal not substantive",
+      "Speaker continues in office after dissolution until first meeting of new House"
+    ],
+    "prerequisite_concepts": [
+      "Lok Sabha powers and procedures",
+      "Speaker's role",
+      "Parliamentary sessions"
+    ],
+    "related_concepts": [
+      "Article 85 (prorogation)",
+      "Article 83 (duration of Houses)",
+      "Speaker's constitutional position"
+    ],
+    "contrast_with": [
+      "Rajya Sabha — permanent House, never dissolved; Lok Sabha dissolves every 5 years"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Lok Sabha",
+      "Speaker",
+      "dissolution",
+      "prorogation",
+      "5 years",
+      "constitutional provisions"
+    ]
+  },
+  {
+    "idx": 65,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.82,
+    "prelims_priority": "LOW",
+    "trap_factor": "Without the actual graph, students must reason about yield-fertilizer curves; typical such curves show increasing yield then diminishing returns. 'Minimum at D' means D is a local minimum, not that yield is zero.",
+    "elimination_hint": "In a typical yield-fertilizer curve: B and C are inflection points (not zero yield); D is a local minimum (correct); C is neither min nor max (correct). Statements III and IV are correct — choose B.",
+    "factual_hooks": [
+      "Yield-fertilizer graphs show law of diminishing returns",
+      "Inflection points (B, C) are where rate of change changes sign",
+      "Local minimum (D) exists when excessive fertilizer reduces yield (toxicity)"
+    ],
+    "prerequisite_concepts": [
+      "Graph interpretation",
+      "Yield curves",
+      "Diminishing returns in agriculture"
+    ],
+    "related_concepts": [
+      "Law of diminishing marginal returns",
+      "Agricultural economics",
+      "Optimal fertilizer application"
+    ],
+    "contrast_with": [
+      "Maxima vs minima on a curve — different mathematical concepts often confused in data interpretation"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "yield",
+      "fertilizer",
+      "graph",
+      "data interpretation",
+      "minimum",
+      "maximum"
+    ]
+  },
+  {
+    "idx": 66,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Data Interpretation",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.8,
+    "prelims_priority": "LOW",
+    "trap_factor": "Without the bar chart, Statement I (monthly targets achieved) may not be universally true even if overall target is exceeded — some months may have missed target. Statement III is an opinion, not a data-based conclusion.",
+    "elimination_hint": "Statement II (overall target exceeded by 7.5%) is a quantitative claim from bar chart data. Statement I may not hold for all months; Statement III is subjective. Only II is a data-supported objective claim — choose B.",
+    "factual_hooks": [
+      "Bar charts show target vs actual performance",
+      "Overall target could be exceeded even if some months miss",
+      "7.5% excess = specific quantitative inference from chart"
+    ],
+    "prerequisite_concepts": [
+      "Bar chart interpretation",
+      "Target vs actual analysis",
+      "Percentage calculation"
+    ],
+    "related_concepts": [
+      "Line charts",
+      "Pie charts",
+      "Business data analysis"
+    ],
+    "contrast_with": [
+      "Monthly target achievement vs overall target achievement — different aggregation levels"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "bar chart",
+      "target",
+      "sales",
+      "data interpretation",
+      "percentage",
+      "CSAT"
+    ]
+  },
+  {
+    "idx": 67,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Multiple statements about vitamins — students may include false statements. Vitamin C deficiency causes scurvy (bleeding, not muscle pain per se); Vitamin B1 deficiency causes beriberi (heart issues, indigestion valid).",
+    "elimination_hint": "Lachrymal gland dysfunction is a symptom of Vitamin A deficiency (1 = correct). B1 deficiency → beriberi (indigestion + heart enlargement, 2 = correct). Only statements 1 and 2 are correct — choose A.",
+    "factual_hooks": [
+      "Vitamin A deficiency: night blindness, dry skin, lachrymal gland failure",
+      "Vitamin B1 (thiamine) deficiency: beriberi — indigestion, heart enlargement, nerve damage",
+      "Vitamin C deficiency: scurvy (bleeding gums, joint pain but not primarily muscle pain)",
+      "Vitamin D deficiency: rickets/osteomalacia; increases Ca absorption, not excretion"
+    ],
+    "prerequisite_concepts": [
+      "Vitamins and their deficiency diseases",
+      "Fat-soluble vitamins",
+      "Water-soluble vitamins"
+    ],
+    "related_concepts": [
+      "Scurvy",
+      "Rickets",
+      "Beriberi",
+      "Pellagra"
+    ],
+    "contrast_with": [
+      "Vitamin D deficiency — causes poor calcium absorption (not increased urinary Ca loss as stated)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D",
+      "deficiency diseases",
+      "nutrition"
+    ]
+  },
+  {
+    "idx": 68,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse insulin as a steroid hormone (produced by endocrine gland) or as a lipid since it's involved in fat metabolism.",
+    "elimination_hint": "Insulin is a peptide hormone (protein) composed of two polypeptide chains (A and B). It is NOT a steroid, lipid, or glycolipid — peptide hormones are water-soluble proteins.",
+    "factual_hooks": [
+      "Insulin is a peptide hormone with 51 amino acids in two chains",
+      "Produced by beta cells of islets of Langerhans in pancreas",
+      "First protein whose structure was determined (Frederick Sanger, 1951)"
+    ],
+    "prerequisite_concepts": [
+      "Types of hormones",
+      "Protein structure",
+      "Endocrine system"
+    ],
+    "related_concepts": [
+      "Glucagon",
+      "Pancreas",
+      "Diabetes mellitus",
+      "Insulin therapy"
+    ],
+    "contrast_with": [
+      "Steroid hormones (testosterone, cortisol) — lipid-based, fat-soluble vs peptide hormones — water-soluble"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "insulin",
+      "peptide hormone",
+      "pancreas",
+      "protein",
+      "amino acids",
+      "endocrine"
+    ]
+  },
+  {
+    "idx": 69,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Agricultural Geography",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Mustard is often assumed to be a Kharif crop because it's associated with summer; it is actually a Rabi crop (winter). Students must know crop seasons precisely.",
+    "elimination_hint": "Cotton (1), Groundnut (2), and Maize (3) are Kharif crops (sown in June-July, harvested Oct-Nov). Mustard is a Rabi crop (sown in Nov-Dec) — choose B (1, 2 and 3).",
+    "factual_hooks": [
+      "Kharif crops: Cotton, Groundnut, Maize, Rice, Jowar, Bajra, Sugarcane",
+      "Rabi crops: Wheat, Mustard, Barley, Gram, Peas",
+      "Zaid crops: Watermelon, Muskmelon (summer short season)"
+    ],
+    "prerequisite_concepts": [
+      "Kharif vs Rabi crops",
+      "Agricultural seasons in India",
+      "Crop calendar"
+    ],
+    "related_concepts": [
+      "Green Revolution crops",
+      "MSP for crops",
+      "Crop insurance schemes"
+    ],
+    "contrast_with": [
+      "Mustard (Rabi) vs Sunflower (Kharif) — both oilseeds but different seasons"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "MSP differentiation between Kharif and Rabi crops is crucial for farm income policy.",
+    "keywords": [
+      "Kharif crops",
+      "Rabi crops",
+      "cotton",
+      "groundnut",
+      "maize",
+      "mustard"
+    ]
+  },
+  {
+    "idx": 70,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Lok Sabha",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement A says no-confidence motion must set out grounds — actually Rules of Lok Sabha do NOT require grounds to be stated; any member can move it without specifying reasons.",
+    "elimination_hint": "Under Lok Sabha Rules, a no-confidence motion need NOT set out the grounds — Statement A is incorrect. B (no conditions of admissibility), C (10-day time limit), D (Rajya Sabha can't entertain) are all correct.",
+    "factual_hooks": [
+      "No-confidence motion in Lok Sabha: no grounds need to be stated",
+      "Must be admitted and taken up within 10 days",
+      "Rajya Sabha cannot entertain no-confidence motion — only Lok Sabha"
+    ],
+    "prerequisite_concepts": [
+      "Parliamentary motions",
+      "No-confidence motion procedure",
+      "Lok Sabha vs Rajya Sabha powers"
+    ],
+    "related_concepts": [
+      "Censure motion",
+      "Adjournment motion",
+      "Question hour"
+    ],
+    "contrast_with": [
+      "Censure motion — directed at specific minister, can be in Rajya Sabha; No-confidence — against whole Council of Ministers, only Lok Sabha"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "no-confidence motion",
+      "Lok Sabha",
+      "parliamentary procedure",
+      "grounds",
+      "Rajya Sabha",
+      "admissibility"
+    ]
+  },
+  {
+    "idx": 71,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Historical Background",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students confuse the 4th Schedule with the 7th Schedule (distribution of powers) or 8th Schedule (languages). All schedules are frequently tested.",
+    "elimination_hint": "Fourth Schedule allocates seats in the Council of States (Rajya Sabha) to states and union territories — a fundamental constitutional provision tested repeatedly.",
+    "factual_hooks": [
+      "4th Schedule: Allocation of Rajya Sabha seats to States/UTs",
+      "7th Schedule: Distribution of legislative powers (Union/State/Concurrent Lists)",
+      "8th Schedule: Recognized languages of India"
+    ],
+    "prerequisite_concepts": [
+      "Constitutional Schedules",
+      "Rajya Sabha composition",
+      "Schedules 1 to 12"
+    ],
+    "related_concepts": [
+      "5th Schedule (tribal areas)",
+      "6th Schedule (tribal administration NE India)",
+      "10th Schedule (anti-defection)"
+    ],
+    "contrast_with": [
+      "7th Schedule — legislative powers distribution (most confused with 4th)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Fourth Schedule",
+      "Rajya Sabha seats",
+      "Council of States",
+      "Constitution",
+      "schedules",
+      "allocation"
+    ]
+  },
+  {
+    "idx": 72,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Delhi Sultanate",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Firuz Shah Tughluq is the most famous and longest-reigning Tughluq ruler, leading students to mistake him for the last. Nasir-ud-din Mahmud was the actual last, ruling during Timur's invasion.",
+    "elimination_hint": "The Tughluq dynasty succession ends with Nasir-ud-din Mahmud Shah (1394-1413) — he was the last ruler, after whose reign the Sayyid dynasty began. Firuz Shah died in 1388.",
+    "factual_hooks": [
+      "Last Tughluq ruler: Nasir-ud-din Mahmud (1394-1413)",
+      "Firuz Shah Tughluq was great Tughluq ruler but not the last (died 1388)",
+      "Timur's invasion (1398) effectively ended Tughluq power"
+    ],
+    "prerequisite_concepts": [
+      "Delhi Sultanate dynasties",
+      "Tughluq dynasty rulers",
+      "Sayyid dynasty succession"
+    ],
+    "related_concepts": [
+      "Timur's invasion 1398",
+      "Sayyid dynasty",
+      "Lodi dynasty"
+    ],
+    "contrast_with": [
+      "Ghiyas-ud-din Tughluq (founder) vs Nasir-ud-din Mahmud (last ruler)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Tughluq dynasty",
+      "last ruler",
+      "Nasir-ud-din Mahmud",
+      "Delhi Sultanate",
+      "Firuz Shah",
+      "Sayyid dynasty"
+    ]
+  },
+  {
+    "idx": 73,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Continents & Regions",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Malaysia sounds like a Southeast Asian Mekong country; but the Mekong flows through China, Myanmar, Laos, Thailand, Cambodia, and Vietnam — not Malaysia.",
+    "elimination_hint": "Mekong River flows through: China, Myanmar, Laos, Thailand, Cambodia, Vietnam — Malaysia is NOT on the Mekong; it is a peninsula/archipelago south of mainland Southeast Asia.",
+    "factual_hooks": [
+      "Mekong River flows through 6 countries: China, Myanmar, Laos, Thailand, Cambodia, Vietnam",
+      "Malaysia is NOT a Mekong country",
+      "Mekong is the 12th longest river in the world"
+    ],
+    "prerequisite_concepts": [
+      "Major rivers of Asia",
+      "Southeast Asian geography",
+      "Mekong River Commission"
+    ],
+    "related_concepts": [
+      "Greater Mekong Subregion",
+      "China's dams on Mekong",
+      "Mekong fisheries"
+    ],
+    "contrast_with": [
+      "Irrawaddy — flows through Myanmar; Mekong does not flow through Malaysia or Indonesia"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "China's upstream dams on the Mekong are a source of regional tension affecting downstream countries.",
+    "keywords": [
+      "Mekong",
+      "Malaysia",
+      "Southeast Asia",
+      "river",
+      "China",
+      "Cambodia"
+    ]
+  },
+  {
+    "idx": 74,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Physical Features of India",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement A about India's largest Buddhist monastery being in Assam sounds plausible (Assam has Buddhist heritage) but the largest is actually in Arunachal Pradesh or Maharashtra — not Assam.",
+    "elimination_hint": "The largest Buddhist monastery in India is Tawang Monastery in Arunachal Pradesh, not Assam — Statement A is incorrect. Majuli (Assam) is the largest river island; Sikkim is least populated — both correct.",
+    "factual_hooks": [
+      "Tawang Monastery (Arunachal Pradesh): India's largest Buddhist monastery",
+      "Majuli Island (Assam): world's largest river island",
+      "Sikkim: India's least populated state"
+    ],
+    "prerequisite_concepts": [
+      "India's notable geographical facts",
+      "Northeast India geography",
+      "Buddhist heritage sites"
+    ],
+    "related_concepts": [
+      "Bodh Gaya",
+      "Rumtek Monastery (Sikkim)",
+      "Namdroling Monastery"
+    ],
+    "contrast_with": [
+      "Tawang (Arunachal Pradesh) vs Rumtek (Sikkim) — both major Buddhist monasteries but Tawang is the largest"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Tawang has strategic significance due to India-China border tensions.",
+    "keywords": [
+      "Buddhist monastery",
+      "Tawang",
+      "Assam",
+      "Majuli",
+      "Sikkim",
+      "northeast India"
+    ]
+  }
+]

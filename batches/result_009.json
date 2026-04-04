@@ -1,0 +1,3341 @@
+[
+  {
+    "idx": 0,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Prime Minister & Council",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "HOW",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Option A tempts candidates who confuse the convention with a constitutional requirement; option D misleads those who overestimate presidential discretion.",
+    "elimination_hint": "Article 75 only requires ministers to be members of Parliament within six months; the PM has full discretion in choosing them, making C correct.",
+    "factual_hooks": [
+      "Article 75: PM chooses ministers, President appoints on PM's advice",
+      "Ministers must become MPs within 6 months of appointment"
+    ],
+    "prerequisite_concepts": [
+      "Article 75",
+      "Council of Ministers",
+      "Cabinet formation"
+    ],
+    "related_concepts": [
+      "President's discretionary powers",
+      "Parliamentary government",
+      "Collective responsibility"
+    ],
+    "contrast_with": [
+      "Presidential system where cabinet is independent of legislature"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Relevant during government formation debates about coalition politics and ministerial selection.",
+    "keywords": [
+      "Prime Minister",
+      "Council of Ministers",
+      "Article 75",
+      "Cabinet",
+      "discretion"
+    ]
+  },
+  {
+    "idx": 1,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Industries",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "LOW",
+    "trap_factor": "Bhadravati (VSL) is in Karnataka, far from coal belts; candidates may assume all steel plants have local coal supply.",
+    "elimination_hint": "TISCO Jamshedpur and HSL Durgapur/Bhilai are near Jharkhand/Odisha coal fields; Bhadravati alone depends on imported/transported coal.",
+    "factual_hooks": [
+      "VSL Bhadravati in Karnataka has no local coal — relies on coal from Singareni and imported sources",
+      "TISCO Jamshedpur uses coal from Jharia coalfields"
+    ],
+    "prerequisite_concepts": [
+      "Steel plant locations",
+      "Coal belt geography of India"
+    ],
+    "related_concepts": [
+      "Singareni coalfields",
+      "Iron & Steel industry India",
+      "Raw material linkages"
+    ],
+    "contrast_with": [
+      "SAIL plants near coal fields vs. VSL Bhadravati away from coal"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "VSL Bhadravati",
+      "steel plants",
+      "coal supply",
+      "Karnataka",
+      "iron and steel"
+    ]
+  },
+  {
+    "idx": 2,
+    "subject": "International Relations",
+    "category": "India & Neighbours",
+    "topic": "India-Bangladesh",
+    "syllabus_id": "IR.NBR.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.72,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Sri Lanka may seem correct due to its Sinhala/Tamil binary; candidates unfamiliar with Bangladesh's party history may guess Pakistan.",
+    "elimination_hint": "Bangladesh largely evolved a two-party competition between Awami League and BNP; Myanmar is military-dominated and Pakistan has fragmented parties.",
+    "factual_hooks": [
+      "Bangladesh's two-party system: Awami League vs BNP",
+      "Myanmar ruled by military, Sri Lanka has multi-party competition"
+    ],
+    "prerequisite_concepts": [
+      "Party systems",
+      "South Asian political structures"
+    ],
+    "related_concepts": [
+      "Electoral systems",
+      "Coalition governments",
+      "Democracy in South Asia"
+    ],
+    "contrast_with": [
+      "India's multi-party system vs Bangladesh's two-party tendency"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "two-party system",
+      "Bangladesh",
+      "Awami League",
+      "BNP",
+      "party system"
+    ]
+  },
+  {
+    "idx": 3,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Option A (army recruitment) is tempting since Mansabdars were ranked military officers, but the primary aim was administrative control, not just recruitment.",
+    "elimination_hint": "Mansabdari was primarily an administrative ranking system to ensure loyalty and clean governance; army was one output, not the main purpose.",
+    "factual_hooks": [
+      "Mansabdari introduced by Akbar as a graded administrative-military ranking system",
+      "Mansab determined salary (in cash or jagir) and status, not just military role"
+    ],
+    "prerequisite_concepts": [
+      "Mughal administrative system",
+      "Jagirdari system",
+      "Zat and Sawar ranks"
+    ],
+    "related_concepts": [
+      "Akbar's reforms",
+      "Jagir system",
+      "Todar Mal's revenue reforms"
+    ],
+    "contrast_with": [
+      "Ottoman timar system vs Mughal mansabdari"
+    ],
+    "mains_themes": [
+      "Mughal administration",
+      "Medieval state-building"
+    ],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Mansabdari",
+      "Akbar",
+      "Mughal",
+      "administration",
+      "zat sawar"
+    ]
+  },
+  {
+    "idx": 4,
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "Multilateral Forums",
+    "syllabus_id": "IR.IO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Option D (III and IV) is tempting as grants and food aid are visible forms of assistance; candidates may underestimate the role of soft loans and technical assistance.",
+    "elimination_hint": "Most bilateral/multilateral agencies provide technical assistance (I), soft loans (II), and grants (III); food assistance is a minor specialized component, making B correct.",
+    "factual_hooks": [
+      "Bilateral development agencies primarily provide: technical assistance, soft loans, and grants",
+      "Food assistance is not a primary instrument of bilateral development finance"
+    ],
+    "prerequisite_concepts": [
+      "ODA (Official Development Assistance)",
+      "Bilateral vs multilateral aid",
+      "World Bank, IMF lending"
+    ],
+    "related_concepts": [
+      "Development finance",
+      "Foreign aid",
+      "India's development cooperation"
+    ],
+    "contrast_with": [
+      "Grants (not repaid) vs soft loans (repaid with low interest)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Relevant to India's development financing debates and aid receipts.",
+    "keywords": [
+      "bilateral aid",
+      "technical assistance",
+      "soft loans",
+      "grants",
+      "development finance"
+    ]
+  },
+  {
+    "idx": 5,
+    "subject": "Science & Technology",
+    "category": "Defence Technology",
+    "topic": "Defence R&D",
+    "syllabus_id": "S&T.DEF.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Akash is a missile system and Prithvi is a ballistic missile; Bhim is an artillery system — all could be confused for a tank.",
+    "elimination_hint": "Arjun is India's indigenously developed Main Battle Tank by DRDO/CVRDE; the others are missile/artillery systems.",
+    "factual_hooks": [
+      "Arjun is India's Main Battle Tank developed by DRDO",
+      "Akash = surface-to-air missile; Prithvi = ballistic missile; Bhim = self-propelled howitzer"
+    ],
+    "prerequisite_concepts": [
+      "DRDO weapons programmes",
+      "IGMDP missiles"
+    ],
+    "related_concepts": [
+      "Indian defence indigenisation",
+      "DRDO",
+      "IGMDP"
+    ],
+    "contrast_with": [
+      "Arjun (tank) vs Akash/Prithvi (missiles)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's defence indigenisation push under Make in India.",
+    "keywords": [
+      "Arjun tank",
+      "DRDO",
+      "defence",
+      "Main Battle Tank",
+      "indigenisation"
+    ]
+  },
+  {
+    "idx": 6,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Physics",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Both A and R appear intuitively true — satellites are launched eastward and Earth rotates west to east — but the reason (escape velocity) is wrong; launching eastward helps gain extra velocity, not escape velocity.",
+    "elimination_hint": "A is false because satellites CAN be launched westward (though inefficiently); R is also partly misleading. The correct answer is D.",
+    "factual_hooks": [
+      "Satellites launched eastward to gain boost from Earth's rotational velocity",
+      "Earth's rotation gives an extra ~460 m/s boost, not escape velocity directly"
+    ],
+    "prerequisite_concepts": [
+      "Orbital mechanics",
+      "Escape velocity vs orbital velocity",
+      "Earth's rotation"
+    ],
+    "related_concepts": [
+      "Geostationary orbit",
+      "Launch window",
+      "Rocket propulsion"
+    ],
+    "contrast_with": [
+      "Prograde (eastward) vs retrograde (westward) satellite launches"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Relevant for understanding ISRO launch mechanics.",
+    "keywords": [
+      "satellite launch",
+      "eastward",
+      "Earth rotation",
+      "escape velocity",
+      "orbital mechanics"
+    ]
+  },
+  {
+    "idx": 7,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "France or Italy may seem correct as they have parliamentary systems with frequent government changes; the concept of 'constructive vote of no-confidence' is specifically German.",
+    "elimination_hint": "Germany's Basic Law (Article 67) requires a 'constructive vote of no-confidence' — the opposition must simultaneously elect a new Chancellor to bring down the government.",
+    "factual_hooks": [
+      "Germany's constructive vote of no-confidence (Article 67 Basic Law)",
+      "Only Germany has this mechanism to prevent governmental instability"
+    ],
+    "prerequisite_concepts": [
+      "Parliamentary government",
+      "Vote of no-confidence",
+      "German Basic Law"
+    ],
+    "related_concepts": [
+      "Westminster system",
+      "German political stability",
+      "Bundestag"
+    ],
+    "contrast_with": [
+      "UK/India no-confidence (simple majority) vs Germany (must elect successor)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "no-confidence",
+      "Germany",
+      "constructive vote",
+      "Bundestag",
+      "parliamentary stability"
+    ]
+  },
+  {
+    "idx": 8,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Money & Banking",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "M1 (narrow money) includes only currency + demand deposits + other RBI deposits; M3 (broad money) additionally includes time deposits — candidates often stop at M1.",
+    "elimination_hint": "Broad Money (M3) = Currency with public + Demand deposits + Time deposits + Other deposits with RBI = all four components, making C correct.",
+    "factual_hooks": [
+      "M3 (Broad Money) = M1 + Time deposits with banks",
+      "M1 = Currency + Demand deposits + Other deposits with RBI"
+    ],
+    "prerequisite_concepts": [
+      "Money supply measures M0, M1, M2, M3",
+      "RBI monetary aggregates"
+    ],
+    "related_concepts": [
+      "Monetary policy",
+      "Reserve money",
+      "Credit creation"
+    ],
+    "contrast_with": [
+      "Narrow money (M1) vs Broad money (M3)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Relevant to RBI monetary policy and liquidity management.",
+    "keywords": [
+      "Broad Money",
+      "M3",
+      "money supply",
+      "RBI",
+      "time deposits"
+    ]
+  },
+  {
+    "idx": 9,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "British Expansion",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "General Prendergast is associated with annexation of Burma, and Alexander Burnes with Afghanistan missions — candidates may confuse colonial-era officers.",
+    "elimination_hint": "Captain William Henry Sleeman is historically associated with suppressing the Thuggee cult in 1830s India; this is a well-documented historical fact.",
+    "factual_hooks": [
+      "Captain Sleeman suppressed Thuggee cult in 1830s under Lord William Bentinck",
+      "Thugs were religious criminals who strangled travellers in name of goddess Kali"
+    ],
+    "prerequisite_concepts": [
+      "British social reforms in India",
+      "Thuggee suppression"
+    ],
+    "related_concepts": [
+      "Lord William Bentinck's reforms",
+      "Social evils in colonial India"
+    ],
+    "contrast_with": [
+      "Thuggee suppression vs Sati abolition (1829)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Thugs",
+      "Captain Sleeman",
+      "Thuggee",
+      "British India",
+      "Bentinck"
+    ]
+  },
+  {
+    "idx": 10,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Physical Features of India",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.65,
+    "prelims_priority": "LOW",
+    "trap_factor": "Map-based questions require visual context; without the map, candidates must rely on knowledge that tidal ports (Kolkata/Haldia area) are in the east.",
+    "elimination_hint": "A tidal port depends on tidal flow for navigation — Kolkata (Diamond Harbour area) is India's major tidal port; the answer depends on map orientation.",
+    "factual_hooks": [
+      "Kolkata is India's major tidal port on Hooghly River",
+      "Tidal ports require tidal action to maintain water depth"
+    ],
+    "prerequisite_concepts": [
+      "Types of ports in India",
+      "Tidal vs non-tidal ports"
+    ],
+    "related_concepts": [
+      "Major ports of India",
+      "Haldia port",
+      "Port geography"
+    ],
+    "contrast_with": [
+      "Tidal port (Kolkata) vs natural harbour (Mumbai)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "tidal port",
+      "Kolkata",
+      "Indian ports",
+      "Hooghly",
+      "map-based"
+    ]
+  },
+  {
+    "idx": 11,
+    "subject": "History",
+    "category": "World History",
+    "topic": "World Wars",
+    "syllabus_id": "HIS.WLD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Hydrogen cyanide was used but less famously; carbon monoxide is a poison but not a battlefield chemical weapon; candidates may confuse various toxic gases.",
+    "elimination_hint": "Mustard gas (dichlorodiethyl sulphide) was the most notorious chemical weapon of WWI, first used by Germany in 1917 at Ypres.",
+    "factual_hooks": [
+      "Mustard gas first used by Germany in 1917 at Ypres (WWI)",
+      "Mustard gas causes blistering — a vesicant/blister agent"
+    ],
+    "prerequisite_concepts": [
+      "World War I chemical warfare",
+      "Chemical weapons convention"
+    ],
+    "related_concepts": [
+      "Chlorine gas (WWI)",
+      "Phosgene",
+      "Chemical Weapons Convention 1993"
+    ],
+    "contrast_with": [
+      "Mustard gas (blister agent) vs chlorine/phosgene (choking agents)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Chemical weapons remain prohibited under CWC; Syria's use revived debate.",
+    "keywords": [
+      "mustard gas",
+      "World War I",
+      "chemical weapon",
+      "Ypres",
+      "vesicant"
+    ]
+  },
+  {
+    "idx": 12,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Oceanography",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Option A ('half an ocean') is a common geographical description but not a cause; option C (land-locked) is factually wrong as Indian Ocean has open access.",
+    "elimination_hint": "The Indian Ocean has a unique reversal of currents due to monsoon winds (monsoon drift); unlike Pacific/Atlantic, seasonal wind reversal overrides Coriolis-driven currents.",
+    "factual_hooks": [
+      "Indian Ocean currents reverse direction seasonally due to monsoon",
+      "During SW monsoon: currents flow eastward; NE monsoon: westward"
+    ],
+    "prerequisite_concepts": [
+      "Ocean currents",
+      "Monsoon mechanism",
+      "Coriolis effect"
+    ],
+    "related_concepts": [
+      "North Indian Ocean circulation",
+      "Southwest monsoon",
+      "Gyres"
+    ],
+    "contrast_with": [
+      "Stable Pacific/Atlantic gyres vs reversing Indian Ocean currents"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Indian Ocean currents affect monsoon prediction and maritime navigation.",
+    "keywords": [
+      "Indian Ocean",
+      "monsoon drift",
+      "ocean currents",
+      "reversal",
+      "Coriolis"
+    ]
+  },
+  {
+    "idx": 13,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Climate & Monsoon",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.6,
+    "prelims_priority": "LOW",
+    "trap_factor": "Map-based questions are impossible to answer correctly without the map; temperatures vary regionally and candidates must know India's July temperature distribution.",
+    "elimination_hint": "July is peak monsoon season; peninsular/coastal areas have 27.5–30°C while northwestern regions exceed 30°C; answer depends on the shaded map region.",
+    "factual_hooks": [
+      "July temperatures in peninsular India: 25–30°C",
+      "July NW India (Rajasthan): above 30°C; NE India: 25–27°C"
+    ],
+    "prerequisite_concepts": [
+      "India's July temperature distribution",
+      "Monsoon climate"
+    ],
+    "related_concepts": [
+      "Isotherm maps",
+      "India climate zones",
+      "Temperature inversion"
+    ],
+    "contrast_with": [
+      "January vs July temperature patterns in India"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "July temperature",
+      "India",
+      "climate",
+      "isotherm",
+      "monsoon season"
+    ]
+  },
+  {
+    "idx": 14,
+    "subject": "Polity",
+    "category": "Elections & Representation",
+    "topic": "Electoral System",
+    "syllabus_id": "POL.ELX.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "LOW",
+    "trap_factor": "USA is often mistakenly thought to have state funding; France and UK have limited public subsidies which may confuse candidates.",
+    "elimination_hint": "Germany and Austria have well-established state funding of political parties and elections; USA primarily relies on private campaign finance.",
+    "factual_hooks": [
+      "Germany and Austria have formal state funding of political parties",
+      "USA relies on private fundraising; state funding is minimal"
+    ],
+    "prerequisite_concepts": [
+      "Electoral finance systems",
+      "Public funding of elections"
+    ],
+    "related_concepts": [
+      "Political party funding India",
+      "Election Commission",
+      "FCRA"
+    ],
+    "contrast_with": [
+      "State-funded elections (Germany) vs privately-funded (USA)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India debates state funding of elections to curb black money in politics.",
+    "keywords": [
+      "state funding",
+      "elections",
+      "Germany",
+      "Austria",
+      "political finance"
+    ]
+  },
+  {
+    "idx": 15,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Ethnic Communities and Tribes",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Mongoloid race may seem correct given proximity to Southeast Asia; Australoid is often confused with Australian Aborigines rather than Andaman tribes.",
+    "elimination_hint": "The Andamanese (Jarawa, Sentinelese, Onge, Great Andamanese) are classified as Negrito/Negroid race — among the oldest surviving human populations.",
+    "factual_hooks": [
+      "Andaman tribes (Jarawa, Sentinelese, Onge) belong to Negrito racial group",
+      "Negritos are among the earliest Homo sapiens to migrate out of Africa"
+    ],
+    "prerequisite_concepts": [
+      "Racial classification",
+      "Tribal population of India",
+      "Andaman tribes"
+    ],
+    "related_concepts": [
+      "Particularly Vulnerable Tribal Groups (PVTGs)",
+      "Sentinelese",
+      "Jarawa"
+    ],
+    "contrast_with": [
+      "Negroid/Negrito (Andaman) vs Mongoloid (NE India tribes)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Andaman tribes' isolation and protection remains a contemporary rights issue.",
+    "keywords": [
+      "Andaman tribes",
+      "Negroid",
+      "Negrito",
+      "Sentinelese",
+      "tribal population"
+    ]
+  },
+  {
+    "idx": 16,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Constitutional Amendments",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "HOW",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "A (both true, R explains A) seems tempting if one thinks parties can internally reserve seats, but the Assertion itself is false — 33% reservation requires constitutional amendment.",
+    "elimination_hint": "Reservation of seats for women in Parliament requires Constitutional amendment (as proven by the Women's Reservation Bill debate); political parties can voluntarily allocate seats but cannot guarantee reservation without amendment.",
+    "factual_hooks": [
+      "Women's reservation in Parliament requires Constitutional amendment (106th Amendment 2023)",
+      "Voluntary allocation by parties ≠ constitutional reservation"
+    ],
+    "prerequisite_concepts": [
+      "Constitutional amendment procedure",
+      "Women's reservation bill",
+      "Article 368"
+    ],
+    "related_concepts": [
+      "106th Constitutional Amendment",
+      "Nari Shakti Vandan Adhiniyam",
+      "Delimitation"
+    ],
+    "contrast_with": [
+      "Statutory reservation (Panchayats, 73rd Amendment) vs Parliamentary seats requiring separate amendment"
+    ],
+    "mains_themes": [
+      "Women's political representation"
+    ],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "The 106th Constitutional Amendment (2023) finally passed women's reservation in Parliament.",
+    "keywords": [
+      "women's reservation",
+      "Parliament",
+      "constitutional amendment",
+      "33 percent",
+      "political representation"
+    ]
+  },
+  {
+    "idx": 17,
+    "subject": "Science & Technology",
+    "category": "Astronomy",
+    "topic": "Solar System",
+    "syllabus_id": "S&T.ASTRO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Alpha Centauri is the nearest star system after the Sun; candidates who consider the Sun separately from 'stars' may pick Alpha Centauri.",
+    "elimination_hint": "The Sun is itself a star and is approximately 150 million km from Earth — far closer than any other star; Alpha Centauri is ~4.24 light years away.",
+    "factual_hooks": [
+      "Sun is Earth's nearest star at ~150 million km (8.3 light minutes)",
+      "Alpha Centauri (Proxima Centauri) is the nearest star after Sun at 4.24 light years"
+    ],
+    "prerequisite_concepts": [
+      "Solar system",
+      "Stars and distances",
+      "Light year"
+    ],
+    "related_concepts": [
+      "Proxima Centauri",
+      "Light year",
+      "Stellar distances"
+    ],
+    "contrast_with": [
+      "Sun (our star) vs Proxima Centauri (nearest other star)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Sun",
+      "nearest star",
+      "Alpha Centauri",
+      "light year",
+      "solar system"
+    ]
+  },
+  {
+    "idx": 18,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Mauryan Empire",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Kalsi and Rummindei are major Ashokan sites; candidates may confuse them with Maski which specifically contains Asoka's personal name 'Asoka' rather than the title 'Devanampiya Priyadarsi'.",
+    "elimination_hint": "The Maski edict (Raichur, Karnataka) was the first to use the name 'Asoka' explicitly, resolving the identity of Devanampiya Priyadarsi.",
+    "factual_hooks": [
+      "Maski edict first identified Devanampiya Priyadarsi as Asoka",
+      "Maski in Raichur district, Karnataka"
+    ],
+    "prerequisite_concepts": [
+      "Ashokan edicts",
+      "Mauryan inscriptions",
+      "Brahmi script"
+    ],
+    "related_concepts": [
+      "Rock edicts",
+      "Pillar edicts",
+      "Devanampiya Priyadarsi"
+    ],
+    "contrast_with": [
+      "Maski (personal name Asoka) vs other edicts using only title"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Asoka",
+      "Maski edict",
+      "Devanampiya Priyadarsi",
+      "Mauryan",
+      "inscription"
+    ]
+  },
+  {
+    "idx": 19,
+    "subject": "Society",
+    "category": "Globalization",
+    "topic": "Impact of Globalization",
+    "syllabus_id": "SOC.GLOB.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Hard",
+    "confidence_score": 0.75,
+    "prelims_priority": "LOW",
+    "trap_factor": "Candidates may pick B (both true, R not explaining A) without carefully analyzing whether socialism's universalism actually supports the assertion about globalism not declining socialism.",
+    "elimination_hint": "Socialism is inherently internationalist/universalist; economic globalism doesn't automatically destroy socialist thought since socialism also advocates global solidarity — both A and R are true and R explains A.",
+    "factual_hooks": [
+      "Socialist ideology is universalist — advocates international worker solidarity",
+      "Economic globalism and socialist globalism are distinct but not always contradictory"
+    ],
+    "prerequisite_concepts": [
+      "Socialism",
+      "Globalization",
+      "Political ideologies"
+    ],
+    "related_concepts": [
+      "Internationalism",
+      "Marxism",
+      "Third Way politics"
+    ],
+    "contrast_with": [
+      "Economic globalism (market-driven) vs socialist globalism (solidarity-driven)"
+    ],
+    "mains_themes": [
+      "Ideology and globalization"
+    ],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Rise of left-wing movements globally despite economic globalism.",
+    "keywords": [
+      "socialism",
+      "globalism",
+      "universalism",
+      "ideology",
+      "globalization"
+    ]
+  },
+  {
+    "idx": 20,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Chlorine is a commonly known reactive halogen used in water treatment; candidates may choose it over fluorine.",
+    "elimination_hint": "Reactivity of halogens decreases down the group (F > Cl > Br > I) due to decreasing electron affinity and atomic radius; Fluorine is most electronegative element.",
+    "factual_hooks": [
+      "Fluorine is the most reactive halogen (and most electronegative element)",
+      "Halogen reactivity: F > Cl > Br > I (decreases down group 17)"
+    ],
+    "prerequisite_concepts": [
+      "Periodic trends",
+      "Electronegativity",
+      "Halogen group chemistry"
+    ],
+    "related_concepts": [
+      "Oxidizing power of halogens",
+      "Electron affinity",
+      "Reactivity series"
+    ],
+    "contrast_with": [
+      "Fluorine (most reactive) vs Iodine (least reactive among common halogens)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "fluorine",
+      "halogens",
+      "reactivity",
+      "electronegativity",
+      "periodic table"
+    ]
+  },
+  {
+    "idx": 21,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Physics",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Standing vs sitting changes the weight distribution, making candidates think period increases; they may confuse with a physical pendulum where mass distribution matters.",
+    "elimination_hint": "Period of simple pendulum T = 2π√(L/g); when girl stands, the effective length L (distance to center of mass) decreases, so period becomes shorter.",
+    "factual_hooks": [
+      "Pendulum period T = 2π√(L/g); shorter L = shorter period",
+      "Standing raises center of mass → reduces effective pendulum length"
+    ],
+    "prerequisite_concepts": [
+      "Simple pendulum",
+      "Period formula",
+      "Center of mass"
+    ],
+    "related_concepts": [
+      "Oscillation",
+      "Simple harmonic motion",
+      "Resonance"
+    ],
+    "contrast_with": [
+      "Simple pendulum (point mass) vs physical pendulum (distributed mass)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "pendulum",
+      "period",
+      "simple harmonic motion",
+      "length",
+      "physics"
+    ]
+  },
+  {
+    "idx": 22,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Drainage System",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.65,
+    "prelims_priority": "LOW",
+    "trap_factor": "Map-based river identification requires visual context; without the map, candidates must rely on sequential/geographical ordering of rivers.",
+    "elimination_hint": "The Ganga plain rivers from east to west roughly follow: Kosi, Gandak, Ghaghara, Gomati sequence; B identifies rivers in likely west-east order with Ganga as the main river.",
+    "factual_hooks": [
+      "Major Ganga tributaries from east: Kosi, Gandak, Ghaghara, Gomati, Yamuna",
+      "Gomati joins Ganga near Varanasi; Ghaghara near Chapra"
+    ],
+    "prerequisite_concepts": [
+      "Ganga drainage system",
+      "North Indian rivers"
+    ],
+    "related_concepts": [
+      "Himalayan rivers",
+      "Peninsular rivers",
+      "River map of India"
+    ],
+    "contrast_with": [
+      "Himalayan origin rivers (Kosi, Gandak) vs Peninsular origin (Son, Chambal)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Ganga tributaries",
+      "Kosi",
+      "Ghaghara",
+      "Gomati",
+      "river map"
+    ]
+  },
+  {
+    "idx": 23,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims_priority": "LOW",
+    "trap_factor": "Rome hosted 1960 Olympics; Johannesburg might tempt those thinking of African games; this is a dated current affairs question from 1998.",
+    "elimination_hint": "Sydney, Australia hosted the 2000 Summer Olympics — a well-known historical fact.",
+    "factual_hooks": [
+      "Sydney 2000 Olympics — 'the best Olympics ever' according to IOC",
+      "2000 Olympics featured Australia's Cathy Freeman lighting the cauldron"
+    ],
+    "prerequisite_concepts": [
+      "Olympic Games history",
+      "Summer Olympics venues"
+    ],
+    "related_concepts": [
+      "IOC",
+      "Olympic Games",
+      "Sports geography"
+    ],
+    "contrast_with": [
+      "Sydney 2000 vs Athens 2004 Olympics"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Olympics 2000",
+      "Sydney",
+      "Summer Olympics",
+      "Australia",
+      "IOC"
+    ]
+  },
+  {
+    "idx": 24,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Assertion says glycine, serine and tyrosine are essential — but they are NON-essential amino acids (synthesized in body); the Reason about essential amino acids not being synthesized is true.",
+    "elimination_hint": "A is false (glycine, serine, tyrosine are non-essential); R is true (essential AAs cannot be synthesized). So D is correct.",
+    "factual_hooks": [
+      "Essential amino acids (cannot be synthesized): Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine",
+      "Glycine, Serine, Tyrosine are NON-essential amino acids"
+    ],
+    "prerequisite_concepts": [
+      "Essential vs non-essential amino acids",
+      "Protein synthesis",
+      "Human nutrition"
+    ],
+    "related_concepts": [
+      "Complete proteins",
+      "Protein deficiency",
+      "Dietary requirements"
+    ],
+    "contrast_with": [
+      "Essential (diet-required) vs non-essential (body-synthesized) amino acids"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "essential amino acids",
+      "non-essential",
+      "glycine",
+      "serine",
+      "nutrition"
+    ]
+  },
+  {
+    "idx": 25,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "R (air descends in centre) sounds correct for anticyclone not cyclone; candidates may accept both statements without checking R carefully.",
+    "elimination_hint": "In a cyclone, surface winds DO spiral inwards (A is true); but at the centre, air RISES (not descends — that's anticyclone), so R is false. Answer: C.",
+    "factual_hooks": [
+      "Cyclone: air converges at surface and rises at centre (low pressure)",
+      "Anticyclone: air diverges at surface and descends at centre (high pressure)"
+    ],
+    "prerequisite_concepts": [
+      "Cyclone vs anticyclone",
+      "Pressure systems",
+      "Wind circulation"
+    ],
+    "related_concepts": [
+      "Coriolis effect",
+      "Eye of cyclone",
+      "Tropical vs extratropical cyclones"
+    ],
+    "contrast_with": [
+      "Cyclone (rising air at centre) vs Anticyclone (descending air)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Cyclone frequency in Bay of Bengal is an increasing concern due to climate change.",
+    "keywords": [
+      "cyclone",
+      "anticyclone",
+      "surface winds",
+      "low pressure",
+      "Coriolis"
+    ]
+  },
+  {
+    "idx": 26,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Physics",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "R states iron's specific gravity is more than mercury — this is FALSE (iron ~7.8, mercury ~13.6); candidates may accept it without checking densities.",
+    "elimination_hint": "A is true (iron floats on mercury, sinks in water — iron density between water and mercury); R is false (mercury is denser than iron). Answer: C.",
+    "factual_hooks": [
+      "Density: Water (~1) < Iron (~7.8) < Mercury (~13.6)",
+      "Objects float when their density is less than the fluid; iron floats on mercury"
+    ],
+    "prerequisite_concepts": [
+      "Archimedes' principle",
+      "Specific gravity",
+      "Density and buoyancy"
+    ],
+    "related_concepts": [
+      "Flotation",
+      "Hydraulic pressure",
+      "Fluid mechanics"
+    ],
+    "contrast_with": [
+      "Floating (density < fluid) vs sinking (density > fluid)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "buoyancy",
+      "iron",
+      "mercury",
+      "density",
+      "Archimedes principle"
+    ]
+  },
+  {
+    "idx": 27,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Continents & Regions",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.7,
+    "prelims_priority": "LOW",
+    "trap_factor": "Without the map, candidates must rely on rough knowledge of Indian Ocean island positions; Socotra (Yemen) and Seychelles positions are often confused.",
+    "elimination_hint": "Seychelles is NE of Madagascar, Chagos is central Indian Ocean south of India, Mauritius is SE of Madagascar, Socotra is near Horn of Africa/Yemen.",
+    "factual_hooks": [
+      "Socotra belongs to Yemen — near Gulf of Aden",
+      "Chagos Archipelago (British Indian Ocean Territory) is in central Indian Ocean"
+    ],
+    "prerequisite_concepts": [
+      "Indian Ocean island geography",
+      "Strategic islands"
+    ],
+    "related_concepts": [
+      "Diego Garcia",
+      "Maldives",
+      "Indian Ocean geopolitics"
+    ],
+    "contrast_with": [
+      "Seychelles (NE of Madagascar) vs Mauritius (SE of Madagascar)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Chagos/Diego Garcia dispute is ongoing — Mauritius sovereignty claim.",
+    "keywords": [
+      "Seychelles",
+      "Chagos",
+      "Mauritius",
+      "Socotra",
+      "Indian Ocean islands"
+    ]
+  },
+  {
+    "idx": 28,
+    "subject": "Economy",
+    "category": "External Sector",
+    "topic": "Balance of Payments",
+    "syllabus_id": "ECO.EXT.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Commercial borrowings and NRI deposits (C) seem logical as they fluctuate; candidates may not know the specific 2000-01 data.",
+    "elimination_hint": "India's external debt increase in 2000-01 was primarily due to multilateral and bilateral debt — the answer requires knowledge of period-specific debt composition data.",
+    "factual_hooks": [
+      "India's external debt components: multilateral, bilateral, commercial borrowings, NRI deposits, rupee debt",
+      "Multilateral debt (World Bank, ADB) forms a major share of India's long-term debt"
+    ],
+    "prerequisite_concepts": [
+      "External debt components",
+      "India's balance of payments"
+    ],
+    "related_concepts": [
+      "BoP crisis 1991",
+      "IMF loans",
+      "NRI deposits"
+    ],
+    "contrast_with": [
+      "Multilateral debt (long-term, concessional) vs commercial borrowings (market rate)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "external debt",
+      "multilateral",
+      "bilateral",
+      "India",
+      "BoP"
+    ]
+  },
+  {
+    "idx": 29,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Physics",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "HOW",
+    "question_type": "Conceptual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Candidates may not know the technical interplay between DRS technology (Hot Spot infrared, Snickometer, ball-tracking) and how silicone tape insulates sound/heat.",
+    "elimination_hint": "Silicone tape is thermally and acoustically insulating — it prevents the Hot Spot infrared signature and Snickometer sound spike from registering, thus fooling both detection systems.",
+    "factual_hooks": [
+      "DRS components: Ball-tracking (Hawk-Eye), Hot Spot (IR), Snickometer/Ultra-Edge, Real-Time Snickometer",
+      "Silicone tape insulates heat and sound, preventing Hot Spot and edge detection"
+    ],
+    "prerequisite_concepts": [
+      "DRS technology",
+      "Infrared thermography",
+      "Sound detection"
+    ],
+    "related_concepts": [
+      "Ball tracking technology",
+      "Cricket umpiring technology",
+      "Hawk-Eye"
+    ],
+    "contrast_with": [
+      "Hot Spot (heat-based) vs Snickometer (sound-based) detection"
+    ],
+    "mains_themes": [
+      "Science and Technology in sports"
+    ],
+    "mains_intro": "The Umpire Decision Review System (DRS) represents the integration of cutting-edge technology into sporting adjudication.",
+    "mains_body_points": [
+      "DRS components: Hawk-Eye ball tracking, Hot Spot infrared imaging, Ultra-Edge/Snickometer for edge detection, and Real Ball Tracking",
+      "Hot Spot uses infrared to detect heat from ball-bat contact; silicone tape being thermally insulating prevents heat signature",
+      "Snickometer/Ultra-Edge detects sound vibrations; silicone tape's acoustic insulation dampens this signal",
+      "Limitations: human elements remain (umpire on-field call stands if inconclusive), technology can be exploited"
+    ],
+    "mains_conclusion": "While DRS has improved decision accuracy, understanding its technological basis reveals both its strengths and exploitable limitations.",
+    "mains_interlinkages": [
+      "GS3: Science and Technology applications",
+      "Ethics: Fair play and technology misuse in sports"
+    ],
+    "contemporary_relevance": "DRS continues to evolve with AI-assisted ball tracking and improved edge detection.",
+    "keywords": [
+      "DRS",
+      "Hot Spot",
+      "Snickometer",
+      "silicone tape",
+      "Hawk-Eye",
+      "cricket technology"
+    ]
+  },
+  {
+    "idx": 30,
+    "subject": "Economy",
+    "category": "Industry & Infrastructure",
+    "topic": "Infrastructure",
+    "syllabus_id": "ECO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Tamil Nadu and Gujarat appear in distractors; candidates may confuse Konkan Railway (western coast) with eastern coastal railways.",
+    "elimination_hint": "Konkan Railway runs along India's western coast from Roha (Maharashtra) to Mangalore (Karnataka) passing through Goa and Kerala — option A lists exactly these states.",
+    "factual_hooks": [
+      "Konkan Railway: Roha (Maharashtra) to Mangalore (Karnataka), passes through Goa",
+      "Konkan Railway covers Maharashtra, Goa, Karnataka, and Kerala"
+    ],
+    "prerequisite_concepts": [
+      "Konkan Railway geography",
+      "Indian railway network"
+    ],
+    "related_concepts": [
+      "Indian Railways zones",
+      "Western Ghats infrastructure",
+      "Port connectivity"
+    ],
+    "contrast_with": [
+      "Konkan Railway (western coast) vs East Coast Railway"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Konkan Railway remains crucial for western coastal connectivity and tourism.",
+    "keywords": [
+      "Konkan Railway",
+      "Maharashtra",
+      "Goa",
+      "Karnataka",
+      "Kerala"
+    ]
+  },
+  {
+    "idx": 31,
+    "subject": "Ethics",
+    "category": "Public Administration Ethics",
+    "topic": "Ethical Governance",
+    "syllabus_id": "ETH.PAE.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "Moral integrity = adherence to ethical principles in decision-making",
+      "Professional efficiency = achieving goals with competence and accountability"
+    ],
+    "prerequisite_concepts": [
+      "Corporate governance",
+      "Ethics in public life",
+      "Probity"
+    ],
+    "related_concepts": [
+      "Nolan Committee principles",
+      "Corporate Social Responsibility",
+      "Accountability"
+    ],
+    "contrast_with": [
+      "Moral integrity (values-based) vs professional efficiency (output-based)"
+    ],
+    "mains_themes": [
+      "Corporate governance",
+      "Ethics in professional life"
+    ],
+    "mains_intro": "Moral integrity and professional efficiency are twin pillars of effective corporate governance, ensuring organizations serve both ethical and functional objectives.",
+    "mains_body_points": [
+      "Moral integrity: adherence to ethical values — honesty, transparency, fairness; example — Tata Group's ethical business practices during crises",
+      "Professional efficiency: achieving organizational goals with minimum resources, optimal competence; example — ISRO achieving space missions at globally competitive costs",
+      "In corporate governance: moral integrity prevents fraud (Satyam scandal shows its absence); professional efficiency ensures competitive performance",
+      "The two must coexist: efficiency without integrity leads to unethical shortcuts; integrity without efficiency leads to organizational ineffectiveness"
+    ],
+    "mains_conclusion": "Corporate governance in India must institutionalize both moral integrity through robust compliance mechanisms and professional efficiency through performance management systems.",
+    "mains_interlinkages": [
+      "GS2: Governance and transparency",
+      "GS4: Case studies on corporate ethics"
+    ],
+    "contemporary_relevance": "SEBI's governance reforms and the Companies Act 2013 mandate both ethical governance and professional efficiency in Indian corporations.",
+    "keywords": [
+      "moral integrity",
+      "professional efficiency",
+      "corporate governance",
+      "ethics",
+      "probity"
+    ]
+  },
+  {
+    "idx": 32,
+    "subject": "Ethics",
+    "category": "Ethics Fundamentals",
+    "topic": "Human Values",
+    "syllabus_id": "ETH.FND.1",
+    "dimension": "HOW",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "NEP 2020 envisions holistic, multidisciplinary, value-based education",
+      "Education as transformation: Dewey's 'education is life itself' principle"
+    ],
+    "prerequisite_concepts": [
+      "NEP 2020 key provisions",
+      "Philosophy of education",
+      "Social transformation through education"
+    ],
+    "related_concepts": [
+      "Freire's Pedagogy of the Oppressed",
+      "Right to Education Act",
+      "Gross Enrolment Ratio"
+    ],
+    "contrast_with": [
+      "Traditional rote learning vs NEP's competency-based learning"
+    ],
+    "mains_themes": [
+      "Education as social transformation",
+      "NEP 2020"
+    ],
+    "mains_intro": "Education transcends mere instruction — as a pervasive tool for individual flourishing and societal change, the National Education Policy 2020 represents India's most ambitious reimagining of this transformative process.",
+    "mains_body_points": [
+      "NEP 2020: shifts from rote learning to holistic development — 5+3+3+4 structure, multidisciplinary approach, mother tongue instruction until Grade 5",
+      "Individual development: foundational literacy, vocational education, critical thinking — enabling rounded human development",
+      "Social transformation: 50% GER target in higher education, inclusion of disadvantaged groups, digital literacy for bridging inequality",
+      "Limitations: implementation gaps — teacher training shortage, digital divide, state capacity variations"
+    ],
+    "mains_conclusion": "NEP 2020 aligns with the vision of education as a transformative force, but its success depends on sustained political will, resource allocation, and grassroots implementation.",
+    "mains_interlinkages": [
+      "GS2: Social justice and education",
+      "GS4: Values and education"
+    ],
+    "contemporary_relevance": "NEP 2020 implementation is actively underway with ongoing debates on language policy and multidisciplinary education.",
+    "keywords": [
+      "NEP 2020",
+      "education",
+      "social transformation",
+      "holistic development",
+      "individual development"
+    ]
+  },
+  {
+    "idx": 33,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "National Income",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Candidates may confuse supply-side with demand-side economics; 'global economy' (B) seems plausible in a globalized context.",
+    "elimination_hint": "Supply-side economics (Reaganomics) emphasizes reducing taxes and regulations on producers to stimulate production, investment and economic growth — viewpoint of the producer.",
+    "factual_hooks": [
+      "Supply-side economics: tax cuts for producers stimulate growth (Laffer Curve)",
+      "Contrast: Demand-side (Keynesian) focuses on consumer spending"
+    ],
+    "prerequisite_concepts": [
+      "Supply-side vs demand-side economics",
+      "Laffer Curve",
+      "Reaganomics"
+    ],
+    "related_concepts": [
+      "Fiscal policy",
+      "Trickle-down economics",
+      "Keynesian economics"
+    ],
+    "contrast_with": [
+      "Supply-side (producer focus) vs demand-side/Keynesian (consumer focus)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's PLI schemes reflect supply-side thinking — incentivizing producers to boost manufacturing.",
+    "keywords": [
+      "supply-side economics",
+      "producer",
+      "Laffer Curve",
+      "Reaganomics",
+      "fiscal policy"
+    ]
+  },
+  {
+    "idx": 34,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Sangam Age",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Tamil (Dravidian) seems correct for south India; Ladakhi (Sino-Tibetan) is clearly wrong; Marathi (Indo-Aryan) is also clearly wrong.",
+    "elimination_hint": "Khasi is spoken in Meghalaya and belongs to the Austroasiatic (Austric) language family, along with Mundari, Santali, Ho, etc.",
+    "factual_hooks": [
+      "Khasi (Meghalaya) belongs to Austroasiatic/Mon-Khmer branch of Austric family",
+      "Munda languages (Santali, Mundari, Ho) also belong to Austric group"
+    ],
+    "prerequisite_concepts": [
+      "Language families of India: Indo-Aryan, Dravidian, Austric, Sino-Tibetan",
+      "Austroasiatic languages"
+    ],
+    "related_concepts": [
+      "Meghalaya tribal languages",
+      "Scheduled languages",
+      "Constitutional provisions on languages"
+    ],
+    "contrast_with": [
+      "Austric (Khasi, Mundari) vs Dravidian (Tamil, Telugu) vs Indo-Aryan (Marathi)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Austric",
+      "Khasi",
+      "language family",
+      "Meghalaya",
+      "Austroasiatic"
+    ]
+  },
+  {
+    "idx": 35,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.72,
+    "prelims_priority": "LOW",
+    "trap_factor": "Multiple research institutes with similar-sounding names across India; map reference makes this impossible without visual context.",
+    "elimination_hint": "CDRI is in Lucknow (UP), NATMO is in Kolkata (WB), NIOT is in Chennai (Tamil Nadu), TFRC is in Shimla (HP) — aligning with option A: A-4 (Lucknow), B-3 (Kolkata), C-2 (Chennai), D-6 (Shimla).",
+    "factual_hooks": [
+      "CDRI (Central Drug Research Institute) — Lucknow",
+      "NIOT (National Institute of Ocean Technology) — Chennai; NATMO — Kolkata"
+    ],
+    "prerequisite_concepts": [
+      "Major research institutes of India",
+      "CSIR institutions"
+    ],
+    "related_concepts": [
+      "Scientific institutions map",
+      "DST",
+      "CSIR laboratories"
+    ],
+    "contrast_with": [
+      "CSIR labs vs autonomous research bodies"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "CDRI",
+      "NATMO",
+      "NIOT",
+      "research institutes",
+      "India locations"
+    ]
+  },
+  {
+    "idx": 36,
+    "subject": "Science & Technology",
+    "category": "Space Technology",
+    "topic": "Indian Space Programme",
+    "syllabus_id": "S&T.SPC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement III says she trained at Kennedy Space Centre — she actually trained at Johnson Space Centre (JSC) in Houston; candidates may not know this distinction.",
+    "elimination_hint": "Kalpana Chawla: born Karnal (not Kamal), flew STS-87, trained at Johnson Space Centre (not Kennedy), did spacewalk to retrieve Spartan satellite. Statements I (Karnal misspelled as Kamal), II (STS-87 correct), III (wrong centre) — so I and II correct by content but with spelling issue.",
+    "factual_hooks": [
+      "Kalpana Chawla: born Karnal (Haryana), first Indian-origin woman in space on STS-87 (1997)",
+      "She trained at Johnson Space Centre, Houston — NOT Kennedy Space Centre"
+    ],
+    "prerequisite_concepts": [
+      "Indian space pioneers",
+      "NASA missions"
+    ],
+    "related_concepts": [
+      "Columbia Space Shuttle disaster 2003",
+      "ISRO",
+      "Women in science"
+    ],
+    "contrast_with": [
+      "Kennedy Space Centre (launches) vs Johnson Space Centre (training/mission control)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Kalpana Chawla's legacy inspires India's growing women astronaut aspirations.",
+    "keywords": [
+      "Kalpana Chawla",
+      "STS-87",
+      "Karnal",
+      "NASA",
+      "space pioneer"
+    ]
+  },
+  {
+    "idx": 37,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Candidates may calculate meeting time as 1 hour after start (8:30 am) thinking B gains 5 rounds per hour; actual meeting is when relative gain = 1 round.",
+    "elimination_hint": "B gains 5 rounds/hour over A. To lap A once (gain 1 round), time = 1/5 hour = 12 minutes. Start 7:30 am + 12 min = 7:42 am. Answer: D.",
+    "factual_hooks": [
+      "Relative speed for circular track: subtract speeds for same direction",
+      "Time to first crossing = 1/(speed difference in rounds/hour)"
+    ],
+    "prerequisite_concepts": [
+      "Circular motion problems",
+      "Relative speed",
+      "Time calculation"
+    ],
+    "related_concepts": [
+      "Circular track problems",
+      "Time and speed",
+      "Ratio"
+    ],
+    "contrast_with": [
+      "Same direction (subtract speeds) vs opposite direction (add speeds) on circular track"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "circular track",
+      "relative speed",
+      "time",
+      "rounds per hour",
+      "CSAT"
+    ]
+  },
+  {
+    "idx": 38,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Post-Gupta Period",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Pulakesin I is the founder of Chalukya dynasty; Pulakesin II is who stopped Harsha — candidates may confuse the two.",
+    "elimination_hint": "Pulakesin II of Chalukya dynasty (Vatapi/Badami) defeated Harsha at the Narmada River battle (~618–619 CE) and is remembered as the king who halted Harsha's southward expansion.",
+    "factual_hooks": [
+      "Pulakesin II (Chalukya) defeated Harsha at Narmada (~618 CE)",
+      "Harsha's empire was confined to northern India; Narmada was the boundary"
+    ],
+    "prerequisite_concepts": [
+      "Harsha's empire",
+      "Chalukya dynasty",
+      "Post-Gupta period"
+    ],
+    "related_concepts": [
+      "Aihole inscription (Pulakesin II)",
+      "Hiuen Tsang's accounts",
+      "Badami Chalukyas"
+    ],
+    "contrast_with": [
+      "Pulakesin I (founder) vs Pulakesin II (Harsha's adversary)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Pulakesin II",
+      "Harsha",
+      "Narmada",
+      "Chalukya",
+      "ancient India"
+    ]
+  },
+  {
+    "idx": 39,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "President",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Candidates may confuse Article 123 (President's Ordinance power) with Articles 121-122 (Parliament prohibition on discussing SC/HC conduct).",
+    "elimination_hint": "Article 123 grants President the power to promulgate ordinances when Parliament is not in session — the article under which the electoral reforms ordinance was issued.",
+    "factual_hooks": [
+      "Article 123: Presidential ordinance-making power during recess of Parliament",
+      "Ordinances have the same force as Acts of Parliament but must be approved within 6 weeks of reassembly"
+    ],
+    "prerequisite_concepts": [
+      "Article 123",
+      "Presidential ordinance power",
+      "Electoral reforms"
+    ],
+    "related_concepts": [
+      "Article 213 (Governor's ordinance)",
+      "Ordinance repromulgation",
+      "People's Union for Civil Liberties case"
+    ],
+    "contrast_with": [
+      "Article 123 (President) vs Article 213 (Governor) ordinance powers"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Ordinance-making power has been frequently invoked by governments, raising constitutional debates.",
+    "keywords": [
+      "Article 123",
+      "ordinance",
+      "President",
+      "electoral reforms",
+      "Parliament recess"
+    ]
+  },
+  {
+    "idx": 40,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Banking System",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "LOW",
+    "trap_factor": "Both statements sound plausible given India's banking regulations; candidates may accept one as correct without recalling specific limits that existed in 2003.",
+    "elimination_hint": "Both statements are incorrect for 2003 context — promoter shareholding limits and FDI caps have changed multiple times; neither 49% limit was accurate as stated, making D correct.",
+    "factual_hooks": [
+      "Private bank shareholding norms in India have been revised multiple times by RBI",
+      "FDI in private banks was allowed up to 74% under automatic route in revised policy"
+    ],
+    "prerequisite_concepts": [
+      "Banking regulation in India",
+      "FDI norms in banking",
+      "RBI guidelines"
+    ],
+    "related_concepts": [
+      "FEMA",
+      "Narasimham Committee",
+      "Bank privatisation"
+    ],
+    "contrast_with": [
+      "Promoter shareholding limits (periodic RBI review) vs FDI cap (government policy)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Bank privatisation debate continues with NITI Aayog recommendations.",
+    "keywords": [
+      "private banks",
+      "FDI",
+      "shareholding",
+      "RBI",
+      "banking regulation"
+    ]
+  },
+  {
+    "idx": 41,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.72,
+    "prelims_priority": "LOW",
+    "trap_factor": "Cricketers from older era may be confused — Barry Richards (South Africa) and Alan Davidson (Australia) are key; Charli Griffith (West Indies) not New Zealand.",
+    "elimination_hint": "Barry Richards = South Africa (3), Ted Dexter = England (1), Alan Davidson = Australia (5), Charlie Griffith = West Indies (2). Answer: C.",
+    "factual_hooks": [
+      "Barry Richards: South African batsman",
+      "Charlie Griffith: West Indian fast bowler; Alan Davidson: Australian all-rounder"
+    ],
+    "prerequisite_concepts": [
+      "Cricket history",
+      "International cricket players"
+    ],
+    "related_concepts": [
+      "Cricket world history",
+      "ICC",
+      "Test cricket"
+    ],
+    "contrast_with": [
+      "South African cricket (apartheid era) vs contemporary integration"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "cricket",
+      "Barry Richards",
+      "Alan Davidson",
+      "Charlie Griffith",
+      "international cricket"
+    ]
+  },
+  {
+    "idx": 42,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 (Spirogyra in oceans) seems plausible as algae exist in marine environments; Statement 2 about chameleon's eye independence is a well-known fact.",
+    "elimination_hint": "Spirogyra and Ulothrix are freshwater algae ONLY — not found in marine/ocean environments; chameleons DO have independent eye movement. Only statement 2 is correct.",
+    "factual_hooks": [
+      "Spirogyra and Ulothrix are strictly freshwater green algae",
+      "Chameleon's eyes move independently — can look forward and backward simultaneously"
+    ],
+    "prerequisite_concepts": [
+      "Freshwater vs marine algae",
+      "Chameleon biology",
+      "Vertebrate vision"
+    ],
+    "related_concepts": [
+      "Biodiversity",
+      "Aquatic ecosystems",
+      "Reptile adaptations"
+    ],
+    "contrast_with": [
+      "Freshwater algae (Spirogyra) vs marine algae (Sargassum, kelp)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Spirogyra",
+      "Ulothrix",
+      "freshwater algae",
+      "chameleon",
+      "eye movement"
+    ]
+  },
+  {
+    "idx": 43,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "World Population Distribution",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.9,
+    "prelims_priority": "LOW",
+    "trap_factor": "Pakistan's rapid population growth may make it seem comparable; Japan has a large but aging population.",
+    "elimination_hint": "Indonesia (population ~270 million) is the largest among the given options; it is the world's 4th most populous country. Note: question is dated (2003 era context).",
+    "factual_hooks": [
+      "Indonesia: ~270 million — world's 4th most populous nation",
+      "Sudan has ~45 million; Pakistan ~220 million; Japan ~125 million"
+    ],
+    "prerequisite_concepts": [
+      "World population ranking",
+      "Population geography"
+    ],
+    "related_concepts": [
+      "Demographic transition",
+      "Population density",
+      "ASEAN countries"
+    ],
+    "contrast_with": [
+      "Indonesia (archipelago, diverse) vs Pakistan (landlocked, Muslim-majority)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Indonesia",
+      "population",
+      "world ranking",
+      "demography",
+      "South Asia"
+    ]
+  },
+  {
+    "idx": 44,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "R (reclaiming Ferghana) seems plausible as Babur originally came from Ferghana; but Akbar's 1581 march was specifically to deal with his brother Mirza Hakim's rebellion in Kabul.",
+    "elimination_hint": "A is true (Akbar marched to Afghanistan in 1581); R is false (the reason was suppressing Mirza Hakim's revolt, not reclaiming Ferghana). Answer: C.",
+    "factual_hooks": [
+      "Akbar's 1581 Afghanistan campaign: to subdue rebellion by half-brother Mirza Hakim in Kabul",
+      "Ferghana (Central Asia) was Babur's homeland — Akbar never seriously sought to reconquer it"
+    ],
+    "prerequisite_concepts": [
+      "Akbar's expansion policies",
+      "Mughal succession conflicts"
+    ],
+    "related_concepts": [
+      "Mirza Hakim",
+      "Mughal-Afghan relations",
+      "Akbar's military campaigns"
+    ],
+    "contrast_with": [
+      "Babur's origins in Ferghana vs Akbar's Hindustan-centric empire"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Akbar",
+      "Afghanistan",
+      "Mirza Hakim",
+      "Mughal",
+      "1581 campaign"
+    ]
+  },
+  {
+    "idx": 45,
+    "subject": "Economy",
+    "category": "External Sector",
+    "topic": "Trade Policy",
+    "syllabus_id": "ECO.EXT.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.72,
+    "prelims_priority": "LOW",
+    "trap_factor": "A (both true, R explains A) seems right if one assumes negative export sectors caused overall decline; but A is false — data may show overall exports actually grew or the decline was different.",
+    "elimination_hint": "A is false (India's exports in 2001-02 may not have shown the stated negative growth in the exact figure given); R may be true about those specific sectors. Answer: D.",
+    "factual_hooks": [
+      "India's export performance is measured by DGCI&S and RBI data",
+      "Iron & steel, coffee, textiles, marine products are key Indian export categories"
+    ],
+    "prerequisite_concepts": [
+      "India's trade balance",
+      "Export composition of India"
+    ],
+    "related_concepts": [
+      "BoP",
+      "Export promotion schemes",
+      "FTP (Foreign Trade Policy)"
+    ],
+    "contrast_with": [
+      "Overall export performance vs sector-specific growth"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "exports",
+      "trade",
+      "India",
+      "negative growth",
+      "iron steel coffee textiles"
+    ]
+  },
+  {
+    "idx": 46,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Agricultural Geography",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "R (eastern coast gets more rainfall) seems correct as the east coast gets NE monsoon; but the western coast gets more total rainfall (SW monsoon windward side).",
+    "elimination_hint": "A is true (eastern coast produces more rice); R is false (western coast gets MORE rainfall — Western Ghats create orographic rainfall). Delta plains of east coast, not rainfall, explain more rice production. Answer: C.",
+    "factual_hooks": [
+      "Eastern coast: fertile river deltas (Godavari, Krishna, Kaveri) ideal for rice",
+      "Western coast gets more rainfall but is hilly/rocky — less flat arable land for rice"
+    ],
+    "prerequisite_concepts": [
+      "Monsoon patterns",
+      "Rice cultivation requirements",
+      "River deltas"
+    ],
+    "related_concepts": [
+      "Kharif crops",
+      "Green Revolution",
+      "Delta agriculture"
+    ],
+    "contrast_with": [
+      "Eastern coast (delta, rice) vs Western coast (rainfall, cash crops like spices)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Delta vulnerability to cyclones affects rice production on eastern coast.",
+    "keywords": [
+      "eastern coast",
+      "rice",
+      "western coast",
+      "rainfall",
+      "delta agriculture"
+    ]
+  },
+  {
+    "idx": 47,
+    "subject": "Economy",
+    "category": "External Sector",
+    "topic": "Trade Policy",
+    "syllabus_id": "ECO.EXT.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "A (both true, R explains A) seems tempting as GATT/WTO liberalization directly influenced India's EXIM policy; but the relationship is correlational, not causal explanation.",
+    "elimination_hint": "A is true (EXIM policy is liberal and market-oriented); R is true (GATT played role in liberalization); but GATT's role is not the reason/cause of EXIM policy being liberal — both are true but independent. Answer: B.",
+    "factual_hooks": [
+      "India's EXIM Policy liberalized post-1991 reforms — aligned with WTO/GATT obligations",
+      "GATT (1947) → WTO (1995) — multilateral trade liberalization framework"
+    ],
+    "prerequisite_concepts": [
+      "GATT vs WTO",
+      "India's trade liberalization 1991",
+      "EXIM Policy"
+    ],
+    "related_concepts": [
+      "Most Favoured Nation (MFN)",
+      "Trade in Services (GATS)",
+      "Doha Round"
+    ],
+    "contrast_with": [
+      "Pre-1991 import substitution vs post-1991 export promotion"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's WTO commitments continue to shape its trade and FTP.",
+    "keywords": [
+      "EXIM policy",
+      "GATT",
+      "WTO",
+      "trade liberalization",
+      "market orientation"
+    ]
+  },
+  {
+    "idx": 48,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "R (atomic radii increase down group) is true — but A (electron affinity always increases top to bottom) is FALSE; electron affinity generally DECREASES down a group.",
+    "elimination_hint": "Electron affinity decreases down a group (electrons added farther from nucleus, less attraction); R is true (atomic radius increases). Since A is false, D is correct.",
+    "factual_hooks": [
+      "Electron affinity generally decreases down a group (larger atoms, less attraction for electrons)",
+      "Atomic radius increases down a group due to addition of electron shells"
+    ],
+    "prerequisite_concepts": [
+      "Periodic trends",
+      "Electron affinity",
+      "Atomic radius"
+    ],
+    "related_concepts": [
+      "Ionization energy trends",
+      "Electronegativity",
+      "Periodic table"
+    ],
+    "contrast_with": [
+      "Electron affinity (decreases down group) vs electronegativity (also decreases down group)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "electron affinity",
+      "atomic radius",
+      "periodic table",
+      "periodic trends",
+      "chemistry"
+    ]
+  },
+  {
+    "idx": 49,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Pollution",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "R (oxides of CARBON cause acid rain) is false — carbon dioxide forms carbonic acid (weak); acid rain is caused by oxides of SULPHUR and NITROGEN from coal combustion.",
+    "elimination_hint": "A is true (coal thermal plants do cause acid rain via SO2 and NOx); R is false (it's oxides of sulphur/nitrogen, not carbon). Answer: B — both true but R wrong explanation.",
+    "factual_hooks": [
+      "Acid rain caused by SO2 and NOx combining with atmospheric moisture",
+      "Coal burning releases SO2 (major), NOx, and CO2 — SO2 → H2SO4 (acid rain)"
+    ],
+    "prerequisite_concepts": [
+      "Acid rain formation",
+      "Air pollution from coal",
+      "Sulphur dioxide"
+    ],
+    "related_concepts": [
+      "pH of acid rain",
+      "Scrubber technology",
+      "Climate change and fossil fuels"
+    ],
+    "contrast_with": [
+      "Acid rain (SO2/NOx) vs greenhouse effect (CO2)"
+    ],
+    "mains_themes": [
+      "Environmental pollution",
+      "Fossil fuel impact"
+    ],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's coal-dependent energy mix makes acid rain a persistent concern.",
+    "keywords": [
+      "acid rain",
+      "coal",
+      "thermal power",
+      "SO2",
+      "NOx"
+    ]
+  },
+  {
+    "idx": 50,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Physics",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "A (both true, R explains A) seems plausible as weight does change with latitude; but R is incomplete — both Earth's oblate shape AND centrifugal force contribute.",
+    "elimination_hint": "A is true (weight decreases with latitude — actually INCREASES with latitude as you move toward poles); R is true (Earth is oblate spheroid). But actually weight INCREASES toward poles (less centrifugal, slightly more gravity). A may be false as stated. Answer: D.",
+    "factual_hooks": [
+      "Weight increases toward poles (less centrifugal force, slightly larger g)",
+      "Earth is oblate spheroid — flattened at poles, bulging at equator"
+    ],
+    "prerequisite_concepts": [
+      "Gravity variation with latitude",
+      "Earth's shape",
+      "Centrifugal force"
+    ],
+    "related_concepts": [
+      "g variation formula",
+      "Gravitational acceleration",
+      "Earth's rotation"
+    ],
+    "contrast_with": [
+      "Equatorial weight (less) vs polar weight (more)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "weight",
+      "latitude",
+      "gravity",
+      "oblate spheroid",
+      "centrifugal force"
+    ]
+  },
+  {
+    "idx": 51,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "R states unsaturated fats have 'only single bonds' — this is completely false; unsaturated fats have double/triple bonds, which is why they're more reactive.",
+    "elimination_hint": "A is true (unsaturated fats ARE more reactive due to double bonds); R is false (they have double/triple bonds, NOT only single bonds). Answer: C.",
+    "factual_hooks": [
+      "Unsaturated fats contain C=C double bonds — more reactive (prone to oxidation/hydrogenation)",
+      "Saturated fats have only single bonds — more stable, solid at room temperature"
+    ],
+    "prerequisite_concepts": [
+      "Saturated vs unsaturated fatty acids",
+      "Organic chemistry bonds",
+      "Lipid chemistry"
+    ],
+    "related_concepts": [
+      "Trans fats",
+      "Hydrogenation",
+      "Omega-3 fatty acids"
+    ],
+    "contrast_with": [
+      "Saturated (single bonds, stable) vs Unsaturated (double bonds, reactive)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Trans fat ban in India (FSSAI) relates to hydrogenation of unsaturated fats.",
+    "keywords": [
+      "unsaturated fats",
+      "saturated fats",
+      "double bonds",
+      "reactivity",
+      "fatty acids"
+    ]
+  },
+  {
+    "idx": 52,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Candidates may say moisture is related to latitude but not connect it through temperature as the mediating variable — missing the causal chain.",
+    "elimination_hint": "Both A and R are true: atmospheric moisture does vary with latitude (more near equator), and moisture-holding capacity depends on temperature (warmer air holds more); R correctly explains the mechanism for A. Answer: A.",
+    "factual_hooks": [
+      "Warm equatorial air holds more moisture (higher humidity); cold polar air holds less",
+      "Relative humidity and absolute humidity both vary with temperature and latitude"
+    ],
+    "prerequisite_concepts": [
+      "Humidity",
+      "Temperature-moisture relationship",
+      "Atmospheric moisture"
+    ],
+    "related_concepts": [
+      "Dew point",
+      "Precipitation patterns",
+      "Hadley cell"
+    ],
+    "contrast_with": [
+      "Absolute humidity vs relative humidity"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Atmospheric moisture patterns are shifting with climate change.",
+    "keywords": [
+      "atmospheric moisture",
+      "latitude",
+      "temperature",
+      "humidity",
+      "climatology"
+    ]
+  },
+  {
+    "idx": 53,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims_priority": "LOW",
+    "trap_factor": "R (foreign invasion from NW) seems the obvious reason Shah Alam II stayed away; but historically there were multiple reasons including internal Mughal conflict and Maratha/British rivalry.",
+    "elimination_hint": "Both A and R are true — Shah Alam II did spend years away from Delhi (lived with Marathas, then British) and NW frontier danger existed; but R doesn't fully explain A (Marathas/British influence also key). Answer: B.",
+    "factual_hooks": [
+      "Shah Alam II: Mughal emperor who spent years under Maratha and British protection away from Delhi",
+      "Battle of Buxar (1764) — Shah Alam II fought against the British"
+    ],
+    "prerequisite_concepts": [
+      "Late Mughal decline",
+      "Shah Alam II",
+      "Maratha expansion"
+    ],
+    "related_concepts": [
+      "Battle of Panipat III (1761)",
+      "British expansion in 18th century",
+      "Mughal twilight"
+    ],
+    "contrast_with": [
+      "Shah Alam II (weak emperor) vs Aurangzeb (last powerful Mughal)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Shah Alam II",
+      "Mughal",
+      "Delhi",
+      "Maratha",
+      "late Mughal"
+    ]
+  },
+  {
+    "idx": 54,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Easy",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Candidates may doubt A thinking equatorial regions receive only seasonal rain; in reality, the ITCZ ensures year-round rainfall within 5-8 degrees of equator.",
+    "elimination_hint": "Both A and R are true: equatorial belt does get year-round rain (A), and convectional rainfall from high temp/humidity explains it (R). Answer: A.",
+    "factual_hooks": [
+      "Equatorial climate: year-round convectional rainfall, no dry season",
+      "Convectional rainfall: surface heating → air rises → condenses → afternoon showers"
+    ],
+    "prerequisite_concepts": [
+      "ITCZ",
+      "Convectional rainfall",
+      "Equatorial climate"
+    ],
+    "related_concepts": [
+      "Tropical rainforest biome",
+      "Hadley cell",
+      "Monsoon vs equatorial rainfall"
+    ],
+    "contrast_with": [
+      "Equatorial (year-round) vs Savanna (seasonal) rainfall"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Equatorial region deforestation disrupts convectional rainfall patterns.",
+    "keywords": [
+      "equatorial climate",
+      "convectional rain",
+      "ITCZ",
+      "year-round rainfall",
+      "equator"
+    ]
+  },
+  {
+    "idx": 55,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Maratha Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "R (Marathas had concept of united Indian nation) seems historically debatable; Marathas were the strongest post-Mughal power (A true) but their motivation was Hindu Pad Padshahi, not united India.",
+    "elimination_hint": "A is true (Marathas were strongest native power after Mughals); R is false (they had no clear concept of united Indian nation — that's a modern nationalist retrospection). Answer: C.",
+    "factual_hooks": [
+      "Marathas emerged as dominant power after Mughal decline in 18th century",
+      "Maratha confederacy: Peshwas, Sindhia, Holkar, Bhonsle, Gaekwad — but no unified national vision"
+    ],
+    "prerequisite_concepts": [
+      "Maratha Empire",
+      "Post-Mughal India",
+      "Peshwa system"
+    ],
+    "related_concepts": [
+      "Third Battle of Panipat 1761",
+      "Maratha confederacy",
+      "British vs Maratha wars"
+    ],
+    "contrast_with": [
+      "Maratha regional supremacy vs modern conception of Indian nationalism"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Marathas",
+      "post-Mughal",
+      "Peshwa",
+      "Indian nation concept",
+      "18th century"
+    ]
+  },
+  {
+    "idx": 56,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Medieval Art & Architecture",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Amir Khusrau is popularly credited as originator of Qawwali — the question tests whether candidates know about Ibrahim Adil Shah II's Kitab-I-Nauras.",
+    "elimination_hint": "Both statements are correct: Kitab-I-Nauras by Ibrahim Adil Shah II (Bijapur) praised both Hindu deities and Muslim saints; Amir Khusrau did pioneer Qawwali in India. Answer: C.",
+    "factual_hooks": [
+      "Kitab-I-Nauras: Ibrahim Adil Shah II of Bijapur, composed in Dakhni Urdu, blends Hindu-Muslim traditions",
+      "Amir Khusrau (1253-1325): credited with developing Qawwali and Tarana forms in India"
+    ],
+    "prerequisite_concepts": [
+      "Bahmani/Deccan Sultanates culture",
+      "Sufi music",
+      "Syncretism in medieval India"
+    ],
+    "related_concepts": [
+      "Bhakti-Sufi synthesis",
+      "Deccan culture",
+      "Amir Khusrau's musical contributions"
+    ],
+    "contrast_with": [
+      "Deccan synthesis (Ibrahim Adil Shah II) vs Delhi/North India synthesis (Khusrau)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Kitab-I-Nauras",
+      "Ibrahim Adil Shah II",
+      "Amir Khusrau",
+      "Qawwali",
+      "Hindu-Muslim synthesis"
+    ]
+  },
+  {
+    "idx": 57,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Drainage System",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "HOW",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "Flood-prone rivers in India: Ganga, Brahmaputra, Mahanadi — hold storage potential",
+      "Interlinking of rivers (National Perspective Plan) aims to convert floods into irrigation"
+    ],
+    "prerequisite_concepts": [
+      "River interlinking project",
+      "Flood management",
+      "Inland waterways India"
+    ],
+    "related_concepts": [
+      "National Waterways Act",
+      "Ken-Betwa project",
+      "Brahmaputra management"
+    ],
+    "contrast_with": [
+      "Flood as disaster vs flood as resource (sustainable water management)"
+    ],
+    "mains_themes": [
+      "Flood management",
+      "Inland navigation",
+      "Water security"
+    ],
+    "mains_intro": "India's perennial challenge of managing seasonal floods can be transformed into a sustainable irrigation and navigation asset through integrated river management strategies.",
+    "mains_body_points": [
+      "Storage infrastructure: large reservoirs, check dams and barrages to capture floodwaters for regulated irrigation release (e.g., Farakka Barrage, Hirakud)",
+      "River interlinking: National Perspective Plan proposes transferring surplus flood water from Himalayan to Peninsular rivers for year-round irrigation",
+      "Inland waterways: National Waterways 1 (Ganga), 2 (Brahmaputra) — flood season raises water levels enabling navigation; maintaining this through regulated storage can extend navigation season",
+      "Challenges: ecological disruption, displacement, inter-state water disputes (Ken-Betwa), high costs",
+      "International examples: Rhine-Main-Danube Canal (Europe), Mississippi flood control — sustainable navigation via engineered flood management"
+    ],
+    "mains_conclusion": "Converting floods into sustainable irrigation and navigation requires a paradigm shift from flood relief to flood harnessing through science-based, ecologically sensitive water infrastructure.",
+    "mains_interlinkages": [
+      "GS1: Geography of India — rivers",
+      "GS2: Governance — water policy",
+      "GS3: Infrastructure — inland waterways"
+    ],
+    "contemporary_relevance": "Ken-Betwa river interlinking project (first under National River Linking Project) is underway; National Waterways expansion is a key government priority.",
+    "keywords": [
+      "floods",
+      "irrigation",
+      "inland navigation",
+      "river interlinking",
+      "water management"
+    ]
+  },
+  {
+    "idx": 58,
+    "subject": "Governance",
+    "category": "Prominent Personalities",
+    "topic": "Eminent Indians",
+    "syllabus_id": "GOV.PERS.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.72,
+    "prelims_priority": "LOW",
+    "trap_factor": "Match-based questions on women business leaders from 2003 era require specific knowledge; Amrita Patel (NDDB) and Anu Aga (Thermax) are key associations.",
+    "elimination_hint": "Amrita Patel = NDDB (1), Anu Aga = Thermax (4), Mallika Srinivasan = TAFE/Tractors (5), Priya Paul = Park Hotels (2). Answer: A.",
+    "factual_hooks": [
+      "Amrita Patel: Chairperson of NDDB (National Dairy Development Board) — successor to Verghese Kurien",
+      "Anu Aga: Thermax Limited; Mallika Srinivasan: TAFE (Tractors and Farm Equipment)"
+    ],
+    "prerequisite_concepts": [
+      "Women business leaders in India",
+      "Corporate India leaders"
+    ],
+    "related_concepts": [
+      "NDDB and Operation Flood",
+      "Indian corporations",
+      "Women empowerment in business"
+    ],
+    "contrast_with": [
+      "Public sector women leaders vs private sector women leaders"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Amrita Patel",
+      "NDDB",
+      "Anu Aga",
+      "Thermax",
+      "women business leaders"
+    ]
+  },
+  {
+    "idx": 59,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "President",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 3 (5000 members) seems wrong as electoral college has ~4900 MLAs + 776 MPs = ~5700, but 'more than 5000' could be true; the vote values in statements 1 and 2 are incomplete as given.",
+    "elimination_hint": "The question's statements 1 and 2 appear incomplete in the original; Statement 2 (value of MP vote formula) is correctly framed in the Constitution. Based on convention, only statement 2 is correct. Answer: B.",
+    "factual_hooks": [
+      "Presidential election: elected MPs + elected MLAs vote (elected members only, not nominated)",
+      "MP vote value = total elected MLA votes of all states / total elected MPs"
+    ],
+    "prerequisite_concepts": [
+      "Presidential election procedure",
+      "Article 54, 55",
+      "Electoral college composition"
+    ],
+    "related_concepts": [
+      "Vice Presidential election",
+      "Proportional representation",
+      "Election Commission"
+    ],
+    "contrast_with": [
+      "Presidential election (elected members only) vs Vice Presidential (both Houses Parliament)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Presidential elections are constitutionally significant events reflecting federal balance.",
+    "keywords": [
+      "Presidential election",
+      "electoral college",
+      "MLA vote value",
+      "MP vote value",
+      "Article 55"
+    ]
+  },
+  {
+    "idx": 60,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Regional Kingdoms",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement A about Ali Mardan Khan introducing revenue farming in Bengal sounds plausible — but he introduced the mansabdari/jagirdari, NOT ijara (revenue farming); it was actually introduced differently.",
+    "elimination_hint": "A is NOT correct — Ali Mardan Khan (Governor of Bengal under Shah Jahan) is associated with revenue farming/ijara system introduction, but details vary; the question asks for the NOT correct statement. Answer: A.",
+    "factual_hooks": [
+      "Sawai Jai Singh had Euclid's Elements translated into Sanskrit",
+      "Tipu Sultan donated to Sringeri Shankaracharya temple — example of religious tolerance"
+    ],
+    "prerequisite_concepts": [
+      "Regional rulers of medieval India",
+      "Revenue systems",
+      "Cultural syncretism"
+    ],
+    "related_concepts": [
+      "Ijara system",
+      "Tipu Sultan's secular acts",
+      "Maratha-Mysore relations"
+    ],
+    "contrast_with": [
+      "Revenue farming (ijara) vs zamindari vs ryotwari systems"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Ali Mardan Khan",
+      "revenue farming",
+      "Tipu Sultan",
+      "Sawai Jai Singh",
+      "medieval India"
+    ]
+  },
+  {
+    "idx": 61,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Lok Sabha",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims_priority": "LOW",
+    "trap_factor": "Constitutional amendment numbers are frequently confused; candidates may guess based on chronology of amendments without knowing specific content.",
+    "elimination_hint": "The 7th Amendment (1956) reorganized states and affected Lok Sabha seats; the 31st Amendment (1973) increased Lok Sabha seats to 545. Answer: C (7th and 31st).",
+    "factual_hooks": [
+      "7th Constitutional Amendment (1956): States Reorganization, redrew Lok Sabha seats",
+      "31st Amendment (1973): increased Lok Sabha strength from 525 to 545"
+    ],
+    "prerequisite_concepts": [
+      "Constitutional amendments history",
+      "Lok Sabha composition",
+      "States reorganization"
+    ],
+    "related_concepts": [
+      "Article 81",
+      "States Reorganization Act 1956",
+      "Delimitation Commission"
+    ],
+    "contrast_with": [
+      "7th Amendment (reorganization) vs 42nd Amendment (Emergency era changes)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Delimitation exercise post-2026 census will redraw Lok Sabha constituencies.",
+    "keywords": [
+      "Lok Sabha seats",
+      "constitutional amendment",
+      "7th amendment",
+      "31st amendment",
+      "delimitation"
+    ]
+  },
+  {
+    "idx": 62,
+    "subject": "Science & Technology",
+    "category": "Astronomy",
+    "topic": "Solar System",
+    "syllabus_id": "S&T.ASTRO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Saturn is often thought to have the longest orbital period; candidates may forget Jupiter is farther from Sun than Mars and Earth.",
+    "elimination_hint": "Among given options (Earth, Jupiter, Mars, Venus), Jupiter is farthest from Sun — by Kepler's third law, farther planets take longer (Jupiter: ~12 years).",
+    "factual_hooks": [
+      "Jupiter's orbital period: ~11.9 years (longest among given options)",
+      "Orbital periods: Venus (225 days) < Earth (365 days) < Mars (687 days) < Jupiter (12 years)"
+    ],
+    "prerequisite_concepts": [
+      "Kepler's third law",
+      "Solar system planet order",
+      "Orbital mechanics"
+    ],
+    "related_concepts": [
+      "Planetary motion",
+      "Heliocentric model",
+      "Retrograde motion"
+    ],
+    "contrast_with": [
+      "Inner planets (fast orbit) vs outer planets (slow orbit)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Jupiter",
+      "orbital period",
+      "Kepler",
+      "solar system",
+      "revolution"
+    ]
+  },
+  {
+    "idx": 63,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Constitutional Development",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Option D (Indian Law Member appointed) sounds like a reform — but Macaulay was the first Law Member, not an Indian; the Charter Act allowed but did not require an Indian.",
+    "elimination_hint": "Charter Act 1833: abolished EIC trade, renamed Governor-General, centralized law-making — but did NOT appoint an Indian as Law Member (Macaulay, a Brit, was first Law Member). Answer: D.",
+    "factual_hooks": [
+      "Charter Act 1833: EIC's commercial role abolished; Governor-General of India designation created",
+      "First Law Member: Thomas Babington Macaulay (British) — not an Indian"
+    ],
+    "prerequisite_concepts": [
+      "Charter Act 1833",
+      "Constitutional development in colonial India",
+      "British-era committees"
+    ],
+    "related_concepts": [
+      "Charter Acts 1813, 1853",
+      "Indian Councils Acts",
+      "Macaulay's Minute on Education"
+    ],
+    "contrast_with": [
+      "Charter Act 1833 (centralization) vs Indian Councils Act 1861 (decentralization)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Charter Act 1833",
+      "Governor General of India",
+      "Macaulay",
+      "EIC",
+      "Law Member"
+    ]
+  },
+  {
+    "idx": 64,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Secretin (not secretian) from duodenum in response to HCl is correct; candidates may doubt enterogastrone's existence or confuse it with other digestive hormones.",
+    "elimination_hint": "Both statements are correct: secretin is produced by S-cells in duodenum in response to HCl; enterogastrone (GIP - gastric inhibitory peptide) is produced by small intestine in response to fats/fatty acids. Answer: C.",
+    "factual_hooks": [
+      "Secretin: produced in duodenum in response to acidic chyme (HCl) — stimulates pancreatic bicarbonate secretion",
+      "Enterogastrone (GIP): produced by small intestine in response to fats — inhibits gastric secretion"
+    ],
+    "prerequisite_concepts": [
+      "Digestive hormones",
+      "Gastrointestinal physiology",
+      "Endocrine vs exocrine"
+    ],
+    "related_concepts": [
+      "Gastrin",
+      "Cholecystokinin (CCK)",
+      "Pancreatic enzymes"
+    ],
+    "contrast_with": [
+      "Secretin (alkaline response) vs Gastrin (acid-stimulating)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "secretin",
+      "enterogastrone",
+      "duodenum",
+      "digestive hormones",
+      "HCl"
+    ]
+  },
+  {
+    "idx": 65,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Ethnic conflict (A) seems plausible in Latin America context; secessionist groups (D) may also seem relevant for Argentina.",
+    "elimination_hint": "Argentina's 2001-2002 crisis was a severe economic collapse — defaulted on $132 billion public debt, peso devaluation, massive unemployment; purely economic, not ethnic or linguistic.",
+    "factual_hooks": [
+      "Argentina 2001-02: largest sovereign debt default at the time (~$132 billion)",
+      "Economic crisis: currency board collapse, peso-dollar peg breakdown, social unrest"
+    ],
+    "prerequisite_concepts": [
+      "Argentina economic crisis 2001",
+      "Sovereign debt default",
+      "Currency board system"
+    ],
+    "related_concepts": [
+      "IMF conditionality",
+      "Latin American debt crises",
+      "Currency peg"
+    ],
+    "contrast_with": [
+      "Argentina's economic crisis vs Venezuela's political-economic crisis"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Argentina continues to struggle with debt crises — IMF deal in 2022-23.",
+    "keywords": [
+      "Argentina",
+      "economic crisis",
+      "sovereign debt",
+      "2001",
+      "default"
+    ]
+  },
+  {
+    "idx": 66,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Economic Impact of British Rule",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Options B, C, D describe other colonial measures (Vernacular Press Act, ICS reforms, Arms Act) that candidates may confuse with the Ilbert Bill.",
+    "elimination_hint": "Ilbert Bill 1883: C.P. Ilbert's proposal to allow Indian judges to try Europeans in criminal courts — challenged racial discrimination in British Indian judiciary. Answer: A.",
+    "factual_hooks": [
+      "Ilbert Bill 1883: proposed by C.P. Ilbert, Law Member under Lord Ripon",
+      "European opposition to Ilbert Bill revealed racial nature of British justice system; final bill was diluted"
+    ],
+    "prerequisite_concepts": [
+      "Racial discrimination in colonial law",
+      "Ilbert Bill controversy",
+      "Lord Ripon reforms"
+    ],
+    "related_concepts": [
+      "Indian National Congress formation (1885)",
+      "Vernacular Press Act 1878",
+      "Arms Act 1878"
+    ],
+    "contrast_with": [
+      "Ilbert Bill (pro-Indian reform) vs Vernacular Press Act (anti-Indian)"
+    ],
+    "mains_themes": [
+      "Colonial racial discrimination",
+      "Rise of Indian nationalism"
+    ],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Ilbert Bill",
+      "criminal jurisdiction",
+      "racial discrimination",
+      "British India",
+      "Lord Ripon"
+    ]
+  },
+  {
+    "idx": 67,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Constitutional Development",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Option C (active participation in war effort as condition for independence) is tempting as it reflects the British agenda but not the specific promise made; A (all states must join) was NOT part of Cripps proposals.",
+    "elimination_hint": "Cripps Mission 1942 offered Dominion status after WWII, with option for provinces to opt out and form separate constitutions. B (Dominion status soon after war) is the key feature. Answer: B.",
+    "factual_hooks": [
+      "Cripps Mission (March 1942): promised Dominion status after WWII; constituent assembly to frame constitution",
+      "Key feature: provinces could opt out of Indian Union (rejected by Congress as 'post-dated cheque')"
+    ],
+    "prerequisite_concepts": [
+      "Cripps Mission 1942",
+      "Dominion status",
+      "WWII and Indian independence"
+    ],
+    "related_concepts": [
+      "Cabinet Mission Plan 1946",
+      "August Offer 1940",
+      "Quit India Movement 1942"
+    ],
+    "contrast_with": [
+      "Cripps Mission (Dominion status) vs Mountbatten Plan (partition + independence)"
+    ],
+    "mains_themes": [
+      "Constitutional development",
+      "Freedom movement"
+    ],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Cripps Mission",
+      "Dominion status",
+      "World War II",
+      "independence",
+      "1942"
+    ]
+  },
+  {
+    "idx": 68,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Constitutional Development",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Swarajya Party (A) is commonly associated with Motilal Nehru/C.R. Das post-Non-Cooperation — candidates may confuse this with the moderate breakaway.",
+    "elimination_hint": "When moderates left Congress opposing the rejection of Montagu-Chelmsford reforms, they formed the Indian Liberal Federation under Surendranath Banerjee. Answer: D.",
+    "factual_hooks": [
+      "Indian Liberal Federation: formed by moderates who accepted Montagu-Chelmsford reforms and left Congress (1918)",
+      "Surendranath Banerjee led Indian Liberal Federation"
+    ],
+    "prerequisite_concepts": [
+      "Montagu-Chelmsford Report",
+      "Moderate vs extremist Congress split",
+      "Indian political parties history"
+    ],
+    "related_concepts": [
+      "Morley-Minto reforms",
+      "Government of India Act 1919",
+      "Swarajya Party (1923)"
+    ],
+    "contrast_with": [
+      "Indian Liberal Federation (moderates) vs Swarajya Party (within Congress, council entry)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Indian Liberal Federation",
+      "Montagu-Chelmsford",
+      "moderates",
+      "Congress",
+      "Surendranath Banerjee"
+    ]
+  },
+  {
+    "idx": 69,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Basic Structure",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Second Schedule (salaries/offices) and Fourth Schedule (allocation of Rajya Sabha seats) are commonly confused with the First Schedule.",
+    "elimination_hint": "First Schedule of the Indian Constitution lists the names of states and union territories with their territories. Answer: A.",
+    "factual_hooks": [
+      "First Schedule: Names of States and Union Territories and their territories",
+      "Second Schedule: Salaries of President, Governors, Judges; Fourth Schedule: Allocation of seats in Rajya Sabha"
+    ],
+    "prerequisite_concepts": [
+      "Schedules of the Indian Constitution",
+      "Constitutional structure"
+    ],
+    "related_concepts": [
+      "12 Schedules of Constitution",
+      "State reorganization",
+      "Article 1 (Name and territory of Union)"
+    ],
+    "contrast_with": [
+      "First Schedule (states/territories) vs Fourth Schedule (Rajya Sabha seats)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Relevant when new states/UTs are created — First Schedule is amended.",
+    "keywords": [
+      "First Schedule",
+      "states",
+      "union territories",
+      "Constitution",
+      "territories"
+    ]
+  },
+  {
+    "idx": 70,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "WHAT",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Ellipse seems correct as it's a well-known locus; some may think the right angle constraint makes it impossible.",
+    "elimination_hint": "The locus of a point from which a line segment subtends a right angle is a circle with AB as diameter (Thales' theorem). Answer: B.",
+    "factual_hooks": [
+      "Thales' theorem: angle in a semicircle is a right angle",
+      "Locus of point C such that angle ACB = 90° is a circle with AB as diameter"
+    ],
+    "prerequisite_concepts": [
+      "Thales' theorem",
+      "Locus of points",
+      "Circle geometry"
+    ],
+    "related_concepts": [
+      "Angle in semicircle",
+      "Cyclic quadrilateral",
+      "Circle theorems"
+    ],
+    "contrast_with": [
+      "Circle (right angle subtended) vs ellipse (sum of distances constant)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Thales theorem",
+      "circle",
+      "right angle",
+      "locus",
+      "geometry"
+    ]
+  },
+  {
+    "idx": 71,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Minerals & Energy",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Bokaro is historically associated with Bihar (pre-2000); after Jharkhand's formation in November 2000, Bokaro became part of Jharkhand — candidates using old maps may say Bihar.",
+    "elimination_hint": "Jharkhand was carved out of Bihar in November 2000; Bokaro (Bokaro Steel City and thermal plant) is in Jharkhand. Answer: C.",
+    "factual_hooks": [
+      "Bokaro is in Jharkhand (formed November 2000 from Bihar)",
+      "Bokaro Steel Plant (SAIL) and Bokaro Thermal Power Station are in Jharkhand"
+    ],
+    "prerequisite_concepts": [
+      "Jharkhand state formation",
+      "Industrial locations in India",
+      "Energy geography"
+    ],
+    "related_concepts": [
+      "States reorganization post-2000",
+      "Damodar Valley Corporation",
+      "Coal belt of India"
+    ],
+    "contrast_with": [
+      "Bokaro (Jharkhand) vs Durgapur (West Bengal) — both steel/power centers"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Bokaro",
+      "Jharkhand",
+      "thermal power",
+      "steel",
+      "Bihar bifurcation"
+    ]
+  },
+  {
+    "idx": 72,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 2 (ionic compounds conduct electricity in solid state) seems plausible as they have ions; but ions in solid state are fixed in lattice and cannot move, so no conduction.",
+    "elimination_hint": "Statement 1 is correct (ionic compounds insoluble in alcohol — polar ionic bonds need polar solvents like water); Statement 2 is false (ionic solids don't conduct — ions fixed in lattice). Answer: A.",
+    "factual_hooks": [
+      "Ionic compounds: soluble in water (polar), insoluble in organic solvents like alcohol",
+      "Ionic compounds conduct electricity only in molten state or aqueous solution — NOT in solid state"
+    ],
+    "prerequisite_concepts": [
+      "Ionic bonding",
+      "Electrical conductivity of ionic compounds",
+      "Solubility rules"
+    ],
+    "related_concepts": [
+      "Metallic bonding",
+      "Electrolytes",
+      "Polar vs non-polar solvents"
+    ],
+    "contrast_with": [
+      "Ionic solid (no conduction) vs molten ionic compound (conducts)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "ionic compounds",
+      "conductivity",
+      "solid state",
+      "alcohol solubility",
+      "chemistry"
+    ]
+  },
+  {
+    "idx": 73,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "LOW",
+    "trap_factor": "D (Barium and Strontium found free in nature) seems plausible for elements; but alkaline earth metals are highly reactive and never found in free state — they occur as compounds.",
+    "elimination_hint": "D is NOT correct: Barium and Strontium are reactive alkaline earth metals — they occur in minerals (BaSO4, SrCO3), not in free elemental form. Answer: D.",
+    "factual_hooks": [
+      "Alkaline earth metals (Group 2) are highly reactive — never found free in nature",
+      "Barium: found as barite (BaSO4); Strontium: found as celestite (SrCO3)"
+    ],
+    "prerequisite_concepts": [
+      "Alkaline earth metals properties",
+      "Group 2 elements",
+      "Occurrence of minerals"
+    ],
+    "related_concepts": [
+      "Plaster of Paris (calcium sulfate)",
+      "Gypsum",
+      "Lime chemistry"
+    ],
+    "contrast_with": [
+      "Noble metals (found free: Au, Pt) vs reactive metals (found in compounds)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "barium",
+      "strontium",
+      "alkaline earth metals",
+      "free state",
+      "reactivity"
+    ]
+  },
+  {
+    "idx": 74,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Gandhian Era",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Rajendra Prasad and Sardar Patel are commonly associated with the interim government; candidates may forget Nehru was the head.",
+    "elimination_hint": "Jawaharlal Nehru headed the Interim Government formed in September 1946 as Vice President of the Viceroy's Executive Council (de facto PM). Answer: B.",
+    "factual_hooks": [
+      "Interim Government (September 1946): headed by Jawaharlal Nehru as Vice President of Viceroy's Council",
+      "Nehru was PM-designate; Sardar Patel was Home Member; Rajendra Prasad was not in interim government initially"
+    ],
+    "prerequisite_concepts": [
+      "Interim Government 1946",
+      "Cabinet Mission Plan",
+      "Pre-independence transition"
+    ],
+    "related_concepts": [
+      "Cabinet Mission Plan 1946",
+      "Constituent Assembly",
+      "Independence 1947"
+    ],
+    "contrast_with": [
+      "Interim Government (1946) vs Constituent Assembly (1946-49)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Interim Government",
+      "Nehru",
+      "1946",
+      "independence",
+      "Cabinet Mission"
+    ]
+  }
+]
