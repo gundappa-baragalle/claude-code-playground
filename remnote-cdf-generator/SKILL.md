@@ -938,32 +938,351 @@ Child1  Child2                                │
 - Always include: Species/Ecosystem details, Conservation status, Policies
 - Connect to: International conventions, India's commitments, Recent reports
 
-### Ethics (GS4)
+### Ethics (GS4) — Full Production Guide
 
-Ethics notes have a fundamentally different character — less factual recall, more value frameworks and application. Adjust the 11-section structure as follows:
+Ethics notes have a fundamentally different character — less factual recall, more value frameworks and application. This section tells you exactly how to build Ethics notes that score 120+ on GS4.
 
-**What changes for Ethics:**
-- **Section 1 header:** Add `*~GS4 paper* ;; [paper number and marks allocation]`
-- **Section 3 Big Picture:** Use a value-framework map instead of a factual hierarchy:
-  ```
-  [Concept] — e.g., Integrity
-  ├── Meaning & Components
-  ├── Indian Thinkers (Gandhi, Kautilya, etc.)
-  ├── Western Thinkers (Kant, Aristotle, Rawls)
-  ├── Constitutional / Governance angle
-  └── Case Study application
-  ```
-- **Section 5 Content:** For every ethical concept, include:
-  - `*~thinker quote* ;;` — one attributable quote (Indian thinker preferred)
-  - `*~case study angle* ;-` — how this value appears in a civil services scenario
-  - `*~opposite value* ;-` — the tension/conflict (e.g., integrity vs loyalty)
-  - `*~governance link* ;;` — how it connects to civil services conduct rules
-- **Section 9 MCQs:** Ethics Prelims MCQs test definitions and thinkers — use HIGH priority questions from topic-map
-- **Section 11 Mains Framework:** Ethics answers need intro (define + context) → body (dimensions: individual / institutional / societal) → conclusion (constitutional morality angle)
+---
+
+#### A. Structure Changes for Ethics Notes
+
+**Section 1 (Identity):** Add these extra descriptors:
+```
+- *~GS4 paper* ;; GS Paper 4 — Ethics, Integrity, Aptitude | 250 marks | 3 hours
+- *~paper split* ;- Part A: 10 theory Qs × 10m = 100m | Part B: 5 case studies × 25m = 125m | Essay: 1 × 25m = 25m
+```
+
+**Section 3 (Big Picture):** Replace factual hierarchy with a value-framework map:
+```
+[Concept] — e.g., Integrity
+├── Meaning & Components (what it is + what it is NOT)
+├── Indian Thinkers (Gandhi, Kautilya, Ambedkar, Vivekananda)
+├── Western Thinkers (Kant, Aristotle, Rawls, Mill)
+├── Constitutional / Governance angle (which rule/article/Nolan principle)
+├── Value-conflicts (what value does it clash with, and how to resolve)
+└── Civil Service scenario (one real-life type application)
+```
+
+**Section 5 (Content):** For every ethical concept, ALWAYS include:
+```
+- *~thinker quote* ;; "[quote]" — [Thinker name]
+- *~case study angle* ;- Civil service scenario: [1–2 line realistic scenario where this value is tested]
+- *~opposite value* ;- This value conflicts with: [value] — resolve by [method]
+- *~governance link* ;; Connected to: [Nolan Principle / ACS Rule / Constitutional provision]
+- *~real example* ;- Real-world instance: [non-textbook Indian example — news event, court case, historical incident]
+- *💭 self-explain* ;- Before reading definition: What does [this value] mean to YOU? When have YOU seen it tested in real life?
+```
+
+**Section 11 (Mains Framework):** Ethics answers follow this exact structure:
+- **Intro (25–30 words):** Define + state what aspect you will examine
+- **Body Dimension 1 — Individual:** How the value operates at the level of personal ethics/character
+- **Body Dimension 2 — Institutional:** How it manifests in governance structures, rules, processes
+- **Body Dimension 3 — Societal:** Its impact on public trust, democracy, social fabric
+- **Conclusion (25–30 words):** Constitutional morality angle — connect to Articles 14, 19, 21, or Preamble values (justice, liberty, equality, fraternity)
+
+---
+
+#### B. Ethical Theory Application Guide
+
+**Four main frameworks — know WHEN and HOW to apply each:**
+
+| Theory | Core Idea | When to Use | Signature phrase |
+|--------|-----------|-------------|-----------------|
+| **Deontology (Kant)** | Act from duty; some acts are intrinsically right/wrong regardless of outcome | When rights, duties, rules, promises are at stake | "Treat people as ends, never merely as means" |
+| **Consequentialism (Mill/Utilitarianism)** | Choose the action that produces greatest good for greatest number | When policy outcomes, welfare maximization, resource allocation are at stake | "The greatest happiness of the greatest number" |
+| **Virtue Ethics (Aristotle)** | Focus on character, not rules or outcomes; what would a virtuous person do? | When integrity, courage, wisdom, empathy, professional character are relevant | "Eudaimonia — human flourishing through virtuous activity" |
+| **Care Ethics (Gilligan/Noddings)** | Prioritize relationships, empathy, context; care for the vulnerable | When vulnerable populations, compassion, emotional intelligence, human connection matter | "Morality is rooted in relationships and care for those affected" |
+| **Gandhian Ethics** | Means and ends are inseparable; truth (Satya) + non-violence (Ahimsa) as supreme values | When civil disobedience, political ethics, ends-vs-means dilemmas, public life conduct arise | "The means are the ends in the making" |
+| **Rawlsian Justice** | Justice as fairness; veil of ignorance — design rules as if you don't know your position | When designing policy, evaluating fairness, reservation debates, wealth inequality arise | "Inequalities are just only if they benefit the least advantaged" |
+| **Kautilyan Ethics** | Pragmatic statecraft; Rajdharma; ends sometimes justify means in governance | When state interest vs individual interest, security vs liberty, realpolitik arise | "The king's happiness lies in the happiness of his subjects" |
+
+**How to use theories in an answer (the sandwich method):**
+1. State the ethical principle from one theory
+2. Apply it directly to the case/concept
+3. Acknowledge the counter-argument from a different theory
+4. Conclude with the balanced position
+
+*Example for "integrity vs loyalty" conflict:*
+> From a deontological standpoint (Kant), a civil servant has an absolute duty to uphold the law regardless of pressure from superiors — loyalty cannot override this duty. However, virtue ethics reminds us that practical wisdom (phronesis) requires judging when rules need contextual interpretation. The Nolan Principles resolve this: selflessness and integrity are primary; loyalty to individuals cannot supersede accountability to the public.
+
+---
+
+#### C. Thinker Quote Bank
+
+**Use these verbatim. Always attribute correctly. Indian thinkers preferred in most answers.**
+
+**Indian Thinkers:**
+
+| Thinker | Quote | Best used for |
+|---------|-------|--------------|
+| **Gandhi** | "The means are the ends in the making" | Ends vs means, integrity, non-violence |
+| **Gandhi** | "Be the change you wish to see in the world" | Individual responsibility, character |
+| **Gandhi** | "An eye for an eye makes the whole world blind" | Retributive justice, forgiveness |
+| **Gandhi** | "First they ignore you, then they laugh at you, then they fight you, then you win" | Perseverance, truth, civil disobedience |
+| **Ambedkar** | "I measure the progress of a community by the degree of progress which women have achieved" | Gender justice, social progress, rights |
+| **Ambedkar** | "Constitution is not a mere lawyer's document; it is a vehicle of life" | Constitutional morality, justice |
+| **Ambedkar** | "Life should be great rather than long" | Quality of life, dignity, purpose |
+| **Kautilya** | "The king shall consider as good, not what pleases himself, but what pleases his subjects" | Public service, Rajdharma, governance |
+| **Kautilya** | "A wise man should not reveal what he has done, what he intends to do, and what are his weaknesses" | Prudence, strategic thinking |
+| **Vivekananda** | "Arise, awake and do not stop until the goal is reached" | Dedication, aspiration, public service |
+| **Vivekananda** | "Education is the manifestation of perfection already in man" | Human potential, education ethics |
+| **Tagore** | "Where the mind is without fear and the head is held high..." | Freedom, integrity, fearless administration |
+| **Sri Aurobindo** | "All life is yoga" | Integration of personal and professional ethics |
+| **APJ Kalam** | "Dream, Dream, Dream. Dreams transform into thoughts and thoughts result in action" | Aspiration, vision, public service |
+| **Nehru** | "A moment comes, which comes but rarely in history, when we step out from the old to the new" | Transformative leadership, historic responsibility |
+
+**Western Thinkers:**
+
+| Thinker | Quote | Best used for |
+|---------|-------|--------------|
+| **Aristotle** | "We are what we repeatedly do. Excellence, then, is not an act, but a habit" | Virtue, character, integrity |
+| **Aristotle** | "At his best, man is the noblest of all animals; separated from law and justice he is the worst" | Rule of law, justice, governance |
+| **Kant** | "Act only according to that maxim whereby you can at the same time will that it should become a universal law" | Categorical imperative, universalizability |
+| **Kant** | "Treat humanity, whether in your own person or in the person of any other, never merely as a means, but always at the same time as an end" | Dignity, rights, non-instrumentalization |
+| **Mill** | "The only freedom which deserves the name is that of pursuing our own good in our own way" | Liberty, individual rights, freedom |
+| **Rawls** | "Justice is the first virtue of social institutions" | Institutional design, fairness |
+| **Plato** | "One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors" | Civic responsibility, public duty |
+| **Edmund Burke** | "All that is necessary for evil to triumph is for good men to do nothing" | Moral courage, whistleblowing, inaction |
+| **Albert Camus** | "The only way to deal with an unfree world is to become so absolutely free that your very act of existence is an act of rebellion" | Civil disobedience, moral courage |
+| **Abraham Lincoln** | "Nearly all men can stand adversity, but if you want to test a man's character, give him power" | Power and integrity, humility |
+
+**Constitutional / Governance Quotes:**
+
+| Source | Quote | Best used for |
+|--------|-------|--------------|
+| **Preamble** | "Justice — social, economic and political" | Policy ethics, equity, governance |
+| **Dr. Ambedkar (Constituent Assembly)** | "Constitutional morality is not a natural sentiment. It has to be cultivated." | Constitutional ethics, rule of law |
+| **Nolan Principles (7)** | Selflessness, Integrity, Objectivity, Accountability, Openness, Honesty, Leadership | Any question on public service values |
+| **2nd ARC** | "Ethics must become part of the DNA of governance" | Institutional ethics, administrative reform |
+
+---
+
+#### D. Value-Conflict Resolution Framework
+
+**Most Ethics questions involve two valid values in tension. This 4-step method resolves any conflict:**
+
+**Step 1 — Identify both values explicitly**
+> "This scenario involves a conflict between [Value A] (duty to follow rules) and [Value B] (compassion for the individual)."
+
+**Step 2 — Apply the Constitutional Morality Test**
+> Ask: Which value, if prioritized, is more consistent with constitutional morality (Articles 14, 19, 21, Preamble's justice-liberty-equality-fraternity)?
+
+**Step 3 — Apply the Universalizability Test (Kant)**
+> Ask: If everyone in this position made the same choice, would the system function or collapse?
+
+**Step 4 — State the resolution with justification**
+> "In this context, [Value A] must prevail because [reason]. However, [Value B] should be respected by [mitigation action — e.g., ensure due process, extend deadlines, explain decision with empathy]."
+
+**Standard Value Conflicts and Their Resolutions:**
+
+| Conflict | Resolution Principle | Key phrase |
+|----------|---------------------|-----------|
+| **Integrity vs Loyalty** | Integrity > loyalty to individuals; loyalty to the Constitution is primary | "I am loyal to the office, not the officer" |
+| **Rule of Law vs Compassion** | Follow the rule; use discretion within the rule; escalate if rule is unjust | "Discretion within law, not above law" |
+| **Privacy vs Security** | Both are fundamental; proportionality test — minimal intrusion for maximum security gain | "Necessary, proportionate, lawful" |
+| **Individual rights vs Public good** | Public good in a democracy must protect, not trample individual rights | "Collective welfare through individual dignity" |
+| **Efficiency vs Fairness** | Short-term efficiency cannot justify long-term unfairness | "Justice delayed but not denied vs faster injustice" |
+| **Transparency vs Confidentiality** | Public interest overrides confidentiality unless national security is at stake | "Need-to-know vs right-to-know" |
+| **Compassion vs Impartiality** | Be compassionate in manner; be impartial in decision | "Hard in decision, soft in delivery" |
+
+---
+
+#### E. GS4 Paper 2: Case Study Framework (125 Marks — The Most Important Section)
+
+**Case studies are where most aspirants lose marks. This template works for ANY case study:**
+
+**Step 1 — Stakeholder Map (do this mentally first, not in answer)**
+Who is affected? Who has power? Who is vulnerable? What does each want?
+
+**Step 2 — Values at Stake (identify explicitly in answer)**
+```
+- *~stakeholders* ;- [List all: civil servant, superior, public, institution, victim, family]
+- *~values at stake* ;- [Integrity / Compassion / Rule of law / Loyalty / Public trust / etc.]
+- *~ethical conflict* ;- [Value A] conflicts with [Value B] because [reason]
+```
+
+**Step 3 — Options Analysis (mandatory — present 2-3 options)**
+For each option: state it → list consequences (positive + negative) → assess ethically
+```
+Option 1: [Action] — Consequences: [positive]; [negative]; Ethical assessment: [deontological/consequentialist lens]
+Option 2: [Action] — same format
+Option 3: [Action] — same format
+```
+
+**Step 4 — Decision with Justification (must be clear and unambiguous)**
+- State your choice
+- Justify using one primary framework (usually deontological for civil service ethics)
+- Acknowledge what you sacrifice and why it's worth it
+- End with a constitutional/statutory grounding (CCS Rules, RTI, Whistle Blowers Act, etc.)
+
+**Step 5 — Safeguards and Follow-up**
+What mechanisms will you use to implement the decision and prevent recurrence?
+
+**Template Answer Structure for 250-word Case Study:**
+```
+Para 1 (30w): Summary of ethical conflict — "This case presents a conflict between X and Y."
+Para 2 (50w): Stakeholder analysis — who is affected and how
+Para 3 (60w): Options with consequences — at least 2 options, each with pros/cons
+Para 4 (50w): My decision — clear statement + justification
+Para 5 (60w): Implementation + safeguards + constitutional grounding
+```
+
+**Common Case Study Scenarios and the Right Lens:**
+
+| Scenario Type | Primary Value | Theory to Apply | Key Safeguard |
+|--------------|---------------|-----------------|---------------|
+| Superior pressures you to favour someone | Integrity > loyalty | Deontological | CCS Conduct Rules Rule 3 |
+| Rule causes hardship in exceptional case | Compassion + discretion | Virtue ethics (phronesis) | Seek waiver, document reasoning |
+| Colleague is corrupt but is your friend | Rule of law > personal loyalty | Deontological | Whistle Blowers Protection Act |
+| Disaster — break rules to save lives | Consequentialism justified here | Utilitarian emergency | Retrospective sanction |
+| Whistleblowing vs institutional reputation | Public interest > institutional reputation | Rawlsian (protect least advantaged) | PIC Act, WBP Act |
+| Bribe offered to expedite public service | Absolute refusal | Deontological + constitutional | Complaint to vigilance |
+| Community opposition to development project | Participation rights | Deliberative democracy | Public hearing, participatory planning |
+
+---
+
+#### F. Real-Life Unique Examples Bank
+
+**Use these instead of textbook examples. UPSC examiners see thousands of scripts — unique examples stand out.**
+
+| Ethics Topic | Unique Example | Why It's Powerful |
+|--------------|---------------|-------------------|
+| **Integrity** | Ashok Khemka (IAS) — cancelled Robert Vadra land deal despite political pressure; transferred 53 times | Real consequence of integrity in Indian civil service |
+| **Compassion in governance** | District Collector of Nagapattinam (2004 tsunami) — personal on-ground relief coordination for 48 hours straight | Distinguishes rule-following from genuine service |
+| **Moral courage** | Sanjiv Chaturvedi (IFS) — exposed corruption in AIIMS, returned Ramon Magsaysay Award protesting govt inaction | Whistleblowing and courage in modern India |
+| **Constitutional morality** | Navtej Johar case (2018 SC) — overturned Section 377 on dignity grounds; courts applying constitutional morality over social morality | Perfect example of constitutional morality prevailing |
+| **Ends vs means** | Gandhi's suspension of Non-Cooperation Movement after Chauri Chaura (1922) — refused to compromise on means even to gain independence faster | Most cited example; means matter as much as ends |
+| **Transparency vs confidentiality** | RTI Act 2005 — Section 8 exceptions: national security, private info, Cabinet discussions; rest is public | Real legal framework for this tension |
+| **Digital ethics** | Cambridge Analytica scandal → India's DPDP Act 2023 — data as a right, not just a commodity | Contemporary, relevant, governance-linked |
+| **Environmental ethics** | Vedanta Sterlite copper plant (2018) — Supreme Court upheld closure despite 4,000 jobs lost; lives > economic output | Environment vs development, lives vs livelihoods |
+| **Gender ethics in administration** | Bhanwari Devi case (1992) → led to Vishakha Guidelines (1997) → POSH Act 2013; institutional change from individual injustice | How individual ethical failures become systemic reforms |
+| **Political neutrality** | T.N. Seshan (CEC) — used dormant powers of Election Commission to enforce Model Code, defying political pressure | Institutional integrity using existing legal powers |
+
+---
+
+#### G. Standard Descriptors for Ethics Notes
+
+Always include ALL of these in Section 5 Content:
+```
+- *~thinker quote* ;; "[quote]" — [Thinker, year/work if known]
+- *~case study angle* ;- Scenario: [2-line civil service dilemma where this value is tested]
+- *~opposite value* ;- Conflict: [This value] vs [that value] → resolve by [method from D above]
+- *~governance link* ;; Rule/Principle: [Nolan Principle / CCS Rule / Constitutional Article]
+- *~real example* ;- Example: [Non-textbook Indian example from F above]
+- *~ethical theory* ;- Best framework to use: [Deontological / Consequentialist / Virtue / Care Ethics]
+- *~exam pattern* ;- UPSC asks: [typical question format for this concept in GS4]
+```
 
 **Eight indexed Ethics topics in pyq-data** (use Step 0 to find them): Ethics Basics, Human Values, Emotional Intelligence, Attitude, Aptitude for Civil Service, Case Study Approach, Probity in Governance, Ethical Governance.
 
-**Key rule:** Ethics notes should help the aspirant *reason through* a scenario, not just *recall* facts. Every flashcard should test application, not memorisation.
+**Key rule:** Ethics notes must help the aspirant *reason through* a scenario, not just *recall* facts. Every flashcard tests application. Every quote is attributable. Every example is real and unexpected.
+
+---
+
+### Essay Paper — Full Production Guide
+
+Essay is a **separate 3-hour paper (250 marks)**. It is NOT a GS answer. The approach is fundamentally different.
+
+**UPSC Essay requirements:**
+- One essay, 1000–1200 words (strictly within)
+- No section headings allowed
+- Must flow as connected prose
+- Two sections: Section A (abstract/philosophical topics) and Section B (social/governance topics) — write ONE
+
+---
+
+#### Essay Structure: The 4-Quadrant Method
+
+**Every UPSC Essay must cover all four quadrants:**
+
+| Quadrant | What to cover | Approximate words |
+|----------|--------------|-------------------|
+| **Q1: Historical/Philosophical foundation** | Origin of the idea; how thinkers have approached it; India's civilizational perspective | 250 |
+| **Q2: Contemporary Reality** | Current evidence, data, recent events, India-specific examples | 300 |
+| **Q3: Challenges / Counter-arguments** | What makes this difficult; opposing viewpoints; real obstacles | 200 |
+| **Q4: Way Forward / Vision** | Practical recommendations; India's potential; constitutional/civilizational conclusion | 200 |
+
+**Total: ~950 words (leave room for intro + conclusion paragraphs)**
+
+---
+
+#### Essay Opening (Most Important — Examiners Decide Score in First 2 Minutes)
+
+**NEVER start with a definition. Always open with ONE of:**
+
+1. **A powerful quote** (Indian thinker preferred):
+   > "Where the mind is without fear and the head is held high..." (Tagore) — then connect to essay theme
+
+2. **A paradox or tension**:
+   > "India produces the most engineers in the world, yet millions cannot read. We are simultaneously a space power and a hunger hotspot."
+
+3. **A vivid anecdote** (1–2 sentences — real or archetypal):
+   > "In 1947, a young civil servant in a newly independent nation sat down to draft the rules of a republic that had never existed before. Every word he wrote would either build or betray the aspirations of 340 million people."
+
+4. **A startling fact**:
+   > "Of the 193 nations in the UN, fewer than 20 qualify as full democracies. India, with its 800-million-voter elections, is one of them — yet barely."
+
+---
+
+#### Essay Body Techniques
+
+**Technique 1 — Interdisciplinary argument** (distinguishes 130+ essays from 90-mark essays):
+Every paragraph should connect at least 2 different domains (history + economics; science + ethics; governance + culture).
+> "When Ambedkar designed reservation policy, he was not merely being compassionate — he was applying Rawlsian logic two decades before Rawls published A Theory of Justice."
+
+**Technique 2 — Indian examples + Global comparisons:**
+Always pair an Indian example with an international one in the same paragraph.
+> "India's MGNREGA, like FDR's New Deal, was born from the recognition that dignity and employment are inseparable. Both faced the same charge: government dependency. Both proved it wrong."
+
+**Technique 3 — Thesis thread** (one unifying argument):
+State your thesis in the intro paragraph (not the opening line). Refer back to it in every body paragraph. Restate it transformed in the conclusion.
+> Thesis: "True development is not economic growth alone — it is the expansion of human freedom to live a life of dignity."
+> Body para: "Urban growth without sanitation, connectivity without electricity — India's metrics improve while this core freedom remains denied to millions."
+> Conclusion: "The thesis stands vindicated: freedom from hunger, fear, and indignity must precede, not follow, every other development goal."
+
+**Technique 4 — Value-tension resolution** (for philosophical essays):
+Identify the tension your essay is about → develop both sides fairly → resolve in conclusion with a higher principle.
+> Essay: "Tradition vs. Modernity" — don't say "balance both." Say: "The question is not which to choose, but what we mean by each. India's tradition was always reforming; our modernity must be always rooted."
+
+---
+
+#### Essay Conclusion
+
+**End with one of:**
+1. **Preamble echo** — connect to "justice, liberty, equality, fraternity"
+2. **Constitutional vision** — Article 21 (life and dignity), Article 51A (fundamental duties)
+3. **Civilizational aspiration** — India as "Vishwaguru," India's civilizational responsibility
+4. **Call to conscience** — Gandhi's talisman: "When in doubt, ask how this decision affects the poorest person"
+
+**DO NOT:**
+- End with a summary of what you wrote
+- Use "In conclusion, as discussed above..."
+- End with a question
+
+---
+
+#### Essay Topic Patterns and Angles
+
+| Topic Pattern | Typical UPSC Essay | Best Approach |
+|---------------|-------------------|---------------|
+| **Abstract philosophical** | "Education is the most powerful weapon" | Q1: Thinker foundations, Q2: India's education reality, Q3: Access vs quality debate, Q4: NEP 2020 vision |
+| **Social issue** | "Women empowerment is the key to national development" | Economic data + constitutional rights + societal resistance + policy framework |
+| **Governance** | "Good governance is good economics" | Define both → institutional examples (MGNREGA, Digital India) → failures (leakage, corruption) → systemic reform |
+| **Nature/Environment** | "Nature does not belong to us; we belong to nature" | Indigenous knowledge → industrialization's cost → climate justice → sustainable development |
+| **Science & Society** | "Technology without conscience is a loaded gun" | AI/Biotech dilemmas → Frankenstein complex → ethics frameworks → governance of technology |
+| **Cultural/Civilizational** | "India's soft power is its greatest strategic asset" | Buddhist diplomacy → Bollywood/yoga → hard vs soft power → India's civilizational offer to the world |
+
+---
+
+#### Key Rule for Essay
+
+**The difference between a 90-mark essay and a 130-mark essay is NOT more facts. It is:**
+- A clearer thesis that you actually defend
+- Unexpected, specific examples (not just Swachh Bharat and Digital India for every topic)
+- Philosophical depth (showing you understand WHY, not just WHAT)
+- A conclusion that leaves the examiner with a feeling — not a list
+
+---
 
 ### CSAT (Paper 2) — Out of Scope
 
@@ -1265,6 +1584,31 @@ The 11-section CDF architecture is designed for **GS1–GS4 content notes** (fac
 - [ ] Section 11 opens with **Feynman Test** block before Connections
 - [ ] Feynman Test has 3-point check: what it is / why it matters / one UPSC trap
 
+### Ethics Notes ✓ (GS4-specific)
+- [ ] Section 1 has `*~GS4 paper*` and `*~paper split*` descriptors
+- [ ] Section 3 Big Picture uses value-framework map (not factual hierarchy)
+- [ ] Every concept has `*~thinker quote*` — attributable, from Quote Bank, NOT invented
+- [ ] Every concept has `*~case study angle*` — civil service scenario (not generic)
+- [ ] Every concept has `*~opposite value*` — conflict named + resolution method stated
+- [ ] Every concept has `*~governance link*` — Nolan Principle / CCS Rule / Article cited
+- [ ] Every concept has `*~real example*` — non-textbook Indian example (from Real Examples Bank)
+- [ ] Every concept has `*~ethical theory*` — primary framework named
+- [ ] GS4 Paper 2 case study questions use 5-step framework (Stakeholder→Values→Options→Decision→Safeguards)
+- [ ] Answer structure: define → 3 body dimensions (individual/institutional/societal) → constitutional morality conclusion
+- [ ] At least one value-conflict present with 4-step resolution applied
+- [ ] Flashcards test application (can you argue a position?) not memorisation (who said X?)
+
+### Essay Notes ✓ (Essay Paper — separate 250-mark paper)
+- [ ] Note is flagged as Essay Paper content (not GS answer)
+- [ ] Opening uses quote / paradox / anecdote — NOT a definition
+- [ ] All 4 quadrants covered: Historical/Philosophical + Contemporary + Challenges + Way Forward
+- [ ] At least one interdisciplinary argument (two domains connected in one paragraph)
+- [ ] Indian example + global comparison paired in at least one body paragraph
+- [ ] A clear thesis stated in intro paragraph (not the opening line)
+- [ ] Conclusion echoes Preamble or Article 21 or civilizational vision — NOT a summary
+- [ ] Quotes are attributable (from Quote Bank) — not invented
+- [ ] Examples are specific and unexpected — not generic (not "Swachh Bharat" for every topic)
+
 ---
 
 ## Output File Naming
@@ -1308,6 +1652,14 @@ Examples:
 | Use generic "High/Medium/Low" for frequency | Must use real number from concept-index.json |
 | Ignore `dimensions_tested` field | Tells you exactly what UPSC focuses on for this topic |
 | Skip `*~does NOT apply when*` for major concepts | Shallow pattern-matching fails novel UPSC questions |
+| Use invented quotes in Ethics notes | Fabricated quotes destroy credibility; use only Quote Bank |
+| Write Ethics MCQs that test memorisation | GS4 tests application; every card must present a scenario |
+| Skip GS4 Paper 2 case study framework | 125/250 marks come from case studies — skipping this is fatal |
+| Start an Essay with a definition | Examiners penalise rote openings; always quote/paradox/anecdote |
+| Write Essay as a list of points | Essay is prose; bullet points in essay answers lose marks |
+| Skip interdisciplinary argument in Essay | The difference between 90-mark and 130-mark essays |
+| Resolve value-conflict without naming the method | Vague resolution ("balance both") scores low; name the principle |
+| Use only textbook examples in Ethics | Examiners recognise Bhanwari Devi and Chauri Chaura; use Ashok Khemka, Sanjiv Chaturvedi |
 | Write `*💭 self-explain*` AFTER the answer | Must appear BEFORE the answer — order is the whole point |
 | Skip the Feynman Test block | The most reliable signal of whether understanding is real or illusory |
 | Skip `*~Prelims mode*` / `*~Mains mode*` instructions | Transfer-Appropriate Processing — study format must match retrieval format |
