@@ -1,0 +1,3460 @@
+[
+  {
+    "idx": 0,
+    "subject": "Science & Technology",
+    "category": "Defence Technology",
+    "topic": "Defence R&D",
+    "syllabus_id": "S&T.DEF.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Israel's Iron Dome is a famous missile defence system making option A tempting; India's Prithvi Air Defence (PAD) makes option B plausible too.",
+    "elimination_hint": "THAAD (Terminal High Altitude Area Defense) is a US Army anti-ballistic missile system — answer C. 'American' and 'terminal high altitude' uniquely identify it.",
+    "factual_hooks": [
+      "THAAD is a US Army ground-based anti-missile defence system designed to intercept ballistic missiles at high altitude",
+      "THAAD was deployed in South Korea in 2017, causing diplomatic tensions with China"
+    ],
+    "prerequisite_concepts": [
+      "Anti-ballistic missile systems",
+      "US defence technology",
+      "Missile defence architecture"
+    ],
+    "related_concepts": [
+      "Iron Dome (Israel)",
+      "Patriot missile system",
+      "India's Prithvi Air Defence (PAD)"
+    ],
+    "contrast_with": [
+      "THAAD (exo-atmospheric) vs Patriot PAC-3 (endo-atmospheric) — different interception altitudes"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "THAAD deployment in South Korea remains a flashpoint in US-China-Korea relations.",
+    "keywords": [
+      "THAAD",
+      "anti-missile",
+      "USA",
+      "defence",
+      "ballistic missile"
+    ]
+  },
+  {
+    "idx": 1,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Medieval Art & Architecture",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Tyagaraja is so closely associated with Lord Rama (not Krishna) that statement 1 is a clear trap; and Annamacharya (15th c.) and Tyagaraja (18th-19th c.) lived centuries apart, trapping students on statement 3.",
+    "elimination_hint": "Tyagaraja composed kritis devoted to Lord Rama (not Krishna — statement 1 wrong); Annamacharya and Tyagaraja were NOT contemporaries (statement 3 wrong); Tyagaraja did create new ragas (2 correct); Annamacharya kirtanas praise Venkateshwara (4 correct) — answer B (2 and 4).",
+    "factual_hooks": [
+      "Tyagaraja (1767–1847) was a Telugu composer devoted to Lord Rama, composer of Pancharatna Kritis",
+      "Annamacharya (1408–1503) composed keertanas praising Lord Venkateswara of Tirupati"
+    ],
+    "prerequisite_concepts": [
+      "Carnatic music composers",
+      "Tyagaraja and Annamacharya",
+      "Trinity of Carnatic music"
+    ],
+    "related_concepts": [
+      "Muthuswami Dikshitar",
+      "Syama Sastri",
+      "Carnatic raga system"
+    ],
+    "contrast_with": [
+      "Tyagaraja (Rama devotee) vs Annamacharya (Venkateswara devotee) — different deities, different centuries"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Tyagaraja",
+      "Annamacharya",
+      "Carnatic music",
+      "kritis",
+      "Venkateshwara"
+    ]
+  },
+  {
+    "idx": 2,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Basic Structure",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 3 says 'People's responsibility to the Government' — Rule of Law is actually about Government's accountability to the people, not the reverse. This reversal is the trap.",
+    "elimination_hint": "Rule of Law (Dicey): supremacy of law (limitation of powers), equality before law, and liberty/civil rights — statement 3 (people's responsibility to government) reverses the concept — answer C (1, 2 and 4 only).",
+    "factual_hooks": [
+      "A.V. Dicey's Rule of Law has three pillars: supremacy of law, equality before law, and predominance of legal spirit",
+      "India's Constitution embodies Rule of Law through Part III (Fundamental Rights) and Article 13"
+    ],
+    "prerequisite_concepts": [
+      "Rule of Law (A.V. Dicey)",
+      "Equality before law vs equal protection",
+      "Civil liberties framework"
+    ],
+    "related_concepts": [
+      "Article 14 (equality)",
+      "Article 21 (personal liberty)",
+      "Judicial review"
+    ],
+    "contrast_with": [
+      "Rule of Law vs Rule by Law — different implications for accountability"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Rule of Law is central to governance quality debates and India's ranking in global rule-of-law indices.",
+    "keywords": [
+      "Rule of Law",
+      "Dicey",
+      "equality before law",
+      "limitation of powers",
+      "civil rights"
+    ]
+  },
+  {
+    "idx": 3,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Money & Banking",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Options A and D conflate legal tender with legal proceedings fees or metallic money; option C (bank money like cheques) is 'near money' but not legal tender because creditors can refuse cheques.",
+    "elimination_hint": "Legal tender money is that which a creditor is legally obligated to accept in settlement of debt — answer B. Cheques can be refused; coins and notes cannot.",
+    "factual_hooks": [
+      "Legal tender in India: all RBI notes are unlimited legal tender; coins are limited legal tender above certain denominations",
+      "Cheques, drafts and bills of exchange are 'near money' but not legal tender"
+    ],
+    "prerequisite_concepts": [
+      "Legal tender vs near money",
+      "RBI and currency issuance",
+      "Types of money"
+    ],
+    "related_concepts": [
+      "Fiat money",
+      "Currency and Coinage",
+      "Demonetization and legal tender status"
+    ],
+    "contrast_with": [
+      "Legal tender (must accept) vs bank money (can refuse)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Legal tender status was central to 2016 demonetization debates.",
+    "keywords": [
+      "legal tender",
+      "creditor",
+      "currency",
+      "RBI",
+      "settlement"
+    ]
+  },
+  {
+    "idx": 4,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "National Income",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Option A and D are plausible economic concepts; but the key insight is that a 'free' good still has a cost — it is simply borne by taxpayers, not consumers.",
+    "elimination_hint": "When government provides something free, the opportunity cost is not zero — it shifts from consumers to the tax-paying public who fund government expenditure — answer C.",
+    "factual_hooks": [
+      "Opportunity cost is never zero; free goods have costs borne by society at large through taxation",
+      "This concept underpins the TANSTAAFL principle: 'There Ain't No Such Thing As A Free Lunch'"
+    ],
+    "prerequisite_concepts": [
+      "Opportunity cost",
+      "Public goods and externalities",
+      "Tax incidence"
+    ],
+    "related_concepts": [
+      "Subsidies and fiscal cost",
+      "Merit goods",
+      "Public finance and welfare economics"
+    ],
+    "contrast_with": [
+      "Private good (consumer pays) vs public good (taxpayer pays) — opportunity cost shifts, not disappears"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Free electricity/water schemes by state governments raise opportunity cost debates.",
+    "keywords": [
+      "opportunity cost",
+      "free good",
+      "tax-paying public",
+      "government",
+      "subsidy"
+    ]
+  },
+  {
+    "idx": 5,
+    "subject": "Economy",
+    "category": "Development & Planning",
+    "topic": "Human Development",
+    "syllabus_id": "ECO.DEV.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Options A, B and D are economic factors that might superficially seem to limit development; but GNP growth with rising poverty and unemployment means growth is not 'development' in a holistic sense.",
+    "elimination_hint": "Real GNP growth without poverty and unemployment reduction does not constitute economic development — answer C. Development requires distributional and welfare dimensions, not just output growth.",
+    "factual_hooks": [
+      "Economic development implies qualitative improvement: reduction in poverty, unemployment, and inequality — not just GDP growth",
+      "Amartya Sen's capability approach defines development as expansion of human freedoms"
+    ],
+    "prerequisite_concepts": [
+      "Economic growth vs economic development",
+      "HDI",
+      "Poverty and inequality measures"
+    ],
+    "related_concepts": [
+      "Human Development Index",
+      "Inclusive growth",
+      "Amartya Sen's development as freedom"
+    ],
+    "contrast_with": [
+      "Economic growth (quantitative) vs economic development (qualitative)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's jobless growth debate makes this distinction between growth and development highly relevant.",
+    "keywords": [
+      "economic development",
+      "GNP",
+      "poverty",
+      "unemployment",
+      "growth vs development"
+    ]
+  },
+  {
+    "idx": 6,
+    "subject": "Economy",
+    "category": "Development & Planning",
+    "topic": "Human Development",
+    "syllabus_id": "ECO.DEV.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 confuses human capital with physical capital accumulation; statement 3 (tangible wealth) is capital formation, not human capital specifically.",
+    "elimination_hint": "Human capital formation = increasing knowledge, skills and capacities (statement 2) + accumulation of intangible wealth/human competencies (statement 4) — answer C (2 and 4 only).",
+    "factual_hooks": [
+      "Human capital theory (Gary Becker) treats investment in education, health and skills as capital formation",
+      "Intangible capital (human capital, social capital) constitutes the majority of national wealth in developed economies"
+    ],
+    "prerequisite_concepts": [
+      "Human capital theory",
+      "Difference between physical and human capital",
+      "Investment in education and health"
+    ],
+    "related_concepts": [
+      "National Human Development Reports",
+      "Education as investment",
+      "Skill development in India"
+    ],
+    "contrast_with": [
+      "Human capital (intangible) vs physical capital (tangible) accumulation"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's demographic dividend depends on human capital formation through education and skill development.",
+    "keywords": [
+      "human capital",
+      "knowledge",
+      "skills",
+      "intangible wealth",
+      "development"
+    ]
+  },
+  {
+    "idx": 7,
+    "subject": "Polity",
+    "category": "Federalism",
+    "topic": "Local Government",
+    "syllabus_id": "POL.FED.1",
+    "dimension": "WHY",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.91,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "73rd Constitutional Amendment (1992) gave constitutional status to Panchayats but devolution of funds, functions and functionaries remains incomplete",
+      "NITI Aayog reports consistently highlight inadequate devolution of financial resources to local bodies"
+    ],
+    "prerequisite_concepts": [
+      "73rd and 74th Constitutional Amendments",
+      "Three Fs of decentralization: Functions, Funds, Functionaries",
+      "Panchayati Raj institutions"
+    ],
+    "related_concepts": [
+      "State Finance Commissions",
+      "Gram Sabha",
+      "Urban local bodies (ULBs)"
+    ],
+    "contrast_with": [
+      "Constitutional status of PRIs vs actual devolution — gap between law and practice"
+    ],
+    "mains_themes": [
+      "Decentralization and local governance",
+      "Constitutional vs functional democracy",
+      "Capacity building in rural governance"
+    ],
+    "mains_intro": "Despite three decades since the 73rd Amendment, India's Panchayati Raj institutions continue to function more as patronage-distribution bodies than as genuine self-governance institutions.",
+    "mains_body_points": [
+      "Political vs governance role: PRIs used for electoral mobilization rather than service delivery",
+      "Structural gaps: inadequate devolution of funds (State Finance Commissions underfunded), limited own-source revenue",
+      "Human resource deficits: lack of trained personnel, low educational levels of elected representatives",
+      "Bureaucratic resistance: parallel structures (line departments) bypass PRIs; DM/Collector dominance",
+      "Way forward: mandatory devolution of 29 subjects, capacity-building programs, linking funds to performance, strengthening Gram Sabhas"
+    ],
+    "mains_conclusion": "Transforming PRIs from political entities into effective governance instruments requires structural devolution backed by administrative capacity and community participation.",
+    "mains_interlinkages": [
+      "GS3: Rural development",
+      "GS4: Ethics in public administration",
+      "Constitutional framework (Article 243)"
+    ],
+    "contemporary_relevance": "15th Finance Commission's recommendations for direct grants to local bodies reflect ongoing decentralization challenges.",
+    "keywords": [
+      "Panchayati Raj",
+      "decentralization",
+      "local governance",
+      "73rd Amendment",
+      "devolution"
+    ]
+  },
+  {
+    "idx": 8,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Time Speed Distance",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse IST (82.5°E) with 92°E and calculate incorrectly; the key is that 92°E is east of IST meridian, so local time is ahead.",
+    "elimination_hint": "IST is based on 82.5°E. Shillong is at 92°E, which is 9.5° east of IST. Time difference = 9.5 × 4 = 38 minutes ahead. So 10:00 AM IST = 10:38 AM local — answer B.",
+    "factual_hooks": [
+      "Each degree of longitude = 4 minutes of time",
+      "IST is based on 82.5°E; places east of this meridian have a local time ahead of IST"
+    ],
+    "prerequisite_concepts": [
+      "Standard Time vs Local Time",
+      "IST and longitude 82.5°E",
+      "Longitude-time calculation"
+    ],
+    "related_concepts": [
+      "Time zones in India",
+      "International Date Line",
+      "Solar time"
+    ],
+    "contrast_with": [
+      "Local time east of IST meridian (ahead) vs west (behind)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "IST",
+      "longitude",
+      "local time",
+      "time calculation",
+      "Shillong"
+    ]
+  },
+  {
+    "idx": 9,
+    "subject": "Economy",
+    "category": "Development & Planning",
+    "topic": "Planning",
+    "syllabus_id": "ECO.DEV.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "High population density and illiteracy are commonly blamed for low output; but the specific economic concept here is capital-output ratio — how much capital is needed per unit of output.",
+    "elimination_hint": "High capital-output ratio means more capital is required to produce each unit of output, so even high savings do not translate to significant output increase — answer D.",
+    "factual_hooks": [
+      "Capital-output ratio (COR) = Capital invested / Output produced; high COR implies inefficient capital use",
+      "India's ICOR (Incremental COR) is a key planning metric for investment requirements"
+    ],
+    "prerequisite_concepts": [
+      "Capital-output ratio (COR)",
+      "Savings-investment-output relationship",
+      "Harrod-Domar growth model"
+    ],
+    "related_concepts": [
+      "Incremental Capital Output Ratio (ICOR)",
+      "Productive efficiency",
+      "Investment productivity"
+    ],
+    "contrast_with": [
+      "High COR (capital inefficiency) vs low COR (capital efficiency)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's capital efficiency debates relate to infrastructure investment productivity.",
+    "keywords": [
+      "capital-output ratio",
+      "savings",
+      "capital formation",
+      "output",
+      "ICOR"
+    ]
+  },
+  {
+    "idx": 10,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Rise of Nationalism",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may think the colonial government only created administrative units without land protection measures; both the territory creation AND the land transfer prohibition are post-Santhal Uprising reforms.",
+    "elimination_hint": "After the Santhal Uprising (1855-56), British created 'Santhal Paraganas' (statement 1) and prohibited Santhals from selling land to non-Santhals (statement 2) — answer C (both correct).",
+    "factual_hooks": [
+      "Santhal Uprising (1855-56) led to the Santhal Paraganas Tenancy Act 1876 protecting tribal lands",
+      "The Santhal Paraganas district was carved out of Bengal in 1855 as a direct response to the rebellion"
+    ],
+    "prerequisite_concepts": [
+      "Santhal Uprising 1855",
+      "Tribal uprisings in colonial India",
+      "British responses to tribal revolts"
+    ],
+    "related_concepts": [
+      "Birsa Munda revolt",
+      "Adivasi land rights",
+      "Forest Rights Act 2006"
+    ],
+    "contrast_with": [
+      "Santhal Paraganas (special tribal zone) vs other administrative districts — different land tenure rules"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Tribal land alienation protections echo in Forest Rights Act and current debates on land acquisition.",
+    "keywords": [
+      "Santhal Uprising",
+      "Santhal Paraganas",
+      "tribal land",
+      "colonial response",
+      "1855"
+    ]
+  },
+  {
+    "idx": 11,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Economic Impact of British Rule",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Growth of Indian-owned factories and export of handicrafts sound like colonial benefits; the British actually de-industrialized India and export of handicrafts declined sharply.",
+    "elimination_hint": "British rule led to commercialization of agriculture (cash crops for export — indigo, cotton, jute, opium) replacing subsistence farming — answer C.",
+    "factual_hooks": [
+      "British rule forced commercialization of Indian agriculture — shifting from food crops to cash crops like cotton, indigo, opium, jute",
+      "Indian handicraft industry was destroyed by cheap British machine-made textiles"
+    ],
+    "prerequisite_concepts": [
+      "Commercialization of agriculture in colonial India",
+      "Economic drain theory",
+      "De-industrialization of India"
+    ],
+    "related_concepts": [
+      "Dadabhai Naoroji's drain theory",
+      "Indigo plantation system",
+      "Railway and colonial commerce"
+    ],
+    "contrast_with": [
+      "Commercialization of agriculture vs industrialization — British promoted the former, hindered the latter"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "commercialization",
+      "agriculture",
+      "British rule",
+      "cash crops",
+      "colonial economy"
+    ]
+  },
+  {
+    "idx": 12,
+    "subject": "Polity",
+    "category": "Federalism",
+    "topic": "Centre-State Relations",
+    "syllabus_id": "POL.FED.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Article 356 (President's Rule) does NOT automatically dissolve the Assembly — it can be suspended; and Article 19 (freedoms) is not suspended — only Article 358/359 suspensions apply during National Emergency.",
+    "elimination_hint": "Under Article 356, the powers of State Legislature become exercisable by Parliament (statement B) — the Assembly is suspended (not automatically dissolved) and Parliament takes over — answer B.",
+    "factual_hooks": [
+      "Article 356 President's Rule: State Assembly may be suspended or dissolved; Parliament assumes state legislative powers",
+      "SR Bommai case (1994) ruled that dissolution of Assembly under Article 356 requires parliamentary approval"
+    ],
+    "prerequisite_concepts": [
+      "Article 356 — President's Rule",
+      "SR Bommai case",
+      "Emergency provisions in Constitution"
+    ],
+    "related_concepts": [
+      "Articles 352, 356, 360 — three types of emergency",
+      "Governor's role under President's Rule",
+      "Parliament's power over states under emergency"
+    ],
+    "contrast_with": [
+      "President's Rule (Art 356) vs National Emergency (Art 352) — different effects on state government"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Article 356 misuse remains a constitutional concern; SR Bommai case is a landmark safeguard.",
+    "keywords": [
+      "Article 356",
+      "President's Rule",
+      "State Legislature",
+      "Parliament",
+      "SR Bommai"
+    ]
+  },
+  {
+    "idx": 13,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Medieval Art & Architecture",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Sujni embroidery sounds like it belongs to Maharashtra but is actually from Bihar (Mithila region); Uppada Jamdani saris are from Andhra Pradesh, not Karnataka.",
+    "elimination_hint": "Puthukkuli shawls are from Tamil Nadu (correct — pair 1); Sujni embroidery is from Bihar, not Maharashtra (pair 2 wrong); Uppada Jamdani saris are from Andhra Pradesh, not Karnataka (pair 3 wrong) — answer A (1 only).",
+    "factual_hooks": [
+      "Puthukkuli shawls are a GI-tagged craft from Tamil Nadu's Erode district",
+      "Sujni embroidery is a folk art from Muzaffarpur, Bihar; Uppada Jamdani is an AP craft (GI-tagged)"
+    ],
+    "prerequisite_concepts": [
+      "Indian traditional crafts and their states",
+      "GI-tagged handicrafts of India",
+      "Regional textile traditions"
+    ],
+    "related_concepts": [
+      "Geographical Indication tags",
+      "Indian textile heritage",
+      "Handicraft clusters"
+    ],
+    "contrast_with": [
+      "Uppada Jamdani (AP) vs Dhakai Jamdani (Bangladesh/West Bengal)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Puthukkuli shawls",
+      "Sujni embroidery",
+      "Uppada Jamdani",
+      "crafts",
+      "GI tag"
+    ]
+  },
+  {
+    "idx": 14,
+    "subject": "Science & Technology",
+    "category": "Space Technology",
+    "topic": "Space Applications",
+    "syllabus_id": "S&T.SPC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may think GPS is only for navigation/location; its timing signals are critical for banking transactions, power grid synchronization and mobile network operations.",
+    "elimination_hint": "GPS technology is used in mobile operations (timing), banking (transaction timestamping), and power grid control (frequency synchronization) — all three correct, answer D.",
+    "factual_hooks": [
+      "GPS provides precise atomic clock timing signals used in financial transaction synchronization and power grid management",
+      "Modern telecommunications rely on GPS timing for 4G/5G network synchronization"
+    ],
+    "prerequisite_concepts": [
+      "GPS beyond navigation",
+      "GPS timing signals",
+      "Critical infrastructure and satellite dependency"
+    ],
+    "related_concepts": [
+      "NavIC (India's regional navigation system)",
+      "GNSS applications",
+      "Critical infrastructure vulnerability"
+    ],
+    "contrast_with": [
+      "GPS navigation (position) vs GPS timing (synchronization) — two distinct uses"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's NavIC is being expanded for critical infrastructure to reduce GPS dependency.",
+    "keywords": [
+      "GPS",
+      "navigation",
+      "banking",
+      "power grid",
+      "mobile",
+      "satellite timing"
+    ]
+  },
+  {
+    "idx": 15,
+    "subject": "Science & Technology",
+    "category": "Biotechnology",
+    "topic": "Biotech Applications",
+    "syllabus_id": "S&T.BIO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "GM mustard's development backstory is complex; statement 1 falsely attributes pest-resistance to soil bacterium genes — it actually uses bar gene for herbicide tolerance and barnase/barstar for hybridization.",
+    "elimination_hint": "GM mustard (DMH-11) uses barnase/barstar/bar genes from soil bacteria to enable cross-pollination/hybridization (statement 2 correct); it was developed by Delhi University, not IARI-PAU jointly (statement 3 wrong); statement 1 wrong (herbicide tolerance, not pest resistance) — answer B (2 only).",
+    "factual_hooks": [
+      "GM Mustard DMH-11 was developed by Delhi University's Centre for Genetic Manipulation of Crop Plants (CGMCP)",
+      "It uses barnase and barstar genes from Bacillus amyloliquefaciens to create hybrid mustard through male sterility system"
+    ],
+    "prerequisite_concepts": [
+      "GM crops in India",
+      "Barnase-barstar system in plant hybridization",
+      "GEAC approval process"
+    ],
+    "related_concepts": [
+      "Bt cotton in India",
+      "GEAC (Genetic Engineering Appraisal Committee)",
+      "GM food regulatory framework"
+    ],
+    "contrast_with": [
+      "GM mustard (hybridization system) vs Bt cotton (pest resistance) — different GM mechanisms"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "GM Mustard remains a live policy debate in India with GEAC approval pending full commercialization.",
+    "keywords": [
+      "GM mustard",
+      "DMH-11",
+      "hybridization",
+      "barnase",
+      "barstar",
+      "Delhi University"
+    ]
+  },
+  {
+    "idx": 16,
+    "subject": "Science & Technology",
+    "category": "Emerging Technologies",
+    "topic": "AI and Robotics",
+    "syllabus_id": "S&T.EMR.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Belle II experiment is actually a particle physics experiment (not AI); CRISPR-Cas9 is a gene-editing biotechnology (not particle physics) — both are mismatched in the question.",
+    "elimination_hint": "Belle II is a particle physics experiment (Japan), not AI; CRISPR-Cas9 is gene editing biotechnology, not particle physics; only Blockchain-Cryptocurrency pair (2) is correct — answer B.",
+    "factual_hooks": [
+      "Belle II experiment at KEK Japan studies B-meson decays to test Standard Model of particle physics",
+      "CRISPR-Cas9 is a bacterial immune mechanism adapted as a precise gene-editing tool in biotechnology"
+    ],
+    "prerequisite_concepts": [
+      "Blockchain technology and cryptocurrency",
+      "CRISPR-Cas9 gene editing",
+      "Particle physics experiments"
+    ],
+    "related_concepts": [
+      "Bitcoin and blockchain",
+      "Gene therapy using CRISPR",
+      "Large Hadron Collider (particle physics)"
+    ],
+    "contrast_with": [
+      "CRISPR (biotechnology) vs particle accelerators (physics) — completely different fields"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "CRISPR gene editing won the 2020 Nobel Prize in Chemistry — highly relevant for biotech policy.",
+    "keywords": [
+      "Belle II",
+      "Blockchain",
+      "CRISPR-Cas9",
+      "cryptocurrency",
+      "gene editing",
+      "particle physics"
+    ]
+  },
+  {
+    "idx": 17,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Climate Change",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "The term 'fertilization' may suggest options B (temperature increase) or C (ocean acidification) since CO2 causes both; 'carbon fertilization' specifically refers to enhanced plant photosynthesis.",
+    "elimination_hint": "Carbon fertilization = increased plant growth due to higher atmospheric CO2 enabling faster photosynthesis — answer A.",
+    "factual_hooks": [
+      "Carbon fertilization effect: elevated CO2 (currently ~420 ppm) enhances photosynthesis and crop yields, but benefits are offset by heat stress and water scarcity",
+      "Studies show carbon fertilization may increase some crop yields by 10-25% but with nutritional dilution"
+    ],
+    "prerequisite_concepts": [
+      "Carbon dioxide and photosynthesis",
+      "Climate change and plant biology",
+      "CO2 fertilization effect"
+    ],
+    "related_concepts": [
+      "Ocean acidification (CO2 + water → carbonic acid)",
+      "Greenhouse effect",
+      "IPCC reports on agriculture"
+    ],
+    "contrast_with": [
+      "Carbon fertilization (positive for plants) vs ocean acidification (negative for marine life) — same cause, opposite effects"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Carbon fertilization is a key uncertainty in climate change impact assessments on food security.",
+    "keywords": [
+      "carbon fertilization",
+      "CO2",
+      "plant growth",
+      "photosynthesis",
+      "climate change"
+    ]
+  },
+  {
+    "idx": 18,
+    "subject": "Science & Technology",
+    "category": "Emerging Technologies",
+    "topic": "AI and Robotics",
+    "syllabus_id": "S&T.EMR.1",
+    "dimension": "WHAT",
+    "question_type": "Application",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "BGP (Border Gateway Protocol) and VPN are legitimate internet technologies that students may confuse with the interconnected smart-device scenario described.",
+    "elimination_hint": "The scenario describes multiple smart devices communicating autonomously without human intervention — the defining characteristic of Internet of Things (IoT) — answer B.",
+    "factual_hooks": [
+      "IoT refers to the network of physical devices embedded with sensors, software and connectivity to exchange data",
+      "IoT applications span smart homes, smart cities, industrial automation (Industry 4.0), and healthcare"
+    ],
+    "prerequisite_concepts": [
+      "Internet of Things (IoT)",
+      "Smart home technology",
+      "Machine-to-machine (M2M) communication"
+    ],
+    "related_concepts": [
+      "5G and IoT",
+      "Smart cities mission India",
+      "Cyber security challenges of IoT"
+    ],
+    "contrast_with": [
+      "IoT (device network) vs Internet Protocol (data routing) vs VPN (secure tunneling)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "IoT is central to India's Smart Cities Mission and digital infrastructure planning.",
+    "keywords": [
+      "Internet of Things",
+      "IoT",
+      "smart devices",
+      "connectivity",
+      "automation"
+    ]
+  },
+  {
+    "idx": 19,
+    "subject": "Economy",
+    "category": "Industry & Infrastructure",
+    "topic": "Energy",
+    "syllabus_id": "ECO.IND.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.83,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Both statements sound plausible — India does have solar manufacturing ambitions and SECI is a real body — but India is NOT third largest in silicon wafer manufacturing, and solar tariffs are determined by competitive bidding (CERC), not SECI.",
+    "elimination_hint": "India is NOT third largest in silicon wafer manufacturing (statement 1 wrong — China dominates); solar tariffs are determined through competitive bidding regulated by CERC, not by SECI unilaterally (statement 2 wrong) — answer D (neither correct).",
+    "factual_hooks": [
+      "China dominates global silicon wafer and solar panel manufacturing; India is a minor player and is trying to build domestic manufacturing through PLI scheme",
+      "Solar power tariffs in India are discovered through competitive reverse bidding; SECI facilitates auctions but does not 'determine' tariffs"
+    ],
+    "prerequisite_concepts": [
+      "Solar energy manufacturing",
+      "SECI (Solar Energy Corporation of India)",
+      "Renewable energy tariff discovery"
+    ],
+    "related_concepts": [
+      "PLI scheme for solar manufacturing",
+      "MNRE policies",
+      "Rooftop solar and net metering"
+    ],
+    "contrast_with": [
+      "SECI (bid facilitator) vs CERC (tariff regulator) — different roles in solar sector"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's solar manufacturing ambitions and PLI scheme are key to energy security and climate goals.",
+    "keywords": [
+      "solar power",
+      "silicon wafer",
+      "SECI",
+      "tariff",
+      "photovoltaic",
+      "India"
+    ]
+  },
+  {
+    "idx": 20,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Economic Impact of British Rule",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Raw cotton and copper/gold sound like obvious colonial exports; the specific 18th-century Bengal export basket (cotton, silk, saltpetre, opium) is less obvious.",
+    "elimination_hint": "The English East India Company's main Bengal exports in mid-18th century were cotton textiles, silk, saltpetre (for gunpowder) and opium (for China trade) — answer D.",
+    "factual_hooks": [
+      "Saltpetre (potassium nitrate) was a key Bengal export used in European gunpowder manufacturing",
+      "Opium was cultivated in Bengal and exported to China, creating the triangular trade that led to Opium Wars"
+    ],
+    "prerequisite_concepts": [
+      "East India Company trade in Bengal",
+      "Bengal's role in colonial trade",
+      "Opium trade and China"
+    ],
+    "related_concepts": [
+      "Opium Wars",
+      "Triangular trade",
+      "Deindustrialization of Bengal"
+    ],
+    "contrast_with": [
+      "18th century EIC exports (cotton, silk, opium) vs 19th century (raw materials, indigo)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "East India Company",
+      "Bengal",
+      "saltpetre",
+      "opium",
+      "cotton",
+      "silk",
+      "export"
+    ]
+  },
+  {
+    "idx": 21,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Gandhian Era",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Options A and B describe broader national movements; Champaran's significance is specifically the merger of peasant grievances with national independence movement for the first time.",
+    "elimination_hint": "Champaran Satyagraha (1917) was the first time Gandhi linked peasant unrest (against indigo planters) with India's national movement — answer C.",
+    "factual_hooks": [
+      "Champaran Satyagraha (1917) was Gandhi's first mass movement in India, linking peasant exploitation under the tinkathia system with the national independence struggle",
+      "It was the first instance of civil disobedience in India under Gandhi's leadership"
+    ],
+    "prerequisite_concepts": [
+      "Champaran Satyagraha 1917",
+      "Tinkathia system and indigo cultivation",
+      "Gandhi's early Indian activism"
+    ],
+    "related_concepts": [
+      "Ahmedabad Mill Strike",
+      "Kheda Satyagraha",
+      "Non-Cooperation Movement"
+    ],
+    "contrast_with": [
+      "Champaran (peasant issue linked to nationalism) vs Kheda (revenue grievance)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Champaran",
+      "Satyagraha",
+      "peasant",
+      "Gandhi",
+      "nationalism",
+      "1917"
+    ]
+  },
+  {
+    "idx": 22,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Rise of Nationalism",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "LOW",
+    "trap_factor": "Jayaprakash Narayan and EMS Namboodiripad are prominent labour leaders; Hind Mazdoor Sabha is a socialist trade union body that students may associate with communist figures.",
+    "elimination_hint": "Hind Mazdoor Sabha (HMS) was founded in 1948 by Ashok Mehta, T.S. Ramanujam and G.G. Mehta as a non-communist socialist trade union — answer D.",
+    "factual_hooks": [
+      "Hind Mazdoor Sabha (HMS) founded in 1948 is affiliated with the Socialist International; distinct from INTUC (Congress-backed) and AITUC (communist-backed)",
+      "HMS was India's second major national trade union federation, positioned as a democratic socialist alternative"
+    ],
+    "prerequisite_concepts": [
+      "Indian trade union federations",
+      "Post-independence labour movement",
+      "HMS vs INTUC vs AITUC"
+    ],
+    "related_concepts": [
+      "Indian labour law",
+      "Trade union politics in India",
+      "Socialist movement post-independence"
+    ],
+    "contrast_with": [
+      "HMS (socialist) vs AITUC (communist) vs INTUC (Congress) — ideological differences among trade unions"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Hind Mazdoor Sabha",
+      "HMS",
+      "trade union",
+      "Ashok Mehta",
+      "1948",
+      "socialist"
+    ]
+  },
+  {
+    "idx": 23,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Jainism",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "The unfamiliar term 'Sthanakvasi' may lead students toward Buddhism or Shaivism; it is one of the sub-sects of Jainism (Shvetambara branch).",
+    "elimination_hint": "Sthanakvasi is a sect of Jainism (Shvetambara branch) that rejects idol worship and worships in ordinary halls (sthanaks) rather than temples — answer B.",
+    "factual_hooks": [
+      "Sthanakvasi Jains are a subsect of Shvetambara Jains who oppose image worship and elaborate temple rituals",
+      "They are called Sthanakvasi because they use a 'sthanak' (hall) rather than a temple for worship"
+    ],
+    "prerequisite_concepts": [
+      "Jain sects: Digambara and Shvetambara",
+      "Sthanakvasi and Terapanthi subsects",
+      "Jain religious practices"
+    ],
+    "related_concepts": [
+      "Digambara vs Shvetambara differences",
+      "Jain temples and iconography",
+      "Jainism's influence on Indian philosophy"
+    ],
+    "contrast_with": [
+      "Sthanakvasi (no idol worship) vs Shvetambara Murtipujak (idol worship) within Jainism"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Sthanakvasi",
+      "Jainism",
+      "Shvetambara",
+      "idol worship",
+      "sthanak"
+    ]
+  },
+  {
+    "idx": 24,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Medieval Art & Architecture",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.83,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "White marble is associated with Mughal architecture (Taj Mahal) making statement 1 tempting; Bara Imambara and Rumi Darwaza are made of brick/lime, not red sandstone and marble.",
+    "elimination_hint": "Buland Darwaza is made of red sandstone (not white marble) — statement 1 wrong; Bara Imambara and Rumi Darwaza in Lucknow are made of brick with lime plaster, not red sandstone/marble — statement 2 also wrong — answer D (neither correct).",
+    "factual_hooks": [
+      "Buland Darwaza at Fatehpur Sikri is built of red sandstone, inlaid with white and black marble — not pure white marble",
+      "Bara Imambara (Lucknow) was built by Nawab Asaf-ud-Daula using brick-lime construction, not red sandstone"
+    ],
+    "prerequisite_concepts": [
+      "Mughal architecture at Fatehpur Sikri",
+      "Nawabi architecture in Lucknow",
+      "Building materials in medieval Indian architecture"
+    ],
+    "related_concepts": [
+      "Akbar's Fatehpur Sikri",
+      "Awadh architecture",
+      "Imambara traditions"
+    ],
+    "contrast_with": [
+      "Mughal imperial architecture (red sandstone + marble) vs Nawabi architecture (lime-brick)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Buland Darwaza",
+      "Fatehpur Sikri",
+      "Bara Imambara",
+      "Rumi Darwaza",
+      "architecture",
+      "Lucknow"
+    ]
+  },
+  {
+    "idx": 25,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Climate Change",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "WHAT",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "'Momentum for Change' is a UNFCCC initiative showcasing transformative climate solutions to support climate neutrality",
+      "Climate neutrality (net-zero) is the goal of achieving zero net greenhouse gas emissions globally"
+    ],
+    "prerequisite_concepts": [
+      "UNFCCC and Paris Agreement",
+      "Climate neutral/net-zero concepts",
+      "Alternative energy technologies"
+    ],
+    "related_concepts": [
+      "Renewable energy transition",
+      "Carbon capture and storage",
+      "India's NDC commitments"
+    ],
+    "contrast_with": [
+      "Climate mitigation (reducing emissions) vs climate adaptation (adjusting to change)"
+    ],
+    "mains_themes": [
+      "Alternative energy and climate resilience",
+      "Technology transfer for climate action",
+      "India's climate commitments"
+    ],
+    "mains_intro": "As climate change accelerates, India needs to leapfrog to alternative technologies that build resilience while maintaining its development trajectory.",
+    "mains_body_points": [
+      "Solar and wind energy: dramatic cost reduction makes them viable; India's 500 GW renewable target by 2030",
+      "Green hydrogen: potential to decarbonize heavy industry and long-distance transport",
+      "Smart grid and energy storage: address intermittency of renewables, enable distributed energy",
+      "Sustainable agriculture: drought-resistant crop varieties, precision irrigation, agroforestry",
+      "Climate-resilient infrastructure: flood-resistant construction, cool roofs, urban green spaces",
+      "India's advantage: large renewable potential, democratic diversity enabling policy experimentation"
+    ],
+    "mains_conclusion": "India's climate resilience strategy must integrate alternative technologies into mainstream development planning, ensuring that adaptation and mitigation reinforce rather than compete with economic growth.",
+    "mains_interlinkages": [
+      "GS3: Environment and energy",
+      "GS2: International relations and climate diplomacy",
+      "Geography: climate patterns in India"
+    ],
+    "contemporary_relevance": "India's Panchamrit commitments at COP26 and net-zero by 2070 target make this directly relevant.",
+    "keywords": [
+      "climate resilience",
+      "alternative technologies",
+      "renewable energy",
+      "net-zero",
+      "UNFCCC",
+      "India"
+    ]
+  },
+  {
+    "idx": 26,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Mughal Empire",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Francois Bernier wrote extensively about Mughal India and gems; but Jean-Baptiste Tavernier specifically documented diamond mines and traded in gems including the famous Hope Diamond's predecessor.",
+    "elimination_hint": "Jean-Baptiste Tavernier (French gem merchant) travelled to India six times and wrote extensively about diamond mines of Golconda and Indian gemstones — answer B.",
+    "factual_hooks": [
+      "Jean-Baptiste Tavernier visited India six times (1631-1668) and documented the diamond mines of Golconda, Kollur and Raolconda",
+      "He acquired the Tavernier Blue Diamond which eventually became the Hope Diamond"
+    ],
+    "prerequisite_concepts": [
+      "Foreign travellers to Mughal India",
+      "Golconda diamond mines",
+      "17th century European travellers"
+    ],
+    "related_concepts": [
+      "Francois Bernier (Mughal politics)",
+      "Nicolo Manucci (Mughal court)",
+      "Golconda sultanate"
+    ],
+    "contrast_with": [
+      "Tavernier (gem trader, diamond mines) vs Bernier (physician, political observer) — different perspectives on Mughal India"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Tavernier",
+      "diamonds",
+      "Golconda",
+      "foreign travellers",
+      "Mughal India"
+    ]
+  },
+  {
+    "idx": 27,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Buddhism",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Avalokiteshvara and Padmapani are also Bodhisattvas (current/past helpers); the specific concept of 'future Buddha yet to come' is uniquely associated with Maitreya.",
+    "elimination_hint": "Maitreya is the future Buddha in Buddhist belief — a Bodhisattva who will achieve Buddhahood and teach the Dharma when it has been forgotten — answer C.",
+    "factual_hooks": [
+      "Maitreya ('the friendly one') is prophesied to be the next Buddha, currently residing in Tushita heaven",
+      "Maitreya sculptures are found across Buddhist art in India, China, Korea and Japan"
+    ],
+    "prerequisite_concepts": [
+      "Mahayana Buddhism and Bodhisattvas",
+      "Maitreya concept",
+      "Buddhist eschatology"
+    ],
+    "related_concepts": [
+      "Avalokitesvara (compassion Bodhisattva)",
+      "Amitabha Buddha",
+      "Buddhist iconography"
+    ],
+    "contrast_with": [
+      "Gautama Buddha (historical) vs Maitreya (future Buddha) — past vs prophesied"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Maitreya",
+      "future Buddha",
+      "Bodhisattva",
+      "Buddhism",
+      "Mahayana"
+    ]
+  },
+  {
+    "idx": 28,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "British Expansion",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Securing fixed income (option C) sounds like a logical British commercial goal; but the Subsidiary Alliance was not primarily a revenue device — it was a political/military domination tool.",
+    "elimination_hint": "The Subsidiary Alliance (Wellesley) aimed to maintain a British-paid army, secure against Napoleon, and establish British paramountcy — but securing a 'fixed income' for the Company was NOT its stated purpose — answer C (does not apply).",
+    "factual_hooks": [
+      "Subsidiary Alliance (1798) required Indian princes to maintain British troops in their territory at their own expense — it was a tool for political control, not revenue generation",
+      "It effectively made Indian states dependent on Britain for security while stripping them of sovereignty"
+    ],
+    "prerequisite_concepts": [
+      "Subsidiary Alliance system",
+      "Lord Wellesley's expansion policy",
+      "British paramountcy in India"
+    ],
+    "related_concepts": [
+      "Doctrine of Lapse (Dalhousie)",
+      "British expansion methods",
+      "Napoleonic Wars and Indian policy"
+    ],
+    "contrast_with": [
+      "Subsidiary Alliance (Wellesley) vs Doctrine of Lapse (Dalhousie) — different annexation methods"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Subsidiary Alliance",
+      "Wellesley",
+      "British paramountcy",
+      "Indian states",
+      "expansion"
+    ]
+  },
+  {
+    "idx": 29,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "British-Era Committees and Commissions",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may credit only one factor for English education introduction; the Orientalist-Anglicist debate and Charter Act involvement alongside GCPI makes all three relevant.",
+    "elimination_hint": "All three — Charter Act 1813 (allowing missionaries, mandating education), GCPI 1823 (debating curriculum), and Orientalist-Anglicist Controversy (resolved by Macaulay in 1835) — contributed to introduction of English education — answer D.",
+    "factual_hooks": [
+      "Charter Act 1813 allowed Christian missionaries and set aside funds for education of Indians",
+      "Macaulay's Minute (1835) resolved the Orientalist-Anglicist debate in favour of English education"
+    ],
+    "prerequisite_concepts": [
+      "Introduction of English education in India",
+      "Charter Act 1813",
+      "Macaulay's Minute 1835"
+    ],
+    "related_concepts": [
+      "Wood's Dispatch 1854",
+      "Indian Education Commission (Hunter Commission) 1882",
+      "Vernacular Press Act"
+    ],
+    "contrast_with": [
+      "Orientalist approach (Sanskrit/Arabic education) vs Anglicist approach (English education)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "English education",
+      "Charter Act 1813",
+      "GCPI",
+      "Orientalist",
+      "Anglicist",
+      "Macaulay"
+    ]
+  },
+  {
+    "idx": 30,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Physical Features of India",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Kolleru and Nainital look like natural lakes; Kodaikanal's lake appears natural being a hill station, but it is a man-made reservoir built in 1863 by the British.",
+    "elimination_hint": "Kodaikanal Lake (Tamil Nadu) is an artificial star-shaped lake created by British in 1863 by damming the Pambar River — answer A. Kolleru, Nainital and Renuka are natural lakes.",
+    "factual_hooks": [
+      "Kodaikanal Lake was constructed artificially in 1863 by William H. Ryder of the Public Works Department",
+      "Kolleru is a freshwater lake (natural) in AP; Nainital is a glacial lake; Renuka is HP's largest natural lake"
+    ],
+    "prerequisite_concepts": [
+      "Lakes of India — natural vs artificial",
+      "Hill station geography",
+      "Indian lakes and wetlands"
+    ],
+    "related_concepts": [
+      "Ramsar wetlands of India",
+      "Lake ecosystems",
+      "Manmade vs natural water bodies"
+    ],
+    "contrast_with": [
+      "Kodaikanal (artificial) vs Nainital (glacial/natural) vs Chilika (coastal lagoon/natural)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Kodaikanal",
+      "artificial lake",
+      "Kolleru",
+      "Nainital",
+      "Renuka",
+      "lakes India"
+    ]
+  },
+  {
+    "idx": 31,
+    "subject": "Governance",
+    "category": "Government Schemes & Policies",
+    "topic": "Welfare of Vulnerable Sections",
+    "syllabus_id": "GOV.SCH.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 incorrectly attributes PMKVY to Ministry of Labour; it is under Ministry of Skill Development and Entrepreneurship — a common mix-up.",
+    "elimination_hint": "PMKVY is under Ministry of Skill Development and Entrepreneurship (not Labour — statement 1 wrong); it covers soft skills and digital literacy (2 correct) and aligns with NSQF (3 correct) — answer C (2 and 3 only).",
+    "factual_hooks": [
+      "PMKVY (Pradhan Mantri Kaushal Vikas Yojana) was launched in 2015 under Ministry of Skill Development and Entrepreneurship",
+      "It aims to align training with National Skills Qualifications Framework (NSQF) and includes Recognition of Prior Learning (RPL)"
+    ],
+    "prerequisite_concepts": [
+      "PMKVY scheme design",
+      "National Skill Qualifications Framework (NSQF)",
+      "Skill India mission"
+    ],
+    "related_concepts": [
+      "Skill India Mission",
+      "National Skill Development Corporation",
+      "Jan Shikshan Sansthan"
+    ],
+    "contrast_with": [
+      "PMKVY (skill certification) vs MUDRA (credit for entrepreneurship) — different aspects of livelihoods"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "PMKVY 4.0 focuses on industry-aligned and emerging sector skills.",
+    "keywords": [
+      "PMKVY",
+      "skill development",
+      "NSQF",
+      "Ministry of Skill Development",
+      "soft skills"
+    ]
+  },
+  {
+    "idx": 32,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Rise of Nationalism",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse Swarajya Sabha with the Swaraj Party (formed by CR Das and Motilal Nehru in 1923); the Home Rule League renamed itself in 1920.",
+    "elimination_hint": "Annie Besant's All India Home Rule League changed its name to 'Swarajya Sabha' in 1920 — answer A.",
+    "factual_hooks": [
+      "Annie Besant founded the All India Home Rule League in 1916; it was renamed Swarajya Sabha in 1920",
+      "Not to be confused with the Swaraj Party formed by C.R. Das and Motilal Nehru in 1923"
+    ],
+    "prerequisite_concepts": [
+      "Home Rule Movement in India",
+      "Annie Besant's role in Indian nationalism",
+      "Renaming of nationalist organizations"
+    ],
+    "related_concepts": [
+      "Bal Gangadhar Tilak's Home Rule League",
+      "Non-Cooperation Movement context",
+      "Swaraj Party formation"
+    ],
+    "contrast_with": [
+      "Home Rule League (Besant, 1916) vs Swaraj Party (CR Das-Nehru, 1923) — different organizations despite similar names"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Home Rule League",
+      "Swarajya Sabha",
+      "Annie Besant",
+      "1920",
+      "nationalism"
+    ]
+  },
+  {
+    "idx": 33,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Social & Religious Reform",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHEN",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may place Arya Samaj (1875) or Anandmath (1882) as earliest; Neeldarpan (1860) was written before all others.",
+    "elimination_hint": "Neeldarpan by Dinabandhu Mitra was written in 1858-59 (published 1860), before: Arya Samaj (1875), Anandmath (1882), and Satyendranath Tagore's ICS success (1863) — answer B.",
+    "factual_hooks": [
+      "Neeldarpan (1858-59) depicted the sufferings of indigo farmers under British planters and caused a political storm",
+      "Satyendranath Tagore became the first Indian ICS officer in 1863; Arya Samaj was founded in 1875"
+    ],
+    "prerequisite_concepts": [
+      "Chronology of 19th century Indian events",
+      "Neeldarpan and indigo revolt",
+      "Early nationalist literature"
+    ],
+    "related_concepts": [
+      "Indigo Revolt 1859-60",
+      "Bengali literature and nationalism",
+      "Indian Civil Services history"
+    ],
+    "contrast_with": [
+      "Neeldarpan (1858) vs Anandmath (1882) — both nationalist literature but different decades"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Neeldarpan",
+      "Arya Samaj",
+      "Anandmath",
+      "chronology",
+      "19th century",
+      "reform"
+    ]
+  },
+  {
+    "idx": 34,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Environmental Degradation",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 (decreased salinity) is counterintuitive — heavy sand mining actually increases salinity intrusion in rivers near coasts; students may mark it correct thinking sand holds salt.",
+    "elimination_hint": "Heavy sand mining: lowers water table (3 correct), pollutes groundwater (2 correct); does NOT decrease salinity — it can increase saline intrusion (1 wrong) — answer B (2 and 3 only).",
+    "factual_hooks": [
+      "Sand mining lowers riverbed levels, causing water table to drop and increasing saltwater intrusion in coastal rivers",
+      "Illegal sand mining is one of the most widespread environmental crimes in India, depleting riverbeds"
+    ],
+    "prerequisite_concepts": [
+      "Sand mining impacts on rivers",
+      "Groundwater and riverbed relationship",
+      "Riverbed ecology"
+    ],
+    "related_concepts": [
+      "Illegal sand mining in India",
+      "River ecology conservation",
+      "NGT cases on sand mining"
+    ],
+    "contrast_with": [
+      "Sand mining effects (lowering water table) vs dredging (deepening channels) — different riverbed interventions"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Sand mining regulation is an ongoing governance and environmental challenge in India.",
+    "keywords": [
+      "sand mining",
+      "water table",
+      "groundwater",
+      "riverbeds",
+      "salinity",
+      "environment"
+    ]
+  },
+  {
+    "idx": 35,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Soils",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 is a strong trap — high organic matter actually INCREASES water holding capacity (humus absorbs water); statement 2 ignores soil's role in sulphur cycle as a sulphur reservoir.",
+    "elimination_hint": "High organic matter increases (not reduces) water holding capacity (statement 1 wrong); soil plays a significant role in sulphur cycle as decomposer and reservoir (statement 2 wrong); irrigation causes salinization over time (statement 3 correct) — answer B (3 only).",
+    "factual_hooks": [
+      "Organic matter (humus) greatly increases soil's water retention and porosity — it holds water like a sponge",
+      "Waterlogging and evaporation from irrigation leave behind salts, causing soil salinization (secondary salinization)"
+    ],
+    "prerequisite_concepts": [
+      "Soil properties: water holding capacity, organic matter",
+      "Sulphur cycle in soil",
+      "Irrigation-induced salinization"
+    ],
+    "related_concepts": [
+      "Soil degradation",
+      "Waterlogging in agricultural soils",
+      "Soil health card scheme"
+    ],
+    "contrast_with": [
+      "Primary salinization (natural) vs secondary salinization (irrigation-induced)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Soil salinization from irrigation threatens 6.73 million ha of India's agricultural land.",
+    "keywords": [
+      "soil",
+      "organic matter",
+      "water holding capacity",
+      "salinization",
+      "sulphur cycle",
+      "irrigation"
+    ]
+  },
+  {
+    "idx": 36,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Climate Change",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "IPCC publishes climate reports and UNEP is associated with most climate initiatives; 'Momentum for Change: Climate Neutral Now' is specifically a UNFCCC initiative.",
+    "elimination_hint": "'Momentum for Change: Climate Neutral Now' was launched by the UNFCCC Secretariat as part of its climate action showcasing initiative — answer C.",
+    "factual_hooks": [
+      "'Momentum for Change' is UNFCCC Secretariat's initiative to highlight transformative action on climate change",
+      "It specifically focuses on showcasing initiatives and technologies achieving climate neutrality"
+    ],
+    "prerequisite_concepts": [
+      "UNFCCC vs IPCC vs UNEP — different roles",
+      "Climate neutral vs carbon neutral concepts",
+      "Paris Agreement implementation mechanisms"
+    ],
+    "related_concepts": [
+      "UNFCCC COPs",
+      "IPCC assessment reports",
+      "UN Environment Programme"
+    ],
+    "contrast_with": [
+      "UNFCCC (treaty secretariat) vs IPCC (scientific panel) vs UNEP (environmental programme)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Momentum for Change",
+      "UNFCCC",
+      "climate neutral",
+      "climate action",
+      "secretariat"
+    ]
+  },
+  {
+    "idx": 37,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "British-Era Committees and Commissions",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "William Jones is associated with Sanskrit scholarship and the Asiatic Society; students may credit him with the Sanskrit College at Benaras, but it was founded by Jonathan Duncan.",
+    "elimination_hint": "Sanskrit College Benaras was founded by Jonathan Duncan (1792), not William Jones (statement 1 wrong); Calcutta Madrasa was founded by Warren Hastings in 1781 (statement 2 correct); Fort William College was founded by Lord Wellesley (not Arthur Wellesley — statement 3 wrong) — answer B (2 only).",
+    "factual_hooks": [
+      "Calcutta Madrasa (1781) was established by Warren Hastings for education in Muslim law and Persian",
+      "Fort William College (1800) was founded by Governor-General Richard Wellesley (not Arthur Wellesley/Duke of Wellington)"
+    ],
+    "prerequisite_concepts": [
+      "Colonial educational institutions in India",
+      "Orientalist educational policy",
+      "Warren Hastings' administration"
+    ],
+    "related_concepts": [
+      "Asiatic Society (William Jones)",
+      "Orientalism in colonial education",
+      "Charter Act 1813 and education"
+    ],
+    "contrast_with": [
+      "Warren Hastings' Calcutta Madrasa (Muslim law) vs Jonathan Duncan's Sanskrit College (Hindu learning) — parallel Orientalist institutions"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Calcutta Madrasa",
+      "Warren Hastings",
+      "Fort William College",
+      "Sanskrit College",
+      "colonial education"
+    ]
+  },
+  {
+    "idx": 38,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Crimea is associated with Russia (annexed 2014), not Hungary; Oromia is Ethiopia's largest region, not Nigeria — two classic traps in this question.",
+    "elimination_hint": "Catalonia is in Spain (1 correct); Crimea is a disputed peninsula between Russia and Ukraine, not Hungary (2 wrong); Mindanao is in the Philippines (3 correct); Oromia is a region in Ethiopia, not Nigeria (4 wrong) — answer C (1 and 3 only).",
+    "factual_hooks": [
+      "Crimea was annexed by Russia in 2014 after a disputed referendum; Ukraine and Western nations consider it occupied Ukrainian territory",
+      "Oromia is Ethiopia's largest and most populous region; Oromo people have had periodic conflicts with Ethiopian government"
+    ],
+    "prerequisite_concepts": [
+      "Global separatist and regional conflict zones",
+      "Catalonia referendum",
+      "Crimea annexation"
+    ],
+    "related_concepts": [
+      "Russia-Ukraine conflict",
+      "Mindanao peace process in Philippines",
+      "Oromia protests Ethiopia"
+    ],
+    "contrast_with": [
+      "Crimea (Russia-Ukraine) vs Kosovo (Serbia-international community) — both contested territories"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Crimea/Ukraine conflict has escalated into a full-scale war since 2022, making this highly relevant.",
+    "keywords": [
+      "Catalonia",
+      "Crimea",
+      "Mindanao",
+      "Oromia",
+      "regional conflicts",
+      "separatism"
+    ]
+  },
+  {
+    "idx": 39,
+    "subject": "History",
+    "category": "Post-Independence India",
+    "topic": "Integration of States",
+    "syllabus_id": "HIS.POST.1",
+    "dimension": "WHEN",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Air India nationalization (1953), SBI formation (1955), first communist government in Kerala (1957), Goa liberation (1961) need careful sequencing; confusing the order is the main trap.",
+    "elimination_hint": "Air India nationalized (1953); SBI renamed from Imperial Bank (1955); first communist government Kerala (1957); Goa liberation (1961) — sequence 3-2-1-4 → answer B.",
+    "factual_hooks": [
+      "Air India was nationalized in 1953 under PM Nehru; Imperial Bank of India renamed SBI in 1955",
+      "Kerala elected the world's first democratically elected communist government in 1957 under E.M.S. Namboodiripad"
+    ],
+    "prerequisite_concepts": [
+      "Post-independence chronology",
+      "Nationalization of banks and airlines",
+      "Kerala's political history"
+    ],
+    "related_concepts": [
+      "Goa Liberation 1961",
+      "Bank nationalization 1969",
+      "EMS Namboodiripad's Kerala government"
+    ],
+    "contrast_with": [
+      "Air India nationalization (1953) vs bank nationalization (1969) — different waves of public sector expansion"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Air India",
+      "SBI",
+      "communist government Kerala",
+      "Goa",
+      "chronology",
+      "post-independence"
+    ]
+  },
+  {
+    "idx": 40,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Fundamental Rights",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Article 14 (equality) seems relevant to privacy as a right; but the Puttaswamy judgment specifically anchored privacy within Article 21 (right to life and personal liberty) and the broader freedoms of Part III.",
+    "elimination_hint": "The Supreme Court in Puttaswamy (2017) held Right to Privacy is an intrinsic part of Article 21 and the freedoms guaranteed in Part III — answer C.",
+    "factual_hooks": [
+      "Justice K.S. Puttaswamy vs Union of India (2017): 9-judge bench unanimously held Right to Privacy is a fundamental right under Article 21",
+      "The judgment overruled M.P. Sharma (1954) and Kharak Singh (1961) cases that had denied privacy as a fundamental right"
+    ],
+    "prerequisite_concepts": [
+      "Right to Privacy — Puttaswamy judgment 2017",
+      "Article 21 — Right to Life and Personal Liberty",
+      "Fundamental Rights in Part III"
+    ],
+    "related_concepts": [
+      "DPDP Act 2023",
+      "Aadhaar judgment (2018)",
+      "Surveillance and privacy debates"
+    ],
+    "contrast_with": [
+      "Article 21 (privacy as liberty) vs Article 19 (specific freedoms) — different constitutional provisions for rights"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Puttaswamy judgment is the constitutional foundation for DPDP Act 2023 and digital privacy debates.",
+    "keywords": [
+      "Right to Privacy",
+      "Puttaswamy",
+      "Article 21",
+      "fundamental rights",
+      "Part III",
+      "Supreme Court"
+    ]
+  },
+  {
+    "idx": 41,
+    "subject": "Economy",
+    "category": "Agriculture",
+    "topic": "Agricultural Policy",
+    "syllabus_id": "ECO.AGR.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "MSP is given for many crops including turmeric and coffee; but the question specifies CCEA-announced MSP crops, which covers specific notified crops — areca nut, coffee and turmeric are NOT among them.",
+    "elimination_hint": "CCEA announces MSP for 23 crops: 14 Kharif + 6 Rabi + 2 others; barley, finger millet, groundnut and sesamum are included; areca nut, coffee and turmeric are NOT — answer B (2, 4, 5 and 6 only).",
+    "factual_hooks": [
+      "MSP covers 23 mandated crops: paddy, wheat, jowar, bajra, maize, ragi, arhar, moong, urad, groundnut, sunflower, soyabean, sesamum, nigerseed, cotton, jute, copra, barley, gram, masur, rapeseed, safflower, toria",
+      "Areca nut, coffee, tea and turmeric are plantation/commercial crops NOT covered under CCEA MSP"
+    ],
+    "prerequisite_concepts": [
+      "MSP coverage and CCEA process",
+      "Notified crops under MSP",
+      "Agricultural support policy"
+    ],
+    "related_concepts": [
+      "CACP (Commission for Agricultural Costs and Prices)",
+      "Crop insurance and MSP",
+      "WTO compliance of MSP"
+    ],
+    "contrast_with": [
+      "MSP crops (CCEA notified) vs plantation crops (separate price support mechanisms)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "MSP debates and farmer protests make this a critical policy topic.",
+    "keywords": [
+      "MSP",
+      "CCEA",
+      "barley",
+      "finger millet",
+      "groundnut",
+      "sesamum",
+      "areca nut"
+    ]
+  },
+  {
+    "idx": 42,
+    "subject": "Environment",
+    "category": "Conservation",
+    "topic": "Protected Areas",
+    "syllabus_id": "ENV.CON.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Northeast India has many wildlife sanctuaries; students may confuse Pakhui with Nagaland or Manipur, since it is in the less-known Arunachal Pradesh.",
+    "elimination_hint": "Pakhui (Pakke) Wildlife Sanctuary is located in East Kameng district of Arunachal Pradesh — answer A. It is part of Pakke Tiger Reserve.",
+    "factual_hooks": [
+      "Pakhui (Pakke) Wildlife Sanctuary in Arunachal Pradesh is a Project Tiger reserve known for hornbill conservation",
+      "Local Nyishi tribal community participates in the Hornbill Nest Adoption Programme here"
+    ],
+    "prerequisite_concepts": [
+      "Protected areas of Northeast India",
+      "Arunachal Pradesh wildlife",
+      "Tiger reserves in India"
+    ],
+    "related_concepts": [
+      "Project Tiger",
+      "Hornbill conservation",
+      "Northeast India biodiversity hotspot"
+    ],
+    "contrast_with": [
+      "Pakhui (Arunachal) vs Kaziranga (Assam) vs Manas (Assam) — different NE India reserves"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Pakhui Wildlife Sanctuary",
+      "Arunachal Pradesh",
+      "Pakke Tiger Reserve",
+      "hornbill",
+      "Northeast India"
+    ]
+  },
+  {
+    "idx": 43,
+    "subject": "Science & Technology",
+    "category": "Space Technology",
+    "topic": "Indian Space Programme",
+    "syllabus_id": "S&T.SPC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 2 falsely implies PSLV places satellites in geostationary orbit (fixed position) — PSLV primarily uses sun-synchronous/polar orbit; statement 3 wrongly describes GSLV Mk III as four-staged.",
+    "elimination_hint": "PSLV launches Earth observation satellites; GSLV launches communication satellites (statement 1 correct); PSLV-launched satellites are NOT geostationary — they orbit, not 'fixed' (statement 2 wrong); GSLV Mk III is a 3-stage vehicle, not 4-stage (statement 3 wrong) — answer A (1 only).",
+    "factual_hooks": [
+      "PSLV (Polar Satellite Launch Vehicle) places satellites in low Earth or sun-synchronous orbit for Earth observation",
+      "GSLV Mk III (now LVM3) is a 3-stage vehicle: solid boosters + liquid stage + cryogenic stage"
+    ],
+    "prerequisite_concepts": [
+      "PSLV vs GSLV functions",
+      "Satellite orbits (LEO, GTO, GEO)",
+      "GSLV Mk III configuration"
+    ],
+    "related_concepts": [
+      "ISRO launch vehicles",
+      "Communication satellites vs Earth observation satellites",
+      "Cryogenic engine technology"
+    ],
+    "contrast_with": [
+      "PSLV (polar/SSO orbit) vs GSLV (geostationary transfer orbit) — different orbits, different missions"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "ISRO's LVM3 (GSLV Mk III) is India's heavy-lift rocket for Chandrayaan-3 and commercial launches.",
+    "keywords": [
+      "PSLV",
+      "GSLV",
+      "Earth observation",
+      "communication satellite",
+      "GSLV Mk III",
+      "ISRO"
+    ]
+  },
+  {
+    "idx": 44,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Banking System",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 about 'steadily increasing' capital infusion sounds plausible; but capital infusion has not been steady — it spiked significantly after 2015-16 NPA crisis (not steady).",
+    "elimination_hint": "Capital infusion has NOT steadily increased — it fluctuated significantly (statement 1 wrong); SBI merger with associate banks was indeed completed in 2017 (statement 2 correct) — answer B.",
+    "factual_hooks": [
+      "SBI merged 5 associate banks (SBH, SBP, SBT, SBBJ, SBM) and Bharatiya Mahila Bank with itself in April 2017",
+      "Government's bank recapitalization has been episodic (not steady) — large infusions in 2017-18 under Indradhanush 2.0"
+    ],
+    "prerequisite_concepts": [
+      "Public sector bank recapitalization",
+      "SBI merger with associate banks",
+      "NPA crisis in Indian banking"
+    ],
+    "related_concepts": [
+      "Indradhanush plan for bank reform",
+      "FRDI Bill debate",
+      "IBC and banking sector cleanup"
+    ],
+    "contrast_with": [
+      "Recapitalization (equity infusion) vs resolution (bad loans removal) — complementary but distinct strategies"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Banking sector health and credit growth remain key macroeconomic concerns for India.",
+    "keywords": [
+      "SBI",
+      "associate banks",
+      "merger",
+      "capital infusion",
+      "public sector banks",
+      "NPA"
+    ]
+  },
+  {
+    "idx": 45,
+    "subject": "Economy",
+    "category": "Public Finance",
+    "topic": "Taxation",
+    "syllabus_id": "ECO.PUB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Fish processed and canned sounds like it should be taxed (processed food); newspapers with advertising sound like they should be taxed (commercial content) — but both actually attract GST.",
+    "elimination_hint": "GST exemptions: cereal grains hulled (1), chicken eggs cooked (2), and newspapers (4 — print media mostly exempt) are exempted; fish processed and canned (3) attracts 5% GST — answer C (1, 2 and 4 only).",
+    "factual_hooks": [
+      "Under GST, most unprocessed food items (fresh/dried), eggs, and print newspapers are exempt or zero-rated",
+      "Processed/canned fish attracts 5% GST; fresh/dried fish is exempt"
+    ],
+    "prerequisite_concepts": [
+      "GST exemption list",
+      "GST slabs in India",
+      "Food items under GST"
+    ],
+    "related_concepts": [
+      "GST Council",
+      "Inverted duty structure in GST",
+      "GST on essential commodities"
+    ],
+    "contrast_with": [
+      "GST exempt (food staples, newspapers) vs GST-applicable (processed foods, advertisements)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "GST rationalization is a regular GST Council agenda item.",
+    "keywords": [
+      "GST",
+      "exemptions",
+      "cereal grains",
+      "eggs",
+      "newspapers",
+      "fish",
+      "taxation"
+    ]
+  },
+  {
+    "idx": 46,
+    "subject": "Environment",
+    "category": "Conservation",
+    "topic": "Conservation Laws & Bodies",
+    "syllabus_id": "ENV.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 3 incorrectly assigns Habitat Rights declaration to MoEFCC; under the Forest Rights Act, state governments (not the Union Ministry) recognize habitat rights through Gram Sabhas.",
+    "elimination_hint": "FRA 2006 defines Critical Wildlife Habitat (statement 1 correct); Baigas were first given habitat rights (statement 2 correct); habitat rights are recognized by State governments via Gram Sabhas, not Union MoEFCC (statement 3 wrong) — answer A (1 and 2 only).",
+    "factual_hooks": [
+      "Forest Rights Act 2006 Section 2(b) defines Critical Wildlife Habitat — an area within national parks/sanctuaries for wildlife conservation",
+      "Baiga tribal community of MP was the first in India to receive Community Forest Resource and Habitat Rights under FRA"
+    ],
+    "prerequisite_concepts": [
+      "Forest Rights Act 2006",
+      "Critical Wildlife Habitat",
+      "Habitat Rights for Primitive Tribal Groups"
+    ],
+    "related_concepts": [
+      "Van Gujjar and tribal rights",
+      "Gram Sabha and FRA implementation",
+      "Particularly Vulnerable Tribal Groups (PVTGs)"
+    ],
+    "contrast_with": [
+      "Habitat Rights (FRA provision for PVTGs) vs Community Forest Rights (FRA provision for all tribal communities)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "FRA implementation and tribal rights vs conservation conflicts remain active policy debates.",
+    "keywords": [
+      "Forest Rights Act",
+      "Critical Wildlife Habitat",
+      "Baigas",
+      "Habitat Rights",
+      "PVTGs",
+      "FRA 2006"
+    ]
+  },
+  {
+    "idx": 47,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "LOW",
+    "trap_factor": "Students may think only wind and insects spread plant diseases; rain (splashing spores), dust, birds and wind all spread pathogens — all four are correct.",
+    "elimination_hint": "All four vectors spread plant diseases: birds carry fungal spores, dust carries pathogen particles, rain splashes spores between plants, and wind disperses airborne spores — answer D (all four).",
+    "factual_hooks": [
+      "Plant pathogens (fungi, bacteria, viruses) spread via wind (e.g., rust spores), rain splash, birds (mechanical carriers), and dust",
+      "Understanding disease spread vectors is key to integrated pest management"
+    ],
+    "prerequisite_concepts": [
+      "Plant pathogen dispersal",
+      "Mechanisms of plant disease spread",
+      "Agricultural epidemiology"
+    ],
+    "related_concepts": [
+      "Integrated Pest Management (IPM)",
+      "Fungal diseases in crops",
+      "Phytosanitary measures"
+    ],
+    "contrast_with": [
+      "Biotic vectors (birds, insects) vs abiotic vectors (wind, rain, dust) of plant disease"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "plant diseases",
+      "birds",
+      "wind",
+      "rain",
+      "dust",
+      "disease spread"
+    ]
+  },
+  {
+    "idx": 48,
+    "subject": "Polity",
+    "category": "Elections & Representation",
+    "topic": "RPA Act",
+    "syllabus_id": "POL.ELX.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "LOW",
+    "trap_factor": "Statement III (cannot stand from more than one constituency) sounds like a recent reform but was not in the 1996 amendment — a candidate can still stand from two constituencies.",
+    "elimination_hint": "RPA Amendment 1996: flag/Constitution insult conviction = 6-year disqualification (I correct); increased security deposit (II correct); death of candidate = election not countermanded (IV correct); multi-constituency candidacy was NOT prohibited (III wrong) — answer B (I, II and IV).",
+    "factual_hooks": [
+      "Under RPA 1996: security deposit for Lok Sabha increased; election not countermanded on candidate's death",
+      "A candidate can still contest from up to 2 constituencies even after RPA amendments (until further reform)"
+    ],
+    "prerequisite_concepts": [
+      "Representation of People Act 1951 amendments",
+      "Election law provisions",
+      "Candidate eligibility and disqualification"
+    ],
+    "related_concepts": [
+      "Election Commission of India",
+      "Electoral reforms",
+      "Disqualification provisions in RPA"
+    ],
+    "contrast_with": [
+      "RPA 1951 original vs 1996 amendment — security deposit, death rule changes"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Electoral reform debates include one-person-one-constituency rule.",
+    "keywords": [
+      "RPA 1996",
+      "election law",
+      "security deposit",
+      "disqualification",
+      "countermand"
+    ]
+  },
+  {
+    "idx": 49,
+    "subject": "Governance",
+    "category": "Health & Education",
+    "topic": "Education",
+    "syllabus_id": "GOV.HED.1",
+    "dimension": "HOW",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "India has only ~45 universities per million people compared to the US; quality gap is substantial in research and faculty",
+      "Foreign Universities Bill was introduced multiple times but faced regulatory and political hurdles"
+    ],
+    "prerequisite_concepts": [
+      "Higher education quality in India",
+      "Foreign Direct Investment in education",
+      "NAAC and accreditation system"
+    ],
+    "related_concepts": [
+      "National Education Policy 2020 and FDI in education",
+      "IITs vs state universities quality gap",
+      "Brain drain from India"
+    ],
+    "contrast_with": [
+      "Benefits of foreign universities (competition, quality) vs risks (equity, commercialization, cultural impact)"
+    ],
+    "mains_themes": [
+      "Higher education reform",
+      "Internationalization of education",
+      "Quality vs access debate"
+    ],
+    "mains_intro": "India's higher education system struggles with a quality paradox: it produces globally competitive graduates from elite institutions while the broader system remains underfunded and low on international rankings.",
+    "mains_body_points": [
+      "Current state: India has 1000+ universities but most rank poorly; faculty shortage, poor research output, low student-faculty ratio",
+      "Case FOR foreign institutions: bring global pedagogical standards, attract back diaspora faculty, create competition for domestic institutions, reduce brain drain",
+      "Case AGAINST: risk of commercialization of education, access only to affluent students, potential cultural homogenization, regulatory oversight challenges",
+      "NEP 2020 opens doors to Top 100 QS-ranked universities to set up campuses; first movers include GIFT City (IFSC) offering offshore programs",
+      "Complementary reforms needed: strengthen state universities, increase public R&D funding, reform UGC into a lighter-touch regulator"
+    ],
+    "mains_conclusion": "Entry of foreign educational institutions can be a catalyst but not a substitute for systemic reform — India needs both global partnerships and domestic university transformation.",
+    "mains_interlinkages": [
+      "GS2: Education policy and governance",
+      "GS3: Skill development and knowledge economy",
+      "Society: equity in education access"
+    ],
+    "contemporary_relevance": "NEP 2020 provisions for foreign universities and GIFT City international education hub make this directly relevant.",
+    "keywords": [
+      "foreign universities",
+      "higher education",
+      "quality",
+      "NEP 2020",
+      "internationalization",
+      "UGC"
+    ]
+  },
+  {
+    "idx": 50,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Rise of Nationalism",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Aurobindo Ghosh is associated with Bande Mataram (he edited it), making option A tempting; Madame Cama is associated with several nationalist activities making her journal less obvious.",
+    "elimination_hint": "Shyamji Krishna Varma founded 'Indian Sociologist' (B); Madame Bhikaji Cama edited 'The Talwar' (C); Annie Besant founded 'Commonweal' (D); Aurobindo Ghosh edited 'Bande Mataram' (A) — answer C: I-B, II-C, III-D, IV-A.",
+    "factual_hooks": [
+      "Shyamji Krishna Varma founded 'Indian Sociologist' in 1905 from London, a key revolutionary nationalist journal",
+      "Madame Bhikaji Cama (first woman to hoist Indian flag abroad, Stuttgart 1907) was associated with 'The Talwar' journal"
+    ],
+    "prerequisite_concepts": [
+      "Indian nationalist journals and their founders",
+      "Revolutionary nationalism abroad",
+      "Indian freedom fighters in exile"
+    ],
+    "related_concepts": [
+      "Ghadar Party and its publications",
+      "Indian Home Rule journals",
+      "Lal-Bal-Pal era nationalism"
+    ],
+    "contrast_with": [
+      "Moderate nationalist journals (Commonweal, India) vs revolutionary journals (Indian Sociologist, Talwar)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Indian Sociologist",
+      "Shyamji Krishna Varma",
+      "Madame Cama",
+      "Annie Besant",
+      "Aurobindo",
+      "Bande Mataram"
+    ]
+  },
+  {
+    "idx": 51,
+    "subject": "Governance",
+    "category": "E-Governance & Transparency",
+    "topic": "Transparency & Accountability",
+    "syllabus_id": "GOV.EGV.1",
+    "dimension": "HOW",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "Satyam scandal (2009) led to Companies Act 2013 with stronger corporate governance provisions and independent directors mandate",
+      "SEBI tightened corporate governance norms; MCA introduced Serious Fraud Investigation Office (SFIO) strengthening"
+    ],
+    "prerequisite_concepts": [
+      "Satyam scandal 2009",
+      "Corporate governance reforms in India",
+      "SEBI listing obligations"
+    ],
+    "related_concepts": [
+      "Companies Act 2013",
+      "Audit committee reforms",
+      "Independent director regulations",
+      "SFIO"
+    ],
+    "contrast_with": [
+      "Pre-Satyam corporate governance (weak) vs post-Satyam (Companies Act 2013 reforms)"
+    ],
+    "mains_themes": [
+      "Corporate governance and accountability",
+      "Regulatory response to fraud",
+      "Transparency in listed companies"
+    ],
+    "mains_intro": "The Satyam scandal exposed systemic failures in India's corporate governance architecture, triggering reforms that fundamentally reshaped accountability mechanisms for listed companies.",
+    "mains_body_points": [
+      "Satyam scandal: B. Ramalinga Raju confessed to overstating assets by Rs 7,136 crore — India's biggest accounting fraud",
+      "Companies Act 2013: mandatory independent directors (1/3rd of board), audit committees with independent members, whistle-blower mechanisms",
+      "SEBI reforms: tightened Clause 49 (now SEBI LODR 2015) — CEO/CFO certification, related party transaction disclosures",
+      "Audit reforms: mandatory audit firm rotation (10 years for listed companies), enhanced auditor independence requirements",
+      "SFIO: strengthened with investigative powers; National Financial Reporting Authority (NFRA) created for auditor oversight",
+      "Remaining gaps: enforcement capacity, nominee director conflicts, promoter dominance in boards"
+    ],
+    "mains_conclusion": "Post-Satyam reforms have strengthened India's corporate governance framework, but effectiveness depends on rigorous enforcement and a culture of genuine board independence.",
+    "mains_interlinkages": [
+      "GS2: Governance and accountability",
+      "GS3: Economy — corporate sector",
+      "Ethics: corporate ethics and probity"
+    ],
+    "contemporary_relevance": "Governance failures at IL&FS, Yes Bank and others post-2018 show Satyam lessons are still relevant.",
+    "keywords": [
+      "Satyam scandal",
+      "corporate governance",
+      "Companies Act 2013",
+      "independent directors",
+      "SEBI",
+      "SFIO"
+    ]
+  },
+  {
+    "idx": 52,
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "United Nations",
+    "syllabus_id": "IR.IO.1",
+    "dimension": "WHY",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "P5 veto is the biggest structural barrier to UNSC reform; any P5 member can block expansion",
+      "India is part of G4 (with Japan, Germany, Brazil) seeking permanent UNSC seats"
+    ],
+    "prerequisite_concepts": [
+      "UNSC structure and veto",
+      "G4 and UNSC reform debate",
+      "India's multilateral diplomacy"
+    ],
+    "related_concepts": [
+      "UNSC expansion proposals (G4, AU, L69)",
+      "India-China rivalry at UN",
+      "UN reform and India's foreign policy"
+    ],
+    "contrast_with": [
+      "India's UNSC aspirations vs China's opposition — key bilateral dimension of multilateral reform"
+    ],
+    "mains_themes": [
+      "India's foreign policy and multilateralism",
+      "UNSC reform and global governance",
+      "India's rise and strategic aspirations"
+    ],
+    "mains_intro": "India's quest for a permanent UNSC seat reflects its ambition to secure formal recognition of its growing geopolitical weight, but structural and geopolitical barriers continue to impede this aspiration.",
+    "mains_body_points": [
+      "China's opposition: blocks India in UNSC and supports Pakistan's concerns; veto threat is a structural barrier",
+      "P5 unity problem: UNSC expansion requires amendment of UN Charter needing 2/3 majority + all P5 ratification",
+      "Competing models: G4 model (new permanent seats with veto), African Union (2 permanent seats for Africa), Razali plan, Uniting for Consensus (Italy, Pakistan, South Korea — oppose new permanent seats)",
+      "Pakistan's opposition: uses its link with China to block India-specific expansion",
+      "India's case: world's most populous nation, 5th largest economy, largest democracy, top troop contributor to UN peacekeeping",
+      "Way forward: build G4 solidarity, engage African bloc (A3 support critical), use G20 presidency to build consensus"
+    ],
+    "mains_conclusion": "Securing a permanent UNSC seat requires India to navigate a complex web of geopolitical rivalries, making sustained multilateral coalition-building and credible global governance contributions its best long-term strategy.",
+    "mains_interlinkages": [
+      "GS2: International relations",
+      "IR: India's foreign policy",
+      "GS3: India's security and strategic interests"
+    ],
+    "contemporary_relevance": "India's UNSC permanent seat quest accelerated post-G20 presidency and global South leadership.",
+    "keywords": [
+      "UNSC",
+      "permanent seat",
+      "India",
+      "P5 veto",
+      "G4",
+      "UN reform"
+    ]
+  },
+  {
+    "idx": 53,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Sangam Age",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "LOW",
+    "trap_factor": "Vande Mataram's music is associated with Rabindranath Tagore in popular memory; Paluskar's association with it and the complex match between Hindustani/Carnatic personalities makes this very hard.",
+    "elimination_hint": "Paluskar set music for Vande Mataram (D); Venkatamahi introduced Raga classification (A) — but actually is associated with Carnatic music; Shyama Shastri was a Carnatic composer (B); Amir Khusru was father of Khayal (C) — match: I-D, II-A, III-B, IV-C → answer B.",
+    "factual_hooks": [
+      "Vishnu Digambar Paluskar (1872-1931) composed the popular musical setting for 'Vande Mataram' used in the nationalist movement",
+      "Amir Khusru (14th century) is credited with developing the Khayal form and introducing many Hindustani ragas"
+    ],
+    "prerequisite_concepts": [
+      "Indian classical music personalities",
+      "Hindustani vs Carnatic music traditions",
+      "Vande Mataram musical history"
+    ],
+    "related_concepts": [
+      "Trinity of Carnatic music",
+      "Khayal in Hindustani music",
+      "Dhrupad vs Khayal"
+    ],
+    "contrast_with": [
+      "Amir Khusru (Khayal/Hindustani) vs Venkatamahi (raga classification/Carnatic) — different traditions"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Paluskar",
+      "Vande Mataram",
+      "Amir Khusru",
+      "Khayal",
+      "Carnatic music",
+      "Venkatamahi"
+    ]
+  },
+  {
+    "idx": 54,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Regional Kingdoms",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Khuda Baksh Oriental Library is associated with 'oriental' scholarship making Rampur or Lucknow seem plausible; Raza Library is in Rampur which students may confuse with Patna.",
+    "elimination_hint": "Saraswati Mahal — Thanjavur (C); Library of Tibetan Works — Dharamsala (B); Raza Library — Rampur (D); Khuda Baksh Oriental — Patna (A) — answer A: I-C, II-B, III-D, IV-A.",
+    "factual_hooks": [
+      "Saraswati Mahal Library in Thanjavur is one of the oldest public libraries in Asia, with ancient Tamil manuscripts",
+      "Khuda Baksh Oriental Public Library in Patna is a national library of international repute with rare Mughal paintings"
+    ],
+    "prerequisite_concepts": [
+      "Major libraries of India and their locations",
+      "Oriental manuscript collections",
+      "Indian cultural heritage institutions"
+    ],
+    "related_concepts": [
+      "National Mission for Manuscripts",
+      "Digital preservation of heritage",
+      "Tibetan Buddhism in India"
+    ],
+    "contrast_with": [
+      "Saraswati Mahal (Tamil manuscripts) vs Khuda Baksh (Persian/Arabic manuscripts) — different traditions"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Saraswati Mahal",
+      "Khuda Baksh",
+      "Raza Library",
+      "Tibetan Library",
+      "heritage libraries"
+    ]
+  },
+  {
+    "idx": 55,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Supreme Court",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHY",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "Supreme Court struck down NJAC Act in 2015 (4:1 majority), restoring the Collegium system for judicial appointments",
+      "The judgment held NJAC violated basic structure — specifically judicial independence"
+    ],
+    "prerequisite_concepts": [
+      "NJAC Act 2014 and 99th Constitutional Amendment",
+      "Collegium system of judicial appointments",
+      "Basic structure doctrine"
+    ],
+    "related_concepts": [
+      "Judicial independence vs executive accountability",
+      "Three Judges Cases (1982, 1993, 1998)",
+      "Memorandum of Procedure (MoP) debate"
+    ],
+    "contrast_with": [
+      "Collegium (judiciary-led) vs NJAC (executive-judiciary shared) — different appointment models"
+    ],
+    "mains_themes": [
+      "Judicial independence and accountability",
+      "Appointment of judges and basic structure",
+      "Executive-judiciary relations in India"
+    ],
+    "mains_intro": "The Supreme Court's 2015 judgment striking down the NJAC Act affirmed judicial independence as a non-negotiable component of the basic structure, while reigniting debate about accountability in judicial appointments.",
+    "mains_body_points": [
+      "NJAC composition: CJI + 2 senior-most SC judges + Law Minister + 2 eminent persons — gave executive a role in appointments",
+      "SC's reasoning: judicial independence (part of basic structure) compromised by executive participation; veto-power of eminent persons problematic",
+      "Justice Chelameswar's dissent: Collegium lacks transparency; NJAC should be reformed, not struck down",
+      "Post-judgment: SC sought reform of Collegium through revised MoP; MoP negotiations between executive and judiciary remain unresolved",
+      "Criticism of Collegium: opacity, lack of diversity, nepotism allegations, absence of written criteria",
+      "Way forward: balanced system with transparency, written criteria, diversity targets while preserving judicial primacy"
+    ],
+    "mains_conclusion": "While the NJAC judgment correctly safeguarded judicial independence, the Collegium system's lack of transparency demands structural reform that ensures both independence and accountable appointment processes.",
+    "mains_interlinkages": [
+      "GS2: Polity — judiciary",
+      "Constitutional framework — basic structure",
+      "Governance — judicial accountability"
+    ],
+    "contemporary_relevance": "NJAC vs Collegium debate continues with government-judiciary tensions over appointments.",
+    "keywords": [
+      "NJAC",
+      "Collegium system",
+      "judicial appointments",
+      "basic structure",
+      "judicial independence",
+      "99th Amendment"
+    ]
+  },
+  {
+    "idx": 56,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Parliament",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 (Swatantra Party as main opposition in first Lok Sabha) is wrong — CPI was the main opposition; Statement 3 (75-member minimum) is also wrong — the threshold is 10% of total Lok Sabha strength or 55 members.",
+    "elimination_hint": "First Lok Sabha's main opposition was CPI, not Swatantra Party (1 wrong); Leader of Opposition was formally recognized in 1969 (2 correct); minimum strength for LoP recognition is 1/10th of House strength (55 members), not 75 (3 wrong) — answer B (2 only).",
+    "factual_hooks": [
+      "The designation 'Leader of the Opposition' was formally recognized in Lok Sabha for the first time in 1969 when Y.B. Chavan was given the status",
+      "In the 1st Lok Sabha (1952), CPI was the largest opposition party with 16 seats"
+    ],
+    "prerequisite_concepts": [
+      "Leader of the Opposition in Lok Sabha",
+      "Parliamentary opposition in India",
+      "1969 recognition of LoP"
+    ],
+    "related_concepts": [
+      "Anti-defection law",
+      "Parliamentary committees and opposition",
+      "Shadow cabinet concept"
+    ],
+    "contrast_with": [
+      "Leader of the Opposition (recognized) vs official opposition (numerical threshold)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "LoP recognition became controversial post-2014 when Congress won fewer than required seats.",
+    "keywords": [
+      "Leader of Opposition",
+      "Lok Sabha",
+      "1969",
+      "Swatantra Party",
+      "CPI",
+      "opposition"
+    ]
+  },
+  {
+    "idx": 57,
+    "subject": "Economy",
+    "category": "Agriculture",
+    "topic": "Agricultural Economy",
+    "syllabus_id": "ECO.AGR.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "LOW",
+    "trap_factor": "Rajasthan's large agriculture sector may make it seem like it has the highest share of agricultural households; Kerala's diverse economy and high non-farm income make statement 3 plausible but the 60% figure needs verification.",
+    "elimination_hint": "Per NSSO 70th Round: Rajasthan has highest share of agri-households among rural households (1 correct); OBC share in agri-households is 45% not 60% (2 wrong); Kerala's >60% agri-HH income from non-farm sources is correct (3 correct) — answer C (1 and 3 only).",
+    "factual_hooks": [
+      "NSSO 70th Round (2012-13) Situation Assessment Survey showed Rajasthan has ~78% rural HH as agricultural HH",
+      "Kerala's agricultural households earn majority income from non-farm sources due to high literacy, remittances and service sector"
+    ],
+    "prerequisite_concepts": [
+      "NSSO agricultural household surveys",
+      "Agricultural income sources",
+      "State-wise agricultural profiles"
+    ],
+    "related_concepts": [
+      "Farm income diversification",
+      "Agricultural distress in India",
+      "Rural non-farm employment"
+    ],
+    "contrast_with": [
+      "Rajasthan (high agriculture dependence) vs Kerala (high non-farm income) — different rural economy models"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "NSSO",
+      "agricultural households",
+      "Rajasthan",
+      "Kerala",
+      "OBC",
+      "non-farm income"
+    ]
+  },
+  {
+    "idx": 58,
+    "subject": "Environment",
+    "category": "Conservation",
+    "topic": "Conservation Laws & Bodies",
+    "syllabus_id": "ENV.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 claims NGT was established by executive order — it was actually established by an Act of Parliament (NGT Act 2010), making statement 1 wrong. CPCB was established under the Water Act 1974 (statutory body, not executive order).",
+    "elimination_hint": "NGT was established by an Act (NGT Act 2010), not executive order — statement 1 wrong; CPCB was created under Water Act 1974 (statutory, not just executive order) — but statement 2 correctly describes their respective functions — answer B (statement 2 only).",
+    "factual_hooks": [
+      "National Green Tribunal was established under the NGT Act 2010 — a Parliamentary Act, not executive order",
+      "CPCB was established under the Water (Prevention and Control of Pollution) Act 1974; its mandate includes air quality under Air Act 1981"
+    ],
+    "prerequisite_concepts": [
+      "NGT vs CPCB — establishment and functions",
+      "NGT Act 2010",
+      "CPCB mandate"
+    ],
+    "related_concepts": [
+      "Environmental jurisprudence in India",
+      "Green benches in High Courts",
+      "Pollution Control Boards"
+    ],
+    "contrast_with": [
+      "NGT (quasi-judicial tribunal) vs CPCB (regulatory/technical body) — different roles in environmental governance"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "NGT's expanding jurisdiction and increasing case load make its role highly relevant.",
+    "keywords": [
+      "NGT",
+      "CPCB",
+      "environmental tribunal",
+      "pollution control",
+      "NGT Act 2010"
+    ]
+  },
+  {
+    "idx": 59,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Constitutional Amendments",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 2 is the trap — IR Coelho case (2007) established that even Ninth Schedule laws can be judicially reviewed if they violate fundamental rights forming basic structure.",
+    "elimination_hint": "Parliament can place a law in Ninth Schedule (statement 1 correct); validity of Ninth Schedule laws CAN be examined by courts post-IR Coelho judgment (statement 2 wrong) — answer A (1 only).",
+    "factual_hooks": [
+      "IR Coelho vs State of Tamil Nadu (2007): Supreme Court held Ninth Schedule laws are judicially reviewable if they abrogate/abridge fundamental rights constituting basic structure",
+      "Ninth Schedule was added by 1st Constitutional Amendment (1951) to protect land reform laws from judicial review"
+    ],
+    "prerequisite_concepts": [
+      "Ninth Schedule of the Constitution",
+      "IR Coelho case 2007",
+      "Judicial review and basic structure"
+    ],
+    "related_concepts": [
+      "First Constitutional Amendment 1951",
+      "Land reform laws and property rights",
+      "Basic structure doctrine"
+    ],
+    "contrast_with": [
+      "Pre-Coelho (Ninth Schedule = immune) vs post-Coelho (Ninth Schedule = reviewable if basic structure violated)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Ninth Schedule's scope post-Coelho is relevant for understanding constitutional limits on Parliament.",
+    "keywords": [
+      "Ninth Schedule",
+      "IR Coelho case",
+      "judicial review",
+      "basic structure",
+      "fundamental rights"
+    ]
+  },
+  {
+    "idx": 60,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Banking System",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Options A and D sound like merchant benefits (incentive/reward), but MDR is actually a charge on merchants for accepting card payments — the cost, not a benefit.",
+    "elimination_hint": "Merchant Discount Rate (MDR) is the charge that a bank levies on a merchant for accepting card payments through the bank's infrastructure — answer C.",
+    "factual_hooks": [
+      "MDR typically ranges 0.4–2% of transaction value; the government has reduced MDR for UPI and RuPay to promote digital payments",
+      "Zero MDR on RuPay and UPI transactions was mandated by government from January 2020"
+    ],
+    "prerequisite_concepts": [
+      "Merchant Discount Rate",
+      "Digital payments ecosystem",
+      "Bank charges on card transactions"
+    ],
+    "related_concepts": [
+      "UPI and digital payments",
+      "RuPay card",
+      "Financial inclusion and digital payments"
+    ],
+    "contrast_with": [
+      "MDR (merchant charge) vs interchange fee (interbank settlement) — different but related concepts"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "MDR waiver on UPI/RuPay is a key digital payments incentive policy.",
+    "keywords": [
+      "Merchant Discount Rate",
+      "MDR",
+      "debit card",
+      "digital payments",
+      "bank charge"
+    ]
+  },
+  {
+    "idx": 61,
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "Multilateral Forums",
+    "syllabus_id": "IR.IO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 2 is a classic trap — NSG membership does NOT automatically make a country an NPT member; India itself is an NSG supplier group observer but is NOT an NPT signatory.",
+    "elimination_hint": "NSG membership gives access to advanced nuclear technologies (statement 1 correct); NSG membership does NOT automatically confer NPT membership — India is a clear example (statement 2 wrong) — answer A (1 only).",
+    "factual_hooks": [
+      "NSG (Nuclear Suppliers Group) is a group of 48 nuclear supplier countries controlling nuclear technology exports",
+      "India is NOT an NPT signatory but received a waiver from NSG in 2008 for civilian nuclear trade (India-US nuclear deal)"
+    ],
+    "prerequisite_concepts": [
+      "Nuclear Suppliers Group (NSG)",
+      "NPT and non-proliferation regime",
+      "India's nuclear status"
+    ],
+    "related_concepts": [
+      "India-US nuclear deal (123 Agreement)",
+      "India's NSG membership bid",
+      "Nuclear non-proliferation"
+    ],
+    "contrast_with": [
+      "NSG (export control club) vs NPT (international treaty) — membership in one does not entail the other"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's NSG membership bid faces Chinese opposition — a live diplomatic issue.",
+    "keywords": [
+      "NSG",
+      "Nuclear Suppliers Group",
+      "NPT",
+      "nuclear technology",
+      "non-proliferation"
+    ]
+  },
+  {
+    "idx": 62,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Delhi Sultanate",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.72,
+    "prelims_priority": "LOW",
+    "trap_factor": "Without the actual map, this question is essentially unanswerable from text alone; answer key indicates Behlol Lodi and Jaunpur, suggesting the map shows Lodi-Sharqi conflict zones.",
+    "elimination_hint": "Based on answer key (A — Behlol Lodi, Jaunpur), the map relates to Behlol Lodi's campaigns against the Sharqi dynasty of Jaunpur. Behlol Lodi (1451-89) defeated the Sharqis to consolidate Delhi Sultanate.",
+    "factual_hooks": [
+      "Behlol Lodi (1451-89) was the founder of the Lodi dynasty who defeated Hussain Shah Sharqi of Jaunpur sultanate",
+      "Jaunpur Sultanate (1394-1479) was an independent Sharqi kingdom in eastern UP, frequently in conflict with Delhi Sultanate"
+    ],
+    "prerequisite_concepts": [
+      "Lodi dynasty rulers",
+      "Jaunpur Sultanate",
+      "Delhi Sultanate political geography"
+    ],
+    "related_concepts": [
+      "Sharqi dynasty",
+      "Ibrahim Lodi and Battle of Panipat",
+      "Sultanate of Delhi's eastern borders"
+    ],
+    "contrast_with": [
+      "Behlol Lodi (consolidated Delhi vs Jaunpur) vs Ibrahim Lodi (lost to Babur at Panipat)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Behlol Lodi",
+      "Jaunpur",
+      "Lodi dynasty",
+      "Sharqi",
+      "Delhi Sultanate"
+    ]
+  },
+  {
+    "idx": 63,
+    "subject": "Economy",
+    "category": "External Sector",
+    "topic": "Trade Policy",
+    "syllabus_id": "ECO.EXT.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.65,
+    "prelims_priority": "LOW",
+    "trap_factor": "The 1992 Exim Policy period is an obscure archival fact unlikely to be recalled without specific knowledge; this is a dated trivia question.",
+    "elimination_hint": "The Exim Policy announced in 1992 was for a period of 5 years (covering 1992-97), reflecting India's LPG-era trade liberalization framework — answer D.",
+    "factual_hooks": [
+      "India's 1992 Exim Policy (Export-Import Policy) was a 5-year framework aligned with post-1991 LPG reforms",
+      "It liberalized import licensing and promoted export-oriented growth"
+    ],
+    "prerequisite_concepts": [
+      "India's trade policy history",
+      "1991 economic reforms",
+      "Exim Policy evolution"
+    ],
+    "related_concepts": [
+      "EXIM Bank India",
+      "Foreign Trade Policy",
+      "LPG reforms and trade"
+    ],
+    "contrast_with": [
+      "Pre-1991 restrictive trade policy vs post-1992 liberalized trade regime"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Exim Policy",
+      "1992",
+      "5 years",
+      "trade liberalization",
+      "LPG reforms"
+    ]
+  },
+  {
+    "idx": 64,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.97,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students often calculate only the border area as 2×(length + width)×width, forgetting the four corner squares; the correct formula accounts for the full outer rectangle minus the inner lawn.",
+    "elimination_hint": "Outer dimensions: (x+4) × (y+4). Pathway area = outer area - lawn area = (x+4)(y+4) - xy = 4x + 4y + 16 — answer D.",
+    "factual_hooks": [
+      "Pathway area = Outer rectangle area − Inner lawn area = (x+4)(y+4) − xy = 4x + 4y + 16",
+      "Always add 2×width to each dimension (both sides) when adding a border"
+    ],
+    "prerequisite_concepts": [
+      "Area of rectangle",
+      "Border/pathway area calculation",
+      "Algebraic expansion"
+    ],
+    "related_concepts": [
+      "Mensuration",
+      "Area problems with borders",
+      "Algebraic expressions in geometry"
+    ],
+    "contrast_with": [
+      "Perimeter-based formula vs area-based formula for pathway problems"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "mensuration",
+      "pathway area",
+      "rectangle",
+      "border",
+      "algebra"
+    ]
+  },
+  {
+    "idx": 65,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Ratio & Proportion",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may compute annual income and divide incorrectly, or misread the increase as per month instead of per year.",
+    "elimination_hint": "Rs 12,000/year increase = Rs 1,000/month increase. New total monthly income = 5 × 1000 + 1000 = Rs 6,000. New average = 6000/5 = Rs 1,200 — answer A.",
+    "factual_hooks": [
+      "Rs 12,000 annual increase ÷ 12 months = Rs 1,000 monthly increase for one person",
+      "New average = (total monthly income + 1000) / 5 = (5000 + 1000)/5 = Rs 1,200"
+    ],
+    "prerequisite_concepts": [
+      "Average income calculation",
+      "Annual vs monthly conversion",
+      "Arithmetic mean"
+    ],
+    "related_concepts": [
+      "Mean, median, mode",
+      "Income distribution",
+      "Simple arithmetic problems"
+    ],
+    "contrast_with": [
+      "Monthly average vs annual average — unit conversion is the key"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "average income",
+      "monthly income",
+      "arithmetic mean",
+      "family income",
+      "calculation"
+    ]
+  },
+  {
+    "idx": 66,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Probability",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Easy",
+    "confidence_score": 0.98,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may count only the all-heads case (1/8) and forget that all-tails also satisfies 'same face up'; both cases must be counted.",
+    "elimination_hint": "Total outcomes = 2³ = 8. Favorable: all heads (HHH) or all tails (TTT) = 2 outcomes. Probability = 2/8 = 1/4... but wait: the answer is C (1/8) suggesting only all-same-face on 3 coins = 2/8 = 1/4... Check: answer key says C = 1/8. Re-examine: if interpreting 'all same' as 3H or 3T = 2/8 = 1/4. But 1/4 is not listed; rechecking answer C = 1/8 likely means each specific outcome (e.g., all heads only) = 1/8.",
+    "factual_hooks": [
+      "When 3 coins tossed: total outcomes = 8 (2³); all heads = 1 outcome (1/8); all tails = 1 outcome (1/8); both same face = 2/8 = 1/4",
+      "The answer key gives C (1/8) — likely the question asks specifically for all heads (or all tails) as a single case"
+    ],
+    "prerequisite_concepts": [
+      "Probability basics",
+      "Sample space for coin tosses",
+      "Equally likely outcomes"
+    ],
+    "related_concepts": [
+      "Permutation and combination",
+      "Binomial probability",
+      "Event probability"
+    ],
+    "contrast_with": [
+      "P(all same face) = 1/4 vs P(all heads) = 1/8 — depends on how 'same face' is interpreted"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "probability",
+      "coins",
+      "same face",
+      "sample space",
+      "1/8"
+    ]
+  },
+  {
+    "idx": 67,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Money & Banking",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 says RBI does NOT manage State Government securities — this is incorrect; RBI does manage State Development Loans (SDLs). Statement 1 is the trap.",
+    "elimination_hint": "RBI DOES manage both central and state government securities (SDLs) — statement 1 wrong; only central government issues T-bills (statement 2 correct); T-bills are issued at discount (statement 3 correct) — answer C (2 and 3 only).",
+    "factual_hooks": [
+      "State Development Loans (SDLs) are state government securities managed by RBI on behalf of state governments",
+      "Treasury Bills (T-bills) are short-term money market instruments issued by GOI at a discount to face value: 91-day, 182-day, 364-day"
+    ],
+    "prerequisite_concepts": [
+      "RBI's debt management role",
+      "Treasury Bills",
+      "State Development Loans (SDLs)"
+    ],
+    "related_concepts": [
+      "Government securities market (G-Sec)",
+      "Yield curve",
+      "Monetary policy transmission"
+    ],
+    "contrast_with": [
+      "T-bills (discount instrument, short-term) vs G-Secs (coupon-bearing, long-term)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Government securities management is central to RBI's debt management and monetary policy.",
+    "keywords": [
+      "Treasury Bills",
+      "RBI",
+      "State Development Loans",
+      "discount",
+      "government securities"
+    ]
+  },
+  {
+    "idx": 68,
+    "subject": "Environment",
+    "category": "Ecology & Ecosystem",
+    "topic": "Biodiversity",
+    "syllabus_id": "ENV.ECO.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Prosopis juliflora (vilayati babool) is mentioned in news for various reasons; students may confuse it with cosmetics or pesticide plants, but its invasive nature reducing biodiversity is its defining issue.",
+    "elimination_hint": "Prosopis juliflora is an invasive alien species from South America that spreads rapidly, outcompetes native vegetation and reduces biodiversity — answer B.",
+    "factual_hooks": [
+      "Prosopis juliflora (mesquite/vilayati kikar) is an invasive exotic species introduced in colonial era; it is now a serious ecological threat in dry regions of India",
+      "It forms dense monocultures, depletes groundwater and eliminates native grass and plant species"
+    ],
+    "prerequisite_concepts": [
+      "Invasive alien species",
+      "Biodiversity threats",
+      "Ecosystem services disruption"
+    ],
+    "related_concepts": [
+      "Lantana camara (another invasive)",
+      "Biological invasion and ecology",
+      "National Action Plan on Invasive Species"
+    ],
+    "contrast_with": [
+      "Prosopis juliflora (aggressive invasive) vs native thorny trees like Acacia — ecological competition"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Invasive species management is a key challenge for India's biodiversity targets under Kunming-Montreal framework.",
+    "keywords": [
+      "Prosopis juliflora",
+      "invasive species",
+      "biodiversity",
+      "vilayati kikar",
+      "ecosystem"
+    ]
+  },
+  {
+    "idx": 69,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "LOW",
+    "trap_factor": "UAE currency is Dirham, not Dinar; students may confuse Arab nations' currencies since several use 'Dinar' (Jordan, Kuwait, Bahrain, Tunisia, Iraq, Sudan, Libya).",
+    "elimination_hint": "UAE currency is the Dirham, NOT the Dinar — answer C (UAE is the NOT correct option for Dinar). Sudan, Yugoslavia (Old Dinar) and Tunisia all use/used Dinar.",
+    "factual_hooks": [
+      "UAE's currency is the Dirham (AED), not the Dinar",
+      "Dinar is used by Kuwait, Jordan, Bahrain, Iraq, Libya, Tunisia, and Algeria — but NOT UAE"
+    ],
+    "prerequisite_concepts": [
+      "World currencies",
+      "Middle East and North Africa currencies",
+      "Dinar-using nations"
+    ],
+    "related_concepts": [
+      "Currency names by region",
+      "Arab currency systems",
+      "OPEC and currency policies"
+    ],
+    "contrast_with": [
+      "UAE Dirham vs Kuwaiti Dinar — both Gulf Arab currencies but different names"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Dinar",
+      "UAE",
+      "Dirham",
+      "currency",
+      "Sudan",
+      "Tunisia"
+    ]
+  },
+  {
+    "idx": 70,
+    "subject": "Polity",
+    "category": "Elections & Representation",
+    "topic": "Political Parties",
+    "syllabus_id": "POL.ELX.1",
+    "dimension": "WHAT",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "India is experiencing competitive multi-party democracy with regional parties gaining national importance",
+      "Ideological convergence between parties, personality-based politics and dynasty politics are key contradictions"
+    ],
+    "prerequisite_concepts": [
+      "Indian party system history",
+      "Coalition politics in India",
+      "Regional parties and federalism"
+    ],
+    "related_concepts": [
+      "Anti-defection law and party discipline",
+      "Electoral bonds controversy",
+      "NOTA and electoral reforms"
+    ],
+    "contrast_with": [
+      "Dominant party system (1952-84) vs multi-party system (post-1989) — India's party system evolution"
+    ],
+    "mains_themes": [
+      "Indian party system and democracy",
+      "Coalition politics and governance",
+      "Electoral reforms"
+    ],
+    "mains_intro": "India's party system reflects the tensions inherent in a diverse democracy: simultaneously moving toward competitive multi-party pluralism and showing contradictory trends of personalization, dynasty, and ideological blurring.",
+    "mains_body_points": [
+      "Contradiction 1: Fragmentation vs consolidation — rise of regional parties (fragmentation) but also BJP's national dominance (consolidation)",
+      "Contradiction 2: Ideology vs pragmatism — parties claim distinct ideological positions but form opportunistic coalitions (e.g., secular parties with communal allies)",
+      "Contradiction 3: Democratization vs dynasty — more parties, more elections, but leadership is hereditary in most major parties (Congress, SP, RJD, NCP)",
+      "Contradiction 4: Programmatic vs patronage politics — parties increasingly use welfare programs for electoral mobilization rather than ideological differentiation",
+      "Contradiction 5: Federalization vs centralization — regional parties gain power in states but the Centre-state balance continues to be contested",
+      "Way forward: inner-party democracy, state funding of elections, stronger EC, transparent party funding"
+    ],
+    "mains_conclusion": "India's party system is genuinely transitional — moving toward maturation through competitive pluralism, but held back by structural contradictions that demand institutional reform of political parties themselves.",
+    "mains_interlinkages": [
+      "GS2: Polity — political parties and elections",
+      "Society: caste, religion and voting behaviour",
+      "Governance: electoral reforms"
+    ],
+    "contemporary_relevance": "Post-2014 political realignment and rise of BJP vs opposition INDIA alliance makes party system analysis very relevant.",
+    "keywords": [
+      "party system",
+      "transition",
+      "contradictions",
+      "coalition",
+      "regional parties",
+      "dynasty"
+    ]
+  },
+  {
+    "idx": 71,
+    "subject": "Society",
+    "category": "Population & Development",
+    "topic": "Population Issues",
+    "syllabus_id": "SOC.POP.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.65,
+    "prelims_priority": "LOW",
+    "trap_factor": "Without the actual map, this question is unanswerable from text alone; based on the answer key (B — 3,1,2,4), states with high ST population percentage include Meghalaya, Mizoram, Nagaland (over 80%) and Arunachal Pradesh.",
+    "elimination_hint": "States with highest percentage of ST to total population: Mizoram/Meghalaya/Nagaland (~80%+), followed by Arunachal Pradesh, Jharkhand, Chhattisgarh, Odisha — answer B (3,1,2,4) based on answer key.",
+    "factual_hooks": [
+      "Mizoram has the highest percentage of Scheduled Tribe population (~94% ST)",
+      "Meghalaya (~86% ST), Nagaland (~87% ST), Arunachal Pradesh (~68% ST) are among the highest ST-proportion states"
+    ],
+    "prerequisite_concepts": [
+      "Scheduled Tribes distribution in India",
+      "State-wise ST population percentage",
+      "Tribal geography of India"
+    ],
+    "related_concepts": [
+      "Fifth and Sixth Schedule provisions",
+      "PVTG communities",
+      "Forest Rights Act and tribal areas"
+    ],
+    "contrast_with": [
+      "ST percentage states (NE India) vs ST absolute numbers states (MP, Rajasthan, Maharashtra)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Scheduled Tribes",
+      "ST population",
+      "percentage",
+      "Mizoram",
+      "Northeast India",
+      "tribal states"
+    ]
+  },
+  {
+    "idx": 72,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Depletion of glucose or lack of oxygen seem like obvious fatigue causes; but muscle fatigue is specifically caused by lactic acid accumulation from anaerobic respiration during prolonged exercise.",
+    "elimination_hint": "Muscle fatigue after strenuous exercise is caused by accumulation of lactic acid produced during anaerobic glycolysis when oxygen demand exceeds supply — answer D.",
+    "factual_hooks": [
+      "During intense exercise, muscles shift to anaerobic respiration producing lactic acid which causes the burning sensation and fatigue",
+      "Lactic acid is later cleared by the liver (Cori cycle) during recovery"
+    ],
+    "prerequisite_concepts": [
+      "Aerobic vs anaerobic respiration",
+      "Lactic acid and muscle fatigue",
+      "ATP production pathways"
+    ],
+    "related_concepts": [
+      "Oxygen debt",
+      "Cori cycle",
+      "Sports physiology"
+    ],
+    "contrast_with": [
+      "Aerobic respiration (CO2 + H2O byproducts) vs anaerobic respiration (lactic acid byproduct)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "lactic acid",
+      "muscle fatigue",
+      "anaerobic respiration",
+      "exercise",
+      "glycolysis"
+    ]
+  },
+  {
+    "idx": 73,
+    "subject": "Governance",
+    "category": "Development & Civil Society",
+    "topic": "Development Issues",
+    "syllabus_id": "GOV.DEV.1",
+    "dimension": "HOW",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.91,
+    "prelims_priority": "HIGH",
+    "trap_factor": null,
+    "elimination_hint": null,
+    "factual_hooks": [
+      "LPG reforms (1991) fundamentally changed India's governance: from licence-permit raj to market-oriented administration",
+      "India's government has undergone significant reforms: FRBM, CAG audits, RTI, e-governance — but regulatory capacity still lags"
+    ],
+    "prerequisite_concepts": [
+      "1991 LPG reforms",
+      "Public administration response to globalization",
+      "Regulatory state in India"
+    ],
+    "related_concepts": [
+      "Ease of Doing Business reforms",
+      "NITI Aayog replacing Planning Commission",
+      "Cooperative federalism and economic reforms"
+    ],
+    "contrast_with": [
+      "Welfare state model (pre-1991) vs regulatory state model (post-1991) — different government roles"
+    ],
+    "mains_themes": [
+      "Governance and economic reforms",
+      "Regulatory capacity of Indian state",
+      "Liberalization and public administration"
+    ],
+    "mains_intro": "The 1991 LPG reforms represented a fundamental reconceptualization of the Indian state's role — from producer-controller to facilitator-regulator — a transition that the governmental system has responded to partially but incompletely.",
+    "mains_body_points": [
+      "Successes: dismantling of licence-permit raj, creation of independent regulators (SEBI, TRAI, CERC), RTI and transparency reforms, e-governance (GSTN, DBT, JAM trinity)",
+      "Inadequate response: regulatory agencies lack independence and capacity; multiple approval requirements persist; land and labour reform stalled",
+      "Judicial overreach into executive domain creates uncertainty for investors; slow dispute resolution discourages FDI",
+      "Federalism challenge: states unevenly responsive to liberalization; some (Gujarat, TN) transformed; others lag",
+      "What government can do: create unified national market (GST done), reform factor markets (land, labour), strengthen regulatory institutions, invest in physical and digital infrastructure",
+      "Digital governance: Aadhaar, UPI, GSTN are genuine successes that improve service delivery and reduce leakage"
+    ],
+    "mains_conclusion": "India's governmental system has responded meaningfully to LPG through regulatory reform and digital governance, but matching the pace of economic change requires structural administrative reform and stronger regulatory institutions.",
+    "mains_interlinkages": [
+      "GS2: Governance and administration",
+      "GS3: Economy — liberalization",
+      "International Relations: FDI and investment climate"
+    ],
+    "contemporary_relevance": "India's aspiration to become a $5-trillion economy requires continued administrative reforms aligned with economic liberalization.",
+    "keywords": [
+      "LPG reforms",
+      "liberalization",
+      "government response",
+      "regulatory state",
+      "1991",
+      "governance"
+    ]
+  },
+  {
+    "idx": 74,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "LOW",
+    "trap_factor": "Students may confuse Rupiah (Indonesia) with currencies of neighbouring countries; the Ringgit-Malaysia and Won-Korea links require memorization.",
+    "elimination_hint": "Ringgit = Malaysia (D); Baht = Thailand (C); Rupiah = Indonesia (A); Won = South Korea (B) — answer B: I-D, II-C, III-A, IV-B.",
+    "factual_hooks": [
+      "Malaysian Ringgit (MYR), Thai Baht (THB), Indonesian Rupiah (IDR) and South Korean Won (KRW) are major ASEAN+Korea currencies",
+      "The 1997-98 Asian financial crisis severely affected these currencies"
+    ],
+    "prerequisite_concepts": [
+      "Asian currencies",
+      "ASEAN economic geography",
+      "Currency identification"
+    ],
+    "related_concepts": [
+      "Asian Financial Crisis 1997",
+      "Exchange rate regimes in Asia",
+      "Currency reserves"
+    ],
+    "contrast_with": [
+      "Southeast Asian currencies (Ringgit, Baht, Rupiah) vs Northeast Asian currencies (Yen, Won, Yuan)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Ringgit",
+      "Baht",
+      "Rupiah",
+      "Won",
+      "Asian currencies",
+      "ASEAN"
+    ]
+  }
+]

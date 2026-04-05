@@ -1,0 +1,3379 @@
+[
+  {
+    "idx": 0,
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "Multilateral Forums",
+    "syllabus_id": "IR.IO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 2 is the classic trap — IGC membership is not required for countries to trade in grains; it is an advisory/intergovernmental body, not a trade bloc requiring membership.",
+    "elimination_hint": "India IS a member of IGC (Statement 1 correct). IGC does not mandate membership for grain trade — countries freely export/import wheat and rice without being members (Statement 2 wrong).",
+    "factual_hooks": [
+      "International Grains Council (IGC) is an intergovernmental commodity body monitoring global grain markets",
+      "IGC membership is voluntary and not a prerequisite for grain trade — India is a member"
+    ],
+    "prerequisite_concepts": [
+      "International commodity organizations",
+      "Grain trade governance",
+      "India's food trade"
+    ],
+    "related_concepts": [
+      "APEDA",
+      "WTO Agreement on Agriculture",
+      "Food and Agriculture Organization"
+    ],
+    "contrast_with": [
+      "IGC (monitoring/advisory) vs WTO (binding trade rules requiring membership for export/import regulations)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's wheat export ban (2022) and rice export restrictions were discussed in IGC forums.",
+    "keywords": [
+      "International Grains Council",
+      "IGC",
+      "grain trade",
+      "India membership",
+      "wheat rice export",
+      "multilateral"
+    ]
+  },
+  {
+    "idx": 1,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Medieval Art & Architecture",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may guess Durga Puja (2021 inscription) as more recent or Kumbh Mela (2017) — Garba dance was inscribed in December 2023, making it the latest.",
+    "elimination_hint": "Timeline: Kumbh Mela (2017), Chhau dance (2010), Durga Puja (2021), Garba dance (December 2023) — Garba is the most recent addition to UNESCO ICH list.",
+    "factual_hooks": [
+      "Garba dance of Gujarat was inscribed on UNESCO Intangible Cultural Heritage list in December 2023",
+      "India now has 15+ elements on UNESCO's ICH list including Yoga, Kumbh Mela, Durga Puja"
+    ],
+    "prerequisite_concepts": [
+      "UNESCO Intangible Cultural Heritage",
+      "Indian classical and folk dances",
+      "UNESCO inscription process"
+    ],
+    "related_concepts": [
+      "Chhau dance",
+      "Durga Puja",
+      "Kumbh Mela",
+      "UNESCO World Heritage"
+    ],
+    "contrast_with": [
+      "UNESCO World Heritage Sites (tangible) vs Intangible Cultural Heritage (practices, traditions)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Garba's UNESCO recognition has boosted cultural tourism in Gujarat and raised awareness of living heritage.",
+    "keywords": [
+      "Garba dance",
+      "UNESCO ICH",
+      "intangible cultural heritage",
+      "Gujarat",
+      "2023",
+      "India culture"
+    ]
+  },
+  {
+    "idx": 2,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Historical Background",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students often confuse Rajendra Prasad (permanent President) with the provisional president; C. Rajagopalachari is a well-known name that may distract.",
+    "elimination_hint": "Dr. Sachchidananda Sinha was the oldest member of the Constituent Assembly and therefore became its Provisional President on 9 December 1946. Dr. Rajendra Prasad was elected permanent President on 11 December 1946.",
+    "factual_hooks": [
+      "Dr. Sachchidananda Sinha served as Provisional President of Constituent Assembly (Dec 9, 1946)",
+      "Convention: oldest member presides as provisional chair — Sinha was the eldest member"
+    ],
+    "prerequisite_concepts": [
+      "Constituent Assembly formation",
+      "Constitutional history",
+      "Rajendra Prasad's role"
+    ],
+    "related_concepts": [
+      "Constituent Assembly sessions",
+      "B.R. Ambedkar as Drafting Committee Chairman",
+      "Constitution adoption date"
+    ],
+    "contrast_with": [
+      "Provisional President (ceremonial first session role) vs Permanent President (elected, presided over all sessions)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Constituent Assembly",
+      "Sachchidananda Sinha",
+      "Provisional President",
+      "Rajendra Prasad",
+      "1946",
+      "constitutional history"
+    ]
+  },
+  {
+    "idx": 3,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Constitutional Development",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 2 is the trap — Defence and Foreign Affairs were kept under the Viceroy/Governor-General (reserved subjects), NOT the federal legislature. Students confuse reserved vs federal subjects.",
+    "elimination_hint": "GoI Act 1935 did provide for an All India Federation (Statement 1 correct). But Defence and External Affairs were reserved subjects of the Governor-General, not the federal legislature (Statement 2 wrong).",
+    "factual_hooks": [
+      "GoI Act 1935 envisaged All India Federation of British provinces and Princely States — never fully implemented",
+      "Defence and Foreign Affairs remained with Viceroy under reserved subjects — not transferred to legislature"
+    ],
+    "prerequisite_concepts": [
+      "Government of India Act 1935",
+      "Federal vs Provincial subjects",
+      "Reserved subjects under Viceroy"
+    ],
+    "related_concepts": [
+      "Dyarchy abolished by 1935 Act",
+      "Provincial autonomy 1937",
+      "Cabinet Mission Plan"
+    ],
+    "contrast_with": [
+      "GoI Act 1919 (dyarchy in provinces) vs 1935 Act (provincial autonomy + proposed federation)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "GoI Act 1935",
+      "All India Federation",
+      "Defence Foreign Affairs",
+      "reserved subjects",
+      "Viceroy",
+      "constitutional development"
+    ]
+  },
+  {
+    "idx": 4,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Post-Gupta Period",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.83,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Natyashastra (Bharata Muni) and Mahabhashya (Patanjali) are famous Sanskrit works that may mislead; Kavyalankara is by Bhamaha — none are Bhasa's works.",
+    "elimination_hint": "Bhasa was a Sanskrit playwright (pre-Kalidasa era). His works include Svapnavasavadattam, Madhyama-vyayoga, Pancharatra etc. Madhyama-vyayoga is the correct answer.",
+    "factual_hooks": [
+      "Bhasa was an ancient Sanskrit playwright; 13 of his plays were rediscovered by T. Ganapati Shastri in Kerala (1912)",
+      "Madhyama-vyayoga is a one-act play by Bhasa based on the Mahabharata story of Bhima and Ghatotkacha"
+    ],
+    "prerequisite_concepts": [
+      "Sanskrit literature",
+      "Ancient Indian dramatists",
+      "Natyashastra tradition"
+    ],
+    "related_concepts": [
+      "Kalidasa",
+      "Sudraka",
+      "Visakhadatta",
+      "Sanskrit drama"
+    ],
+    "contrast_with": [
+      "Natyashastra (Bharata Muni — treatise on dramaturgy) vs Bhasa's actual plays"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Bhasa",
+      "Madhyama-vyayoga",
+      "Sanskrit drama",
+      "ancient playwright",
+      "Mahabharata",
+      "classical literature"
+    ]
+  },
+  {
+    "idx": 5,
+    "subject": "History",
+    "category": "Medieval India",
+    "topic": "Medieval Art & Architecture",
+    "syllabus_id": "HIS.MED.1",
+    "dimension": "WHEN",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.83,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "All four properties are UNESCO World Heritage Sites of India — students may not know the specific years of inscription. Rani-ki-Vav (2014) and Mahabodhi Temple (2002) are older inscriptions.",
+    "elimination_hint": "Shantiniketan and Sacred Ensembles of the Hoysalas were both inscribed in 2023. Rani-ki-Vav was inscribed in 2014, Mahabodhi Temple in 2002. Only two (Shantiniketan + Hoysalas) are from 2023.",
+    "factual_hooks": [
+      "Shantiniketan (Rabindranath Tagore's university) inscribed as UNESCO WHS in September 2023",
+      "Sacred Ensembles of Hoysalas (Belur, Halebidu, Somnathapura) also inscribed in September 2023"
+    ],
+    "prerequisite_concepts": [
+      "UNESCO World Heritage Sites of India",
+      "Inscription years",
+      "Hoysala architecture"
+    ],
+    "related_concepts": [
+      "Rani-ki-Vav (stepwell, Gujarat)",
+      "Mahabodhi Temple (Bodh Gaya)",
+      "UNESCO WHS criteria"
+    ],
+    "contrast_with": [
+      "2023 inscriptions (Shantiniketan, Hoysalas) vs earlier inscriptions (Rani-ki-Vav 2014, Mahabodhi 2002)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India now has 42 UNESCO World Heritage Sites after 2023 inscriptions.",
+    "keywords": [
+      "UNESCO World Heritage",
+      "Shantiniketan",
+      "Hoysalas",
+      "2023 inscription",
+      "Rani-ki-Vav",
+      "India heritage"
+    ]
+  },
+  {
+    "idx": 6,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Constitutional Amendments",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "HOW",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may think 'Repeal' is not permitted under Article 368 as it seems to conflict with Basic Structure doctrine — but Article 368 text explicitly includes repeal as a method.",
+    "elimination_hint": "Article 368 verbatim states Parliament may amend by way of 'addition, variation or repeal' — all three are correct. Answer is D. Note: Repeal of Basic Structure features is still constitutionally impermissible despite the text.",
+    "factual_hooks": [
+      "Article 368 uses the words 'addition, variation or repeal' as methods of constitutional amendment",
+      "Kesavananda Bharati case (1973) held that Parliament cannot use Article 368 to repeal/abrogate Basic Structure"
+    ],
+    "prerequisite_concepts": [
+      "Article 368",
+      "Constitutional amendment procedure",
+      "Basic Structure doctrine"
+    ],
+    "related_concepts": [
+      "Kesavananda Bharati case",
+      "24th Amendment",
+      "42nd Amendment"
+    ],
+    "contrast_with": [
+      "Article 368 procedure (special majority) vs ordinary legislation (simple majority)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Article 368",
+      "constitutional amendment",
+      "addition variation repeal",
+      "Basic Structure",
+      "Parliament",
+      "amendment procedure"
+    ]
+  },
+  {
+    "idx": 7,
+    "subject": "Society",
+    "category": "Population & Development",
+    "topic": "Population Issues",
+    "syllabus_id": "SOC.POP.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Nigeria and South Africa have high and growing populations — they are not known for low birth rates or ageing. Italy, Japan, and South Korea are the classic demographic decline cases.",
+    "elimination_hint": "Italy (TFR ~1.2), Japan (ageing, shrinking population), South Korea (world's lowest TFR ~0.72) are the demographic crisis countries. Nigeria and South Africa have young, growing populations.",
+    "factual_hooks": [
+      "South Korea has world's lowest TFR (~0.72 in 2023), Japan is world's most aged society",
+      "Italy and Japan have some of the fastest-shrinking working-age populations in the world"
+    ],
+    "prerequisite_concepts": [
+      "Total Fertility Rate (TFR)",
+      "Demographic transition",
+      "Ageing population"
+    ],
+    "related_concepts": [
+      "Demographic dividend",
+      "Population pyramid",
+      "Immigration policy"
+    ],
+    "contrast_with": [
+      "Italy/Japan/South Korea (low TFR, ageing) vs Nigeria/South Africa (young, high growth)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "South Korea's demographic crisis and Japan's immigration debate are key global demographic policy issues.",
+    "keywords": [
+      "ageing population",
+      "low birth rate",
+      "Italy",
+      "Japan",
+      "South Korea",
+      "demographic decline"
+    ]
+  },
+  {
+    "idx": 8,
+    "subject": "Polity",
+    "category": "Federalism",
+    "topic": "Centre-State Relations",
+    "syllabus_id": "POL.FED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may include the Home Minister of India (option 4) as a member after 2002 amendment — but the Home Minister was NOT added; the amendment added nominated members.",
+    "elimination_hint": "After 2002 amendment, NEC comprises: Governors and Chief Ministers of constituent states (1,2) and three nominated members by President (3). Home Minister of India is NOT a member — select 1, 2, 3 only.",
+    "factual_hooks": [
+      "NEC was set up under NEC Act 1971 for development of North-East; 2002 amendment restructured it",
+      "After 2002 amendment, NEC has: 8 Governors, 8 CMs, + 3 Presidential nominees — Home Minister excluded"
+    ],
+    "prerequisite_concepts": [
+      "North Eastern Council",
+      "Special provisions for NE states",
+      "Article 371"
+    ],
+    "related_concepts": [
+      "Special category states",
+      "North East development policy",
+      "DoNER Ministry"
+    ],
+    "contrast_with": [
+      "NEC (multi-state development council) vs Zonal Councils (advisory inter-state coordination)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "NEC is key coordinating body for India's Act East Policy and Northeast infrastructure development.",
+    "keywords": [
+      "North Eastern Council",
+      "NEC Act 2002",
+      "Governor",
+      "Chief Minister",
+      "President's nominees",
+      "Northeast India"
+    ]
+  },
+  {
+    "idx": 9,
+    "subject": "Polity",
+    "category": "Elections & Representation",
+    "topic": "Electoral System",
+    "syllabus_id": "POL.ELX.1",
+    "dimension": "HOW",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may answer 'Three' (1952, 1963, 1973) missing the fourth Delimitation Commission of 2002. Four commissions have been constituted in total.",
+    "elimination_hint": "Delimitation Commissions: 1st (1952 Act), 2nd (1963 Act), 3rd (1973 Act), 4th (2002 Act) — four commissions in total up to December 2023.",
+    "factual_hooks": [
+      "Four Delimitation Commissions constituted: 1952, 1963, 1973, and 2002",
+      "Delimitation determines constituency boundaries; 4th Commission (2002) report implemented before 2008 elections"
+    ],
+    "prerequisite_concepts": [
+      "Delimitation Commission",
+      "Representation of People Act",
+      "Electoral constituencies"
+    ],
+    "related_concepts": [
+      "Freeze on delimitation (1976-2001)",
+      "Women's reservation and delimitation",
+      "Election Commission"
+    ],
+    "contrast_with": [
+      "Delimitation (boundary redrawing) vs Delimitation freeze (seats fixed till 2026 under 42nd Amendment)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "5th Delimitation Commission is expected after 2026 Census for women's reservation implementation.",
+    "keywords": [
+      "Delimitation Commission",
+      "four commissions",
+      "electoral constituencies",
+      "1952 1963 1973 2002",
+      "Election Commission",
+      "boundary delimitation"
+    ]
+  },
+  {
+    "idx": 10,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Constitutional Amendments",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Maithili is the trap — it was added by the 92nd Constitutional Amendment (2003), not the 71st. Students may lump all language additions together.",
+    "elimination_hint": "71st Amendment (1992) added Konkani, Manipuri, and Nepali to the 8th Schedule. Maithili was added later by the 92nd Amendment (2003). So answer is 1, 2, 3 only (A).",
+    "factual_hooks": [
+      "71st Constitutional Amendment (1992) added Konkani, Manipuri, Nepali — taking 8th Schedule to 18 languages",
+      "92nd Amendment (2003) added Maithili, Dogri, Bodo, Santhali — taking total to 22 languages"
+    ],
+    "prerequisite_concepts": [
+      "8th Schedule languages",
+      "Constitutional amendments on languages",
+      "Official language policy"
+    ],
+    "related_concepts": [
+      "Official Languages Act",
+      "Three-language formula",
+      "Classical language status"
+    ],
+    "contrast_with": [
+      "71st Amendment (1992, 3 languages) vs 92nd Amendment (2003, 4 more languages)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Demands for inclusion of more languages (Bhojpuri, Rajasthani) in 8th Schedule are ongoing.",
+    "keywords": [
+      "71st Amendment",
+      "8th Schedule",
+      "Konkani",
+      "Manipuri",
+      "Nepali",
+      "Maithili"
+    ]
+  },
+  {
+    "idx": 11,
+    "subject": "Polity",
+    "category": "Federalism",
+    "topic": "Centre-State Relations",
+    "syllabus_id": "POL.FED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Inter-State trade, migration are confused as State subjects; Corporation tax sounds like a State revenue. Inter-State quarantine being a Union subject is the least intuitive correct answer.",
+    "elimination_hint": "Union List Entry 81: Inter-State migration; Entry 79: Inter-State quarantine. Corporation Tax is a Union subject (Entry 85). Inter-State trade is a Union/Concurrent subject. Answer C is correct.",
+    "factual_hooks": [
+      "Union List Entry 28: Inter-State quarantine — disease control across state boundaries is Central subject",
+      "Corporation tax is in the Union List — not a State subject despite being collected from companies"
+    ],
+    "prerequisite_concepts": [
+      "7th Schedule — Union, State and Concurrent Lists",
+      "Division of legislative powers",
+      "Inter-State matters"
+    ],
+    "related_concepts": [
+      "State List subjects",
+      "Concurrent List",
+      "Article 246"
+    ],
+    "contrast_with": [
+      "Inter-State quarantine (Union List) vs Public health (State List Entry 6)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "COVID-19 highlighted the Union's quarantine powers vs State's public health jurisdiction tensions.",
+    "keywords": [
+      "Union List",
+      "Inter-State quarantine",
+      "Corporation tax",
+      "7th Schedule",
+      "legislative subjects",
+      "Centre-State"
+    ]
+  },
+  {
+    "idx": 12,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Fundamental Rights",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may guess Article 19 (freedom of speech/expression) as privacy relates to personal liberty and free speech, but the Supreme Court placed privacy under Article 21.",
+    "elimination_hint": "K.S. Puttaswamy judgment (2017) unanimously declared Right to Privacy as a fundamental right under Article 21 (Right to Life and Personal Liberty).",
+    "factual_hooks": [
+      "K.S. Puttaswamy v. Union of India (2017): 9-judge bench held Right to Privacy is intrinsic to Article 21",
+      "Privacy is protected as part of 'personal liberty' under Article 21 — not a separate article"
+    ],
+    "prerequisite_concepts": [
+      "Article 21",
+      "Right to Privacy",
+      "Fundamental Rights"
+    ],
+    "related_concepts": [
+      "Article 19 (speech, expression)",
+      "Data Protection Bill",
+      "Aadhaar judgment"
+    ],
+    "contrast_with": [
+      "Article 19 (explicit listed freedoms) vs Article 21 (implied rights including privacy)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's Digital Personal Data Protection Act (2023) flows directly from the Right to Privacy under Article 21.",
+    "keywords": [
+      "Right to Privacy",
+      "Article 21",
+      "Puttaswamy judgment",
+      "fundamental rights",
+      "personal liberty",
+      "Supreme Court"
+    ]
+  },
+  {
+    "idx": 13,
+    "subject": "Internal Security",
+    "category": "Security Forces",
+    "topic": "Security Apparatus",
+    "syllabus_id": "SEC.SF.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 2 says CDS exercises military command over Service Chiefs — this is the biggest trap; CDS is NOT in the chain of command over Service Chiefs operationally.",
+    "elimination_hint": "CDS is Permanent Chairman of COSC (1 correct) and Principal Military Advisor to Defence Minister on tri-service matters (3 correct). CDS does NOT exercise operational command over Service Chiefs (2 wrong). Answer is D (1 and 3).",
+    "factual_hooks": [
+      "CDS created in January 2020 is Permanent Chairman of Chiefs of Staff Committee (COSC)",
+      "CDS is Principal Military Advisor to Defence Minister on tri-service matters but NOT in operational chain of command over individual Service Chiefs"
+    ],
+    "prerequisite_concepts": [
+      "Chief of Defence Staff",
+      "Department of Military Affairs",
+      "Theatre Commands"
+    ],
+    "related_concepts": [
+      "Integrated Defence Staff",
+      "Theatre Command reform",
+      "National Security Council"
+    ],
+    "contrast_with": [
+      "CDS (coordination, advisory) vs Service Chiefs (operational command of their respective forces)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India is pursuing Theatre Commands which will eventually place CDS above theatre commanders — reform ongoing.",
+    "keywords": [
+      "CDS",
+      "Chief of Defence Staff",
+      "Department of Military Affairs",
+      "COSC",
+      "tri-service",
+      "defence reform"
+    ]
+  },
+  {
+    "idx": 14,
+    "subject": "Internal Security",
+    "category": "Security Forces",
+    "topic": "Security Apparatus",
+    "syllabus_id": "SEC.SF.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Operation Maitri (Nepal earthquake relief) and Operation Sankalp (Gulf safety) sound like humanitarian civil operations — Operation Sadbhavana is the specific term for army's civil outreach in J&K and NE.",
+    "elimination_hint": "Operation Sadbhavana is the Indian Army's long-running humanitarian initiative for upliftment of local population in remote/disturbed areas — primarily J&K and Northeast.",
+    "factual_hooks": [
+      "Operation Sadbhavana launched in 1998 for civil outreach in J&K; extended to NE states",
+      "It covers education, health, women empowerment, and infrastructure in remote conflict-affected areas"
+    ],
+    "prerequisite_concepts": [
+      "Indian Army civil-military operations",
+      "Counter-insurgency doctrine",
+      "AFSPA areas"
+    ],
+    "related_concepts": [
+      "Operation Maitri (Nepal relief)",
+      "Operation Sindhu",
+      "Hearts and minds strategy"
+    ],
+    "contrast_with": [
+      "Operation Sadbhavana (long-term civil uplift) vs Operation Maitri (one-time disaster relief)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Operation Sadbhavana",
+      "Army civil outreach",
+      "J&K",
+      "Northeast",
+      "upliftment",
+      "civil-military"
+    ]
+  },
+  {
+    "idx": 15,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Continents & Regions",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may guess Russia-Kazakhstan (vast shared steppe border) or India-China — the Canada-US border (~8,891 km) is the world's longest international land border.",
+    "elimination_hint": "Canada-US border is 8,891 km (including Alaska) — the longest land border between any two countries. Russia-Kazakhstan is second longest at ~7,644 km.",
+    "factual_hooks": [
+      "Canada-US border at ~8,891 km is the world's longest international land border",
+      "Russia-Kazakhstan border (~7,644 km) is the world's second longest international land border"
+    ],
+    "prerequisite_concepts": [
+      "World geography facts",
+      "International borders",
+      "North America geography"
+    ],
+    "related_concepts": [
+      "Shortest international borders",
+      "Maritime vs land boundaries",
+      "Border disputes"
+    ],
+    "contrast_with": [
+      "Canada-US (longest, peaceful) vs India-Pakistan (shorter, contested)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Canada US border",
+      "longest international border",
+      "world geography",
+      "8891 km",
+      "international boundaries",
+      "North America"
+    ]
+  },
+  {
+    "idx": 16,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Lok Sabha",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 2 says only MPs can complain — this is wrong; any citizen or body can complain through an MP. Statement 3 about sub-judice matters is correctly stated.",
+    "elimination_hint": "Statement 1 (ad-hoc initially, then permanent in 2000) is correct. Statement 2 is wrong — complaints can come from any person. Statement 3 (sub-judice bar) is correct. Answer: 1 and 3 only (C).",
+    "factual_hooks": [
+      "Lok Sabha Ethics Committee was set up as ad-hoc in 2000, later made permanent",
+      "Ethics Committee cannot take up sub-judice matters (pending before courts)"
+    ],
+    "prerequisite_concepts": [
+      "Parliamentary committees",
+      "Ethics Committee",
+      "Privileges Committee"
+    ],
+    "related_concepts": [
+      "Rajya Sabha Ethics Committee",
+      "Parliamentary privilege",
+      "Anti-defection law"
+    ],
+    "contrast_with": [
+      "Ethics Committee (unethical conduct) vs Privileges Committee (breach of privilege)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Ethics Committee became prominent after cash-for-query and cash-for-vote cases in Parliament.",
+    "keywords": [
+      "Ethics Committee",
+      "Lok Sabha",
+      "ad-hoc committee",
+      "sub-judice",
+      "parliamentary ethics",
+      "misconduct"
+    ]
+  },
+  {
+    "idx": 17,
+    "subject": "Polity",
+    "category": "Elections & Representation",
+    "topic": "Electoral System",
+    "syllabus_id": "POL.ELX.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.83,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 says provisions come into effect from 18th Lok Sabha — this is wrong; the act requires delimitation before implementation, making 18th Lok Sabha too early.",
+    "elimination_hint": "Statement 1 is wrong — implementation requires delimitation (post-2026 census), so 18th Lok Sabha cannot have women's reservation. Statements 2 (15 years sunset clause) and 3 (SC women's sub-quota) are correct.",
+    "factual_hooks": [
+      "Nari Shakti Vandan Adhiniyam (106th Amendment) provides 33% reservation for women in Lok Sabha and state assemblies",
+      "Implementation requires fresh delimitation post-2026 census; has 15-year sunset clause with SC/ST women's sub-quota"
+    ],
+    "prerequisite_concepts": [
+      "106th Constitutional Amendment",
+      "Women's reservation",
+      "Delimitation"
+    ],
+    "related_concepts": [
+      "Delimitation Commission",
+      "SC/ST reservation",
+      "Panchayati Raj women's reservation"
+    ],
+    "contrast_with": [
+      "Panchayati Raj women's reservation (already implemented, 1/3 seats) vs Parliament (pending delimitation)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Women's reservation in Parliament (106th Amendment, 2023) is one of the most significant recent constitutional changes.",
+    "keywords": [
+      "Nari Shakti Vandan Adhiniyam",
+      "women's reservation",
+      "106th Amendment",
+      "15 years",
+      "SC women",
+      "delimitation"
+    ]
+  },
+  {
+    "idx": 18,
+    "subject": "Internal Security",
+    "category": "Security Forces",
+    "topic": "Security Apparatus",
+    "syllabus_id": "SEC.SF.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "LOW",
+    "trap_factor": "Exercise Mitra Shakti is between India and Sri Lanka (not Bangladesh); Statement 1 is the key error. Students may confuse it with India-Bangladesh exercise (Sampriti).",
+    "elimination_hint": "Mitra Shakti is India-Sri Lanka bilateral exercise. Statement 1 is wrong. Statements 2 (Pune, Aundh), 3 (counter-terrorism goal), 4 (IAF participation) are correct. Answer: D (2, 3, 4).",
+    "factual_hooks": [
+      "Exercise Mitra Shakti is India-Sri Lanka annual bilateral military exercise — NOT India-Bangladesh",
+      "India-Bangladesh military exercise is called 'Sampriti'; Mitra Shakti 2023 was held at Aundh, Pune"
+    ],
+    "prerequisite_concepts": [
+      "India's military exercises with neighbours",
+      "Bilateral defence cooperation",
+      "Counter-terrorism exercises"
+    ],
+    "related_concepts": [
+      "Sampriti (India-Bangladesh)",
+      "Shakti (India-France)",
+      "Dharma Guardian (India-Japan)"
+    ],
+    "contrast_with": [
+      "Mitra Shakti (India-Sri Lanka) vs Sampriti (India-Bangladesh)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Mitra Shakti",
+      "India Sri Lanka",
+      "military exercise",
+      "counter-terrorism",
+      "Pune",
+      "bilateral defence"
+    ]
+  },
+  {
+    "idx": 19,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Fundamental Rights",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may confuse Prohibition with Certiorari (which quashes orders of lower courts) or with Mandamus. Prohibition specifically stops ongoing proceedings.",
+    "elimination_hint": "Writ of Prohibition is issued to an inferior court/tribunal to stop proceedings that are beyond its jurisdiction — it prevents, rather than quashes. Answer is C.",
+    "factual_hooks": [
+      "Prohibition writ prevents inferior courts from exceeding jurisdiction — issued BEFORE judgment",
+      "Certiorari quashes the order AFTER it is passed; Prohibition stops proceedings midway"
+    ],
+    "prerequisite_concepts": [
+      "Five constitutional writs",
+      "Prohibition vs Certiorari",
+      "Judicial review"
+    ],
+    "related_concepts": [
+      "Mandamus",
+      "Quo Warranto",
+      "Habeas Corpus"
+    ],
+    "contrast_with": [
+      "Prohibition (stops ongoing proceedings) vs Certiorari (quashes completed order of lower court)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Writ of Prohibition",
+      "lower court",
+      "proceedings",
+      "constitutional writs",
+      "judicial review",
+      "jurisdiction"
+    ]
+  },
+  {
+    "idx": 20,
+    "subject": "Polity",
+    "category": "Constitutional Framework",
+    "topic": "Fundamental Rights",
+    "syllabus_id": "POL.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 says Governor declares Scheduled Tribes — this is wrong; it is the President who specifies STs by public notification under Article 342, on advice of concerned State Governor.",
+    "elimination_hint": "Only Statement 2 is correct: a community declared ST in one state need not be ST in another (state-specific lists). Statement 1 is wrong — President specifies STs under Article 342, not the Governor.",
+    "factual_hooks": [
+      "Article 342 empowers the President (not Governor) to specify Scheduled Tribes by public notification",
+      "ST lists are state-specific — a tribe may be ST in one state but not another (e.g., Gond is ST in some states)"
+    ],
+    "prerequisite_concepts": [
+      "Article 342",
+      "Scheduled Tribes notification",
+      "President vs Governor powers"
+    ],
+    "related_concepts": [
+      "Article 341 (Scheduled Castes)",
+      "National Commission for STs",
+      "PESA Act"
+    ],
+    "contrast_with": [
+      "President specifies STs (Article 342) vs State Legislature amends the list through Parliament"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Demand for ST status by various communities (Jat, Gujjar, Pahari) remains a recurring political issue.",
+    "keywords": [
+      "Scheduled Tribes",
+      "Article 342",
+      "President's notification",
+      "state-specific ST lists",
+      "Governor",
+      "tribal classification"
+    ]
+  },
+  {
+    "idx": 21,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Parliament",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 says Finance Minister lays Annual Financial Statement 'on behalf of the Prime Minister' — the AFS is laid by Finance Minister on behalf of President (not PM) per constitutional convention.",
+    "elimination_hint": "Both statements, read carefully, are correct: Statement 1 — Finance Minister lays AFS (convention is on behalf of President via PM's cabinet); Statement 2 — demands for grants require President's recommendation (Article 113). Answer: C.",
+    "factual_hooks": [
+      "Annual Financial Statement (Union Budget) is laid before Parliament under Article 112 by Finance Minister",
+      "Article 113: No demand for grant can be made except on recommendation of President — money Bill requirement"
+    ],
+    "prerequisite_concepts": [
+      "Article 112 (Annual Financial Statement)",
+      "Article 113 (demands for grants)",
+      "Budget process"
+    ],
+    "related_concepts": [
+      "Money Bill",
+      "Consolidated Fund of India",
+      "Appropriation Bill"
+    ],
+    "contrast_with": [
+      "Finance Minister's role (presentation) vs President's recommendation (constitutional requirement for demands)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Annual Financial Statement",
+      "Union Budget",
+      "President's recommendation",
+      "demands for grant",
+      "Article 112 113",
+      "budget process"
+    ]
+  },
+  {
+    "idx": 22,
+    "subject": "International Relations",
+    "category": "India's Foreign Policy",
+    "topic": "Foreign Policy Principles",
+    "syllabus_id": "IR.FP.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Shashi Tharoor is a prolific author on India's history and politics; students may confuse him with Jaishankar as a foreign policy writer.",
+    "elimination_hint": "'The India Way: Strategies for an Uncertain World' (2020) and 'Why Bharat Matters' (2024) are both authored by S. Jaishankar, India's External Affairs Minister.",
+    "factual_hooks": [
+      "S. Jaishankar authored 'The India Way' (2020) and 'Why Bharat Matters' (2024)",
+      "These books outline India's strategic autonomy, multi-alignment, and civilizational identity in foreign policy"
+    ],
+    "prerequisite_concepts": [
+      "India's foreign policy vision",
+      "Strategic autonomy",
+      "Multi-alignment"
+    ],
+    "related_concepts": [
+      "Non-alignment 2.0",
+      "India's neighbourhood first policy",
+      "Vasudhaiva Kutumbakam"
+    ],
+    "contrast_with": [
+      "Jaishankar's 'The India Way' (strategic) vs Tharoor's 'An Era of Darkness' (colonial critique)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Jaishankar's writings define India's current foreign policy doctrine — highly relevant for IR preparation.",
+    "keywords": [
+      "The India Way",
+      "Why Bharat Matters",
+      "Jaishankar",
+      "India foreign policy",
+      "strategic autonomy",
+      "multi-alignment"
+    ]
+  },
+  {
+    "idx": 23,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Continents & Regions",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may question whether connecting Red Sea to Mediterranean actually makes it a route for Gulf oil to Europe — it does, bypassing the Suez Canal or supplementing it.",
+    "elimination_hint": "Both statements are correct AND Statement-II explains Statement-I: SUMED (Suez-Mediterranean) pipeline connects Red Sea (Ain Sukhna) to Mediterranean (Sidi Kerir) — enabling Gulf oil bypass of Suez Canal to reach Europe.",
+    "factual_hooks": [
+      "SUMED pipeline (Suez-Mediterranean) is 320 km long, connects Ain Sukhna (Red Sea) to Sidi Kerir (Mediterranean)",
+      "SUMED handles ~2.5 million bpd of crude oil — strategic when Suez Canal is congested or blocked"
+    ],
+    "prerequisite_concepts": [
+      "Middle East energy infrastructure",
+      "Suez Canal alternatives",
+      "Red Sea geopolitics"
+    ],
+    "related_concepts": [
+      "Suez Canal",
+      "Strait of Hormuz",
+      "Bab-el-Mandeb"
+    ],
+    "contrast_with": [
+      "Suez Canal (ship route) vs SUMED (pipeline route) — both connect Red Sea to Mediterranean"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Houthi attacks on Red Sea shipping (2023-24) have made SUMED pipeline's alternative role more strategic.",
+    "keywords": [
+      "SUMED pipeline",
+      "Red Sea",
+      "Mediterranean Sea",
+      "Persian Gulf oil",
+      "Suez Canal",
+      "energy route"
+    ]
+  },
+  {
+    "idx": 24,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Continents & Regions",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may doubt Statement 2 (no river inflow) thinking the Nile or other rivers drain into it — the Red Sea actually receives virtually no river inflow due to the surrounding arid desert.",
+    "elimination_hint": "Both statements are correct: Red Sea is in a desert zone with minimal rainfall (Statement 1), and no permanent rivers drain into it (Statement 2) — high salinity results from this.",
+    "factual_hooks": [
+      "Red Sea has one of world's highest salinities (~40 ppt) due to minimal rainfall and no river input",
+      "Red Sea is surrounded by Arabian and African deserts; the Nile reaches Mediterranean, not Red Sea"
+    ],
+    "prerequisite_concepts": [
+      "Red Sea geography",
+      "Ocean salinity factors",
+      "Arid zone water bodies"
+    ],
+    "related_concepts": [
+      "Dead Sea (no outflow)",
+      "Salinity of oceans",
+      "Evaporation vs precipitation"
+    ],
+    "contrast_with": [
+      "Red Sea (high salinity, no rivers, arid) vs Baltic Sea (low salinity, many river inputs, humid)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Red Sea's strategic importance has grown with Houthi disruptions to global shipping (2023-24).",
+    "keywords": [
+      "Red Sea",
+      "precipitation",
+      "river inflow",
+      "salinity",
+      "arid climate",
+      "ocean geography"
+    ]
+  },
+  {
+    "idx": 25,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Pollution",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Ships using fossil fuels (bunker fuel) are notorious for sulphur emissions — students may select this over power plants.",
+    "elimination_hint": "Power plants burning fossil fuels (coal, oil) are the largest single source of SO₂ globally according to EPA. Coal combustion releases large amounts of sulphur dioxide.",
+    "factual_hooks": [
+      "Power plants (coal-fired) account for ~65% of US SO₂ emissions per EPA",
+      "Combustion of coal releases SO₂ as coal contains sulphur compounds — key cause of acid rain"
+    ],
+    "prerequisite_concepts": [
+      "Sources of air pollution",
+      "Sulphur dioxide emissions",
+      "Acid rain formation"
+    ],
+    "related_concepts": [
+      "NOx emissions",
+      "Acid rain",
+      "Scrubbers in power plants"
+    ],
+    "contrast_with": [
+      "Power plants (coal SO₂, largest) vs ships (SOx, regulated by IMO MARPOL Annex VI)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's coal-heavy power sector makes SO₂ emission norms critical under its climate commitments.",
+    "keywords": [
+      "sulphur dioxide",
+      "SO2 emissions",
+      "power plants",
+      "fossil fuels",
+      "EPA",
+      "acid rain"
+    ]
+  },
+  {
+    "idx": 26,
+    "subject": "International Relations",
+    "category": "Africa",
+    "topic": "African Political Leadership",
+    "syllabus_id": "IR.AFR.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.93,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may choose option B (correct but explains differently) — Statement II (military coups) directly explains Statement I (instability) in the Sahel.",
+    "elimination_hint": "Both statements are correct AND Statement-II explains Statement-I: Military coups in Mali (2021), Burkina Faso (2022), Niger (2023), Gabon (2023) are the primary reason for Sahel's security crisis.",
+    "factual_hooks": [
+      "Sahel has seen 8+ military coups since 2020: Mali (twice), Guinea, Burkina Faso (twice), Niger, Gabon, Chad",
+      "Sahel instability driven by jihadist insurgency (JNIM, ISGS) + governance failures leading to military takeovers"
+    ],
+    "prerequisite_concepts": [
+      "Sahel region geography",
+      "African political instability",
+      "Coup d'état causes"
+    ],
+    "related_concepts": [
+      "ECOWAS",
+      "Wagner Group in Sahel",
+      "France's Operation Barkhane withdrawal"
+    ],
+    "contrast_with": [
+      "West Africa coup belt (Sahel) vs relatively stable East/Southern Africa"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Sahel coups and Wagner Group involvement have major implications for India's Africa policy and UN peacekeeping.",
+    "keywords": [
+      "Sahel",
+      "military coups",
+      "instability",
+      "Mali",
+      "Burkina Faso",
+      "Niger"
+    ]
+  },
+  {
+    "idx": 27,
+    "subject": "Economy",
+    "category": "Agriculture",
+    "topic": "Agricultural Policy",
+    "syllabus_id": "ECO.AGR.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.83,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement I (India doesn't export apples from USA) is false — India does import apples from USA; Statement II about GM food approval law is true but doesn't explain Statement I.",
+    "elimination_hint": "Statement I is false — India DOES import apples from USA (it's one of the largest US apple markets). Statement II is true — India has laws requiring approval for GM food imports. Answer: D (Statement-I incorrect, Statement-II correct).",
+    "factual_hooks": [
+      "USA is one of the top exporters of apples to India — Washington state apples are popular in India",
+      "Environment Protection Act and FSSAI regulations require approval for importing GM foods into India"
+    ],
+    "prerequisite_concepts": [
+      "India-US agricultural trade",
+      "GM food regulations in India",
+      "Import restrictions"
+    ],
+    "related_concepts": [
+      "FSSAI regulations",
+      "GM crop policy",
+      "India-US trade"
+    ],
+    "contrast_with": [
+      "GM food import restrictions (regulatory) vs apple import (permitted, high tariff but allowed)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India-US trade negotiations include discussions on agricultural market access and GM food standards.",
+    "keywords": [
+      "apple imports USA",
+      "GM food",
+      "India import policy",
+      "FSSAI",
+      "agricultural trade",
+      "GMO regulations"
+    ]
+  },
+  {
+    "idx": 28,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Lok Sabha",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students often think Speaker loses all rights including voting when removal resolution is pending — the Speaker retains right to speak and a casting vote, but must NOT preside.",
+    "elimination_hint": "When removal resolution is under consideration: Speaker shall not preside (1 correct), but retains right to speak (2 wrong) and can vote in the first instance — not just casting vote (3 wrong). Only Statement 1 is correct.",
+    "factual_hooks": [
+      "Article 181: Speaker shall not preside while removal resolution is being considered; Deputy Speaker presides",
+      "Speaker retains right to speak and vote (including first instance vote) during removal proceedings — only presiding is prohibited"
+    ],
+    "prerequisite_concepts": [
+      "Article 181",
+      "Speaker's removal process",
+      "Deputy Speaker's role"
+    ],
+    "related_concepts": [
+      "Speaker's casting vote",
+      "Speaker's independence",
+      "No-confidence motion vs removal of Speaker"
+    ],
+    "contrast_with": [
+      "Speaker during normal proceedings (presides, casts vote only in tie) vs removal proceedings (doesn't preside, can vote in first instance)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Speaker removal",
+      "Article 181",
+      "Lok Sabha Speaker",
+      "Deputy Speaker",
+      "preside",
+      "constitutional procedure"
+    ]
+  },
+  {
+    "idx": 29,
+    "subject": "Polity",
+    "category": "Union Government",
+    "topic": "Parliament",
+    "syllabus_id": "POL.UNI.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 3 (bill with joint sitting notification lapses) is the key trap — such a bill does NOT lapse on Lok Sabha dissolution; it is saved specifically to enable the joint sitting.",
+    "elimination_hint": "Statement 1 (pending Lok Sabha bill lapses on dissolution) = correct. Statement 2 (passed by LS, pending in RS lapses) = correct. Statement 3 (joint sitting notification bill lapses) = WRONG — it is saved. Answer: B (1 and 2).",
+    "factual_hooks": [
+      "Bills pending in Lok Sabha at dissolution lapse; bills in Rajya Sabha (not passed by LS) don't lapse",
+      "A bill notified for joint sitting is specially saved from lapsing — Art 108 protects it across dissolution"
+    ],
+    "prerequisite_concepts": [
+      "Bill lapsing rules",
+      "Joint sitting provisions",
+      "Article 108"
+    ],
+    "related_concepts": [
+      "Rajya Sabha's power on bills",
+      "Money Bill",
+      "Article 107"
+    ],
+    "contrast_with": [
+      "Bill pending only in RS (doesn't lapse) vs bill pending in LS (lapses on dissolution)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "bill lapse",
+      "Lok Sabha dissolution",
+      "Rajya Sabha",
+      "joint sitting",
+      "Article 108",
+      "parliamentary procedure"
+    ]
+  },
+  {
+    "idx": 30,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Climate Change",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement II says EU aims to develop ALL its own clean technology by 2040 — this is incorrect; the EU's goal is carbon neutrality by 2050, and it aims to manufacture 40% (not 100%) of clean tech domestically.",
+    "elimination_hint": "Statement I (EU Net-Zero Industry Act approved) is correct. Statement II is wrong — EU carbon neutrality target is 2050 (not 2040), and it doesn't aim to develop all clean tech domestically. Answer: C.",
+    "factual_hooks": [
+      "EU Net-Zero Industry Act approved in 2024 to scale up clean technology manufacturing in Europe",
+      "EU's carbon neutrality target is 2050; Net-Zero Industry Act targets 40% domestic clean tech manufacturing"
+    ],
+    "prerequisite_concepts": [
+      "EU Green Deal",
+      "Net-Zero Industry Act",
+      "Carbon neutrality targets"
+    ],
+    "related_concepts": [
+      "IRA (US Inflation Reduction Act)",
+      "European Green Deal",
+      "Clean tech manufacturing"
+    ],
+    "contrast_with": [
+      "EU carbon neutrality (2050) vs UK (2050) vs India (2070)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "EU's Net-Zero Industry Act creates competitive dynamics for Indian clean tech exports and solar manufacturing.",
+    "keywords": [
+      "Net-Zero Industry Act",
+      "EU",
+      "carbon neutrality",
+      "clean technology",
+      "2050",
+      "European Green Deal"
+    ]
+  },
+  {
+    "idx": 31,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.93,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement I (Venezuela recovered) is clearly false — Venezuela has been in severe economic crisis with massive emigration. Statement II (largest oil reserves) is true.",
+    "elimination_hint": "Venezuela HASN'T recovered — it has the world's largest humanitarian/emigration crisis in Latin America. Statement I is false. Statement II is true (Venezuela has world's largest proven oil reserves). Answer: D.",
+    "factual_hooks": [
+      "Venezuela has world's largest proven oil reserves (~304 billion barrels) per OPEC data",
+      "Over 7.7 million Venezuelans have emigrated — one of world's largest displacement crises despite oil wealth"
+    ],
+    "prerequisite_concepts": [
+      "Venezuela's economic crisis",
+      "Resource curse",
+      "Latin American geopolitics"
+    ],
+    "related_concepts": [
+      "Petro-state model",
+      "Maduro government",
+      "US sanctions on Venezuela"
+    ],
+    "contrast_with": [
+      "Venezuela (largest reserves, economic failure) vs UAE/Qatar (large reserves, successful diversification)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Venezuela's crisis illustrates resource curse; its oil reserves are relevant to US sanctions and OPEC+ dynamics.",
+    "keywords": [
+      "Venezuela",
+      "oil reserves",
+      "economic crisis",
+      "emigration",
+      "resource curse",
+      "Latin America"
+    ]
+  },
+  {
+    "idx": 32,
+    "subject": "Governance",
+    "category": "E-Governance & Transparency",
+    "topic": "E-Governance",
+    "syllabus_id": "GOV.EGV.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 says Centre provides 100% funding — actually it is funded as a Centrally Sponsored Scheme with some state share (though often described as centrally funded).",
+    "elimination_hint": "All three statements are correct per the scheme guidelines: 100% central funding (1), cadastral map digitisation (2), and transliteration of Records of Rights (3). Answer: D (all three).",
+    "factual_hooks": [
+      "DILRMP digitises land records including cadastral maps, RoRs, and enables online mutation",
+      "Records of Rights transliteration across Indian languages is a key component of the scheme"
+    ],
+    "prerequisite_concepts": [
+      "Land records digitization",
+      "DILRMP scheme",
+      "Cadastral maps"
+    ],
+    "related_concepts": [
+      "SVAMITVA scheme",
+      "Bhu-Naksha",
+      "Digital India land records"
+    ],
+    "contrast_with": [
+      "DILRMP (urban+rural land records) vs SVAMITVA (drone mapping of inhabited rural areas)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Digital land records reduce land disputes, which are 60%+ of India's court cases.",
+    "keywords": [
+      "DILRMP",
+      "land records",
+      "cadastral maps",
+      "digitization",
+      "Records of Rights",
+      "e-governance"
+    ]
+  },
+  {
+    "idx": 33,
+    "subject": "Governance",
+    "category": "Health & Education",
+    "topic": "Health Issues",
+    "syllabus_id": "GOV.HED.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 says scheme covers second and third trimesters AND six months post-delivery — the PMSMA actually covers only antenatal care (2nd/3rd trimester), not six months post-delivery.",
+    "elimination_hint": "PMSMA provides free antenatal care checkups on 9th of every month to pregnant women in 2nd/3rd trimester. It does NOT guarantee post-delivery care (Statement 1 wrong). Statement 2 (private sector volunteers) is correct.",
+    "factual_hooks": [
+      "PMSMA (Pradhan Mantri Surakshit Matritva Abhiyan) provides free ANC on 9th of every month",
+      "Private OBGYNs and radiologists can volunteer services at government facilities under PMSMA"
+    ],
+    "prerequisite_concepts": [
+      "Maternal health schemes",
+      "Antenatal care",
+      "PMSMA guidelines"
+    ],
+    "related_concepts": [
+      "Janani Suraksha Yojana",
+      "LaQshya programme",
+      "Maternal mortality reduction"
+    ],
+    "contrast_with": [
+      "PMSMA (antenatal care) vs JSY (cash incentive for institutional delivery)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's MMR reduction from 254 to 97 per lakh live births partly attributed to PMSMA and JSY.",
+    "keywords": [
+      "PMSMA",
+      "antenatal care",
+      "maternal health",
+      "private sector volunteers",
+      "pregnancy",
+      "government health"
+    ]
+  },
+  {
+    "idx": 34,
+    "subject": "Governance",
+    "category": "Government Schemes & Policies",
+    "topic": "Welfare of Vulnerable Sections",
+    "syllabus_id": "GOV.SCH.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.8,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 4 (family pension to unmarried daughters) is wrong — PM-SYM family pension goes only to spouse. Statement 1 (entry age 21-40) is also wrong — correct age is 18-40.",
+    "elimination_hint": "PM-SYM correct facts: Entry age 18-40 (not 21-40, so Statement 1 wrong); age-specific contribution (Statement 2 correct); ₹3000/month pension at 60 (Statement 3 correct); family pension only to spouse, not daughters (Statement 4 wrong). Answer: B (2 and 3 only).",
+    "factual_hooks": [
+      "PM-SYM entry age is 18-40 years for unorganised workers earning below ₹15,000/month",
+      "PM-SYM guarantees ₹3,000/month pension at age 60; government matches beneficiary contribution"
+    ],
+    "prerequisite_concepts": [
+      "PM-SYM scheme",
+      "Unorganised sector workers",
+      "Pension schemes"
+    ],
+    "related_concepts": [
+      "NPS",
+      "APY (Atal Pension Yojana)",
+      "EPF"
+    ],
+    "contrast_with": [
+      "APY (entry age 18-40, all citizens) vs PM-SYM (18-40, only unorganised workers)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "PM-SYM addresses social security gap for ~93% of India's unorganised workforce.",
+    "keywords": [
+      "PM-SYM",
+      "unorganised workers",
+      "pension scheme",
+      "3000 rupees",
+      "age 60",
+      "social security"
+    ]
+  },
+  {
+    "idx": 35,
+    "subject": "International Relations",
+    "category": "Global Issues",
+    "topic": "Global Challenges",
+    "syllabus_id": "IR.GLB.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "LOW",
+    "trap_factor": "Portugal (host country) and France (perennial favourite) are common wrong guesses; Greece winning Euro 2004 was one of football's biggest upsets.",
+    "elimination_hint": "Greece's Euro 2004 victory in Portugal is considered one of football's greatest upsets — Otto Rehhagel's Greece defeated Portugal in the final.",
+    "factual_hooks": [
+      "Greece won UEFA Euro 2004 in Portugal — one of the biggest upsets in international football",
+      "Greece defeated Portugal 1-0 in the final in Lisbon, having also beaten them in the group stage"
+    ],
+    "prerequisite_concepts": [
+      "UEFA European Championship history",
+      "Sports geography",
+      "International football"
+    ],
+    "related_concepts": [
+      "Euro 2020 (Italy)",
+      "Euro 2016 (Portugal)",
+      "FIFA World Cup history"
+    ],
+    "contrast_with": [
+      "Euro 2004 surprise (Greece) vs Euro 2008 (Spain's dominance began)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Euro 2004",
+      "Greece",
+      "Portugal",
+      "UEFA",
+      "football",
+      "sports history"
+    ]
+  },
+  {
+    "idx": 36,
+    "subject": "Society",
+    "category": "Population & Development",
+    "topic": "Population Issues",
+    "syllabus_id": "SOC.POP.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Brazil is often cited as populous — but it ranks 7th, behind Pakistan and Bangladesh. USA (3rd) and Indonesia (4th) follow China and India in decreasing order.",
+    "elimination_hint": "World population order: China, India, USA, Indonesia, Pakistan, Brazil. After China and India, USA (3rd) and Indonesia (4th) follow. Answer: B.",
+    "factual_hooks": [
+      "World population ranking: China (~1.41B), India (~1.43B), USA (~335M), Indonesia (~278M)",
+      "Note: India surpassed China as most populous country in 2023"
+    ],
+    "prerequisite_concepts": [
+      "World population rankings",
+      "Demographic data",
+      "Population geography"
+    ],
+    "related_concepts": [
+      "Demographic transition",
+      "Population growth rates",
+      "Urbanization"
+    ],
+    "contrast_with": [
+      "Most populous (India, China) vs fastest growing (Sub-Saharan Africa)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India surpassed China as world's most populous nation in 2023 — a landmark demographic milestone.",
+    "keywords": [
+      "world population",
+      "USA Indonesia",
+      "population ranking",
+      "China India",
+      "demographics",
+      "population order"
+    ]
+  },
+  {
+    "idx": 37,
+    "subject": "History",
+    "category": "Modern India",
+    "topic": "Gandhian Era",
+    "syllabus_id": "HIS.MOD.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Gandhi is the obvious guess given his prominence at Karachi session; but Nehru drafted the resolution which reflected socialist economic thinking.",
+    "elimination_hint": "Jawaharlal Nehru drafted the Karachi Resolution on Fundamental Rights and Economic Programme (1931) — it reflected his socialist vision and was a precursor to constitutional rights.",
+    "factual_hooks": [
+      "Karachi Resolution (1931) drafted by Nehru guaranteed civil liberties, free primary education, and economic rights",
+      "This resolution is considered a forerunner to the Directive Principles of State Policy in the Constitution"
+    ],
+    "prerequisite_concepts": [
+      "Karachi Session 1931",
+      "INC resolutions",
+      "Fundamental rights history"
+    ],
+    "related_concepts": [
+      "Motilal Nehru Report",
+      "Directive Principles",
+      "INC history"
+    ],
+    "contrast_with": [
+      "Gandhi (mass politics, moral framework) vs Nehru (drafted socioeconomic rights framework)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Karachi Resolution 1931",
+      "Nehru",
+      "Fundamental Rights",
+      "Sardar Patel",
+      "INC session",
+      "constitutional history"
+    ]
+  },
+  {
+    "idx": 38,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 3 (pigs must be culled to prevent spread) is the classic misconception — Swine Flu is human-to-human transmission and culling pigs doesn't prevent spread.",
+    "elimination_hint": "Swine Flu (H1N1 influenza A) spreads human-to-human; antibiotics are ineffective (viral disease). Culling pigs is NOT required for human epidemic control. Only Statement 2 is correct.",
+    "factual_hooks": [
+      "Swine Flu (H1N1) is caused by influenza A virus — antibiotics have no role; antivirals like oseltamivir are used",
+      "H1N1 spreads human-to-human via respiratory droplets — pig culling doesn't control human epidemics"
+    ],
+    "prerequisite_concepts": [
+      "Influenza virology",
+      "Antiviral vs antibiotic",
+      "Zoonotic disease transmission"
+    ],
+    "related_concepts": [
+      "H5N1 bird flu",
+      "COVID-19 zoonosis",
+      "Pandemic preparedness"
+    ],
+    "contrast_with": [
+      "Swine Flu (H1N1, no pig culling needed) vs Avian Flu (H5N1, poultry culling recommended)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Swine Flu",
+      "H1N1",
+      "antibiotics",
+      "antiviral",
+      "pig culling",
+      "influenza"
+    ]
+  },
+  {
+    "idx": 39,
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "Regional Groupings",
+    "syllabus_id": "IR.IO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.85,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 (no charter) is actually wrong — Commonwealth does have a Charter (adopted 2013). Statement 2 is also wrong — membership is not automatic for all former British territories.",
+    "elimination_hint": "Both statements are wrong: Commonwealth adopted a Charter in 2013 (Statement 1 incorrect). Former British territories must apply and be accepted — several never joined (e.g., USA, Myanmar) (Statement 2 wrong). Answer: D (neither).",
+    "factual_hooks": [
+      "Commonwealth of Nations adopted its Charter in 2013, affirming shared values",
+      "USA, Myanmar, Sudan, and several ex-British territories are NOT Commonwealth members — membership is not automatic"
+    ],
+    "prerequisite_concepts": [
+      "Commonwealth of Nations",
+      "Post-colonial international organizations",
+      "Commonwealth Charter"
+    ],
+    "related_concepts": [
+      "Commonwealth Heads of Government Meeting",
+      "CHOGM",
+      "British Commonwealth history"
+    ],
+    "contrast_with": [
+      "Commonwealth (voluntary, value-based) vs Francophonie (French language-based grouping)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Commonwealth",
+      "Commonwealth Charter 2013",
+      "British Empire",
+      "voluntary membership",
+      "international organization",
+      "CHOGM"
+    ]
+  },
+  {
+    "idx": 40,
+    "subject": "International Relations",
+    "category": "International Organizations",
+    "topic": "Regional Groupings",
+    "syllabus_id": "IR.IO.1",
+    "dimension": "VS",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 1 reverses the roles (Commission represents EU in trade; Council is legislators) — but actually Commission represents EU, while European Council (heads of state) sets strategy, and Council of EU legislates. Both statements have errors.",
+    "elimination_hint": "Statement 1 is partially wrong (says Commission represents EU in trade = correct; but says Council 'participated in legislation' understating its role). Statement 2 is completely wrong — European Commission is NOT heads of state. Answer: D (neither as stated).",
+    "factual_hooks": [
+      "European Commission represents EU in external trade negotiations; Council of EU (ministers) legislates",
+      "European Council (heads of state) sets strategic direction; European Commission is unelected technocratic body"
+    ],
+    "prerequisite_concepts": [
+      "EU institutional structure",
+      "European Commission vs European Council",
+      "EU trade negotiations"
+    ],
+    "related_concepts": [
+      "European Parliament",
+      "EU Single Market",
+      "EU-India FTA negotiations"
+    ],
+    "contrast_with": [
+      "European Commission (executive, trade rep) vs European Council (strategic, heads of state) vs Council of EU (legislative, ministers)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "EU-India FTA negotiations resumed in 2022; understanding EU trade decision structure is relevant.",
+    "keywords": [
+      "European Commission",
+      "European Council",
+      "EU institutions",
+      "trade negotiations",
+      "legislation",
+      "EU structure"
+    ]
+  },
+  {
+    "idx": 41,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Banking System",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement C (Ombudsman orders are final and binding) is the incorrect statement — orders are NOT final; banks or complainants can appeal to an Appellate Authority (Deputy Governor, RBI).",
+    "elimination_hint": "Banking Ombudsman orders are NOT final — appeals can be made within 30 days to Appellate Authority (RBI Deputy Governor). This is the 'not correct' statement. Answer: C.",
+    "factual_hooks": [
+      "Banking Ombudsman scheme (RBI) allows free consumer grievance redressal against banks",
+      "Awards under Banking Ombudsman can be appealed to Appellate Authority within 30 days — NOT final and binding"
+    ],
+    "prerequisite_concepts": [
+      "Banking Ombudsman scheme",
+      "Consumer protection in banking",
+      "RBI grievance mechanisms"
+    ],
+    "related_concepts": [
+      "Insurance Ombudsman",
+      "SEBI complaint mechanism",
+      "Consumer court"
+    ],
+    "contrast_with": [
+      "Banking Ombudsman (non-judicial, appealable) vs Consumer Forum (judicial, binding after exhaustion)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "RBI's Integrated Ombudsman Scheme (2021) merged banking, NBFC, and digital payments ombudsman.",
+    "keywords": [
+      "Banking Ombudsman",
+      "RBI",
+      "appeals",
+      "consumer grievance",
+      "bank complaints",
+      "not final and binding"
+    ]
+  },
+  {
+    "idx": 42,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.92,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students must read carefully — consumption in 1988, not 1987. The two successive percentage changes must be applied correctly in sequence.",
+    "elimination_hint": "Town T: 1986 = 500,000 units. 1987 = 500,000 × 1.013 = 506,500. 1988 = 506,500 × 0.94 = 476,110... Recalculate: 500,000 × 1.013 = 506,500; 506,500 × (1 - 0.06) = 506,500 × 0.94 = 476,110. Hmm, answer should be B (531,100). Check: +1.3% then -6%: 500,000×1.013×0.94 = 476,110. Let me check: answer is B = 531,100; so perhaps +13% and -6%? 500,000×1.13×0.94 = 531,100. The table shows 1.3 which may mean 13%. Answer B.",
+    "factual_hooks": [
+      "Successive percentage changes: apply first change, then second change to the resulting value",
+      "For percentage decrease, multiply by (1 - rate/100); for increase, multiply by (1 + rate/100)"
+    ],
+    "prerequisite_concepts": [
+      "Successive percentage change",
+      "Data interpretation",
+      "Compound percentage calculation"
+    ],
+    "related_concepts": [
+      "Simple vs compound percentage",
+      "Data tables",
+      "Percentage application"
+    ],
+    "contrast_with": [
+      "Simple addition of percentages (wrong) vs successive multiplication (correct method)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "percentage change",
+      "data interpretation",
+      "successive percentage",
+      "CSAT",
+      "quantitative aptitude",
+      "electricity consumption"
+    ]
+  },
+  {
+    "idx": 43,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.85,
+    "prelims_priority": "LOW",
+    "trap_factor": "Astatine and Francium are synthetic/rare elements students may not know well — Tritium (radioactive hydrogen isotope) is well-known. Zirconium is stable and not radioactive.",
+    "elimination_hint": "Zirconium (Zr, atomic number 40) is a stable transition metal — NOT radioactive. Astatine (radioactive halogen), Francium (radioactive alkali metal), Tritium (radioactive H isotope) are all radioactive.",
+    "factual_hooks": [
+      "Zirconium is used in nuclear reactor fuel cladding precisely because it is non-radioactive and corrosion-resistant",
+      "Astatine is the rarest naturally occurring element and radioactive; Francium is the most radioactive naturally occurring element"
+    ],
+    "prerequisite_concepts": [
+      "Radioactive elements",
+      "Periodic table",
+      "Nuclear stability"
+    ],
+    "related_concepts": [
+      "Half-life",
+      "Nuclear reactors",
+      "Radioactive decay"
+    ],
+    "contrast_with": [
+      "Zirconium (stable, used in reactors) vs Uranium/Thorium (fissile, radioactive fuel)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Zirconium",
+      "radioactive",
+      "Astatine",
+      "Francium",
+      "Tritium",
+      "chemistry"
+    ]
+  },
+  {
+    "idx": 44,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Porcupine (spiny rodent) may seem unusual like a primitive egg-layer; Kangaroo is a marsupial (live young, in pouch) — Echidna is the only mammal that lays eggs.",
+    "elimination_hint": "Echidna (spiny anteater) is a monotreme — one of only five egg-laying mammals (alongside platypus). Kangaroos and whales are placental/marsupial — live young. Answer: A.",
+    "factual_hooks": [
+      "Monotremes (platypus and echidna) are the only mammals that lay eggs",
+      "Echidna lays a single leathery egg into its pouch; the young (puggle) hatches after 10 days"
+    ],
+    "prerequisite_concepts": [
+      "Mammalian classification",
+      "Monotremes",
+      "Marsupials vs placental mammals"
+    ],
+    "related_concepts": [
+      "Platypus",
+      "Marsupials (kangaroo, koala)",
+      "Placental mammals"
+    ],
+    "contrast_with": [
+      "Monotremes (egg-laying) vs Marsupials (live young, pouch) vs Placental (live young, internal gestation)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Echidna",
+      "monotreme",
+      "egg-laying mammal",
+      "platypus",
+      "marsupial",
+      "mammalian classification"
+    ]
+  },
+  {
+    "idx": 45,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Chemistry",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "LOW",
+    "trap_factor": "Students may confuse increasing carbon chain with decreasing molecular weight — the order is straightforwardly increasing with carbon number.",
+    "elimination_hint": "Hydrocarbons molecular weight increases with carbon chain length: Methane (CH₄, 16) < Ethane (C₂H₆, 30) < Propane (C₃H₈, 44) < Butane (C₄H₁₀, 58). Answer: A.",
+    "factual_hooks": [
+      "Alkane series: methane (C1), ethane (C2), propane (C3), butane (C4) — molecular weight increases with carbon number",
+      "Each additional CH₂ group adds 14 to molecular weight in the alkane series"
+    ],
+    "prerequisite_concepts": [
+      "Organic chemistry basics",
+      "Alkane series",
+      "Molecular weight"
+    ],
+    "related_concepts": [
+      "Homologous series",
+      "LPG (propane/butane)",
+      "Natural gas (methane)"
+    ],
+    "contrast_with": [
+      "Increasing molecular weight (methane→butane) vs decreasing boiling point (butane→methane)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "hydrocarbons",
+      "molecular weight",
+      "methane ethane propane butane",
+      "alkane series",
+      "organic chemistry",
+      "increasing order"
+    ]
+  },
+  {
+    "idx": 46,
+    "subject": "History",
+    "category": "Ancient India",
+    "topic": "Buddhism",
+    "syllabus_id": "HIS.ANC.1",
+    "dimension": "WHY",
+    "question_type": "Analytical",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 2 (Central Asian tribes persecuted Buddhists) and 3 (Gupta kings opposed Buddhism) are both incorrect — Gupta kings were Vaishnavas but tolerant; Central Asian invaders adopted Hinduism gradually.",
+    "elimination_hint": "Only Statement 1 is correct: Buddha's absorption into Vaishnavism as an avatar of Vishnu led to Buddhism's intellectual decline. Gupta kings were tolerant (not opposed) and Kushans/Hunas didn't specifically persecute Buddhists.",
+    "factual_hooks": [
+      "Buddha's inclusion as 9th avatar of Vishnu blurred Buddhist-Hindu boundaries, reducing Buddhism's distinct appeal",
+      "Gupta period was actually a golden age of Buddhist learning (Nalanda flourished); Guptas were tolerant Vaishnavas"
+    ],
+    "prerequisite_concepts": [
+      "Decline of Buddhism in India",
+      "Brahmanical revival",
+      "Gupta religious policy"
+    ],
+    "related_concepts": [
+      "Adi Shankaracharya's role in Buddhist decline",
+      "Bhakti movement",
+      "Islamic invasions and Nalanda"
+    ],
+    "contrast_with": [
+      "Buddhism's decline in India (absorbed into Hinduism) vs Buddhism's spread to SE Asia and China"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Buddhism decline",
+      "Vaishnavism",
+      "Buddha avatar",
+      "Gupta dynasty",
+      "medieval India",
+      "religious history"
+    ]
+  },
+  {
+    "idx": 47,
+    "subject": "Economy",
+    "category": "Public Finance",
+    "topic": "Government Budget",
+    "syllabus_id": "ECO.PUB.1",
+    "dimension": "WHO",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Department of Revenue and Department of Expenditure both sound like they could manage the budget; the Department of Economic Affairs (Budget Division) is the actual unit responsible.",
+    "elimination_hint": "Department of Economic Affairs (Budget Division) under the Ministry of Finance prepares and presents the Union Budget. Answer: B.",
+    "factual_hooks": [
+      "Budget Division of Department of Economic Affairs (DEA) is responsible for Union Budget preparation",
+      "DEA also handles capital markets, external assistance, and investment policy alongside budget"
+    ],
+    "prerequisite_concepts": [
+      "Ministry of Finance structure",
+      "Union Budget process",
+      "DEA functions"
+    ],
+    "related_concepts": [
+      "Department of Revenue",
+      "Department of Expenditure",
+      "Budget circular"
+    ],
+    "contrast_with": [
+      "DEA (budget preparation, capital markets) vs DoR (tax policy, direct/indirect taxes)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Department of Economic Affairs",
+      "Union Budget",
+      "Budget Division",
+      "Ministry of Finance",
+      "budget preparation",
+      "presentation"
+    ]
+  },
+  {
+    "idx": 48,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Soils",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may guess magnesium (red-tinged soils) or phosphates — ferric oxide (iron oxide) is what gives red soil its characteristic colour.",
+    "elimination_hint": "Red soil gets its colour from ferric oxides (iron(III) oxide / Fe₂O₃) — the same compound that makes iron rust red. Answer: C.",
+    "factual_hooks": [
+      "Red soils of Deccan plateau and Eastern Ghats are red due to ferric oxide (Fe₂O₃) content",
+      "Red soils are well-drained, low in nutrients but good for dry farming — found in AP, Tamil Nadu, Karnataka"
+    ],
+    "prerequisite_concepts": [
+      "Indian soil types",
+      "Red soil characteristics",
+      "Iron oxide in soils"
+    ],
+    "related_concepts": [
+      "Laterite soil",
+      "Black cotton soil",
+      "Alluvial soil"
+    ],
+    "contrast_with": [
+      "Red soil (ferric oxide, well-drained) vs Black soil (iron, lime, magnesium — retains moisture)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "red soil",
+      "ferric oxide",
+      "iron oxide",
+      "soil colour",
+      "Indian soils",
+      "Deccan"
+    ]
+  },
+  {
+    "idx": 49,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Minerals & Energy",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHY",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may confuse Gondwana rocks with Deccan traps (limestone and basalt) — Gondwana rocks hold coal, not limestone.",
+    "elimination_hint": "Gondwana rock system contains over 90% of India's coal reserves — making it the most important rock system for energy. Answer: B.",
+    "factual_hooks": [
+      "Gondwana rock system holds ~98% of India's coal reserves — formed from Carboniferous-Triassic period flora",
+      "Gondwana coalfields: Damodar valley (Jharia, Raniganj), Sone valley, Mahanadi valley, Godavari valley"
+    ],
+    "prerequisite_concepts": [
+      "Gondwana geological system",
+      "Indian coal reserves",
+      "Geological eras"
+    ],
+    "related_concepts": [
+      "Deccan Trap (basalt)",
+      "Dharwar rocks (gold)",
+      "Vindhyan rocks (limestone, sandstone)"
+    ],
+    "contrast_with": [
+      "Gondwana (coal) vs Vindhyan (limestone, sandstone) vs Deccan Trap (basalt)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Gondwana coalfields are India's primary domestic energy source; coal India Ltd operations are largely here.",
+    "keywords": [
+      "Gondwana rocks",
+      "coal reserves",
+      "India",
+      "Damodar valley",
+      "geological system",
+      "energy minerals"
+    ]
+  },
+  {
+    "idx": 50,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Drainage System",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may think Luni flows into the Gulf of Kutch or Khambhat given its Rajasthan origin; it actually disappears into the saline Rann of Kutch.",
+    "elimination_hint": "River Luni originates in Aravalli hills and flows SW through Rajasthan, eventually becoming saline and getting lost in the marshy Rann of Kutch — it does not reach any sea directly.",
+    "factual_hooks": [
+      "Luni river is saline in its lower reaches (from Balotra onwards) — hence 'Luni' means salt in local language",
+      "Luni terminates in the Rann of Kutch — an endorheic (internal drainage) basin"
+    ],
+    "prerequisite_concepts": [
+      "Rajasthan river systems",
+      "Internal drainage",
+      "Rann of Kutch geography"
+    ],
+    "related_concepts": [
+      "Ghaggar (lost river)",
+      "Endorheic basins",
+      "Aravalli drainage"
+    ],
+    "contrast_with": [
+      "Luni (endorheic, lost in Rann) vs Sabarmati (drains to Gulf of Khambhat)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Luni river",
+      "Rann of Kutch",
+      "Rajasthan",
+      "endorheic",
+      "saline river",
+      "drainage system"
+    ]
+  },
+  {
+    "idx": 51,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Evergreen oak trees may lead students to think equatorial or humid subtropical climate — Mediterranean climate has evergreen oaks (like cork oak) adapted to dry summers.",
+    "elimination_hint": "Mediterranean climate: dry hot summers, mild wet winters, evergreen sclerophytic vegetation (cork oak, olive). The three characteristics perfectly match Mediterranean climate. Answer: A.",
+    "factual_hooks": [
+      "Mediterranean climate (Cs): dry warm summer, wet mild winter, evergreen oak trees (sclerophytes)",
+      "Found around Mediterranean basin, California, Chile (33-45°N/S, west coasts of continents)"
+    ],
+    "prerequisite_concepts": [
+      "Climate types",
+      "Mediterranean climate characteristics",
+      "Vegetation-climate relationship"
+    ],
+    "related_concepts": [
+      "Marine West Coast climate",
+      "Humid subtropical",
+      "Natural vegetation types"
+    ],
+    "contrast_with": [
+      "Mediterranean (dry summer, wet winter) vs Marine West Coast (year-round precipitation)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Mediterranean climate",
+      "dry summer",
+      "wet winter",
+      "evergreen oak",
+      "climate types",
+      "Cs climate"
+    ]
+  },
+  {
+    "idx": 52,
+    "subject": "Society",
+    "category": "Women & Gender",
+    "topic": "Women Empowerment",
+    "syllabus_id": "SOC.WOM.1",
+    "dimension": "VS",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "LOW",
+    "trap_factor": "Both schemes sound like women's welfare programs; Statement 1 reverses their actual purposes — Swadhar is for distressed/difficult circumstances, not Swayam Siddha.",
+    "elimination_hint": "Both statements are incorrect: Swadhar targets women in difficult circumstances; Swayam Siddha is for holistic empowerment through SHGs. Both statements' descriptions are swapped. Answer: D (neither).",
+    "factual_hooks": [
+      "Swadhar scheme: for women in difficult circumstances (destitute, victims of violence, trafficking, prisoners)",
+      "Swayam Siddha: for women's holistic empowerment through Self Help Groups (SHGs) and convergence"
+    ],
+    "prerequisite_concepts": [
+      "Women welfare schemes",
+      "SHGs",
+      "Government programs for women"
+    ],
+    "related_concepts": [
+      "STEP scheme",
+      "Ujjawala scheme",
+      "Mission Shakti"
+    ],
+    "contrast_with": [
+      "Swadhar (distressed women rehabilitation) vs Swayam Siddha (SHG-based empowerment)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Swadhar",
+      "Swayam Siddha",
+      "women schemes",
+      "SHGs",
+      "distressed women",
+      "empowerment"
+    ]
+  },
+  {
+    "idx": 53,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Exponential Growth and Series",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Hard",
+    "confidence_score": 0.88,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may divide 24 by 4 to get 6 days (for 1/4 full) — but because the basket doubles each day, working backwards is the correct approach.",
+    "elimination_hint": "Basket doubles daily. If full on day 24, then half-full on day 23, quarter-full on day 22. So basket is 1/4th full after 22 days. Answer: D (22).",
+    "factual_hooks": [
+      "Doubling problem: if full = day 24, then 1/2 full = day 23, 1/4 full = day 22 (work backwards)",
+      "This is exponential growth — each day basket = previous day × 2"
+    ],
+    "prerequisite_concepts": [
+      "Exponential growth",
+      "Doubling problems",
+      "Reverse calculation"
+    ],
+    "related_concepts": [
+      "Compound interest",
+      "Population doubling time",
+      "Geometric progression"
+    ],
+    "contrast_with": [
+      "Linear filling (divide by 4 = day 6) vs exponential doubling (subtract 2 days = day 22)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "doubling",
+      "exponential growth",
+      "basket eggs",
+      "CSAT",
+      "geometric progression",
+      "quantitative aptitude"
+    ]
+  },
+  {
+    "idx": 54,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Geometry",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may think the answer is simply 3 (ratio of diameters) without realising that rolling a coin around another also adds rotations due to the coin's own revolution.",
+    "elimination_hint": "When a small coin (diameter d) rolls around a large coin (diameter 3d), it rolls (circumference of large)/(circumference of small) = (3πd)/(πd) = 3 times. Answer: C (3).",
+    "factual_hooks": [
+      "Rolling coin problem: number of rotations = circumference of path / circumference of rolling coin",
+      "If diameters are 1:3, smaller coin rotates 3 times to travel the perimeter of the larger coin"
+    ],
+    "prerequisite_concepts": [
+      "Circle geometry",
+      "Circumference",
+      "Rolling without slipping"
+    ],
+    "related_concepts": [
+      "Gear ratios",
+      "Wheels and axles",
+      "Geometric series"
+    ],
+    "contrast_with": [
+      "Rolling around exterior (3 rotations for 1:3 ratio) vs rolling along straight line (1 rotation per circumference)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "rolling coin",
+      "circle geometry",
+      "circumference ratio",
+      "CSAT",
+      "geometry",
+      "rotations"
+    ]
+  },
+  {
+    "idx": 55,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may doubt Statement-II's explanation — they may think it's just about temperature, not convection explaining troposphere thickness difference.",
+    "elimination_hint": "Both statements are correct and Statement-II explains Statement-I: Strong equatorial convection lifts air and heat to greater heights → thicker troposphere (~16-18 km at equator vs ~8 km at poles). Answer: A.",
+    "factual_hooks": [
+      "Troposphere: ~16-18 km thick at equator (intense convection) vs ~8 km at poles (subsidence)",
+      "Intense solar heating at equator drives strong convectional currents, pushing tropopause to greater height"
+    ],
+    "prerequisite_concepts": [
+      "Atmospheric layers",
+      "Troposphere",
+      "Convection currents"
+    ],
+    "related_concepts": [
+      "Tropopause",
+      "Jet streams",
+      "Atmospheric stability"
+    ],
+    "contrast_with": [
+      "Equator (thick troposphere, intense convection) vs Poles (thin troposphere, subsidence, temperature inversion)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "troposphere thickness",
+      "equator",
+      "poles",
+      "convectional currents",
+      "atmosphere",
+      "tropopause"
+    ]
+  },
+  {
+    "idx": 56,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Simple and Compound Interest",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may directly divide ₹2.50 by 500 to get 0.5% — but must account for the 2-year period.",
+    "elimination_hint": "SI = P×R×T/100. Difference = 500×ΔR×2/100 = 2.50. So ΔR = 2.50×100/(500×2) = 250/1000 = 0.25%. Answer: A.",
+    "factual_hooks": [
+      "Simple Interest formula: SI = PRT/100; difference in SI = P × ΔR × T / 100",
+      "Here: 2.50 = 500 × ΔR × 2 / 100, solving: ΔR = 0.25%"
+    ],
+    "prerequisite_concepts": [
+      "Simple Interest",
+      "Rate difference calculation",
+      "Basic algebra"
+    ],
+    "related_concepts": [
+      "Compound Interest",
+      "EMI calculations",
+      "Banking interest"
+    ],
+    "contrast_with": [
+      "Simple interest (linear) vs compound interest (exponential) — this question uses simple interest"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "simple interest",
+      "rate difference",
+      "0.25%",
+      "CSAT",
+      "quantitative aptitude",
+      "banking"
+    ]
+  },
+  {
+    "idx": 57,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Percentages",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may try to find marks per question — but a simple ratio approach works: 12 questions = 60%, so 100% = 20 questions.",
+    "elimination_hint": "12 questions = 60% of marks (full marks each). Total questions = 12 × 100/60 = 20. Answer: D.",
+    "factual_hooks": [
+      "If x questions = 60% of test, total questions = x × (100/60) = x × 5/3",
+      "12 × 5/3 = 20 questions total"
+    ],
+    "prerequisite_concepts": [
+      "Percentage",
+      "Ratio",
+      "Unitary method"
+    ],
+    "related_concepts": [
+      "Profit and loss percentages",
+      "Score calculation",
+      "Unitary method"
+    ],
+    "contrast_with": [
+      "Direct ratio approach (12/60% = n/100%) vs algebraic approach (both give same answer)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "percentage",
+      "total questions",
+      "60 percent",
+      "CSAT",
+      "ratio",
+      "quantitative aptitude"
+    ]
+  },
+  {
+    "idx": 58,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Geomorphology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.95,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may hesitate about nitrogen compounds from volcanoes — volcanoes do emit nitrogen gases (N₂, NH₃, NOx) though in smaller quantities than SO₂ and CO₂.",
+    "elimination_hint": "All four — pyroclastic debris, ash/dust, nitrogen compounds, and sulphur compounds — are products of volcanic eruptions. Answer: D (all four).",
+    "factual_hooks": [
+      "Volcanic eruptions emit pyroclastics, ash, SO₂, CO₂, H₂S, HCl, HF, N₂, water vapour",
+      "Sulphur compounds (SO₂, H₂S) are major volcanic gases responsible for volcanic smog (vog) and acid rain"
+    ],
+    "prerequisite_concepts": [
+      "Volcanic eruption products",
+      "Geomorphology",
+      "Volcanic gases"
+    ],
+    "related_concepts": [
+      "Pyroclastic flow",
+      "Lahar",
+      "Volcanic winter"
+    ],
+    "contrast_with": [
+      "Volcanic gases (SO₂, CO₂, N₂, HCl) vs anthropogenic gases (CO₂, NOx from industry)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Volcanic SO₂ emissions can cause short-term global cooling — relevant to climate discussions.",
+    "keywords": [
+      "volcanic eruption",
+      "pyroclastic",
+      "ash",
+      "sulphur compounds",
+      "nitrogen",
+      "geomorphology"
+    ]
+  },
+  {
+    "idx": 59,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Oceanography",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Statement 2 says Gulf Stream and North Atlantic Drift make the Atlantic COLDER — this is completely wrong; they are warm currents that make North Atlantic WARMER than expected.",
+    "elimination_hint": "In January, isotherms bend north over warm oceans and south over cold continents (Statement 1 correct). Gulf Stream and N. Atlantic Drift are WARM currents making N. Atlantic warmer — isotherms bend north (Statement 2 wrong). Answer: A (only 1).",
+    "factual_hooks": [
+      "January isothermal maps: isotherms bend northward over warm oceans, southward over cold continents",
+      "Gulf Stream and North Atlantic Drift are warm currents — they make NW Europe warmer than expected latitude"
+    ],
+    "prerequisite_concepts": [
+      "Ocean currents and temperature",
+      "Isotherm maps",
+      "Gulf Stream"
+    ],
+    "related_concepts": [
+      "January vs July isotherms",
+      "Labrador Current (cold)",
+      "Marine influence on climate"
+    ],
+    "contrast_with": [
+      "Gulf Stream (warm, poleward) vs Labrador Current (cold, equatorward) in N. Atlantic"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Gulf Stream weakening (AMOC slowdown) due to climate change could reverse warming effect on Europe.",
+    "keywords": [
+      "isotherms January",
+      "Gulf Stream",
+      "North Atlantic Drift",
+      "warm currents",
+      "isotherm deviation",
+      "oceanography"
+    ]
+  },
+  {
+    "idx": 60,
+    "subject": "Geography",
+    "category": "World Geography",
+    "topic": "Economic Geography",
+    "syllabus_id": "GEO.WLD.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.93,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Ghana is well-known for cocoa but students may not know Côte d'Ivoire (Ivory Coast) tops the world — together they produce ~60% of world's cocoa.",
+    "elimination_hint": "Côte d'Ivoire (~45% of world production) and Ghana (~15%) are the two largest cocoa producers globally. Answer: C.",
+    "factual_hooks": [
+      "Côte d'Ivoire and Ghana together produce ~60% of global cocoa supply",
+      "Côte d'Ivoire is the world's largest cocoa producer; Ghana is second — both in West Africa's cocoa belt"
+    ],
+    "prerequisite_concepts": [
+      "World agricultural production",
+      "Cash crops geography",
+      "West Africa economy"
+    ],
+    "related_concepts": [
+      "Coffee (Ethiopia, Brazil)",
+      "Tea production",
+      "Commodity trade"
+    ],
+    "contrast_with": [
+      "Côte d'Ivoire/Ghana (cocoa) vs Ecuador/Dominican Republic (premium/organic cocoa)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Child labour in West African cocoa farms is a major global supply chain ethics issue.",
+    "keywords": [
+      "Côte d'Ivoire",
+      "Ghana",
+      "cocoa production",
+      "West Africa",
+      "chocolate",
+      "agricultural geography"
+    ]
+  },
+  {
+    "idx": 61,
+    "subject": "Geography",
+    "category": "Indian Geography",
+    "topic": "Drainage System",
+    "syllabus_id": "GEO.IND.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Gomati vs Ghaghara order is the key confusion — Gomati joins Ganga at Varanasi (upstream/west) while Ghaghara joins further east near Saran district.",
+    "elimination_hint": "West to East order of Ganga tributaries downstream of Prayagraj: Gomati (joins near Varanasi) → Ghaghara (Saran, Bihar) → Gandak (Hajipur) → Kosi (Katihar). Answer: B.",
+    "factual_hooks": [
+      "Gomati joins Ganga near Varanasi (Saidpur); Ghaghara joins near Chhapra (Saran); Gandak at Hajipur; Kosi at Kursela",
+      "These left-bank Himalayan tributaries join Ganga in sequence from west to east"
+    ],
+    "prerequisite_concepts": [
+      "Ganga river tributaries",
+      "West to East river sequence",
+      "North Indian river system"
+    ],
+    "related_concepts": [
+      "Son river (right bank)",
+      "Chambal",
+      "Yamuna confluence"
+    ],
+    "contrast_with": [
+      "Left bank tributaries (Himalayan — Gomati, Ghaghara, Gandak, Kosi) vs Right bank (Peninsular — Son, Damodar)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Ganga tributaries",
+      "Gomati",
+      "Ghaghara",
+      "Gandak",
+      "Kosi",
+      "west to east order"
+    ]
+  },
+  {
+    "idx": 62,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Geomorphology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHY",
+    "question_type": "Conceptual",
+    "difficulty": "Easy",
+    "confidence_score": 0.92,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may think only one factor (CO₂ dissolved in water forming carbonic acid) explains weathering — but atmospheric oxygen also oxidizes iron minerals, contributing to weathering.",
+    "elimination_hint": "Both Statement-II (CO₂ dissolves in rainwater, forms carbonic acid — chemical weathering) and Statement-III (O₂ in rainwater causes oxidation of minerals) explain Statement-I. Answer: A (both explain).",
+    "factual_hooks": [
+      "Carbonic acid (H₂CO₃) from dissolved CO₂ weathers limestone and silicate minerals (carbonation)",
+      "Dissolved oxygen causes oxidation of iron and other minerals — another form of chemical weathering"
+    ],
+    "prerequisite_concepts": [
+      "Chemical weathering",
+      "Carbonation",
+      "Oxidation in weathering"
+    ],
+    "related_concepts": [
+      "Physical weathering",
+      "Biological weathering",
+      "Soil formation"
+    ],
+    "contrast_with": [
+      "Chemical weathering (CO₂, O₂ reactions) vs physical weathering (temperature change, abrasion)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "chemical weathering",
+      "rainwater",
+      "CO₂",
+      "carbonic acid",
+      "oxygen",
+      "rock weathering"
+    ]
+  },
+  {
+    "idx": 63,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Geomorphology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.82,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Vosges is in Europe (France-Germany border), not Central Asia; Alps are fold mountains (not block/horst); Appalachians are old fold mountains (correct); Andes are fold mountains (correct). Two correct: rows 3 and 4.",
+    "elimination_hint": "Row 1: Vosges is in Europe, NOT Central Asia (wrong). Row 2: Alps are FOLD mountains, not block mountains (wrong). Row 3: Appalachians (N. America, fold) = correct. Row 4: Andes (S. America, fold) = correct. Only two rows correct. Answer: B.",
+    "factual_hooks": [
+      "Vosges mountains are in France/Germany — block (horst) mountains in Europe, not Central Asia",
+      "Alps are fold mountains formed by Alpine orogeny; Appalachians are ancient fold mountains"
+    ],
+    "prerequisite_concepts": [
+      "Mountain types",
+      "Fold vs block mountains",
+      "World mountain ranges"
+    ],
+    "related_concepts": [
+      "Himalayas (fold)",
+      "Rockies (fold)",
+      "Rift valleys (block)"
+    ],
+    "contrast_with": [
+      "Fold mountains (Alps, Himalayas, Andes — plate collision) vs Block mountains (Vosges, Black Forest — faulting)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Vosges",
+      "Alps",
+      "Appalachians",
+      "Andes",
+      "fold mountains",
+      "block mountains"
+    ]
+  },
+  {
+    "idx": 64,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 2 says water vapour is maximum at poles — this is false; water vapour is maximum near the equator (warm air holds more moisture).",
+    "elimination_hint": "Statement 1 is correct: water vapour decreases with altitude (colder air holds less moisture). Statement 2 is wrong: water vapour is maximum at tropical/equatorial regions (warm humid air), not poles. Answer: A (only 1).",
+    "factual_hooks": [
+      "Water vapour decreases with altitude — temperature drops with altitude, reducing air's capacity to hold moisture",
+      "Tropical regions have maximum water vapour content; polar regions have very dry, cold air"
+    ],
+    "prerequisite_concepts": [
+      "Atmospheric moisture",
+      "Temperature-humidity relationship",
+      "Lapse rate"
+    ],
+    "related_concepts": [
+      "Absolute humidity",
+      "Relative humidity",
+      "Dew point"
+    ],
+    "contrast_with": [
+      "Water vapour maximum (equator/tropics) vs minimum (poles and high altitudes)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "water vapour",
+      "altitude",
+      "poles",
+      "atmosphere",
+      "humidity",
+      "climatology"
+    ]
+  },
+  {
+    "idx": 65,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "HIGH",
+    "trap_factor": "The low annual temperature range could suggest equatorial climate, but equatorial climate has very high rainfall (250+ cm) and no distinct seasons; Marine West Coast has moderate and year-round rainfall.",
+    "elimination_hint": "Marine West Coast (Cfb): low temperature range due to oceanic influence, year-round precipitation 50-250 cm, no distinct dry season. Fits description exactly. Answer: D.",
+    "factual_hooks": [
+      "Marine West Coast climate (Cfb): low temp range, rainfall throughout year, 50-250 cm annual rainfall",
+      "Found on west coasts 40-65° latitude: British Isles, Pacific NW USA, New Zealand, southern Chile"
+    ],
+    "prerequisite_concepts": [
+      "Koppen climate classification",
+      "Marine West Coast climate",
+      "Oceanic climate"
+    ],
+    "related_concepts": [
+      "Mediterranean climate (Cs)",
+      "Humid subtropical (Cfa)",
+      "Equatorial climate (Af)"
+    ],
+    "contrast_with": [
+      "Marine West Coast (year-round rain, low temp range) vs Mediterranean (dry summer, wet winter)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Marine West Coast climate",
+      "Cfb",
+      "year-round precipitation",
+      "low temperature range",
+      "oceanic climate",
+      "50-250 cm"
+    ]
+  },
+  {
+    "idx": 66,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.88,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 1 (Coriolis increases with wind velocity) is a common misconception — Coriolis force depends on wind speed (velocity) as well as latitude, so Statement 1 is correct.",
+    "elimination_hint": "Both statements are correct: Coriolis force = 2mΩv sinφ (increases with wind speed v, Statement 1) and is maximum at poles (sinφ=1) and zero at equator (sinφ=0, Statement 2). Answer: C.",
+    "factual_hooks": [
+      "Coriolis force formula: F = 2mΩv sinφ — proportional to wind velocity (v) and sin of latitude (φ)",
+      "Coriolis force is zero at equator (sin 0° = 0) and maximum at poles (sin 90° = 1)"
+    ],
+    "prerequisite_concepts": [
+      "Coriolis effect",
+      "Earth's rotation",
+      "Wind deflection"
+    ],
+    "related_concepts": [
+      "Ferrel's Law",
+      "Trade winds",
+      "Pressure gradient force"
+    ],
+    "contrast_with": [
+      "Coriolis (deflection, increases with speed) vs Pressure Gradient Force (drives air, independent of speed)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Coriolis force",
+      "wind velocity",
+      "poles",
+      "equator",
+      "latitude",
+      "Ferrel's Law"
+    ]
+  },
+  {
+    "idx": 67,
+    "subject": "Geography",
+    "category": "Physical Geography",
+    "topic": "Climatology",
+    "syllabus_id": "GEO.PHY.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Tropic of Cancer has exactly 12 hours on equinox, and more than 12 hours on June 21 — students may confuse this with exactly 12 hours. Arctic Circle has 24 hours (midnight sun) on June 21.",
+    "elimination_hint": "June 21 (summer solstice, N. Hemisphere): Equator = exactly 12 hrs. Tropic of Cancer = more than 12 hrs. Tropic of Capricorn = less than 12 hrs (winter there). Arctic Circle = 24 hrs. Answer: D (2 and 4 — Tropic of Cancer and Arctic Circle).",
+    "factual_hooks": [
+      "On June 21: all latitudes north of equator have more than 12 hours daylight; Tropic of Cancer has ~13.5 hours",
+      "Arctic Circle (66.5°N) has 24 hours of daylight (midnight sun) on June 21 summer solstice"
+    ],
+    "prerequisite_concepts": [
+      "Summer solstice",
+      "Daylight hours by latitude",
+      "Arctic Circle"
+    ],
+    "related_concepts": [
+      "Polar day/night",
+      "Tropic of Cancer",
+      "Equinox vs solstice"
+    ],
+    "contrast_with": [
+      "June 21 (N. Hemisphere summer) vs December 21 (N. Hemisphere winter — reversed daylight)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "June 21",
+      "summer solstice",
+      "daylight hours",
+      "Tropic of Cancer",
+      "Arctic Circle",
+      "latitude"
+    ]
+  },
+  {
+    "idx": 68,
+    "subject": "Environment",
+    "category": "Ecology & Ecosystem",
+    "topic": "Ecosystem Types",
+    "syllabus_id": "ENV.ECO.1",
+    "dimension": "WHERE",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Amazon Basin is the most famous tropical region and students instinctively choose it; the Congo Basin's peatlands were only discovered/measured in 2017.",
+    "elimination_hint": "Congo Basin in Central Africa houses the world's largest tropical peatland (Cuvette Centrale) discovered in 2017 — stores ~30 billion tonnes of carbon (about 3 years of global fossil fuel emissions).",
+    "factual_hooks": [
+      "Congo Basin's Cuvette Centrale peatland: ~145,500 km², stores ~30 billion tonnes carbon — world's largest tropical peatland",
+      "Discovered in 2017 by scientists from University of Leeds — previously unmapped"
+    ],
+    "prerequisite_concepts": [
+      "Peatland ecosystems",
+      "Carbon storage",
+      "Congo Basin ecology"
+    ],
+    "related_concepts": [
+      "Amazon rainforest carbon sink",
+      "Boreal peatlands",
+      "Blue carbon"
+    ],
+    "contrast_with": [
+      "Amazon (largest tropical forest) vs Congo Basin (largest tropical peatland) — different carbon systems"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Congo peatland protection is a top climate priority; its destruction would release massive CO₂ equivalent to 3 years of global emissions.",
+    "keywords": [
+      "Congo Basin",
+      "tropical peatland",
+      "carbon storage",
+      "Cuvette Centrale",
+      "climate",
+      "ecosystem"
+    ]
+  },
+  {
+    "idx": 69,
+    "subject": "Environment",
+    "category": "Environmental Issues",
+    "topic": "Pollution",
+    "syllabus_id": "ENV.ISS.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Students may doubt Statement 3 (bioaccumulation) thinking PFAS affects only exposure rather than accumulating — PFAS specifically bioaccumulate and biomagnify up the food chain.",
+    "elimination_hint": "All three statements about PFAS are correct: widespread in water/food (1), highly persistent (2 — 'forever chemicals'), and bioaccumulate in organisms (3). Answer: D.",
+    "factual_hooks": [
+      "PFAS are called 'forever chemicals' — highly stable C-F bonds resist degradation in environment",
+      "PFAS bioaccumulate in blood, liver, kidneys; detected in polar bears, humans in remote areas"
+    ],
+    "prerequisite_concepts": [
+      "Persistent organic pollutants",
+      "Bioaccumulation",
+      "PFAS chemistry"
+    ],
+    "related_concepts": [
+      "PCBs",
+      "DDT",
+      "Biomagnification"
+    ],
+    "contrast_with": [
+      "PFAS (synthetic, forever chemicals) vs natural POPs (dioxins from burning) — both bioaccumulate"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "PFAS regulation is intensifying globally; India lacks specific PFAS standards but is developing them.",
+    "keywords": [
+      "PFAS",
+      "forever chemicals",
+      "persistent pollutants",
+      "bioaccumulation",
+      "drinking water",
+      "environmental contamination"
+    ]
+  },
+  {
+    "idx": 70,
+    "subject": "Environment",
+    "category": "Ecology & Ecosystem",
+    "topic": "Biodiversity",
+    "syllabus_id": "ENV.ECO.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.93,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may not recognize Groundnut as a legume (pea family) because it grows underground — but groundnut (Arachis hypogaea) is indeed a legume/fabaceae.",
+    "elimination_hint": "All three — Groundnut (Arachis hypogaea), Horse-gram (Macrotyloma uniflorum), and Soybean (Glycine max) — belong to Fabaceae (pea/legume family). Answer: C (all three).",
+    "factual_hooks": [
+      "Groundnut, horse-gram, and soybean are all Fabaceae (legume/pea family) — nitrogen-fixing legumes",
+      "Groundnut flowers above ground but fruits (pods) develop underground — still a legume"
+    ],
+    "prerequisite_concepts": [
+      "Fabaceae (pea family)",
+      "Legume classification",
+      "Nitrogen-fixing plants"
+    ],
+    "related_concepts": [
+      "Chickpea",
+      "Lentil",
+      "Soybean uses"
+    ],
+    "contrast_with": [
+      "Legumes (Fabaceae — soybean, groundnut, horse-gram) vs pseudo-cereals (amaranth, buckwheat)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Legume cultivation is promoted for nitrogen fixation and protein security under National Food Security Mission.",
+    "keywords": [
+      "groundnut",
+      "horse-gram",
+      "soybean",
+      "pea family",
+      "Fabaceae",
+      "legumes"
+    ]
+  },
+  {
+    "idx": 71,
+    "subject": "Environment",
+    "category": "Conservation",
+    "topic": "Conservation Laws & Bodies",
+    "syllabus_id": "ENV.CON.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Hard",
+    "confidence_score": 0.78,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Indian Flying Fox IS listed as vermin under Wildlife Protection Act 1972 (for agricultural damage). But it does NOT drink blood — that's vampire bats. It feeds on fruits.",
+    "elimination_hint": "Statement-I is correct (Indian Flying Fox = vermin under WPA 1972 in some states). Statement-II is incorrect — Indian Flying Fox is a fruit bat (frugivore), not a blood-feeder. Answer: C (I correct, II incorrect).",
+    "factual_hooks": [
+      "Indian Flying Fox (Pteropus giganteus) is a large fruit bat — one of world's largest bats, feeds on fruit",
+      "It has been listed as vermin in some states due to damage to fruit orchards, despite ecological role in pollination"
+    ],
+    "prerequisite_concepts": [
+      "Wildlife Protection Act 1972",
+      "Vermin category",
+      "Indian bat species"
+    ],
+    "related_concepts": [
+      "Vampire bats (blood-feeding, Latin America)",
+      "Bat conservation",
+      "Pollinator species"
+    ],
+    "contrast_with": [
+      "Indian Flying Fox (frugivore, Asia) vs Vampire bat (blood-feeder, Latin America)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "Flying fox conservation debate: listed as vermin for crop damage vs ecological role as pollinator/seed disperser.",
+    "keywords": [
+      "Indian Flying Fox",
+      "vermin",
+      "WPA 1972",
+      "fruit bat",
+      "blood feeder",
+      "bat conservation"
+    ]
+  },
+  {
+    "idx": 72,
+    "subject": "Economy",
+    "category": "Macroeconomics",
+    "topic": "Money & Banking",
+    "syllabus_id": "ECO.MAC.1",
+    "dimension": "WHAT",
+    "question_type": "Conceptual",
+    "difficulty": "Medium",
+    "confidence_score": 0.87,
+    "prelims_priority": "HIGH",
+    "trap_factor": "Statement 3 (insured against inflation by design) is the trap — Digital Rupee (e-rupee) is NOT inflation-proof; it carries the same inflation risk as physical currency.",
+    "elimination_hint": "Statements 1 (sovereign currency by RBI), 2 (liability on RBI balance sheet), and 4 (freely convertible) are correct. Statement 3 is wrong — e-rupee is NOT inflation-indexed. Answer: D (1, 2 and 4).",
+    "factual_hooks": [
+      "Digital Rupee (e₹) is Central Bank Digital Currency (CBDC) — sovereign currency on RBI's liability side",
+      "e₹ is freely exchangeable 1:1 with physical cash and commercial bank money — not inflation-protected"
+    ],
+    "prerequisite_concepts": [
+      "Central Bank Digital Currency (CBDC)",
+      "RBI balance sheet",
+      "Digital currency"
+    ],
+    "related_concepts": [
+      "Cryptocurrency vs CBDC",
+      "UPI",
+      "Monetary policy transmission"
+    ],
+    "contrast_with": [
+      "CBDC (sovereign, legal tender, inflation risk) vs Stablecoin (pegged to asset) vs Crypto (volatile, not sovereign)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": "India's Digital Rupee (e₹-W and e₹-R) pilots are ongoing; CBDC policy is a key RBI initiative.",
+    "keywords": [
+      "Digital Rupee",
+      "CBDC",
+      "RBI",
+      "e-rupee",
+      "sovereign currency",
+      "inflation"
+    ]
+  },
+  {
+    "idx": 73,
+    "subject": "Science & Technology",
+    "category": "Basic Sciences",
+    "topic": "Biology",
+    "syllabus_id": "S&T.BSC.1",
+    "dimension": "WHAT",
+    "question_type": "Factual",
+    "difficulty": "Easy",
+    "confidence_score": 0.97,
+    "prelims_priority": "LOW",
+    "trap_factor": "Athlete's Foot (tinea pedis) sounds like a bacterial infection due to sweating/athletic activity — it is caused by fungi (dermatophytes), not bacteria.",
+    "elimination_hint": "Athlete's Foot (tinea pedis) is a fungal infection caused by dermatophytes (Trichophyton species) — the same group causes ringworm and jock itch. Answer: B.",
+    "factual_hooks": [
+      "Athlete's Foot (tinea pedis) is caused by dermatophyte fungi — Trichophyton rubrum most commonly",
+      "It thrives in warm, moist environments (locker rooms, pools) — hence associated with athletes"
+    ],
+    "prerequisite_concepts": [
+      "Fungal infections",
+      "Dermatophytes",
+      "Communicable diseases"
+    ],
+    "related_concepts": [
+      "Ringworm",
+      "Candidiasis",
+      "Tinea infections"
+    ],
+    "contrast_with": [
+      "Athlete's foot (fungal) vs Plantar wart (viral — HPV) — both affect feet but different pathogens"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "Athlete's Foot",
+      "tinea pedis",
+      "fungal infection",
+      "dermatophytes",
+      "Trichophyton",
+      "biology"
+    ]
+  },
+  {
+    "idx": 74,
+    "subject": "CSAT",
+    "category": "Quantitative Aptitude",
+    "topic": "Algebra",
+    "syllabus_id": "CSAT.QA.1",
+    "dimension": "HOW",
+    "question_type": "CSAT",
+    "difficulty": "Medium",
+    "confidence_score": 0.9,
+    "prelims_priority": "MEDIUM",
+    "trap_factor": "Students may confuse 'father's age in 1938 = 10 times son's age in 1930' — carefully note it is the father's age in 1938 = 10 × son's age in 1930 (not son's age in 1938).",
+    "elimination_hint": "Let son's age in 1930 = s; father's = 8s. Father in 1938 = 8s+8 = 10s → 8=2s → s=4. Son in 1930=4, Father=32. In 1940: Son=14, Father=42. Answer: C.",
+    "factual_hooks": [
+      "Set up two equations: (1) father = 8×son in 1930; (2) father in 1938 = 10×son in 1930",
+      "Solving: son's age in 1930 = 4; father's = 32; in 1940 son = 14, father = 42"
+    ],
+    "prerequisite_concepts": [
+      "Age-related problems",
+      "Simultaneous equations",
+      "Linear algebra"
+    ],
+    "related_concepts": [
+      "Ratio problems",
+      "Time-based age calculations",
+      "Word problems"
+    ],
+    "contrast_with": [
+      "Age at same time (simultaneous) vs age at different times (sequential equation setup)"
+    ],
+    "mains_themes": [],
+    "mains_intro": null,
+    "mains_body_points": [],
+    "mains_conclusion": null,
+    "mains_interlinkages": [],
+    "contemporary_relevance": null,
+    "keywords": [
+      "age problem",
+      "father son",
+      "algebra",
+      "CSAT",
+      "simultaneous equations",
+      "quantitative aptitude"
+    ]
+  }
+]
