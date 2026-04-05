@@ -914,6 +914,29 @@ Child1  Child2                                │
 - Connect to: Art & Architecture, Religion, Economy of the period
 - PYQ patterns: Match the following, Chronological order, "Common to both"
 
+### Art & Culture
+UPSC asks 3–5 direct Prelims questions every year. Two PYQ types dominate: **identify the style/school** and **match the following**. Notes must enable instant visual identification, not just recall of names.
+
+**Four mandatory elements for every Art & Culture note:**
+1. **Origin table** — Era | Region | Patron | Distinguishing feature (1 cell = ≤4 words)
+2. **Visual identification hook** — What makes this style *visually* unique (e.g., "Nagara = curvilinear shikhara + no water tank"; "Mughal miniature = Persian faces + Indian flora")
+3. **Living vs extinct flag** — `*~status* ;; Living tradition` or `Extinct — museum only`
+4. **Exam trap** — The one feature UPSC uses to distinguish similar styles
+
+**Coverage map for Art & Culture notes:**
+
+| Sub-topic | Key comparisons to always generate |
+|-----------|-----------------------------------|
+| **Temple architecture** | Nagara vs Dravida vs Vesara; Hoysala vs Chola vs Pallava; Rock-cut vs Structural |
+| **Painting schools** | Mughal vs Rajput vs Pahari; Bengal Renaissance vs Company School; Ajanta vs Bagh caves |
+| **Classical dance** | 8 classical forms — origin state, governing body (Sangeet Natak Akademi), distinctive feature |
+| **Classical music** | Hindustani vs Carnatic — key differences, instruments, gharanas |
+| **Sculpture** | Gandhara (Greco-Buddhist) vs Mathura vs Amaravati — Buddha image features |
+| **Crafts & textiles** | GI-tagged crafts — state + technique + material (Pochampally, Kanjeevaram, Madhubani) |
+| **Literary traditions** | Sangam literature (Tamil), Bhakti poets (language/region), regional classical literature |
+
+**PYQ patterns:** "Which of the following is/are features of X style?", "Match the dance form with state", "Arrange in chronological order", "Common feature of A and B"
+
 ### Polity
 - Always include: Article numbers, Amendment numbers, Case laws, Committee names
 - Comparison tables: FR vs DPSP, Lok Sabha vs Rajya Sabha, Governor vs President
@@ -924,19 +947,69 @@ Child1  Child2                                │
 - Types: Physical, Human, Economic, Environmental
 - Connect to: Climate change, Agriculture, Industries, Current disasters
 
+**Map-based questions (Prelims staple):** For every geography topic, generate a dedicated location cloze block:
+```
+- **Locate It** :- Map Practice
+  - {{Chilika Lake::Odisha, NOT Andhra Pradesh}} — largest {{coastal lagoon::not backwater}} in India
+  - {{Loktak Lake::Manipur}} — only floating lake; home to {{Phumdis::floating biomass islands}}
+  - {{Dzükou Valley::Nagaland-Manipur border}} — seasonal flowers; not in Northeast Himalaya
+```
+Rules for location cloze: always include the **confusable wrong state** as hint. Rivers → source + mouth + states traversed. National Parks → state + IUCN status + flagship species. Passes → connects what to what.
+
 ### Economy
 - Always include: Definitions, Formulas, Institutions, Recent data/reports
 - Diagrams: Flow charts for policies, Graphs for trends
 - Connect to: Budget, Economic Survey, RBI reports
 
 ### Science & Tech
-- Always include: Mechanism/Process, Applications, Recent developments
-- Diagrams: How it works
-- Connect to: Government missions, Indian scientists, Indigenous technology
+S&T questions fall into three types — use a different emphasis for each:
+
+| Question type | Emphasis | Mandatory elements |
+|---------------|----------|--------------------|
+| **Mechanism** ("How does X work?") | Process diagram + analogy | Step-by-step ASCII flow; `*🧠 analogy*` to familiar concept |
+| **Application** ("Which of these uses X?") | Use-case table | Domain → specific application → Indian program using it |
+| **Policy/India** ("India's position on X") | Govt program + agency + recent milestone | Program name + nodal ministry + latest achievement + funding |
+
+**India S&T programs — always connect to these:**
+
+| Domain | Key Programs/Agencies | Latest milestone to note |
+|--------|----------------------|--------------------------|
+| Space | ISRO, IN-SPACe, NewSpace India | Chandrayaan-3, Aditya-L1, Gaganyaan status |
+| Defence R&D | DRDO, HAL, OFB→DPSUs | LCA Tejas, ASTRA missile, LRSAM |
+| Biotech | DBT, BIRAC, National Biopharma Mission | Covaxin, genome India project |
+| Nuclear | DAE, BARC, NPCIL | Pressurized Heavy Water Reactor, thorium programme |
+| Quantum/AI | NMQM, IndiaAI Mission | National Quantum Mission ₹6000 Cr |
+| Semiconductors | India Semiconductor Mission | Tata-PSMC fab, Micron plant |
+
+**Note the date for rapidly evolving topics:** Add `*~as of* ;; [year]` so you know when to refresh the note.
 
 ### Environment
 - Always include: Species/Ecosystem details, Conservation status, Policies
 - Connect to: International conventions, India's commitments, Recent reports
+
+### Current Affairs Integration
+Every note must bridge static knowledge to current events — this is what separates a 120-mark Mains answer from a 90-mark one. UPSC never asks static knowledge in isolation at Mains level.
+
+**Rule:** For every note, read the topic and ask: *"What happened in this area in the last 2 years?"* Then add:
+
+```
+- *~current affairs link* ;- [1-line event] → [which GS paper + question type it enables]
+  Example: "DPDP Act 2023 passed → GS2: data privacy governance; GS4: ethics of surveillance"
+```
+
+**Three integration patterns:**
+
+| Pattern | How to use | Example |
+|---------|------------|---------|
+| **Policy update** | New law/scheme/amendment → update `*~governance link*` | PM-JANMAN Scheme 2023 → welfare-of-vulnerable-sections |
+| **International event** | Recent summit/agreement → update `*~current affairs link*` | Global Biodiversity Framework 2022 → biodiversity notes |
+| **India milestone** | Achievement/crisis → add to Rapid Revision | Chandrayaan-3 success → indian-space-programme |
+
+**Current affairs in Mains answers (mandatory structure):**
+- Use current event in **intro** (shows awareness) OR **body** (shows application) — not both
+- Cite year: "As per the Economic Survey 2024..." / "Following the passage of DPDP Act 2023..."
+- One current example per body paragraph is sufficient — do not overload
+- `*~contemporary_relevance*` field in topic-maps already pre-fills this — always read it from Step 0
 
 ### Ethics (GS4) — Full Production Guide
 
@@ -1566,6 +1639,28 @@ The 11-section CDF architecture is designed for **GS1–GS4 content notes** (fac
 - [ ] Plain English + analogy for every abstract concept
 - [ ] Big Picture map provides orientation
 
+### Art & Culture Notes ✓
+- [ ] Origin table present: Era | Region | Patron | Distinguishing feature
+- [ ] Visual identification hook — what makes this style *visually* unique (1 line)
+- [ ] `*~status*` — Living tradition or Extinct (museum only)
+- [ ] Exam trap — the one feature UPSC uses to distinguish this from similar styles
+- [ ] Comparison table against most-confused style (e.g., Nagara vs Dravida, Mughal vs Rajput painting)
+- [ ] Location cloze includes confusable wrong state/region as hint
+
+### Geography — Map Questions ✓
+- [ ] **Locate It** block present with location cloze cards
+- [ ] Every location cloze includes the confusable wrong answer as hint
+- [ ] Rivers: source + mouth + states traversed (all three in cloze)
+- [ ] National Parks: state + flagship species + conservation status
+- [ ] Passes: connects what to what (both sides named)
+
+### Current Affairs Integration ✓
+- [ ] `*~current affairs link*` filled in every note (not left blank)
+- [ ] `*~contemporary_relevance*` from topic-map Step 0 carried into note
+- [ ] At least one current event cited with year in Mains Answer Framework body
+- [ ] S&T notes have `*~as of*` year marker
+- [ ] Recent policy/law cited where relevant (post-2020 preferred)
+
 ### Cross-Paper Transfer ✓
 - [ ] `## Cross-Paper Transfer` section read from topic-map (if mains questions exist)
 - [ ] `*~GS4 angle*` filled — at least one ethical dimension identified
@@ -1660,6 +1755,11 @@ Examples:
 | Skip interdisciplinary argument in Essay | The difference between 90-mark and 130-mark essays |
 | Resolve value-conflict without naming the method | Vague resolution ("balance both") scores low; name the principle |
 | Use only textbook examples in Ethics | Examiners recognise Bhanwari Devi and Chauri Chaura; use Ashok Khemka, Sanjiv Chaturvedi |
+| Describe Art & Culture without visual hooks | UPSC asks "identify the style" — recall needs a visual anchor, not just a name |
+| Write location cloze without the wrong answer as hint | The confusable wrong state IS the exam trap — Chilika in AP, Loktak in Assam (both wrong) |
+| Leave `*~current affairs link*` blank | Static notes without current affairs fail Mains — every topic has a 2024/2025 hook |
+| Write S&T notes without `*~as of*` year | Tech facts decay fast; undated S&T notes become liabilities |
+| Mix Mechanism/Application/Policy S&T content without labelling | Three different question types need three different retrieval paths |
 | Write `*💭 self-explain*` AFTER the answer | Must appear BEFORE the answer — order is the whole point |
 | Skip the Feynman Test block | The most reliable signal of whether understanding is real or illusory |
 | Skip `*~Prelims mode*` / `*~Mains mode*` instructions | Transfer-Appropriate Processing — study format must match retrieval format |
