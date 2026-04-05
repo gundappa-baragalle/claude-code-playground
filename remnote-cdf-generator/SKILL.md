@@ -71,9 +71,12 @@ This skill produces notes engineered for **permanent memory** using cognitive sc
 
 **Do this BEFORE writing a single line of notes. Every note must use real exam intelligence, not generic guesses.**
 
-This skill is bundled with a PYQ knowledge base covering 2,385+ tagged UPSC questions. Two files are always available:
+This skill is bundled with a PYQ knowledge base covering 2,385+ tagged UPSC questions. Three files are always available:
 - `pyq-data/concept-index.json` — 218 concepts with frequency, years, dimensions tested
 - `pyq-data/topic-maps/{slug}.md` — 167 topic files with actual PYQ questions and patterns
+- `pyq-data/elimination-patterns.md` — 10 logical elimination patterns extracted from 3,617 GS Prelims PYQs with real examples and strategies
+
+**When user asks about Prelims strategy, elimination tricks, or "how to crack Prelims":** Read `pyq-data/elimination-patterns.md` first. The 10 patterns cover 100% of GS Prelims question types. The two most important: **Common Confusion traps** (19% of PYQs — the most plausible-sounding option is the trap) and **General Factual Elimination** (62% — extreme language = usually wrong).
 
 ### 0A — Search `pyq-data/concept-index.json`
 
