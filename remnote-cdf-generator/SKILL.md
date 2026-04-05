@@ -42,6 +42,13 @@ This skill produces notes engineered for **permanent memory** using cognitive sc
 | **Interleaving** | Mix related concepts for discrimination | `*⚡ contrast*` comparisons throughout |
 | **Emotional Encoding** | Emotion strengthens memory | Story hooks, vivid imagery, surprising facts |
 | **Method of Loci** | Spatial memory is powerful | Big Picture maps, visual structure |
+| **Self-Explanation Effect** (Chi et al., 1994) | Generating your own explanation = 2–3× better comprehension than reading one | `*💭 self-explain*` prompts before revealing answers |
+| **Productive Failure** (Kapur, 2016) | Struggling with a problem BEFORE instruction deepens conceptual understanding | `*🧪 try first*` challenge block before content |
+| **Boundary Conditions** (Schwartz & Bransford, 1998) | Knowing WHEN a principle does NOT apply prevents shallow pattern-matching | `*~does NOT apply when*` for every major concept |
+| **Feynman Technique** | If you can't explain it simply, you don't understand it — you've memorised it | Feynman Test block at end of notes |
+| **Generative Learning** (Wittrock, 1990) | Creating your own examples encodes more deeply than receiving prepared ones | `*🔨 your example*` prompts after analogies |
+| **Transfer-Appropriate Processing** (Morris et al., 1977) | Study format must match retrieval format — Prelims ≠ Mains retrieval | Explicit Prelims mode vs Mains mode study instructions |
+| **Pre-questions / Advance Organizers** (Ausubel, 1960) | Questions BEFORE content activate prior knowledge and create memory "slots" | Pre-question block at top of every note |
 
 ---
 
@@ -57,6 +64,63 @@ This skill produces notes engineered for **permanent memory** using cognitive sc
 | **Prelims/Mains** | Factual vs analytical | Both |
 | **Prior knowledge** | What to define vs assume | Assume complete beginner |
 | **Standalone or series** | Affects connections | Standalone |
+
+---
+
+## MANDATORY STEP 0: Look Up Real PYQ Data First
+
+**Do this BEFORE writing a single line of notes. Every note must use real exam intelligence, not generic guesses.**
+
+This skill is bundled with a PYQ knowledge base covering 2,385+ tagged UPSC questions. Two files are always available:
+- `pyq-data/concept-index.json` — 218 concepts with frequency, years, dimensions tested
+- `pyq-data/topic-maps/{slug}.md` — 167 topic files with actual PYQ questions and patterns
+
+### 0A — Search `pyq-data/concept-index.json`
+
+Read `pyq-data/concept-index.json` and search for the user's topic (case-insensitive, partial match OK).
+
+**Fields to extract:**
+
+| Field | Where to Use It |
+|-------|----------------|
+| `total_count` | Section 1: `*~PYQ frequency*` |
+| `prelims_count` / `mains_count` | Section 1: `*~Prelims weightage*` |
+| `year_range` | Section 1: years span in frequency line |
+| `last_asked` | Section 1: recency note (2020+ = very active) |
+| `dimensions_tested` | Section 5 content emphasis + RAPID REVISION |
+| `top_keywords` | Section 11 `*~PYQ pattern*` and cloze cards |
+
+**Slug format** — lowercase, spaces → hyphens:
+- "Buddhism" → `buddhism`
+- "1857 Revolt" → `1857-revolt`
+- "Fundamental Rights" → `fundamental-rights`
+- "Indian Geography" → `indian-geography`
+
+### 0B — Read `pyq-data/topic-maps/{slug}.md`
+
+Read the matching topic-map file. Extract:
+- **Prelims Questions** — actual PYQ text, year, dimension, priority (HIGH priority first)
+- **Exam Patterns & Insights** — what UPSC specifically tests on this topic
+- **Dimensions Tested** — WHO / WHAT / WHERE / WHY / HOW breakdown
+- **Related Concepts** — use in Connections section
+
+### 0C — Topic Not Found?
+
+If no match in concept-index:
+- Try the parent subject (search "Modern India" for a sub-topic within it)
+- Use the closest related concept
+- Note in Section 1 header: `*~PYQ data* ;- Not yet indexed; based on [Subject] patterns`
+
+### 0D — How PYQ Data Flows Into the 11 Sections
+
+| Section | How to Use PYQ Data |
+|---------|-------------------|
+| **1. Header & Metadata** | `*~PYQ frequency*` = real `total_count` + year range; `*~Prelims weightage*` = real `prelims_count`/year |
+| **5. Content body** | Prioritize aspects matching `dimensions_tested` (e.g., if WHERE dominates, geographic facts get more depth) |
+| **5. ⚠️ Exam Traps** | Pull traps from actual PYQ questions where wrong options reveal common misconceptions |
+| **9. Practice MCQs** | Use real PYQ questions from topic-map as your FIRST 2–3 MCQs (real > synthetic) |
+| **10. RAPID REVISION** | `🎯 LAST YEARS PYQ PATTERN` row = actual dimensions + question types from Exam Patterns & Insights |
+| **11. UPSC Analysis** | `*~PYQ pattern*` = real question patterns from topic-map; `*~current affairs link*` = `last_asked` year context |
 
 ---
 
@@ -126,6 +190,18 @@ Will UPSC ask this directly?
 | `>>>` | Multi-line answer | List as flashcard answer |
 | `>>1.` | Ordered list | Sequence that matters |
 | `>>A)` | MCQ | **First option = correct answer** |
+| `#[[Extra Card Detail]]` | Post-answer explanation | Shown to student AFTER they answer; use for MCQ explanations |
+
+**`#[[Extra Card Detail]]` — how it works:** Add it as a tag on a child item nested under the MCQ. RemNote hides it during the question, then reveals it after the student answers. Use it to explain *why* the correct answer is right and *why* each wrong option is wrong.
+
+```
+- Question text? >>A)
+  - Correct answer
+  - Wrong option 1
+  - Wrong option 2
+  - Wrong option 3
+  - **Explanation:** Why correct answer is right. Why wrong options are wrong. #[[Extra Card Detail]]
+```
 
 ### Cloze Cards with Hints
 
@@ -175,7 +251,18 @@ Cloze WITH hint (use for confusable facts):
 - *💡 insight* ;- Deep understanding point
 - *🎯 Prelims focus* ;- What to memorize for Prelims
 - *📝 Mains angle* ;- How to write about this in Mains
+- *~does NOT apply when* ;- Boundary condition: when this concept/rule breaks down
+- *💭 self-explain* ;- Prompt student to generate their own explanation BEFORE reading
+- *🔨 your example* ;- Prompt student to generate their own real-world example
 ```
+
+**Three new descriptors for conceptual clarity — use these on every major concept:**
+
+| Descriptor | Purpose | Always use `;-` (no flashcard — it's a process prompt) |
+|------------|---------|--------------------------------------------------------|
+| `*~does NOT apply when*` | Boundary condition — defines the edges of the concept | Prevents shallow pattern-matching |
+| `*💭 self-explain*` | Ask student to reason it out before reading — activates Self-Explanation Effect | Place BEFORE the answer/analogy |
+| `*🔨 your example*` | Ask student to generate their own example — Generative Learning | Place AFTER the skill's analogy |
 
 ### Emoji Reference
 
@@ -189,6 +276,9 @@ Cloze WITH hint (use for confusable facts):
 | 💡 | Insight | `;-` | Deep processing |
 | 🎯 | Prelims focus | `;-` | Goal clarity |
 | 📝 | Mains angle | `;-` | Application |
+| 💭 | Self-explain prompt | `;-` | Self-Explanation Effect |
+| 🔨 | Generate your own example | `;-` | Generative Learning |
+| 🧪 | Try-first challenge | `;-` | Productive Failure |
 
 ---
 
@@ -200,19 +290,49 @@ Every output file contains these sections in order:
 ```
 - **[Topic]** :- UPSC [Subject]
   - *~source* ;- [Standard books with chapter numbers]
-  - *~PYQ frequency* ;- [High/Medium/Low with years]
-  - *~Prelims weightage* ;- [X questions/year average]
+  - *~PYQ frequency* ;- [Use Step 0 data: "X questions total (Prelims: Y, Mains: Z), YYYY–YYYY"]
+  - *~Prelims weightage* ;- [Use Step 0 data: real prelims_count; last asked YYYY]
   - *~Mains relevance* ;- [Which GS paper, what themes]
+  - *~revision priority* ;- [Use Step 0 revision_priority from concept-index: HIGH / MEDIUM / LOW]
 ```
 
-### 2. Why Study This? (Motivation + Context)
+**Fill from Step 0 data. Never guess — always use real numbers from `concept-index.json`. Example:**
+```
+  - *~PYQ frequency* ;- High — 14 questions total (Prelims: 12, Mains: 2), 1998–2019; last asked 2019
+  - *~Prelims weightage* ;- ~1–2 direct questions/year; recurs every 2–3 years
+  - *~revision priority* ;- HIGH — review daily in SRS until exam
+```
+
+**Revision priority convention** — drives RemNote SRS queue weight:
+
+| `revision_priority` | Meaning | SRS Behaviour |
+|---------------------|---------|---------------|
+| `HIGH` (≥10 PYQs) | UPSC tests this frequently — must be rock solid | Daily review; tag all `;;` cards as high priority |
+| `MEDIUM` (5–9 PYQs) | Tested occasionally — know the key facts | Weekly review cycle |
+| `LOW` (<5 PYQs) | Rarely tested — skim and move on | Monthly review; only memorise the `⚠️ traps` |
+
+### 2. Why Study This? (Motivation + Context + Pre-questions)
 ```
   - **Why Study [Topic]?** :- Motivation
     - *~exam relevance* ;; [Specific papers, frequency]
     - *~conceptual value* ;; [What understanding this unlocks]
     - *~real-world relevance* ;; [Current affairs connections]
     - *📌 beginner note* ;- [Why this matters in the big picture]
+  
+  - **Before You Read** :- Activate Prior Knowledge
+    - *🧪 try first* ;- Think about these before reading the notes:
+      1. [Question about what student likely already knows — even partially]
+      2. [Question about WHY this topic/event/law might have come about]
+      3. [A prediction: what do you think UPSC asks about this?]
+    - *~revisit after* ;- Come back to these 3 questions after finishing — 
+      can you answer them now? That's your comprehension check.
 ```
+
+**Pre-question rules (Advance Organizer principle):**
+- Question 1 should activate something the student already knows (even loosely)
+- Question 2 should prompt them to reason about *why*, not *what*
+- Question 3 builds exam metacognition — predicting UPSC's angle before reading
+- These are `;-` (no flashcard) — they are cognitive primers, not recall targets
 
 ### 3. Big Picture (Visual Map)
 
@@ -257,6 +377,16 @@ Hierarchically nested concepts following all quality standards.
 - At least one memory hook (`*🧠 analogy/mnemonic/story*`)
 - Contrast if similar concepts exist (`*⚡ vs*`)
 - Exam trap if commonly confused (`*⚠️ exam trap*`)
+
+**Depth requirements:**
+- **Minimum 3 levels of indentation** for each major concept (concept → property → detail)
+- **Minimum 2 memory hooks per major concept** (from different hook types: analogy + mnemonic, or story + etymology, etc.)
+- **All PYQ-flagged sub-topics** (from Step 0 `dimensions_tested`) must get their own top-level concept node with full treatment
+- **Never stop at "what"** — every concept needs `*~why it arose*` and `*~significance*`; omitting these is a quality failure
+
+**Sequence rule:** Follow causal/chronological order within sections, not alphabetical. Causes before effects, earlier events before later ones, simpler concepts before complex ones that build on them.
+
+**Coverage floor:** The content section must cover enough ground that a student who reads only this file could attempt any Prelims MCQ on the topic without needing another source.
 
 ### 6. Flashcard Tables (RemNote Format)
 
@@ -360,6 +490,35 @@ This generates flashcards like:
       - Wrong option 1
       - Wrong option 2
       - Wrong option 3
+      - **Explanation:** [Why correct answer is right. Why each wrong option is wrong. PYQ year if applicable.] #[[Extra Card Detail]]
+```
+
+**MANDATORY: Every MCQ MUST have an `#[[Extra Card Detail]]` explanation.** RemNote hides it during the question and reveals it only after the student answers — so it never gives away the answer but always reinforces the learning.
+
+**What to include in the explanation:**
+- Why the correct answer is correct (the core fact/reasoning)
+- Why each wrong option is wrong (trap logic — this is where real learning happens)
+- PYQ year if it's a real question (e.g., `PYQ 2017`)
+- Memory hook to prevent re-confusion (e.g., "Remember: Sermon → Sarnath, both start with S")
+
+**Explanation format:**
+```
+- **Explanation:** ✅ [Correct answer] because [reason]. ❌ [Wrong 1] — [why wrong]. ❌ [Wrong 2] — [why wrong]. ❌ [Wrong 3] — [why wrong]. 🧠 [Memory hook if needed.] #[[Extra Card Detail]]
+```
+
+**Source of MCQs — priority order:**
+1. **Real PYQ questions** from `pyq-data/topic-maps/{slug}.md` — use HIGH and MEDIUM priority questions verbatim (first 2–3 MCQs must be real PYQs)
+2. **Synthetic questions** modelled on `dimensions_tested` and real patterns — fill remaining slots
+
+**Always add study-mode instructions as the first child of the Practice MCQs block:**
+```
+  - **Practice MCQs** :- Self-Test
+    - *~Prelims mode* ;- Cover the options. Read only the question stem. 
+      Try to answer BEFORE seeing the choices — this matches real exam recall.
+    - *~Mains mode* ;- Read only the topic name. Write 3 points from memory 
+      before checking notes — this matches free-recall essay writing.
+    - [MCQ 1 — real PYQ] >>A)
+      ...
 ```
 
 **Pattern variety:**
@@ -410,11 +569,13 @@ This generates flashcards like:
       - Buddhism: "rational inquiry", "social reform", "anti-ritualism", "democratic Sangha"
       - FR: "constitutional morality", "golden triangle (14-19-21)", "basic structure"
     
-    - **🎯 LAST 5 YEARS PYQ PATTERN** :- What UPSC Asks
-      - Councils: Place + Patron (Match the following)
-      - "Common to both Buddhism and Jainism" — usually FALSE for Middle Path
-      - Statement-based: I, II, III — which correct?
+    - **🎯 LAST YEARS PYQ PATTERN** :- What UPSC Asks
+      - [Use Step 0 data: pull from "Exam Patterns & Insights" in topic-map]
+      - [List actual question types UPSC has asked, with year if notable]
+      - [Note dominant dimensions_tested — e.g., "WHERE asked 4/6 times"]
 ```
+
+**For `🎯 LAST YEARS PYQ PATTERN`:** Always pull from the "Exam Patterns & Insights" section of `pyq-data/topic-maps/{slug}.md`. Use real observed patterns — never fabricate. If topic-map is not available, note it explicitly.
 
 **Rapid Revision Rules:**
 1. **Maximum 1 page** when printed
@@ -427,22 +588,77 @@ This generates flashcards like:
 ### 11. Connections & Mains Frameworks
 
 ```
+  - **Feynman Test** :- Conceptual Check
+    - *🧪 try first* ;- Close your notes. Explain [Topic] to an imaginary 
+      12-year-old using one analogy. If you can't — re-read Key Terms before continuing.
+    - *~check* ;- Can you explain: (1) What it is, (2) Why it matters for UPSC, 
+      (3) One trap UPSC sets on this topic?
+
   - **Connections** :- Knowledge Web
     - *~builds on* ;; [[Previous Topic]] — [relationship]
-    - *~leads to* ;; [[Next Topic]] — [relationship]
+    - *~leads on* ;; [[Next Topic]] — [relationship]
     - *~compare with* ;; [[Similar Topic]]
     - *~current affairs link* ;; [Recent news/development]
   
+  - **Cross-Paper Transfer** :- Use This Topic Elsewhere
+    - *~GS1 angle* ;- [How facts/events from this topic appear in History/Geography/Society/Culture questions]
+    - *~GS2 angle* ;- [Polity/Governance/Social Justice/IR dimension of this topic]
+    - *~GS3 angle* ;- [Economy/Environment/Disaster Management/Security connection]
+    - *~GS4 angle* ;- [Ethical dimension: which value, thinker, or case study this topic illustrates]
+    - *~Essay angle* ;- [The abstract philosophical/civilizational theme this topic can anchor an essay on]
+    - *~interdisciplinary hook* ;- [One-liner — the single most powerful cross-paper insight from this topic]
+
   - **Mains Answer Framework** :- Essay Structure
-    - *~introduction angle* ;- [How to open an answer on this topic]
-    - *~body points* ;- [Key arguments/aspects to cover]
-    - *~conclusion angle* ;- [How to conclude]
-    - *~quote/committee* ;- [Relevant quote or committee reference]
+    - *~marks/word limit* ;- [10m = 150w | 15m = 250w | 20m = 350w — use topic-map's word_limit_suggested]
+    - *~introduction angle* ;- [2–3 lines, ~30–40w: context + thesis. Use intro_approach from topic-map if available]
+    - *~body points* ;- [Pull from topic-map's body_points; 4–6 points covering all dimensions_tested]
+    - *~conclusion angle* ;- [1–2 lines, ~25–30w: forward-looking / quote / constitutional angle]
+    - *~quote/committee* ;- [Relevant quote or committee reference for opening/closing]
 ```
+
+**Filling Cross-Paper Transfer from Step 0 topic-map data:**
+
+Read the `## Cross-Paper Transfer` section in `pyq-data/topic-maps/{slug}.md`. It contains:
+- **GS Paper Connections** — aggregated from `interlinkages` field across all mains PYQs for this topic
+- **Essay & Thematic Angles** — aggregated from `themes` across all mains PYQs
+- **Contemporary Relevance** — best `contemporary_relevance` string from enriched questions
+
+Map them to the correct descriptor:
+| topic-map field | → SKILL.md descriptor |
+|-----------------|----------------------|
+| Link starts with "GS1" | → `*~GS1 angle*` |
+| Link starts with "GS2" | → `*~GS2 angle*` |
+| Link starts with "GS3" | → `*~GS3 angle*` |
+| Link starts with "GS4" or "Ethics" | → `*~GS4 angle*` |
+| Essay themes | → `*~Essay angle*` |
+| Single strongest insight | → `*~interdisciplinary hook*` |
+
+**Example — Gandhian Era:**
+```
+  - **Cross-Paper Transfer** :- Use This Topic Elsewhere
+    - *~GS4 angle* ;- Gandhi = prime Ethics source: means vs ends (civil disobedience), 
+      trusteeship theory (wealth as social trust), satyagraha (moral courage in civil service)
+    - *~GS2 angle* ;- Decentralisation — Gram Swaraj; role of civil society in democracy
+    - *~GS3 angle* ;- Khadi and village economy as alternative development model
+    - *~Essay angle* ;- "Means are as important as ends" / "Non-violence as civilisational 
+      force" / "Relevance of Gandhian thought in the age of climate change"
+    - *~interdisciplinary hook* ;- Every Ethics case study on civil disobedience, 
+      whistleblowing, or moral courage can cite Gandhi's Satyagraha as the canonical framework
+```
+
+**Word budget discipline** — the single biggest differentiator in Mains scoring:
+
+| Marks | Total words | Intro | Body | Conclusion |
+|-------|------------|-------|------|------------|
+| 10m   | ~150w      | 30w   | 95w  | 25w        |
+| 15m   | ~250w      | 40w   | 175w | 35w        |
+| 20m   | ~350w      | 50w   | 260w | 40w        |
+
+**Use Step 0 topic-map data:** Each mains question in `pyq-data/topic-maps/{slug}.md` includes `word_limit_suggested`, `intro_approach`, `body_points`, and `conclusion_approach` — pulled directly from the enrichment schema. Use these as the starting framework and adapt for the user's specific question.
 
 ---
 
-## The TEN Quality Standards
+## The ELEVEN Quality Standards
 
 ### Standard 1: Beginner Test 📌 (Schema Building)
 
@@ -461,20 +677,40 @@ This generates flashcards like:
   - *📌 beginner note* ;- "Sangha" = Sanskrit for "assembly/community". Unlike Hindu priests who lived in society, Buddhist monks formed separate communities with strict rules (Vinaya). Think of it like a university hostel with strict discipline for spiritual students.
 ```
 
-### Standard 2: Conceptual Bridge 🧠 (Elaborative Interrogation)
+### Standard 2: Conceptual Bridge 🧠 (Elaborative Interrogation + Boundary Conditions)
 
-**Rule:** Every concept needs "why" and "how", not just "what".
+**Rule:** Every concept needs "why" and "how", not just "what" — AND must define when it does NOT apply.
 
-**The WHY Framework:**
+**The WHY + BOUNDARY Framework:**
 ```
 - **Concept** :: What it is
+  - *💭 self-explain* ;- Before reading: why do you think [concept] works this way?
   - *~why it arose* ;; What problem/need it addressed
   - *~how it works* ;; The mechanism/process
   - *~significance* ;; Why it matters / impact
   - *~consequence* ;; What happened because of it
+  - *~does NOT apply when* ;- [The boundary condition: when this rule/concept breaks down]
   - *🧠 plain English* ;- [Simplest possible explanation]
   - *🧠 analogy* ;- [Connects to familiar everyday experience]
+  - *🔨 your example* ;- Can you think of a real example where [concept] applies? 
+    Try before reading the next note.
   - *💡 insight* ;- [The deep understanding point]
+```
+
+**Boundary condition examples — what to write:**
+```
+- **Fundamental Rights** :: Guaranteed protections against State action
+  - *~does NOT apply when* ;- (1) Against private individuals — only enforceable against 
+    "State" as defined in Art 12. (2) During Emergency (Art 358–359) — Art 19 can be 
+    suspended; Art 20–21 cannot.
+
+- **Reasonable Classification (Art 14)** :: Allows differential treatment if classification is reasonable
+  - *~does NOT apply when* ;- Classification is arbitrary (no rational nexus to object), 
+    or creates a "class legislation" targeting one person/entity.
+
+- **Mandamus** :: Writ compelling public officials to perform duty  
+  - *~does NOT apply when* ;- Against President/Governor (constitutional immunity), 
+    private individuals, or discretionary acts (only ministerial/mandatory duties).
 ```
 
 ### Standard 3: Dual Coding 🗺️ (Visual + Verbal)
@@ -529,6 +765,8 @@ Child1  Child2                                │
   Remember: [memory hook to distinguish]. 
   (PYQ: [year] — [brief question context])
 ```
+
+**Source traps from Step 0 data:** Read actual PYQ questions from `pyq-data/topic-maps/{slug}.md`. Questions where a common wrong assumption could lead to the wrong option are your best trap alerts. Use real PYQ year in the `(PYQ: YYYY —)` tag.
 
 **High-frequency UPSC trap patterns:**
 - Similar-sounding names (Kondanna vs Mahakasyapa)
@@ -617,6 +855,56 @@ Child1  Child2                                │
   - *~quote* ;- [Quotable line for answers]
 ```
 
+### Standard 11: Conceptual Clarity 💭 (Self-Explanation + Productive Failure + Transfer)
+
+**Rule:** Every note must include elements that force the student to *construct* understanding, not just *receive* it.
+
+**Three mandatory conceptual clarity elements:**
+
+**A. Self-Explanation prompts** (on every major concept — at least 2 per note)
+```
+- **Non-Cooperation Movement** :: Gandhi's first mass civil disobedience, 1920–1922
+  - *💭 self-explain* ;- Before reading: Why do you think Gandhi STOPPED the movement 
+    after Chauri Chaura? What does that tell you about his philosophy?
+  [→ then reveal: because a mob burned a police station, violating non-violence — 
+   Gandhi believed means matter as much as ends]
+```
+
+**B. Boundary conditions** (on every major concept — what breaks the rule)
+```
+- **Writ of Mandamus** :: Compels public official to perform mandatory duty
+  - *~does NOT apply when* ;- (1) Against President/Governor, (2) Against private 
+    individuals, (3) For discretionary acts — only ministerial/mandatory duties
+```
+
+**C. Feynman Test** (once per note, at the very end — before Connections)
+```
+  - **Feynman Test** :- Conceptual Check
+    - *🧪 try first* ;- Close your notes. Explain [Topic] to an imaginary 
+      12-year-old who has never heard of it. Use one analogy. 
+      If you can't — re-read Key Terms and Content sections before continuing.
+    - *~check* ;- Can you explain: (1) What it is, (2) Why it matters, 
+      (3) One thing UPSC loves to trap students on?
+```
+
+**D. Study-mode tagging in Practice MCQs** (Transfer-Appropriate Processing)
+```
+  - **Practice MCQs** :- Self-Test
+    - *~Prelims mode* ;- Cover the answer options. Read only the question stem. 
+      Predict the correct answer BEFORE revealing options. This matches real exam recall.
+    - *~Mains mode* ;- Read the topic heading only. Write 3 bullet points 
+      from memory. Then check your notes. This matches essay retrieval.
+```
+
+**E. Generative example prompt** (on abstract concepts — at least 1 per note)
+```
+- **Reasonable Classification** :: Art 14 permits differential treatment if rational nexus exists
+  - *🧠 analogy* ;- Wheelchair ramps treat disabled people differently — but it's reasonable
+  - *🔨 your example* ;- Can you think of a government scheme or law that uses 
+    reasonable classification? (Reservation? Senior citizen benefits?) 
+    Try naming one before reading further.
+```
+
 ---
 
 ## UPSC Subject-Specific Guidelines
@@ -650,6 +938,40 @@ Child1  Child2                                │
 - Always include: Species/Ecosystem details, Conservation status, Policies
 - Connect to: International conventions, India's commitments, Recent reports
 
+### Ethics (GS4)
+
+Ethics notes have a fundamentally different character — less factual recall, more value frameworks and application. Adjust the 11-section structure as follows:
+
+**What changes for Ethics:**
+- **Section 1 header:** Add `*~GS4 paper* ;; [paper number and marks allocation]`
+- **Section 3 Big Picture:** Use a value-framework map instead of a factual hierarchy:
+  ```
+  [Concept] — e.g., Integrity
+  ├── Meaning & Components
+  ├── Indian Thinkers (Gandhi, Kautilya, etc.)
+  ├── Western Thinkers (Kant, Aristotle, Rawls)
+  ├── Constitutional / Governance angle
+  └── Case Study application
+  ```
+- **Section 5 Content:** For every ethical concept, include:
+  - `*~thinker quote* ;;` — one attributable quote (Indian thinker preferred)
+  - `*~case study angle* ;-` — how this value appears in a civil services scenario
+  - `*~opposite value* ;-` — the tension/conflict (e.g., integrity vs loyalty)
+  - `*~governance link* ;;` — how it connects to civil services conduct rules
+- **Section 9 MCQs:** Ethics Prelims MCQs test definitions and thinkers — use HIGH priority questions from topic-map
+- **Section 11 Mains Framework:** Ethics answers need intro (define + context) → body (dimensions: individual / institutional / societal) → conclusion (constitutional morality angle)
+
+**Eight indexed Ethics topics in pyq-data** (use Step 0 to find them): Ethics Basics, Human Values, Emotional Intelligence, Attitude, Aptitude for Civil Service, Case Study Approach, Probity in Governance, Ethical Governance.
+
+**Key rule:** Ethics notes should help the aspirant *reason through* a scenario, not just *recall* facts. Every flashcard should test application, not memorisation.
+
+### CSAT (Paper 2) — Out of Scope
+
+The 11-section CDF architecture is designed for **GS1–GS4 content notes** (factual, analytical, essay-type). CSAT Paper 2 covers comprehension passages, data interpretation, basic arithmetic, and logical reasoning — none of which benefit from concept-descriptor flashcard notes.
+
+**Do NOT generate CDF notes for CSAT topics.** Instead, tell the user:
+> "CSAT (Paper 2) requires practice sets, not concept notes. Use a dedicated CSAT practice book (e.g., Arihant, McGraw-Hill) for timed practice. The `pyq-data/` folder does contain CSAT PYQs tagged by type (Data Interpretation, Seating Arrangement, etc.) — you can use those for targeted practice directly."
+
 ---
 
 ## Complete Example Structure
@@ -657,8 +979,8 @@ Child1  Child2                                │
 ```
 - **Buddhism** :- UPSC Ancient History
   - *~source* ;- Tamil Nadu 11 (Ch 6), NCERT Class 6 (Ch 6), NCERT Class 12 (Themes)
-  - *~PYQ frequency* ;- High (3-5 questions/year in Prelims)
-  - *~Prelims weightage* ;- Direct: 2-3 Qs; Indirect (Mauryas): 2-3 Qs
+  - *~PYQ frequency* ;- High — 18 questions total (Prelims: 15, Mains: 3), 1998–2023; last asked 2023
+  - *~Prelims weightage* ;- ~1–2 direct questions/year; recurs every 1–2 years; indirect via Mauryas adds 2–3 more
   - *~Mains relevance* ;- GS1 (Indian culture), Essay (philosophical themes)
   
   - **Why Study Buddhism?** :- Motivation
@@ -744,16 +1066,16 @@ Child1  Child2                                │
     - Theravada = individual salvation; Mahayana = universal salvation
   
   - **Quick Revision** :- Cloze Cards
-    - {{Buddha}} was born at {{Lumbini}} in {{563 BCE}}.
-    - Buddha attained enlightenment at {{Bodh Gaya}} under the {{Bodhi (Peepal)}} tree.
-    - First sermon at {{Sarnath}} is called {{Dharmachakra Pravartana}} meaning {{turning of the wheel of law}}.
-    - The Four Noble Truths are {{Dukkha}}, {{Samudaya}}, {{Nirodha}}, and {{Magga}}.
-    - {{Middle Path}} teaches avoiding extremes of {{luxury}} and {{severe asceticism}}.
-    - {{Anatta}} means {{no-self}} and is unique to {{Buddhism}}.
-    - Buddhism rejects the concept of {{eternal soul (Atman)}} unlike {{Hinduism}} and {{Jainism}}.
-    - First Buddhist Council at {{Rajagriha}} was presided by {{Mahakasyapa}} under {{Ajatashatru}}.
-    - {{Tripitaka}} consists of {{Vinaya}} (rules), {{Sutta}} (teachings), and {{Abhidhamma}} (philosophy).
-    - {{Mahayana}} Buddhism emphasizes the {{Bodhisattva}} ideal of helping {{all beings}} attain salvation.
+    - {{Buddha::founder of Buddhism}} was born at {{Lumbini::modern Nepal, NOT India}} in {{563 BCE::6th century BCE}}.
+    - Buddha attained enlightenment at {{Bodh Gaya::NOT Sarnath}} under the {{Bodhi (Peepal)::fig tree}} tree at age {{35::not 29 or 80}}.
+    - First sermon at {{Sarnath::Deer Park, NOT Bodh Gaya}} is called {{Dharmachakra Pravartana::turning of the wheel of law}}.
+    - The Four Noble Truths are {{Dukkha::suffering}}, {{Samudaya::cause of suffering}}, {{Nirodha::end of suffering}}, and {{Magga::path to end suffering}}.
+    - {{Middle Path::unique to Buddhism, NOT Jainism}} teaches avoiding extremes of {{luxury::householder life}} and {{severe asceticism::Jain-style fasting}}.
+    - {{Anatta::no-self}} means rejection of eternal soul and is unique to {{Buddhism::not Hinduism or Jainism}}.
+    - First Buddhist Council presided by {{Mahakasyapa::NOT Kondanna, who was at first sermon}} at {{Rajagriha::under Ajatashatru}}.
+    - Second Council at {{Vaishali::NOT Rajagriha}} led to {{first schism::Hinayana vs Mahayana split began here}}.
+    - {{Tripitaka::three baskets}} consists of {{Vinaya::monastic rules}}, {{Sutta::Buddha's discourses}}, and {{Abhidhamma::philosophical analysis}}.
+    - {{Mahayana::greater vehicle}} emphasizes the {{Bodhisattva::one who delays own nirvana to save all beings}} ideal, unlike {{Hinayana::lesser vehicle, individual salvation only}}.
   
   - **Practice MCQs** :- Self-Test
     - Where did Buddha deliver his first sermon? >>A)
@@ -761,26 +1083,31 @@ Child1  Child2                                │
       - Bodh Gaya
       - Lumbini
       - Kushinagar
+      - **Explanation:** ✅ Sarnath (Deer Park) — this is where Buddha gave the Dharmachakra Pravartana (first turning of the wheel of law). ❌ Bodh Gaya — that is where Buddha attained enlightenment, not the sermon. ❌ Lumbini — his birthplace in modern Nepal. ❌ Kushinagar — where he died (Mahaparinirvana). 🧠 Sermon → Sarnath, both start with S. #[[Extra Card Detail]]
     - Which concept is unique to Buddhism? >>A)
       - Anatta (No-self)
       - Karma
       - Rebirth
       - Non-violence
+      - **Explanation:** ✅ Anatta (no-self) — Buddhism uniquely denies the existence of a permanent soul (Atman), which all other Indian religions accept. ❌ Karma — shared by Hinduism and Jainism too. ❌ Rebirth — common to Hinduism and Jainism as well. ❌ Non-violence (Ahimsa) — central to Jainism too (in fact more extreme in Jainism). 🧠 Anatta = the one idea that sets Buddhism apart. #[[Extra Card Detail]]
     - The Middle Path is a teaching of >>A)
       - Buddhism only
       - Both Buddhism and Jainism
       - Jainism only
       - All Indian religions
+      - **Explanation:** ✅ Buddhism only — Middle Path means avoiding extremes of luxury and severe asceticism. ❌ Both Buddhism and Jainism — classic UPSC trap (PYQ 2017). Jainism actually prescribes extreme asceticism (fasting to death is acceptable). ❌ Jainism only — the opposite of true. ❌ All Indian religions — Hinduism and Jainism do not teach Middle Path. 🧠 Middle Path = ONLY Buddhism; Jainism = extreme. #[[Extra Card Detail]]
     - Who presided over the First Buddhist Council? >>A)
       - Mahakasyapa
       - Ananda
       - Upali
       - Ashoka
+      - **Explanation:** ✅ Mahakasyapa — presided over First Council at Rajagriha under patron Ajatashatru. ❌ Ananda — Buddha's personal attendant, recited the Suttas at the First Council but did NOT preside. ❌ Upali — recited the Vinaya at the First Council but did NOT preside. ❌ Ashoka — patron of the Third Council (Pataliputra), not the First. 🧠 First = Mahakasyapa presided; Ananda + Upali recited. #[[Extra Card Detail]]
     - Which of the following is NOT part of Tripitaka? >>A)
       - Jataka
       - Vinaya Pitaka
       - Sutta Pitaka
       - Abhidhamma Pitaka
+      - **Explanation:** ✅ Jataka — these are stories of Buddha's previous lives, considered later literature, NOT one of the three Pitakas. ❌ Vinaya Pitaka — IS part of Tripitaka (monastic rules). ❌ Sutta Pitaka — IS part of Tripitaka (Buddha's discourses). ❌ Abhidhamma Pitaka — IS part of Tripitaka (philosophical analysis, added at Third Council). 🧠 Tripitaka = Vinaya + Sutta + Abhidhamma. Jataka = bonus stories, outside the three baskets. #[[Extra Card Detail]]
     - Consider the following statements:
       1. Buddhism believes in the existence of soul
       2. Buddhism advocates Middle Path
@@ -790,6 +1117,7 @@ Child1  Child2                                │
       - 1 and 2 only
       - 1, 2, and 3
       - 3 only
+      - **Explanation:** ✅ 2 and 3 only. Statement 1 is FALSE — Buddhism rejects the existence of an eternal soul (Anatta = no-self), which is opposite to Hinduism and Jainism. Statement 2 is TRUE — Middle Path (avoiding extremes) is a core Buddhist teaching. Statement 3 is TRUE — Ashoka converted to Buddhism after the Kalinga War and sponsored the Third Buddhist Council at Pataliputra. #[[Extra Card Detail]]
   
   - **Connections** :- Knowledge Web
     - *~builds on* ;; [[Vedic Period]], [[Upanishads]] — arose as response to ritualism
@@ -870,6 +1198,16 @@ Child1  Child2                                │
 - [ ] Current affairs connected
 - [ ] Comparison tables for UPSC favorites
 
+### PYQ Integration ✓ (Step 0 Mandatory)
+- [ ] `pyq-data/concept-index.json` searched for topic
+- [ ] `pyq-data/topic-maps/{slug}.md` read (or noted as not indexed)
+- [ ] Section 1 `*~PYQ frequency*` uses real numbers from concept-index
+- [ ] Section 1 `*~Prelims weightage*` uses real `prelims_count`
+- [ ] At least 2–3 MCQs are real PYQ questions from topic-map
+- [ ] RAPID REVISION `🎯 LAST YEARS PYQ PATTERN` uses actual patterns from topic-map
+- [ ] Exam traps cross-referenced with actual PYQ questions where relevant
+- [ ] `*~PYQ pattern*` in UPSC Analysis uses real question types observed
+
 ### Rapid Revision Section ✓
 - [ ] 📋 Facts table with memory hooks
 - [ ] ⚡ Quick comparisons (bullet points)
@@ -878,6 +1216,14 @@ Child1  Child2                                │
 - [ ] 📝 Mains keywords
 - [ ] 🎯 PYQ pattern summary
 - [ ] Fits on ~1 page when printed
+
+### MCQ Explanations ✓
+- [ ] Every MCQ has an `#[[Extra Card Detail]]` explanation child
+- [ ] Explanation confirms why correct answer is right
+- [ ] Explanation says why each wrong option is wrong (not just "incorrect")
+- [ ] Explanation includes memory hook for any confusable item
+- [ ] PYQ year cited in explanation for real PYQ questions
+- [ ] Explanation uses `✅ / ❌ / 🧠` format for scannability
 
 ### Syntax ✓
 - [ ] Definitions use `::`
@@ -889,6 +1235,7 @@ Child1  Child2                                │
 - [ ] All Quick Revision answers use `{{}}`
 - [ ] Cloze hints use `{{answer::hint}}` format
 - [ ] MCQ correct answer is FIRST option
+- [ ] Every MCQ has `#[[Extra Card Detail]]` explanation
 - [ ] No ⚠️ inside tables
 - [ ] References use `[[brackets]]`
 
@@ -899,6 +1246,24 @@ Child1  Child2                                │
 - [ ] Every historical figure identified (not just named)
 - [ ] Plain English + analogy for every abstract concept
 - [ ] Big Picture map provides orientation
+
+### Cross-Paper Transfer ✓
+- [ ] `## Cross-Paper Transfer` section read from topic-map (if mains questions exist)
+- [ ] `*~GS4 angle*` filled — at least one ethical dimension identified
+- [ ] `*~Essay angle*` filled — at least one abstract philosophical theme
+- [ ] `*~interdisciplinary hook*` — single most powerful cross-paper insight stated
+- [ ] History topics: ethics angle identified (moral choice in the event)
+- [ ] Polity topics: essay angle identified (constitutional philosophy)
+- [ ] Economy/Environment topics: GS3 + essay angles both filled
+
+### Conceptual Clarity ✓ (Standard 11 — New)
+- [ ] Section 2 has **Before You Read** pre-questions block (3 questions)
+- [ ] At least 2 `*💭 self-explain*` prompts in content (before revealing answers)
+- [ ] Every major concept has `*~does NOT apply when*` boundary condition
+- [ ] At least 1 `*🔨 your example*` generative prompt on abstract concepts
+- [ ] Section 9 MCQs has `*~Prelims mode*` and `*~Mains mode*` study instructions
+- [ ] Section 11 opens with **Feynman Test** block before Connections
+- [ ] Feynman Test has 3-point check: what it is / why it matters / one UPSC trap
 
 ---
 
@@ -938,3 +1303,16 @@ Examples:
 | Skip Rapid Revision section | Missing pre-exam quick reference |
 | Put Name column anywhere but first | Breaks RemNote table flashcards |
 | Use long text in table cells | Hard to recall (keep < 5 words) |
+| Skip Step 0 PYQ lookup | Notes miss real exam patterns — the whole point of this skill |
+| Invent PYQ years or question counts | Only use data actually in `pyq-data/` files |
+| Use generic "High/Medium/Low" for frequency | Must use real number from concept-index.json |
+| Ignore `dimensions_tested` field | Tells you exactly what UPSC focuses on for this topic |
+| Skip `*~does NOT apply when*` for major concepts | Shallow pattern-matching fails novel UPSC questions |
+| Write `*💭 self-explain*` AFTER the answer | Must appear BEFORE the answer — order is the whole point |
+| Skip the Feynman Test block | The most reliable signal of whether understanding is real or illusory |
+| Skip `*~Prelims mode*` / `*~Mains mode*` instructions | Transfer-Appropriate Processing — study format must match retrieval format |
+| Skip **Before You Read** pre-questions | Without activating prior knowledge, new information doesn't stick as well |
+| Skip Cross-Paper Transfer block | Siloed knowledge — you'll know History but not use it in Ethics/Essay |
+| Leave `*~GS4 angle*` empty for History topics | Every historical event has a moral dimension — Gandhi, Ambedkar, Partition all do |
+| Leave `*~Essay angle*` empty | Essay paper rewards interdisciplinary thinking — every topic has one |
+| Skip `*~interdisciplinary hook*` | This is the one sentence that makes revision sessions cross-pollinate |

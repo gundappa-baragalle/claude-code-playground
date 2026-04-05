@@ -12,17 +12,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "P.C. Joshi is a well-known CPI figure and M.C. Chagla a prominent jurist, making them plausible distractors; H.K. Sarkar is relatively obscure.",
     "elimination_hint": "M.N. Roy (Manabendra Nath Roy) founded the Communist Party of India in Tashkent on 17 October 1920 — a well-established historical fact. He was the only one of the options present at Tashkent.",
-    "factual_hooks": ["M.N. Roy founded CPI at Tashkent on 17 October 1920 — the earliest communist party in Asia", "M.N. Roy later broke with the Comintern and developed his theory of Radical Humanism"],
-    "prerequisite_concepts": ["Communist movement in India", "Comintern and Indian politics", "Revolutionary nationalism"],
-    "related_concepts": ["CPI history", "Comintern", "Radical Humanism"],
-    "contrast_with": ["M.N. Roy (Tashkent founder) vs P.C. Joshi (later CPI General Secretary)"],
+    "factual_hooks": [
+      "M.N. Roy founded CPI at Tashkent on 17 October 1920 — the earliest communist party in Asia",
+      "M.N. Roy later broke with the Comintern and developed his theory of Radical Humanism"
+    ],
+    "prerequisite_concepts": [
+      "Communist movement in India",
+      "Comintern and Indian politics",
+      "Revolutionary nationalism"
+    ],
+    "related_concepts": [
+      "CPI history",
+      "Comintern",
+      "Radical Humanism"
+    ],
+    "contrast_with": [
+      "M.N. Roy (Tashkent founder) vs P.C. Joshi (later CPI General Secretary)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["M.N. Roy", "Communist Party of India", "Tashkent", "1920", "CPI", "Comintern"]
+    "keywords": [
+      "M.N. Roy",
+      "Communist Party of India",
+      "Tashkent",
+      "1920",
+      "CPI",
+      "Comintern"
+    ]
   },
   {
     "idx": 1,
@@ -37,17 +57,49 @@
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["101st Amendment (2016) introduced GST, subsuming multiple Central and State taxes under a unified indirect tax", "GST Council (Art 279A) gives States equal voice — 2/3 weighted voting for State votes vs 1/3 for Centre"],
-    "prerequisite_concepts": ["GST Constitutional Amendment", "Article 246A", "GST Council composition"],
-    "related_concepts": ["Cooperative federalism", "Fiscal federalism", "Article 279A"],
+    "factual_hooks": [
+      "101st Amendment (2016) introduced GST, subsuming multiple Central and State taxes under a unified indirect tax",
+      "GST Council (Art 279A) gives States equal voice — 2/3 weighted voting for State votes vs 1/3 for Centre"
+    ],
+    "prerequisite_concepts": [
+      "GST Constitutional Amendment",
+      "Article 246A",
+      "GST Council composition"
+    ],
+    "related_concepts": [
+      "Cooperative federalism",
+      "Fiscal federalism",
+      "Article 279A"
+    ],
     "contrast_with": [],
-    "mains_themes": ["101st Amendment and GST as federal reform", "Accommodative federalism through GST Council", "Gains and tensions in fiscal federalism post-GST"],
+    "mains_themes": [
+      "101st Amendment and GST as federal reform",
+      "Accommodative federalism through GST Council",
+      "Gains and tensions in fiscal federalism post-GST"
+    ],
     "mains_intro": "The 101st Constitutional Amendment Act 2016, which introduced the Goods and Services Tax regime, represents a landmark restructuring of India's fiscal federalism — significant both for its economic rationale and its federal spirit.",
-    "mains_body_points": ["Key provisions: Inserted Articles 246A, 269A, 279A; concurrent taxing powers for Centre and States on GST; IGST for inter-state trade", "Federal accommodation: GST Council gives States 2/3 weighted vote; decisions by 3/4 majority ensures consensus; States retain revenue-sharing rights", "Subsuming state taxes: States surrendered VAT, entry tax in exchange for guaranteed revenue and compensation mechanism for 5 years", "Limitations on accommodation: Centre retains override on IGST; dispute resolution lacks binding arbitration; compensation cess ended creating revenue uncertainty", "Assessment: Despite tensions (compensation disputes during COVID), the amendment broadly reflects cooperative federalism — shared decision-making on indirect taxes"],
+    "mains_body_points": [
+      "Key provisions: Inserted Articles 246A, 269A, 279A; concurrent taxing powers for Centre and States on GST; IGST for inter-state trade",
+      "Federal accommodation: GST Council gives States 2/3 weighted vote; decisions by 3/4 majority ensures consensus; States retain revenue-sharing rights",
+      "Subsuming state taxes: States surrendered VAT, entry tax in exchange for guaranteed revenue and compensation mechanism for 5 years",
+      "Limitations on accommodation: Centre retains override on IGST; dispute resolution lacks binding arbitration; compensation cess ended creating revenue uncertainty",
+      "Assessment: Despite tensions (compensation disputes during COVID), the amendment broadly reflects cooperative federalism — shared decision-making on indirect taxes"
+    ],
     "mains_conclusion": "The 101st Amendment's GST Council mechanism is a genuine experiment in accommodative federalism, though its long-term success depends on addressing compensation shortfalls and strengthening dispute resolution.",
-    "mains_interlinkages": ["GS3 Economy", "GS2 Polity", "Governance"],
+    "mains_interlinkages": [
+      "GS3 Economy",
+      "GS2 Polity",
+      "Governance"
+    ],
     "contemporary_relevance": "GST compensation dispute and cess extension post-2022 remain live federal tensions.",
-    "keywords": ["101st Amendment", "GST", "cooperative federalism", "Article 279A", "GST Council", "fiscal federalism"]
+    "keywords": [
+      "101st Amendment",
+      "GST",
+      "cooperative federalism",
+      "Article 279A",
+      "GST Council",
+      "fiscal federalism"
+    ]
   },
   {
     "idx": 2,
@@ -62,17 +114,37 @@
     "prelims_priority": "LOW",
     "trap_factor": "Francis Crick (co-discoverer of DNA structure) is a prominent science name that may distract; Denis Papin and William Morton are associated with steam engine and anesthesia respectively.",
     "elimination_hint": "Theodore Harold Maiman demonstrated the first working laser on 16 May 1960 using a synthetic ruby crystal — a standard science history fact.",
-    "factual_hooks": ["Theodore Maiman built first functional laser in 1960 using ruby crystal at Hughes Research Lab", "LASER = Light Amplification by Stimulated Emission of Radiation; concept theorized by Einstein in 1917"],
-    "prerequisite_concepts": ["History of scientific inventions", "Laser physics", "Stimulated emission"],
-    "related_concepts": ["MASER", "Quantum optics", "Fiber optics"],
-    "contrast_with": ["Maiman (laser inventor) vs Einstein (theoretical basis — stimulated emission, 1917)"],
+    "factual_hooks": [
+      "Theodore Maiman built first functional laser in 1960 using ruby crystal at Hughes Research Lab",
+      "LASER = Light Amplification by Stimulated Emission of Radiation; concept theorized by Einstein in 1917"
+    ],
+    "prerequisite_concepts": [
+      "History of scientific inventions",
+      "Laser physics",
+      "Stimulated emission"
+    ],
+    "related_concepts": [
+      "MASER",
+      "Quantum optics",
+      "Fiber optics"
+    ],
+    "contrast_with": [
+      "Maiman (laser inventor) vs Einstein (theoretical basis — stimulated emission, 1917)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["laser", "Theodore Maiman", "invention", "ruby crystal", "physics", "1960"]
+    "keywords": [
+      "laser",
+      "Theodore Maiman",
+      "invention",
+      "ruby crystal",
+      "physics",
+      "1960"
+    ]
   },
   {
     "idx": 3,
@@ -83,21 +155,53 @@
     "dimension": "HOW",
     "question_type": "Analytical",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Supreme Court read right to clean environment into Article 21 (right to life) in cases like Subhash Kumar v. State of Bihar (1991)", "MC Mehta cases expanded PIL to enforce environmental rights against both State and private actors"],
-    "prerequisite_concepts": ["Article 21 and expanded rights", "PIL jurisprudence", "Environmental law"],
-    "related_concepts": ["Absolute liability doctrine (Oleum gas case)", "Polluter pays principle", "National Green Tribunal"],
+    "factual_hooks": [
+      "Supreme Court read right to clean environment into Article 21 (right to life) in cases like Subhash Kumar v. State of Bihar (1991)",
+      "MC Mehta cases expanded PIL to enforce environmental rights against both State and private actors"
+    ],
+    "prerequisite_concepts": [
+      "Article 21 and expanded rights",
+      "PIL jurisprudence",
+      "Environmental law"
+    ],
+    "related_concepts": [
+      "Absolute liability doctrine (Oleum gas case)",
+      "Polluter pays principle",
+      "National Green Tribunal"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Constitutionalization of environmental rights via Article 21", "Key environmental case laws by Supreme Court", "Limits of judicial intervention in environmental governance"],
+    "mains_themes": [
+      "Constitutionalization of environmental rights via Article 21",
+      "Key environmental case laws by Supreme Court",
+      "Limits of judicial intervention in environmental governance"
+    ],
     "mains_intro": "India's Supreme Court, through creative interpretation of Article 21, has transformed environmental protection from a statutory right into a constitutional imperative — a development widely recognized as a defining achievement of modern Indian law.",
-    "mains_body_points": ["Subhash Kumar v. Bihar (1991): SC held right to live in pollution-free environment is part of Art 21", "MC Mehta cases: Ganga pollution (1988), Delhi vehicular pollution, Taj Mahal heritage protection — all used PIL to impose environmental obligations", "Vellore Citizens Forum (1996): SC adopted precautionary principle and polluter pays as part of Indian law", "Absolute liability (Oleum Gas Leak, 1987): overruled Rylands v. Fletcher; imposed strict no-fault liability on hazardous industries", "Limitations: SC lacks technical expertise; orders sometimes conflict with democratic policymaking; implementation deficit"],
+    "mains_body_points": [
+      "Subhash Kumar v. Bihar (1991): SC held right to live in pollution-free environment is part of Art 21",
+      "MC Mehta cases: Ganga pollution (1988), Delhi vehicular pollution, Taj Mahal heritage protection — all used PIL to impose environmental obligations",
+      "Vellore Citizens Forum (1996): SC adopted precautionary principle and polluter pays as part of Indian law",
+      "Absolute liability (Oleum Gas Leak, 1987): overruled Rylands v. Fletcher; imposed strict no-fault liability on hazardous industries",
+      "Limitations: SC lacks technical expertise; orders sometimes conflict with democratic policymaking; implementation deficit"
+    ],
     "mains_conclusion": "The constitutionalization of environmental law by the Supreme Court is a significant achievement, but durable environmental protection ultimately requires legislative action, institutional capacity and executive enforcement.",
-    "mains_interlinkages": ["GS3 Environment", "GS2 Polity", "Governance"],
+    "mains_interlinkages": [
+      "GS3 Environment",
+      "GS2 Polity",
+      "Governance"
+    ],
     "contemporary_relevance": "NGT's role and SC's environmental activism remain central to India's environmental governance framework.",
-    "keywords": ["constitutionalization", "environmental law", "Supreme Court", "Article 21", "MC Mehta", "PIL"]
+    "keywords": [
+      "constitutionalization",
+      "environmental law",
+      "Supreme Court",
+      "Article 21",
+      "MC Mehta",
+      "PIL"
+    ]
   },
   {
     "idx": 4,
@@ -112,17 +216,37 @@
     "prelims_priority": "LOW",
     "trap_factor": "Statement I (Sikkim smallest area) — Goa is actually the smallest state by area, not Sikkim. Statement II (Chandigarh highest literacy) — Delhi and Kerala have historically competed for top spots among UTs/states.",
     "elimination_hint": "Statement III about Maharashtra having the second-highest population after UP is correct (Maharashtra is 2nd). Sikkim is not the smallest state — Goa is. Answer: only III (option D).",
-    "factual_hooks": ["Maharashtra is the second most populous state after Uttar Pradesh", "Goa is the smallest Indian state by area, not Sikkim (which is 6th smallest)"],
-    "prerequisite_concepts": ["Indian states by area and population", "Union Territories demographics", "Literacy statistics"],
-    "related_concepts": ["Census data", "State reorganization", "Indian administrative geography"],
-    "contrast_with": ["Smallest by area: Goa (state) vs Lakshadweep (UT)"],
+    "factual_hooks": [
+      "Maharashtra is the second most populous state after Uttar Pradesh",
+      "Goa is the smallest Indian state by area, not Sikkim (which is 6th smallest)"
+    ],
+    "prerequisite_concepts": [
+      "Indian states by area and population",
+      "Union Territories demographics",
+      "Literacy statistics"
+    ],
+    "related_concepts": [
+      "Census data",
+      "State reorganization",
+      "Indian administrative geography"
+    ],
+    "contrast_with": [
+      "Smallest by area: Goa (state) vs Lakshadweep (UT)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Maharashtra population", "Sikkim area", "Chandigarh literacy", "Indian states", "demographic statistics", "geography"]
+    "keywords": [
+      "Maharashtra population",
+      "Sikkim area",
+      "Chandigarh literacy",
+      "Indian states",
+      "demographic statistics",
+      "geography"
+    ]
   },
   {
     "idx": 5,
@@ -133,21 +257,53 @@
     "dimension": "IMPACT",
     "question_type": "Analytical",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["DBT transfers benefits directly to Aadhaar-linked bank accounts, eliminating middlemen and reducing leakage", "DBT limitations: exclusion errors (no bank account/Aadhaar), network connectivity gaps in rural areas"],
-    "prerequisite_concepts": ["Direct Benefit Transfer scheme", "JAM trinity", "Social welfare delivery"],
-    "related_concepts": ["Aadhaar-linked payments", "PFMS", "Jan Dhan Yojana"],
+    "factual_hooks": [
+      "DBT transfers benefits directly to Aadhaar-linked bank accounts, eliminating middlemen and reducing leakage",
+      "DBT limitations: exclusion errors (no bank account/Aadhaar), network connectivity gaps in rural areas"
+    ],
+    "prerequisite_concepts": [
+      "Direct Benefit Transfer scheme",
+      "JAM trinity",
+      "Social welfare delivery"
+    ],
+    "related_concepts": [
+      "Aadhaar-linked payments",
+      "PFMS",
+      "Jan Dhan Yojana"
+    ],
     "contrast_with": [],
-    "mains_themes": ["DBT as welfare delivery reform", "Inclusion and exclusion errors in DBT", "Technology-enabled governance and its limits"],
+    "mains_themes": [
+      "DBT as welfare delivery reform",
+      "Inclusion and exclusion errors in DBT",
+      "Technology-enabled governance and its limits"
+    ],
     "mains_intro": "The Direct Benefit Transfer scheme represents a paradigm shift in government benefit delivery — leveraging the JAM trinity to reduce leakage, yet its progressive character must be assessed alongside its documented limitations.",
-    "mains_body_points": ["Progressive aspects: Eliminated ghost beneficiaries (savings of ₹2.7 lakh crore claimed by govt); reduced middlemen; faster delivery of LPG subsidies, scholarship, MGNREGS wages", "Limitations — exclusion errors: lack of bank accounts/Aadhaar among marginalised communities; elderly and differently-abled struggle with biometric authentication", "Last-mile connectivity: Banking Correspondent network weak in remote areas; cash-out failures in tribal districts", "Conditionality issues: DBT conditionality (e.g., school attendance, immunization) can exclude vulnerable beneficiaries during emergencies", "Recommendations: Grievance redressal strengthening, expanding BC network, alternative authentication methods for special categories"],
+    "mains_body_points": [
+      "Progressive aspects: Eliminated ghost beneficiaries (savings of ₹2.7 lakh crore claimed by govt); reduced middlemen; faster delivery of LPG subsidies, scholarship, MGNREGS wages",
+      "Limitations — exclusion errors: lack of bank accounts/Aadhaar among marginalised communities; elderly and differently-abled struggle with biometric authentication",
+      "Last-mile connectivity: Banking Correspondent network weak in remote areas; cash-out failures in tribal districts",
+      "Conditionality issues: DBT conditionality (e.g., school attendance, immunization) can exclude vulnerable beneficiaries during emergencies",
+      "Recommendations: Grievance redressal strengthening, expanding BC network, alternative authentication methods for special categories"
+    ],
     "mains_conclusion": "DBT is a progressive step in accountable welfare delivery, but its equity promise will remain unfulfilled without addressing exclusion errors and last-mile infrastructure gaps.",
-    "mains_interlinkages": ["GS2 Governance", "GS3 Economy", "GS1 Society"],
+    "mains_interlinkages": [
+      "GS2 Governance",
+      "GS3 Economy",
+      "GS1 Society"
+    ],
     "contemporary_relevance": "India's DBT program has become a model referenced globally; its COVID-19 relief transfer was a major test of its efficacy.",
-    "keywords": ["DBT", "Direct Benefit Transfer", "JAM trinity", "welfare delivery", "exclusion errors", "e-governance"]
+    "keywords": [
+      "DBT",
+      "Direct Benefit Transfer",
+      "JAM trinity",
+      "welfare delivery",
+      "exclusion errors",
+      "e-governance"
+    ]
   },
   {
     "idx": 6,
@@ -162,9 +318,20 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Distribution with row constraints requires inclusion-exclusion; balls are identical so only counts per cell matter", "With 3 rows each needing at least 1 ball out of 5 identical balls in cells (grid problem)"],
-    "prerequisite_concepts": ["Stars and bars method", "Inclusion-exclusion principle", "Distribution of identical objects"],
-    "related_concepts": ["Combinatorics", "Grid problems", "Constraint satisfaction"],
+    "factual_hooks": [
+      "Distribution with row constraints requires inclusion-exclusion; balls are identical so only counts per cell matter",
+      "With 3 rows each needing at least 1 ball out of 5 identical balls in cells (grid problem)"
+    ],
+    "prerequisite_concepts": [
+      "Stars and bars method",
+      "Inclusion-exclusion principle",
+      "Distribution of identical objects"
+    ],
+    "related_concepts": [
+      "Combinatorics",
+      "Grid problems",
+      "Constraint satisfaction"
+    ],
     "contrast_with": [],
     "mains_themes": [],
     "mains_intro": null,
@@ -172,7 +339,14 @@
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["identical balls", "placement", "rows", "combinatorics", "CSAT", "distribution"]
+    "keywords": [
+      "identical balls",
+      "placement",
+      "rows",
+      "combinatorics",
+      "CSAT",
+      "distribution"
+    ]
   },
   {
     "idx": 7,
@@ -187,17 +361,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Jaugada is in Odisha (not MP) and Kalsi is in Uttarakhand (not Karnataka) — these two are common errors. Dhauli (Odisha) and Erragudi (AP) are correctly placed.",
     "elimination_hint": "Only pairs 1 (Dhauli–Odisha) and 2 (Erragudi–Andhra Pradesh) are correct. Jaugada is in Odisha not MP; Kalsi is in Uttarakhand not Karnataka. Answer: only two pairs correct.",
-    "factual_hooks": ["Dhauli (near Bhubaneswar, Odisha) and Jaugada (Ganjam, Odisha) are both Ashokan rock edicts in Odisha", "Kalsi rock edict is in Dehradun district, Uttarakhand; Erragudi is in Kurnool district, Andhra Pradesh"],
-    "prerequisite_concepts": ["Ashokan inscriptions and their locations", "Mauryan Empire geography", "Rock edicts vs pillar edicts"],
-    "related_concepts": ["Ashokan Dhamma", "Brahmi script", "Separate edicts (Dhauli, Jaugada)"],
-    "contrast_with": ["Major rock edicts (14 edicts, multiple locations) vs Minor rock edicts vs Pillar edicts"],
+    "factual_hooks": [
+      "Dhauli (near Bhubaneswar, Odisha) and Jaugada (Ganjam, Odisha) are both Ashokan rock edicts in Odisha",
+      "Kalsi rock edict is in Dehradun district, Uttarakhand; Erragudi is in Kurnool district, Andhra Pradesh"
+    ],
+    "prerequisite_concepts": [
+      "Ashokan inscriptions and their locations",
+      "Mauryan Empire geography",
+      "Rock edicts vs pillar edicts"
+    ],
+    "related_concepts": [
+      "Ashokan Dhamma",
+      "Brahmi script",
+      "Separate edicts (Dhauli, Jaugada)"
+    ],
+    "contrast_with": [
+      "Major rock edicts (14 edicts, multiple locations) vs Minor rock edicts vs Pillar edicts"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Ashoka rock edicts", "Dhauli", "Erragudi", "Jaugada", "Kalsi", "Mauryan inscriptions"]
+    "keywords": [
+      "Ashoka rock edicts",
+      "Dhauli",
+      "Erragudi",
+      "Jaugada",
+      "Kalsi",
+      "Mauryan inscriptions"
+    ]
   },
   {
     "idx": 8,
@@ -212,17 +406,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Bhoja is most famous as the Paramara king of Dhara (not Rashtrakuta), and Jayashakti is actually a Chandela king (not Paramara), making these two pairs incorrect.",
     "elimination_hint": "Nannuka founded the Chandela dynasty (correct). Nagabhata II was a great Gurjara-Pratihara king (correct). Jayashakti was Chandela not Paramara; Bhoja was Paramara not Rashtrakuta. Answer: only two pairs (1 and 3).",
-    "factual_hooks": ["Nannuka (831 CE) was founder of Chandela dynasty of Bundelkhand", "Nagabhata II (805-833 CE) was the most powerful Gurjara-Pratihara ruler who repelled Arab invasions"],
-    "prerequisite_concepts": ["Medieval Rajput dynasties", "Tripartite struggle", "Chandela and Pratihara history"],
-    "related_concepts": ["Khajuraho temples (Chandela)", "Kannauj conflict", "Rashtrakuta dynasty"],
-    "contrast_with": ["Paramara Bhoja (scholar-king of Dhara) vs Rashtrakuta rulers (Dantidurga, Krishna I)"],
+    "factual_hooks": [
+      "Nannuka (831 CE) was founder of Chandela dynasty of Bundelkhand",
+      "Nagabhata II (805-833 CE) was the most powerful Gurjara-Pratihara ruler who repelled Arab invasions"
+    ],
+    "prerequisite_concepts": [
+      "Medieval Rajput dynasties",
+      "Tripartite struggle",
+      "Chandela and Pratihara history"
+    ],
+    "related_concepts": [
+      "Khajuraho temples (Chandela)",
+      "Kannauj conflict",
+      "Rashtrakuta dynasty"
+    ],
+    "contrast_with": [
+      "Paramara Bhoja (scholar-king of Dhara) vs Rashtrakuta rulers (Dantidurga, Krishna I)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Nannuka", "Chandela", "Nagabhata II", "Gurjara-Pratihara", "medieval dynasties", "Paramara"]
+    "keywords": [
+      "Nannuka",
+      "Chandela",
+      "Nagabhata II",
+      "Gurjara-Pratihara",
+      "medieval dynasties",
+      "Paramara"
+    ]
   },
   {
     "idx": 9,
@@ -237,17 +451,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Both statements reverse the actual roles of high and low clouds: high clouds (cirrus) actually trap outgoing infrared (warming); low clouds (stratus/cumulus) primarily reflect solar radiation (cooling).",
     "elimination_hint": "High clouds are thin — they let solar radiation through but trap outgoing IR (warming). Low clouds are thick — they reflect solar radiation back (cooling). Both statements are wrong; answer is 'Neither'.",
-    "factual_hooks": ["High clouds (cirrus): thin, mainly trap outgoing longwave radiation → net warming effect", "Low clouds (stratus/cumulus): thick, mainly reflect incoming solar radiation → net cooling effect"],
-    "prerequisite_concepts": ["Cloud radiative forcing", "Greenhouse effect", "Solar vs terrestrial radiation"],
-    "related_concepts": ["Albedo", "Climate sensitivity", "ENSO and cloud cover"],
-    "contrast_with": ["High clouds (warming — trap IR) vs Low clouds (cooling — reflect solar)"],
+    "factual_hooks": [
+      "High clouds (cirrus): thin, mainly trap outgoing longwave radiation → net warming effect",
+      "Low clouds (stratus/cumulus): thick, mainly reflect incoming solar radiation → net cooling effect"
+    ],
+    "prerequisite_concepts": [
+      "Cloud radiative forcing",
+      "Greenhouse effect",
+      "Solar vs terrestrial radiation"
+    ],
+    "related_concepts": [
+      "Albedo",
+      "Climate sensitivity",
+      "ENSO and cloud cover"
+    ],
+    "contrast_with": [
+      "High clouds (warming — trap IR) vs Low clouds (cooling — reflect solar)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Cloud feedbacks are a major source of uncertainty in climate change projections.",
-    "keywords": ["high clouds", "low clouds", "solar radiation", "infrared", "cloud radiative forcing", "climatology"]
+    "keywords": [
+      "high clouds",
+      "low clouds",
+      "solar radiation",
+      "infrared",
+      "cloud radiative forcing",
+      "climatology"
+    ]
   },
   {
     "idx": 10,
@@ -262,17 +496,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Options A and C are easily eliminated (Sangam literature is rich in material culture and warrior ethic). Option D about 'magical forces as irrational' is wrong — Sangam literature accepted magical/supernatural forces.",
     "elimination_hint": "Sangam literature does refer to Varna — the concept of social hierarchy was known though not as rigidly applied in the South as in North India. Option B is the correct, specific factual claim.",
-    "factual_hooks": ["Sangam poetry (Purananuru, Akananuru) richly describes warrior culture (puram poems) and material life (trade, towns)", "Varna classification was known to Sangam poets though the southern social system had its own features"],
-    "prerequisite_concepts": ["Sangam literature content and themes", "Akam and Puram poetry", "Tamil social structure"],
-    "related_concepts": ["Tinai system", "Five landscapes of Sangam poetry", "Tolkappiyam"],
-    "contrast_with": ["Sangam society (known Varna but own hierarchy) vs Vedic society (strict Varna)"],
+    "factual_hooks": [
+      "Sangam poetry (Purananuru, Akananuru) richly describes warrior culture (puram poems) and material life (trade, towns)",
+      "Varna classification was known to Sangam poets though the southern social system had its own features"
+    ],
+    "prerequisite_concepts": [
+      "Sangam literature content and themes",
+      "Akam and Puram poetry",
+      "Tamil social structure"
+    ],
+    "related_concepts": [
+      "Tinai system",
+      "Five landscapes of Sangam poetry",
+      "Tolkappiyam"
+    ],
+    "contrast_with": [
+      "Sangam society (known Varna but own hierarchy) vs Vedic society (strict Varna)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Sangam literature", "Varna", "warrior ethic", "ancient South India", "material culture", "Tamil poetry"]
+    "keywords": [
+      "Sangam literature",
+      "Varna",
+      "warrior ethic",
+      "ancient South India",
+      "material culture",
+      "Tamil poetry"
+    ]
   },
   {
     "idx": 11,
@@ -283,21 +537,53 @@
     "dimension": "WHAT",
     "question_type": "Analytical",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Article 19(1)(d) and (e) guarantee rights to move freely and reside anywhere in India", "Reasonable restrictions under Article 19(5): interests of general public and scheduled tribe protection"],
-    "prerequisite_concepts": ["Article 19(1)(d)(e)", "Reasonable restrictions", "Article 19(5)"],
-    "related_concepts": ["Scheduled Tribe protection areas", "Inner Line Permit", "Preventive detention"],
+    "factual_hooks": [
+      "Article 19(1)(d) and (e) guarantee rights to move freely and reside anywhere in India",
+      "Reasonable restrictions under Article 19(5): interests of general public and scheduled tribe protection"
+    ],
+    "prerequisite_concepts": [
+      "Article 19(1)(d)(e)",
+      "Reasonable restrictions",
+      "Article 19(5)"
+    ],
+    "related_concepts": [
+      "Scheduled Tribe protection areas",
+      "Inner Line Permit",
+      "Preventive detention"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Scope of freedom of movement and residence", "Reasonable restrictions — grounds and judicial interpretation", "Inner Line Permit and tribal area protection as valid restrictions"],
+    "mains_themes": [
+      "Scope of freedom of movement and residence",
+      "Reasonable restrictions — grounds and judicial interpretation",
+      "Inner Line Permit and tribal area protection as valid restrictions"
+    ],
     "mains_intro": "Articles 19(1)(d) and (e) confer on Indian citizens the right to move freely and reside anywhere in India — rights essential to national integration, yet subject to constitutionally permitted reasonable restrictions.",
-    "mains_body_points": ["Scope: Right to move freely throughout India; right to reside and settle in any part — foundational for economic mobility and migration", "Not absolute — Article 19(5) allows restrictions in interests of general public or scheduled tribes protection", "Judicial interpretation: SC in Bank Nationalization Case affirmed right to trade implies movement; movement essential for livelihood", "Specific restrictions: Inner Line Permit system (Arunachal, Nagaland, Mizoram) — valid ST protection; security zones, preventive detention laws", "Reasonable test: Restrictions must be proportionate, not arbitrary; SC applies proportionality doctrine"],
+    "mains_body_points": [
+      "Scope: Right to move freely throughout India; right to reside and settle in any part — foundational for economic mobility and migration",
+      "Not absolute — Article 19(5) allows restrictions in interests of general public or scheduled tribes protection",
+      "Judicial interpretation: SC in Bank Nationalization Case affirmed right to trade implies movement; movement essential for livelihood",
+      "Specific restrictions: Inner Line Permit system (Arunachal, Nagaland, Mizoram) — valid ST protection; security zones, preventive detention laws",
+      "Reasonable test: Restrictions must be proportionate, not arbitrary; SC applies proportionality doctrine"
+    ],
     "mains_conclusion": "The constitutional balance between free movement as a right and its measured restriction for public interest and tribal protection reflects India's nuanced approach to fundamental rights jurisprudence.",
-    "mains_interlinkages": ["GS2 Polity", "GS1 Society", "GS3 Internal Security"],
+    "mains_interlinkages": [
+      "GS2 Polity",
+      "GS1 Society",
+      "GS3 Internal Security"
+    ],
     "contemporary_relevance": "Inner Line Permit debates and COVID-19 movement restrictions tested these constitutional limits.",
-    "keywords": ["Article 19", "freedom of movement", "residence", "reasonable restrictions", "fundamental rights", "scheduled tribes"]
+    "keywords": [
+      "Article 19",
+      "freedom of movement",
+      "residence",
+      "reasonable restrictions",
+      "fundamental rights",
+      "scheduled tribes"
+    ]
   },
   {
     "idx": 12,
@@ -312,17 +598,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Akbar is the obvious answer given his patronage of Sanskrit-Persian translations, but the specific translation of Yogavasishtha by Nizamuddin Panipati was during Akbar's reign — confirming option A.",
     "elimination_hint": "Akbar's reign saw systematic translation of Sanskrit works into Persian (Mahabharata as Razmnama, Ramayana, Yogavasishtha) — part of his Sulh-i-Kul (universal peace) philosophy.",
-    "factual_hooks": ["Yogavasishtha translated as 'Jog Bashisht' into Persian during Akbar's reign", "Akbar's translation bureau (Maktab Khana) produced Persian translations of Sanskrit classics"],
-    "prerequisite_concepts": ["Mughal cultural policy", "Translation movement under Akbar", "Sulh-i-Kul"],
-    "related_concepts": ["Razmnama", "Akbar's Maktab Khana", "Abul Fazl"],
-    "contrast_with": ["Akbar (syncretism, Sanskrit translation) vs Aurangzeb (orthodox, discouraged translation)"],
+    "factual_hooks": [
+      "Yogavasishtha translated as 'Jog Bashisht' into Persian during Akbar's reign",
+      "Akbar's translation bureau (Maktab Khana) produced Persian translations of Sanskrit classics"
+    ],
+    "prerequisite_concepts": [
+      "Mughal cultural policy",
+      "Translation movement under Akbar",
+      "Sulh-i-Kul"
+    ],
+    "related_concepts": [
+      "Razmnama",
+      "Akbar's Maktab Khana",
+      "Abul Fazl"
+    ],
+    "contrast_with": [
+      "Akbar (syncretism, Sanskrit translation) vs Aurangzeb (orthodox, discouraged translation)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Yogavasishtha", "Nizamuddin Panipati", "Akbar", "Sanskrit-Persian translation", "Mughal culture", "Maktab Khana"]
+    "keywords": [
+      "Yogavasishtha",
+      "Nizamuddin Panipati",
+      "Akbar",
+      "Sanskrit-Persian translation",
+      "Mughal culture",
+      "Maktab Khana"
+    ]
   },
   {
     "idx": 13,
@@ -337,17 +643,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Options C (logical argument) and D (meditation) describe Advaita Vedanta and Yoga paths respectively; option B (Vedic authority) represents Mimamsa/orthodox schools — all are wrong for Ramanuja.",
     "elimination_hint": "Ramanuja founded Vishishtadvaita (qualified non-dualism) and championed Bhakti (devotion) as the supreme means of salvation — option A is correct.",
-    "factual_hooks": ["Ramanuja (1017-1137 CE) propounded Vishishtadvaita — God (Brahman) has attributes; Bhakti is path to salvation (Mukti)", "He opposed Adi Shankaracharya's Advaita and emphasized the reality of the individual soul and world"],
-    "prerequisite_concepts": ["Bhakti movement philosophy", "Vishishtadvaita vs Advaita", "Vaishnava tradition"],
-    "related_concepts": ["Alvars", "Sri Vaishnavism", "Shankaracharya"],
-    "contrast_with": ["Ramanuja (Vishishtadvaita — Bhakti) vs Shankara (Advaita — Jnana) vs Madhva (Dvaita)"],
+    "factual_hooks": [
+      "Ramanuja (1017-1137 CE) propounded Vishishtadvaita — God (Brahman) has attributes; Bhakti is path to salvation (Mukti)",
+      "He opposed Adi Shankaracharya's Advaita and emphasized the reality of the individual soul and world"
+    ],
+    "prerequisite_concepts": [
+      "Bhakti movement philosophy",
+      "Vishishtadvaita vs Advaita",
+      "Vaishnava tradition"
+    ],
+    "related_concepts": [
+      "Alvars",
+      "Sri Vaishnavism",
+      "Shankaracharya"
+    ],
+    "contrast_with": [
+      "Ramanuja (Vishishtadvaita — Bhakti) vs Shankara (Advaita — Jnana) vs Madhva (Dvaita)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Ramanuja's Statue of Equality (Hyderabad, 2022) rekindled interest in his philosophy.",
-    "keywords": ["Ramanuja", "Vishishtadvaita", "devotion", "Bhakti", "salvation", "Sri Vaishnavism"]
+    "keywords": [
+      "Ramanuja",
+      "Vishishtadvaita",
+      "devotion",
+      "Bhakti",
+      "salvation",
+      "Sri Vaishnavism"
+    ]
   },
   {
     "idx": 14,
@@ -362,17 +688,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Option A (environmental allergens) is a partial truth — some T cells play a role in allergies — but the primary and best-described function of both B and T cells together is pathogen defense.",
     "elimination_hint": "B cells produce antibodies; T cells directly kill infected cells or coordinate immune response — both are central to adaptive immunity against pathogens (Option D).",
-    "factual_hooks": ["B cells = humoral immunity (antibody production); T cells = cell-mediated immunity (cytotoxic T cells kill infected cells)", "Together they form the adaptive immune system responding to specific pathogen antigens"],
-    "prerequisite_concepts": ["Adaptive vs innate immunity", "B and T lymphocytes", "Antibody-antigen interaction"],
-    "related_concepts": ["Vaccines", "Immunological memory", "HIV and T cell depletion"],
-    "contrast_with": ["B cells (antibody-mediated) vs T cells (cell-mediated) immunity"],
+    "factual_hooks": [
+      "B cells = humoral immunity (antibody production); T cells = cell-mediated immunity (cytotoxic T cells kill infected cells)",
+      "Together they form the adaptive immune system responding to specific pathogen antigens"
+    ],
+    "prerequisite_concepts": [
+      "Adaptive vs innate immunity",
+      "B and T lymphocytes",
+      "Antibody-antigen interaction"
+    ],
+    "related_concepts": [
+      "Vaccines",
+      "Immunological memory",
+      "HIV and T cell depletion"
+    ],
+    "contrast_with": [
+      "B cells (antibody-mediated) vs T cells (cell-mediated) immunity"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "T cell immunity understanding is key to COVID-19 vaccine development and cancer immunotherapy.",
-    "keywords": ["B cells", "T cells", "adaptive immunity", "pathogens", "antibodies", "lymphocytes"]
+    "keywords": [
+      "B cells",
+      "T cells",
+      "adaptive immunity",
+      "pathogens",
+      "antibodies",
+      "lymphocytes"
+    ]
   },
   {
     "idx": 15,
@@ -387,17 +733,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Statement 1 (age assessment) is the trap — DNA barcoding identifies species using short genetic markers, not organism age (which uses other methods like growth rings or telomere length).",
     "elimination_hint": "DNA barcoding uses a standardized short gene sequence (COI gene for animals) to identify species — useful for species distinction (2) and food fraud detection (3). Age assessment is not a DNA barcoding application.",
-    "factual_hooks": ["DNA barcoding uses CO1 gene (animals) or rbcL/matK (plants) to identify species using short DNA sequences", "Used to detect species fraud in food products (mislabeled fish, adulterated spices)"],
-    "prerequisite_concepts": ["DNA barcoding technology", "COI gene marker", "Species identification"],
-    "related_concepts": ["BOLD (Barcode of Life Database)", "Phylogenetics", "Food safety"],
-    "contrast_with": ["DNA barcoding (species ID) vs DNA profiling (individual ID) vs telomere testing (age)"],
+    "factual_hooks": [
+      "DNA barcoding uses CO1 gene (animals) or rbcL/matK (plants) to identify species using short DNA sequences",
+      "Used to detect species fraud in food products (mislabeled fish, adulterated spices)"
+    ],
+    "prerequisite_concepts": [
+      "DNA barcoding technology",
+      "COI gene marker",
+      "Species identification"
+    ],
+    "related_concepts": [
+      "BOLD (Barcode of Life Database)",
+      "Phylogenetics",
+      "Food safety"
+    ],
+    "contrast_with": [
+      "DNA barcoding (species ID) vs DNA profiling (individual ID) vs telomere testing (age)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "DNA barcoding is increasingly used in India's Wildlife Crime Control Bureau to identify illegally traded species.",
-    "keywords": ["DNA barcoding", "species identification", "food fraud", "COI gene", "biotechnology", "biodiversity"]
+    "keywords": [
+      "DNA barcoding",
+      "species identification",
+      "food fraud",
+      "COI gene",
+      "biotechnology",
+      "biodiversity"
+    ]
   },
   {
     "idx": 16,
@@ -412,17 +778,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Carbon monoxide and ozone are air pollutants but do not cause acid rain; ozone in particular is a secondary pollutant and oxidant, not an acid rain precursor.",
     "elimination_hint": "Acid rain is caused by NOx (nitrogen oxides) and SO2 (sulphur dioxide) — they form nitric acid and sulphuric acid in rainwater. CO and O3 are not acid rain causes.",
-    "factual_hooks": ["Acid rain chemistry: SO2 + H2O → H2SO4; NOx + H2O → HNO3", "Carbon monoxide does not form acid in atmosphere; ozone is an oxidant not an acidifier"],
-    "prerequisite_concepts": ["Acid rain chemistry", "Primary vs secondary air pollutants", "Atmospheric chemistry"],
-    "related_concepts": ["pH of acid rain", "Effects on monuments (marble cancer)", "Clean Air Act"],
-    "contrast_with": ["Acid rain precursors (NOx, SO2) vs photochemical smog precursors (NOx, VOCs, O3)"],
+    "factual_hooks": [
+      "Acid rain chemistry: SO2 + H2O → H2SO4; NOx + H2O → HNO3",
+      "Carbon monoxide does not form acid in atmosphere; ozone is an oxidant not an acidifier"
+    ],
+    "prerequisite_concepts": [
+      "Acid rain chemistry",
+      "Primary vs secondary air pollutants",
+      "Atmospheric chemistry"
+    ],
+    "related_concepts": [
+      "pH of acid rain",
+      "Effects on monuments (marble cancer)",
+      "Clean Air Act"
+    ],
+    "contrast_with": [
+      "Acid rain precursors (NOx, SO2) vs photochemical smog precursors (NOx, VOCs, O3)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "India's coal-heavy energy mix makes SO2 emissions and acid rain monitoring important.",
-    "keywords": ["acid rain", "nitrogen oxide", "sulphur dioxide", "carbon monoxide", "ozone", "atmospheric pollution"]
+    "keywords": [
+      "acid rain",
+      "nitrogen oxide",
+      "sulphur dioxide",
+      "carbon monoxide",
+      "ozone",
+      "atmospheric pollution"
+    ]
   },
   {
     "idx": 17,
@@ -437,17 +823,37 @@
     "prelims_priority": "LOW",
     "trap_factor": "Statement 1 places Bidibidi in north-western Kenya — it is actually in north-western Uganda (near South Sudan border), making statement 1 wrong while statements 2 and 3 are correct.",
     "elimination_hint": "Bidibidi is in Uganda (not Kenya); South Sudanese refugees do live there (statement 2 correct). Dadaab is in Kenya and hosts primarily Somali refugees (statement 3 correct). Answer: 2 and 3.",
-    "factual_hooks": ["Bidibidi refugee settlement is in northern Uganda, near South Sudan border — one of the world's largest refugee camps", "Dadaab refugee complex in Kenya has housed Somali refugees since early 1990s"],
-    "prerequisite_concepts": ["African refugee crisis", "South Sudan civil war", "Kenya's refugee camps"],
-    "related_concepts": ["UNHCR", "Refugee Convention 1951", "African migration"],
-    "contrast_with": ["Bidibidi (Uganda, South Sudanese) vs Dadaab (Kenya, Somali)"],
+    "factual_hooks": [
+      "Bidibidi refugee settlement is in northern Uganda, near South Sudan border — one of the world's largest refugee camps",
+      "Dadaab refugee complex in Kenya has housed Somali refugees since early 1990s"
+    ],
+    "prerequisite_concepts": [
+      "African refugee crisis",
+      "South Sudan civil war",
+      "Kenya's refugee camps"
+    ],
+    "related_concepts": [
+      "UNHCR",
+      "Refugee Convention 1951",
+      "African migration"
+    ],
+    "contrast_with": [
+      "Bidibidi (Uganda, South Sudanese) vs Dadaab (Kenya, Somali)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "East African refugee situations remain among the world's largest humanitarian crises.",
-    "keywords": ["Bidibidi", "Dadaab", "South Sudan", "Somalia", "Kenya", "Uganda refugee"]
+    "keywords": [
+      "Bidibidi",
+      "Dadaab",
+      "South Sudan",
+      "Somalia",
+      "Kenya",
+      "Uganda refugee"
+    ]
   },
   {
     "idx": 18,
@@ -462,17 +868,49 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Social media platforms optimize for engagement through algorithms, which rewards outrage, tribalism and self-validation", "Yet social media also enables collective action (Arab Spring, #MeToo), charity crowdfunding, and community building"],
-    "prerequisite_concepts": ["Social media psychology", "Filter bubbles and echo chambers", "Digital public sphere"],
-    "related_concepts": ["Narcissism and social media", "Participatory culture", "Digital activism"],
+    "factual_hooks": [
+      "Social media platforms optimize for engagement through algorithms, which rewards outrage, tribalism and self-validation",
+      "Yet social media also enables collective action (Arab Spring, #MeToo), charity crowdfunding, and community building"
+    ],
+    "prerequisite_concepts": [
+      "Social media psychology",
+      "Filter bubbles and echo chambers",
+      "Digital public sphere"
+    ],
+    "related_concepts": [
+      "Narcissism and social media",
+      "Participatory culture",
+      "Digital activism"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Social media as inherently self-serving vs tool for collective good", "Algorithm-driven selfishness", "Counter-arguments: social media enabling altruism and solidarity"],
+    "mains_themes": [
+      "Social media as inherently self-serving vs tool for collective good",
+      "Algorithm-driven selfishness",
+      "Counter-arguments: social media enabling altruism and solidarity"
+    ],
     "mains_intro": "The claim that social media is 'inherently selfish' invites a nuanced examination — while its architecture does incentivize self-presentation and validation-seeking, its capacity to foster solidarity and collective action challenges a simple verdict.",
-    "mains_body_points": ["Selfish by design: Dopamine feedback loops through likes and shares; self-curation and personal branding over community interest", "Echo chambers: Algorithms amplify content that triggers emotional engagement, reinforcing existing beliefs rather than expanding perspective", "Attention economy: Platform business models profit from user time — not user wellbeing or community benefit", "Counter-arguments: #MeToo, Arab Spring, COVID-19 mutual aid groups — social media as tool for collective mobilization", "Ambivalence: Medium is selfish by default architecture but not inherently — depends on user agency and platform design choices"],
+    "mains_body_points": [
+      "Selfish by design: Dopamine feedback loops through likes and shares; self-curation and personal branding over community interest",
+      "Echo chambers: Algorithms amplify content that triggers emotional engagement, reinforcing existing beliefs rather than expanding perspective",
+      "Attention economy: Platform business models profit from user time — not user wellbeing or community benefit",
+      "Counter-arguments: #MeToo, Arab Spring, COVID-19 mutual aid groups — social media as tool for collective mobilization",
+      "Ambivalence: Medium is selfish by default architecture but not inherently — depends on user agency and platform design choices"
+    ],
     "mains_conclusion": "Social media's inherent tendency toward selfishness lies not in users but in platform design; reimagining its architecture toward prosocial outcomes requires regulatory imagination and civic literacy.",
-    "mains_interlinkages": ["GS1 Society", "GS4 Ethics", "GS2 Governance"],
+    "mains_interlinkages": [
+      "GS1 Society",
+      "GS4 Ethics",
+      "GS2 Governance"
+    ],
     "contemporary_relevance": "India's Digital Personal Data Protection Act and social media regulation debates make this highly relevant.",
-    "keywords": ["social media", "selfishness", "algorithms", "echo chambers", "digital society", "collective action"]
+    "keywords": [
+      "social media",
+      "selfishness",
+      "algorithms",
+      "echo chambers",
+      "digital society",
+      "collective action"
+    ]
   },
   {
     "idx": 19,
@@ -487,9 +925,19 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Hour hand completes 360° in 12 hours = 30° per hour; from 8AM to 2PM = 6 hours = 6×30° = 180°"],
-    "prerequisite_concepts": ["Clock problems", "Angular velocity", "Time calculation"],
-    "related_concepts": ["Minute hand rotation", "Clock angle problems", "Geometry basics"],
+    "factual_hooks": [
+      "Hour hand completes 360° in 12 hours = 30° per hour; from 8AM to 2PM = 6 hours = 6×30° = 180°"
+    ],
+    "prerequisite_concepts": [
+      "Clock problems",
+      "Angular velocity",
+      "Time calculation"
+    ],
+    "related_concepts": [
+      "Minute hand rotation",
+      "Clock angle problems",
+      "Geometry basics"
+    ],
     "contrast_with": [],
     "mains_themes": [],
     "mains_intro": null,
@@ -497,7 +945,14 @@
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["clock", "hour hand", "degrees", "rotation", "CSAT", "geometry"]
+    "keywords": [
+      "clock",
+      "hour hand",
+      "degrees",
+      "rotation",
+      "CSAT",
+      "geometry"
+    ]
   },
   {
     "idx": 20,
@@ -508,21 +963,41 @@
     "dimension": "WHAT",
     "question_type": "Factual",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "MEDIUM",
     "trap_factor": "Armenia and Romania are not Turkic-language countries; Croatia is in the Balkans. Azerbaijan and Uzbekistan are both Turkic-speaking nations and members.",
     "elimination_hint": "Organization of Turkic States (OTS) members are Turkic-language nations: Turkey, Azerbaijan, Kazakhstan, Kyrgyzstan, Uzbekistan, and observer Turkmenistan. Armenia (Armenian), Croatia, Romania are not Turkic.",
-    "factual_hooks": ["Organization of Turkic States (2021, rebranded from Turkic Council) members: Turkey, Azerbaijan, Kazakhstan, Kyrgyzstan, Uzbekistan", "Hungary is an observer member; not all Central Asian states are members (Tajikistan — not Turkic)"],
-    "prerequisite_concepts": ["Turkic-speaking nations", "Central Asian geopolitics", "Regional organizations"],
-    "related_concepts": ["SCO", "CIS", "Pan-Turkism"],
-    "contrast_with": ["OTS (Turkic states) vs CIS (post-Soviet states including non-Turkic)"],
+    "factual_hooks": [
+      "Organization of Turkic States (2021, rebranded from Turkic Council) members: Turkey, Azerbaijan, Kazakhstan, Kyrgyzstan, Uzbekistan",
+      "Hungary is an observer member; not all Central Asian states are members (Tajikistan — not Turkic)"
+    ],
+    "prerequisite_concepts": [
+      "Turkic-speaking nations",
+      "Central Asian geopolitics",
+      "Regional organizations"
+    ],
+    "related_concepts": [
+      "SCO",
+      "CIS",
+      "Pan-Turkism"
+    ],
+    "contrast_with": [
+      "OTS (Turkic states) vs CIS (post-Soviet states including non-Turkic)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "OTS is gaining geopolitical salience as Turkic states seek greater unity amid Russia-Ukraine war.",
-    "keywords": ["Organization of Turkic States", "Azerbaijan", "Uzbekistan", "Turkic nations", "regional grouping", "Central Asia"]
+    "keywords": [
+      "Organization of Turkic States",
+      "Azerbaijan",
+      "Uzbekistan",
+      "Turkic nations",
+      "regional grouping",
+      "Central Asia"
+    ]
   },
   {
     "idx": 21,
@@ -537,17 +1012,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Option A (HCl formation) sounds chemically plausible since chlorine gas reacts with water; Option C (nascent oxygen) is a common misconception about disinfection.",
     "elimination_hint": "Chlorine in water: Cl2 + H2O → HOCl + HCl. HOCl (hypochlorous acid) is the active disinfectant — it penetrates bacterial cell walls and destroys them. Option B is correct.",
-    "factual_hooks": ["Cl2 + H2O → HOCl + HCl; HOCl (hypochlorous acid) is the bactericidal agent in chlorination", "HOCl is a stronger disinfectant than OCl⁻ (hypochlorite ion) — hence effectiveness decreases at high pH"],
-    "prerequisite_concepts": ["Water treatment chemistry", "Disinfection mechanisms", "Chlorine chemistry"],
-    "related_concepts": ["Ozonation", "UV disinfection", "Waterborne diseases"],
-    "contrast_with": ["HOCl (active at low pH) vs OCl⁻ (less active at high pH)"],
+    "factual_hooks": [
+      "Cl2 + H2O → HOCl + HCl; HOCl (hypochlorous acid) is the bactericidal agent in chlorination",
+      "HOCl is a stronger disinfectant than OCl⁻ (hypochlorite ion) — hence effectiveness decreases at high pH"
+    ],
+    "prerequisite_concepts": [
+      "Water treatment chemistry",
+      "Disinfection mechanisms",
+      "Chlorine chemistry"
+    ],
+    "related_concepts": [
+      "Ozonation",
+      "UV disinfection",
+      "Waterborne diseases"
+    ],
+    "contrast_with": [
+      "HOCl (active at low pH) vs OCl⁻ (less active at high pH)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["chlorination", "hypochlorous acid", "water purification", "disinfection", "HOCl", "chemistry"]
+    "keywords": [
+      "chlorination",
+      "hypochlorous acid",
+      "water purification",
+      "disinfection",
+      "HOCl",
+      "chemistry"
+    ]
   },
   {
     "idx": 22,
@@ -562,17 +1057,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement 1 (Gujarat largest solar park) was superseded — Rajasthan's Bhadla Solar Park is now the world's largest. Statement 3 (Goa largest floating solar) — actually Madhya Pradesh and Telangana have larger floating solar projects.",
     "elimination_hint": "Statement 2 (Cochin International Airport, Kerala — first fully solar-powered international airport in the world, since 2015) is the only definitively correct statement. Answer: only statement 2.",
-    "factual_hooks": ["Cochin International Airport, Kerala became the world's first fully solar-powered airport in 2015", "Bhadla Solar Park, Rajasthan is India's and world's largest solar park (not Gujarat)"],
-    "prerequisite_concepts": ["Renewable energy in India", "Solar energy projects", "State-wise energy initiatives"],
-    "related_concepts": ["National Solar Mission", "Green energy corridors", "Floating solar technology"],
-    "contrast_with": ["Cochin Airport (fully solar powered) vs other airports with partial solar"],
+    "factual_hooks": [
+      "Cochin International Airport, Kerala became the world's first fully solar-powered airport in 2015",
+      "Bhadla Solar Park, Rajasthan is India's and world's largest solar park (not Gujarat)"
+    ],
+    "prerequisite_concepts": [
+      "Renewable energy in India",
+      "Solar energy projects",
+      "State-wise energy initiatives"
+    ],
+    "related_concepts": [
+      "National Solar Mission",
+      "Green energy corridors",
+      "Floating solar technology"
+    ],
+    "contrast_with": [
+      "Cochin Airport (fully solar powered) vs other airports with partial solar"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "India's solar energy capacity crossed 70 GW in 2023, targeting 500 GW renewables by 2030.",
-    "keywords": ["solar power", "Kerala airport", "Cochin International", "Gujarat solar park", "renewable energy", "floating solar"]
+    "keywords": [
+      "solar power",
+      "Kerala airport",
+      "Cochin International",
+      "Gujarat solar park",
+      "renewable energy",
+      "floating solar"
+    ]
   },
   {
     "idx": 23,
@@ -587,17 +1102,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "All three UNCLOS provisions are standard and well-established; this question tests recall of specific UNCLOS articles rather than conceptual confusion.",
     "elimination_hint": "All three statements accurately reflect UNCLOS provisions: 12 nm territorial sea (Art 3), innocent passage for all ships (Art 17-26), 200 nm EEZ (Art 57). Answer: all three correct.",
-    "factual_hooks": ["UNCLOS: Territorial sea = max 12 nm; Contiguous Zone = 24 nm; EEZ = 200 nm; Continental Shelf up to 350 nm", "Innocent passage: all ships including warships enjoy this right through territorial seas"],
-    "prerequisite_concepts": ["UNCLOS maritime zones", "Freedom of navigation", "EEZ rights"],
-    "related_concepts": ["High seas", "Continental shelf", "South China Sea disputes"],
-    "contrast_with": ["Territorial sea (12 nm, full sovereignty) vs EEZ (200 nm, resource rights only)"],
+    "factual_hooks": [
+      "UNCLOS: Territorial sea = max 12 nm; Contiguous Zone = 24 nm; EEZ = 200 nm; Continental Shelf up to 350 nm",
+      "Innocent passage: all ships including warships enjoy this right through territorial seas"
+    ],
+    "prerequisite_concepts": [
+      "UNCLOS maritime zones",
+      "Freedom of navigation",
+      "EEZ rights"
+    ],
+    "related_concepts": [
+      "High seas",
+      "Continental shelf",
+      "South China Sea disputes"
+    ],
+    "contrast_with": [
+      "Territorial sea (12 nm, full sovereignty) vs EEZ (200 nm, resource rights only)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "UNCLOS is central to India-China maritime disputes and India's Blue Economy policy.",
-    "keywords": ["UNCLOS", "territorial sea", "EEZ", "innocent passage", "maritime law", "200 nautical miles"]
+    "keywords": [
+      "UNCLOS",
+      "territorial sea",
+      "EEZ",
+      "innocent passage",
+      "maritime law",
+      "200 nautical miles"
+    ]
   },
   {
     "idx": 24,
@@ -612,17 +1147,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Options A (artificial islands in South China Sea) and D (ICJ no-man's land) contain plausible-sounding misinformation; Senkaku/Diaoyu Islands dispute is a bilateral Japan-China matter.",
     "elimination_hint": "Senkaku (Japan's name) / Diaoyu (China's name) islands are in the East China Sea and are the subject of an ongoing Japan-China sovereignty dispute — option B is correct.",
-    "factual_hooks": ["Senkaku/Diaoyu Islands: administered by Japan but claimed by China and Taiwan; located in East China Sea near Okinawa", "Dispute intensified after 2010; Chinese coast guard regularly operates in disputed waters"],
-    "prerequisite_concepts": ["East China Sea territorial disputes", "Japan-China relations", "Island sovereignty claims"],
-    "related_concepts": ["South China Sea vs East China Sea disputes", "ASEAN and maritime disputes", "Taiwan Strait"],
-    "contrast_with": ["Senkaku/Diaoyu (East China Sea, Japan-China) vs Spratly/Paracel (South China Sea, multiple claimants)"],
+    "factual_hooks": [
+      "Senkaku/Diaoyu Islands: administered by Japan but claimed by China and Taiwan; located in East China Sea near Okinawa",
+      "Dispute intensified after 2010; Chinese coast guard regularly operates in disputed waters"
+    ],
+    "prerequisite_concepts": [
+      "East China Sea territorial disputes",
+      "Japan-China relations",
+      "Island sovereignty claims"
+    ],
+    "related_concepts": [
+      "South China Sea vs East China Sea disputes",
+      "ASEAN and maritime disputes",
+      "Taiwan Strait"
+    ],
+    "contrast_with": [
+      "Senkaku/Diaoyu (East China Sea, Japan-China) vs Spratly/Paracel (South China Sea, multiple claimants)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Japan-China tensions over Senkaku Islands are a recurring flash point in East Asian geopolitics.",
-    "keywords": ["Senkaku Islands", "Diaoyu Islands", "China-Japan", "East China Sea", "maritime dispute", "territorial claim"]
+    "keywords": [
+      "Senkaku Islands",
+      "Diaoyu Islands",
+      "China-Japan",
+      "East China Sea",
+      "maritime dispute",
+      "territorial claim"
+    ]
   },
   {
     "idx": 25,
@@ -637,17 +1192,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Fundamental Rights and Conduct of Business rules are plausible answers; the connection between GoI Act 1935's Instrument of Instructions and the DPSP is a specific historical-constitutional linkage.",
     "elimination_hint": "B.R. Ambedkar noted that Directive Principles were inspired by the 'Instrument of Instructions' in the GoI Act 1935 (which guided colonial governors). They both were non-justiciable guidance for governance.",
-    "factual_hooks": ["Instrument of Instructions in GoI Act 1935 guided provincial governors on policy — converted to DPSP in 1950 Constitution", "B.R. Ambedkar explicitly drew this parallel in Constituent Assembly debates"],
-    "prerequisite_concepts": ["Government of India Act 1935", "Directive Principles historical origin", "Irish Constitution's directive principles"],
-    "related_concepts": ["Irish Directive Principles (inspiration)", "Constituent Assembly debates", "Non-justiciable rights"],
-    "contrast_with": ["DPSP (Indian, non-justiciable) vs Fundamental Rights (justiciable)"],
+    "factual_hooks": [
+      "Instrument of Instructions in GoI Act 1935 guided provincial governors on policy — converted to DPSP in 1950 Constitution",
+      "B.R. Ambedkar explicitly drew this parallel in Constituent Assembly debates"
+    ],
+    "prerequisite_concepts": [
+      "Government of India Act 1935",
+      "Directive Principles historical origin",
+      "Irish Constitution's directive principles"
+    ],
+    "related_concepts": [
+      "Irish Directive Principles (inspiration)",
+      "Constituent Assembly debates",
+      "Non-justiciable rights"
+    ],
+    "contrast_with": [
+      "DPSP (Indian, non-justiciable) vs Fundamental Rights (justiciable)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Instrument of Instructions", "GoI Act 1935", "DPSP", "Directive Principles", "Constitution 1950", "historical background"]
+    "keywords": [
+      "Instrument of Instructions",
+      "GoI Act 1935",
+      "DPSP",
+      "Directive Principles",
+      "Constitution 1950",
+      "historical background"
+    ]
   },
   {
     "idx": 26,
@@ -662,17 +1237,37 @@
     "prelims_priority": "LOW",
     "trap_factor": "Statement 2 sounds plausible but China's population exceeds any two other BRIC nations combined (India + Brazil = ~1.6 billion vs China's ~1.4 billion — actually China does NOT exceed India + Brazil). Statement 1 about GDP is correct.",
     "elimination_hint": "Statement 1 is correct — China's GDP (~$18 trillion in 2010 context) exceeded Russia + India + Brazil combined. Statement 2 is incorrect — China's population (~1.4B) is less than India + Brazil (~1.6B) or India + Russia. Answer: only 1.",
-    "factual_hooks": ["China's GDP has long exceeded the combined GDP of Russia, India and Brazil", "China's population (~1.4B) is less than India+Brazil combined (~1.6B) — statement 2 is wrong"],
-    "prerequisite_concepts": ["BRICS member countries", "Comparative GDP data", "Population statistics"],
-    "related_concepts": ["BRICS New Development Bank", "G20", "Emerging market economies"],
-    "contrast_with": ["BRIC (original 4) vs BRICS (with South Africa added 2010)"],
+    "factual_hooks": [
+      "China's GDP has long exceeded the combined GDP of Russia, India and Brazil",
+      "China's population (~1.4B) is less than India+Brazil combined (~1.6B) — statement 2 is wrong"
+    ],
+    "prerequisite_concepts": [
+      "BRICS member countries",
+      "Comparative GDP data",
+      "Population statistics"
+    ],
+    "related_concepts": [
+      "BRICS New Development Bank",
+      "G20",
+      "Emerging market economies"
+    ],
+    "contrast_with": [
+      "BRIC (original 4) vs BRICS (with South Africa added 2010)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "BRICS expansion in 2023 (adding 6 new members) elevated its global relevance.",
-    "keywords": ["BRIC", "China GDP", "China population", "emerging economies", "comparative economics", "BRICS"]
+    "keywords": [
+      "BRIC",
+      "China GDP",
+      "China population",
+      "emerging economies",
+      "comparative economics",
+      "BRICS"
+    ]
   },
   {
     "idx": 27,
@@ -687,17 +1282,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement 2 assigns Lakshadweep to Kerala's Governor — but the Administrator of Lakshadweep is actually the Lt. Governor appointed separately (not the Kerala Governor concurrently).",
     "elimination_hint": "Punjab's Governor concurrently serves as Administrator of Chandigarh (UT) — established convention (statement 1 correct). Lakshadweep has its own separate Lt. Governor/Administrator, not Kerala's Governor (statement 2 wrong).",
-    "factual_hooks": ["Punjab Governor is concurrently the Administrator of Chandigarh UT by convention/notification", "Lakshadweep has a separate Administrator (Lt. Governor rank) — Kerala Governor has no role there"],
-    "prerequisite_concepts": ["Union Territory administration", "Administrator of UTs", "Governor's additional roles"],
-    "related_concepts": ["Lt. Governor powers", "Art 239 (UT administration)", "Chandigarh as shared capital"],
-    "contrast_with": ["Chandigarh (Governor of Punjab as Admin) vs Delhi (Lt. Governor — direct appointment)"],
+    "factual_hooks": [
+      "Punjab Governor is concurrently the Administrator of Chandigarh UT by convention/notification",
+      "Lakshadweep has a separate Administrator (Lt. Governor rank) — Kerala Governor has no role there"
+    ],
+    "prerequisite_concepts": [
+      "Union Territory administration",
+      "Administrator of UTs",
+      "Governor's additional roles"
+    ],
+    "related_concepts": [
+      "Lt. Governor powers",
+      "Art 239 (UT administration)",
+      "Chandigarh as shared capital"
+    ],
+    "contrast_with": [
+      "Chandigarh (Governor of Punjab as Admin) vs Delhi (Lt. Governor — direct appointment)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Punjab Governor", "Chandigarh administrator", "Lakshadweep", "Kerala Governor", "Union Territory", "concurrent role"]
+    "keywords": [
+      "Punjab Governor",
+      "Chandigarh administrator",
+      "Lakshadweep",
+      "Kerala Governor",
+      "Union Territory",
+      "concurrent role"
+    ]
   },
   {
     "idx": 28,
@@ -712,17 +1327,49 @@
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["'If development is not engendered, it is endangered' (UNDP HDR 1995) — coined by Mahbub ul Haq", "GII (Gender Inequality Index) and GDI measure gendered development gaps; India ranks poorly on GII"],
-    "prerequisite_concepts": ["Gendered development", "HDR and gender indices", "Women as development agents"],
-    "related_concepts": ["SDG 5 (Gender Equality)", "Beijing Platform for Action", "CEDAW"],
+    "factual_hooks": [
+      "'If development is not engendered, it is endangered' (UNDP HDR 1995) — coined by Mahbub ul Haq",
+      "GII (Gender Inequality Index) and GDI measure gendered development gaps; India ranks poorly on GII"
+    ],
+    "prerequisite_concepts": [
+      "Gendered development",
+      "HDR and gender indices",
+      "Women as development agents"
+    ],
+    "related_concepts": [
+      "SDG 5 (Gender Equality)",
+      "Beijing Platform for Action",
+      "CEDAW"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Women as drivers of development, not just beneficiaries", "Gendered exclusion endangers sustainable development", "Policy interventions for engendered development in India"],
+    "mains_themes": [
+      "Women as drivers of development, not just beneficiaries",
+      "Gendered exclusion endangers sustainable development",
+      "Policy interventions for engendered development in India"
+    ],
     "mains_intro": "The assertion that un-engendered development is endangered development captures a fundamental insight: true human progress is impossible when half of humanity is excluded from its processes and benefits.",
-    "mains_body_points": ["Theoretical basis: Amartya Sen's capabilities approach; Martha Nussbaum on women's central capabilities; UNDP HDR 1995 coinage", "Economic argument: Women's labor force participation lifts GDP; McKinsey estimates gender equality adds $12 trillion to global GDP", "Social multiplier: Educated women — lower fertility, better child nutrition, higher school enrollment — virtuous cycle for development", "Indian context: Female LFPR among world's lowest; gender pay gap; maternal mortality; political under-representation", "Policy recommendations: MGNREGS, SHG-bank linkage, BBBP, Sukanya Samriddhi — targeted but need systemic change in social norms"],
+    "mains_body_points": [
+      "Theoretical basis: Amartya Sen's capabilities approach; Martha Nussbaum on women's central capabilities; UNDP HDR 1995 coinage",
+      "Economic argument: Women's labor force participation lifts GDP; McKinsey estimates gender equality adds $12 trillion to global GDP",
+      "Social multiplier: Educated women — lower fertility, better child nutrition, higher school enrollment — virtuous cycle for development",
+      "Indian context: Female LFPR among world's lowest; gender pay gap; maternal mortality; political under-representation",
+      "Policy recommendations: MGNREGS, SHG-bank linkage, BBBP, Sukanya Samriddhi — targeted but need systemic change in social norms"
+    ],
     "mains_conclusion": "Engendering development is not merely a justice imperative but a development necessity — nations that invest in women's agency unleash their fullest development potential.",
-    "mains_interlinkages": ["GS1 Society", "GS2 Governance", "GS3 Economy"],
+    "mains_interlinkages": [
+      "GS1 Society",
+      "GS2 Governance",
+      "GS3 Economy"
+    ],
     "contemporary_relevance": "India's G20 presidency 2023 prioritized 'Women-led Development' as a key theme.",
-    "keywords": ["gendered development", "women empowerment", "UNDP", "gender inequality", "development", "women's agency"]
+    "keywords": [
+      "gendered development",
+      "women empowerment",
+      "UNDP",
+      "gender inequality",
+      "development",
+      "women's agency"
+    ]
   },
   {
     "idx": 29,
@@ -737,17 +1384,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "IUCN Red List is well-known but its specific content is sometimes confused — endemic species of hotspots and protected sites are not what the Red Data Books list.",
     "elimination_hint": "IUCN Red Data Books list threatened species only (Critically Endangered, Endangered, Vulnerable). They do not list endemic species of hotspots or protected sites for conservation. Answer: only statement 2.",
-    "factual_hooks": ["IUCN Red List/Red Data Books: categorizes species by extinction risk — Extinct, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern", "Red List does NOT list endemic species generally or protected conservation sites"],
-    "prerequisite_concepts": ["IUCN Red List categories", "Biodiversity conservation institutions", "Threatened species classification"],
-    "related_concepts": ["CITES", "Convention on Biological Diversity", "Biodiversity hotspots"],
-    "contrast_with": ["IUCN Red List (threatened species) vs World Heritage Sites list (UNESCO — protected areas)"],
+    "factual_hooks": [
+      "IUCN Red List/Red Data Books: categorizes species by extinction risk — Extinct, Critically Endangered, Endangered, Vulnerable, Near Threatened, Least Concern",
+      "Red List does NOT list endemic species generally or protected conservation sites"
+    ],
+    "prerequisite_concepts": [
+      "IUCN Red List categories",
+      "Biodiversity conservation institutions",
+      "Threatened species classification"
+    ],
+    "related_concepts": [
+      "CITES",
+      "Convention on Biological Diversity",
+      "Biodiversity hotspots"
+    ],
+    "contrast_with": [
+      "IUCN Red List (threatened species) vs World Heritage Sites list (UNESCO — protected areas)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "IUCN has categorized several Indian species in recent years — cheetah, great Indian bustard, Asiatic lion.",
-    "keywords": ["IUCN Red Data Books", "threatened species", "biodiversity", "extinction risk", "conservation", "endemic species"]
+    "keywords": [
+      "IUCN Red Data Books",
+      "threatened species",
+      "biodiversity",
+      "extinction risk",
+      "conservation",
+      "endemic species"
+    ]
   },
   {
     "idx": 30,
@@ -762,17 +1429,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Syntaxial bending is the correct technical answer but sounds obscure; students may choose uplift of folded Himalayan series (A) which sounds geologically reasonable but is not the specific cause of the U-turn.",
     "elimination_hint": "Brahmaputra's U-turn at Namcha Barwa (eastern syntaxis) is due to the syntaxial bend of the Himalayas — the eastern end of the Himalayan arc curves south, forcing the river around it. Option B is correct.",
-    "factual_hooks": ["Brahmaputra originates in Tibet (Tsangpo), makes U-turn at Namcha Barwa around the Eastern Himalayan Syntaxis", "Syntaxial bending = the Himalayan arc's eastern end curves sharply, forcing rivers to turn around it; makes Brahmaputra an antecedent river"],
-    "prerequisite_concepts": ["Himalayan drainage system", "Antecedent rivers", "Tectonic geomorphology"],
-    "related_concepts": ["Eastern and Western Himalayan Syntaxis", "Indus-Tsangpo Suture Zone", "Trans-Himalayan rivers"],
-    "contrast_with": ["Antecedent rivers (Indus, Brahmaputra — pre-date Himalayan uplift) vs Subsequent rivers (formed after uplift)"],
+    "factual_hooks": [
+      "Brahmaputra originates in Tibet (Tsangpo), makes U-turn at Namcha Barwa around the Eastern Himalayan Syntaxis",
+      "Syntaxial bending = the Himalayan arc's eastern end curves sharply, forcing rivers to turn around it; makes Brahmaputra an antecedent river"
+    ],
+    "prerequisite_concepts": [
+      "Himalayan drainage system",
+      "Antecedent rivers",
+      "Tectonic geomorphology"
+    ],
+    "related_concepts": [
+      "Eastern and Western Himalayan Syntaxis",
+      "Indus-Tsangpo Suture Zone",
+      "Trans-Himalayan rivers"
+    ],
+    "contrast_with": [
+      "Antecedent rivers (Indus, Brahmaputra — pre-date Himalayan uplift) vs Subsequent rivers (formed after uplift)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Brahmaputra water sharing remains a strategic issue in India-China relations.",
-    "keywords": ["Brahmaputra", "U-turn", "syntaxial bending", "Namcha Barwa", "Himalayan drainage", "antecedent river"]
+    "keywords": [
+      "Brahmaputra",
+      "U-turn",
+      "syntaxial bending",
+      "Namcha Barwa",
+      "Himalayan drainage",
+      "antecedent river"
+    ]
   },
   {
     "idx": 31,
@@ -787,17 +1474,37 @@
     "prelims_priority": "LOW",
     "trap_factor": "Students sometimes confuse wavelength with energy — red light has the longest wavelength but lowest energy; blue/violet light has shortest wavelength and highest energy.",
     "elimination_hint": "Energy of light is inversely proportional to wavelength (E = hc/λ). Blue light has shorter wavelength than red/yellow/green, so it carries the highest energy among the options.",
-    "factual_hooks": ["Electromagnetic spectrum: violet/blue has shortest wavelength and highest energy; red has longest wavelength and lowest energy", "E = hf = hc/λ — energy is proportional to frequency, inversely proportional to wavelength"],
-    "prerequisite_concepts": ["Electromagnetic spectrum", "Planck's equation", "Photoelectric effect"],
-    "related_concepts": ["UV radiation", "Photosynthesis light absorption", "VIBGYOR"],
-    "contrast_with": ["Blue light (high energy, short wavelength) vs Red light (low energy, long wavelength)"],
+    "factual_hooks": [
+      "Electromagnetic spectrum: violet/blue has shortest wavelength and highest energy; red has longest wavelength and lowest energy",
+      "E = hf = hc/λ — energy is proportional to frequency, inversely proportional to wavelength"
+    ],
+    "prerequisite_concepts": [
+      "Electromagnetic spectrum",
+      "Planck's equation",
+      "Photoelectric effect"
+    ],
+    "related_concepts": [
+      "UV radiation",
+      "Photosynthesis light absorption",
+      "VIBGYOR"
+    ],
+    "contrast_with": [
+      "Blue light (high energy, short wavelength) vs Red light (low energy, long wavelength)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["blue light", "wavelength", "energy", "electromagnetic spectrum", "physics", "Planck"]
+    "keywords": [
+      "blue light",
+      "wavelength",
+      "energy",
+      "electromagnetic spectrum",
+      "physics",
+      "Planck"
+    ]
   },
   {
     "idx": 32,
@@ -812,17 +1519,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Habitat (option C) describes only the physical space; ecotone describes a transition zone between habitats; home range is the area an animal traverses — none cover functional role.",
     "elimination_hint": "Ecological niche encompasses both where an organism lives (physical space) and what it does (functional role — feeding habits, behavior, interactions) in its community — option B.",
-    "factual_hooks": ["Ecological niche = Hutchinson's n-dimensional hypervolume defining all conditions needed for species survival + its functional role", "Habitat = address; Niche = profession (Odum's analogy)"],
-    "prerequisite_concepts": ["Niche vs habitat distinction", "Competitive exclusion principle", "Community ecology"],
-    "related_concepts": ["Gause's principle", "Resource partitioning", "Fundamental vs realized niche"],
-    "contrast_with": ["Ecological niche (space + function) vs Habitat (space only) vs Ecotone (transition zone)"],
+    "factual_hooks": [
+      "Ecological niche = Hutchinson's n-dimensional hypervolume defining all conditions needed for species survival + its functional role",
+      "Habitat = address; Niche = profession (Odum's analogy)"
+    ],
+    "prerequisite_concepts": [
+      "Niche vs habitat distinction",
+      "Competitive exclusion principle",
+      "Community ecology"
+    ],
+    "related_concepts": [
+      "Gause's principle",
+      "Resource partitioning",
+      "Fundamental vs realized niche"
+    ],
+    "contrast_with": [
+      "Ecological niche (space + function) vs Habitat (space only) vs Ecotone (transition zone)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Niche theory is fundamental to understanding biodiversity loss and invasive species impacts.",
-    "keywords": ["ecological niche", "habitat", "functional role", "community", "ecology", "Hutchinson"]
+    "keywords": [
+      "ecological niche",
+      "habitat",
+      "functional role",
+      "community",
+      "ecology",
+      "Hutchinson"
+    ]
   },
   {
     "idx": 33,
@@ -833,21 +1560,53 @@
     "dimension": "WHAT",
     "question_type": "Analytical",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["102nd Constitutional Amendment (2018) gave NCBC constitutional status under Article 338B", "Earlier NCBC was a statutory body under NCBC Act 1993; now it has powers similar to NCSC/NCST"],
-    "prerequisite_concepts": ["102nd Constitutional Amendment", "Article 338B", "OBC reservation policy"],
-    "related_concepts": ["Mandal Commission", "OBC sub-categorization", "Articles 338, 338A, 338B"],
+    "factual_hooks": [
+      "102nd Constitutional Amendment (2018) gave NCBC constitutional status under Article 338B",
+      "Earlier NCBC was a statutory body under NCBC Act 1993; now it has powers similar to NCSC/NCST"
+    ],
+    "prerequisite_concepts": [
+      "102nd Constitutional Amendment",
+      "Article 338B",
+      "OBC reservation policy"
+    ],
+    "related_concepts": [
+      "Mandal Commission",
+      "OBC sub-categorization",
+      "Articles 338, 338A, 338B"
+    ],
     "contrast_with": [],
-    "mains_themes": ["NCBC's enhanced role post-constitutional status", "OBC welfare governance", "Accountability of constitutional bodies vs statutory bodies"],
+    "mains_themes": [
+      "NCBC's enhanced role post-constitutional status",
+      "OBC welfare governance",
+      "Accountability of constitutional bodies vs statutory bodies"
+    ],
     "mains_intro": "The transformation of the National Commission for Backward Classes from a statutory to a constitutional body through the 102nd Amendment represents a significant strengthening of OBC welfare governance architecture.",
-    "mains_body_points": ["Pre-2018 status: NCBC under NCBC Act 1993 — could only advise on inclusion/exclusion from OBC lists; limited mandate", "Post-102nd Amendment: Article 338B confers constitutional status; now investigates complaints of rights deprivation, advises on socio-economic development of OBCs, submits annual reports to President", "Enhanced powers: Can examine questions of OBC welfare, participate in planning of socio-economic development, inspect any institution run by govt for OBCs", "Significance: Greater autonomy from executive pressure; reports must be placed before Parliament; accountability enhanced", "Challenges: Judicial review of OBC lists still with Parliament (Article 342A); sub-categorization issue pending judicial resolution"],
+    "mains_body_points": [
+      "Pre-2018 status: NCBC under NCBC Act 1993 — could only advise on inclusion/exclusion from OBC lists; limited mandate",
+      "Post-102nd Amendment: Article 338B confers constitutional status; now investigates complaints of rights deprivation, advises on socio-economic development of OBCs, submits annual reports to President",
+      "Enhanced powers: Can examine questions of OBC welfare, participate in planning of socio-economic development, inspect any institution run by govt for OBCs",
+      "Significance: Greater autonomy from executive pressure; reports must be placed before Parliament; accountability enhanced",
+      "Challenges: Judicial review of OBC lists still with Parliament (Article 342A); sub-categorization issue pending judicial resolution"
+    ],
     "mains_conclusion": "The NCBC's constitutional elevation significantly empowers OBC welfare governance, though true protection of backward class rights requires complementary judicial, legislative and administrative reforms.",
-    "mains_interlinkages": ["GS2 Polity", "GS1 Society", "GS2 Governance"],
+    "mains_interlinkages": [
+      "GS2 Polity",
+      "GS1 Society",
+      "GS2 Governance"
+    ],
     "contemporary_relevance": "Supreme Court's 2024 judgment allowing OBC sub-categorization (EWS/creamy layer) makes NCBC's role more critical.",
-    "keywords": ["NCBC", "National Commission Backward Classes", "102nd Amendment", "Article 338B", "constitutional body", "OBC"]
+    "keywords": [
+      "NCBC",
+      "National Commission Backward Classes",
+      "102nd Amendment",
+      "Article 338B",
+      "constitutional body",
+      "OBC"
+    ]
   },
   {
     "idx": 34,
@@ -862,17 +1621,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Students may confuse the formal proclamation of Swadeshi (which happened at a different location) with the date when Partition of Bengal took effect (16 October 1905 was the actual date of partition).",
     "elimination_hint": "16 October 1905 was the date the Partition of Bengal formally took effect — observed as a day of mourning; Rakhi Bandhan ceremony was performed by Rabindranath Tagore as protest.",
-    "factual_hooks": ["Partition of Bengal took effect on 16 October 1905 — Rabindranath Tagore organized rakhi ceremony as a symbol of Hindu-Muslim unity", "Lord Curzon announced partition in 1904; it took effect Oct 1905; annulled in 1911 due to mass protests"],
-    "prerequisite_concepts": ["Partition of Bengal", "Swadeshi Movement origins", "Lord Curzon's policies"],
-    "related_concepts": ["Anti-Partition movement", "Swadeshi and Boycott", "Tilak and extremist faction"],
-    "contrast_with": ["Partition of Bengal 1905 (annulled 1911) vs Partition of India 1947 (permanent)"],
+    "factual_hooks": [
+      "Partition of Bengal took effect on 16 October 1905 — Rabindranath Tagore organized rakhi ceremony as a symbol of Hindu-Muslim unity",
+      "Lord Curzon announced partition in 1904; it took effect Oct 1905; annulled in 1911 due to mass protests"
+    ],
+    "prerequisite_concepts": [
+      "Partition of Bengal",
+      "Swadeshi Movement origins",
+      "Lord Curzon's policies"
+    ],
+    "related_concepts": [
+      "Anti-Partition movement",
+      "Swadeshi and Boycott",
+      "Tilak and extremist faction"
+    ],
+    "contrast_with": [
+      "Partition of Bengal 1905 (annulled 1911) vs Partition of India 1947 (permanent)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Partition of Bengal", "16 October 1905", "Swadeshi Movement", "Curzon", "Rabindranath Tagore", "nationalism"]
+    "keywords": [
+      "Partition of Bengal",
+      "16 October 1905",
+      "Swadeshi Movement",
+      "Curzon",
+      "Rabindranath Tagore",
+      "nationalism"
+    ]
   },
   {
     "idx": 35,
@@ -887,17 +1666,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement 1 says IMR counts deaths within a month — but IMR actually counts deaths within the first year (one year) of life. Deaths within a month = neonatal mortality rate. Statement 2 gives denominator as 100 (should be 1000).",
     "elimination_hint": "IMR = deaths of infants under 1 year per 1000 live births (not per 100, and not within 1 month). Both statements are wrong. Statement 1 confuses IMR with neonatal rate; statement 2 uses wrong denominator.",
-    "factual_hooks": ["IMR = number of deaths of children under 1 year per 1000 live births in a given year", "Neonatal mortality rate = deaths in first 28 days; IMR = deaths in first year"],
-    "prerequisite_concepts": ["IMR definition", "Demographic indicators", "Child health metrics"],
-    "related_concepts": ["Under-5 mortality rate", "Maternal mortality rate", "SRS data"],
-    "contrast_with": ["IMR (under 1 year, per 1000) vs Neonatal Mortality (under 28 days) vs Under-5 Mortality Rate"],
+    "factual_hooks": [
+      "IMR = number of deaths of children under 1 year per 1000 live births in a given year",
+      "Neonatal mortality rate = deaths in first 28 days; IMR = deaths in first year"
+    ],
+    "prerequisite_concepts": [
+      "IMR definition",
+      "Demographic indicators",
+      "Child health metrics"
+    ],
+    "related_concepts": [
+      "Under-5 mortality rate",
+      "Maternal mortality rate",
+      "SRS data"
+    ],
+    "contrast_with": [
+      "IMR (under 1 year, per 1000) vs Neonatal Mortality (under 28 days) vs Under-5 Mortality Rate"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "India's IMR declined from 68 (2000) to 28 (2020) but inter-state disparities remain stark.",
-    "keywords": ["IMR", "infant mortality rate", "neonatal mortality", "demographic indicator", "per 1000", "child health"]
+    "keywords": [
+      "IMR",
+      "infant mortality rate",
+      "neonatal mortality",
+      "demographic indicator",
+      "per 1000",
+      "child health"
+    ]
   },
   {
     "idx": 36,
@@ -912,9 +1711,19 @@
     "prelims_priority": "LOW",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Tabulate attributes: A=old, red, law; B=old, blue, gazette; C=old, blue, law; D=new, red, law; E=old, blue, gazette; F=new, red, gazette. New + red + law = D only."],
-    "prerequisite_concepts": ["Set intersection", "Logical classification", "Attribute matching"],
-    "related_concepts": ["Venn diagrams", "Matrix reasoning", "Deductive logic"],
+    "factual_hooks": [
+      "Tabulate attributes: A=old, red, law; B=old, blue, gazette; C=old, blue, law; D=new, red, law; E=old, blue, gazette; F=new, red, gazette. New + red + law = D only."
+    ],
+    "prerequisite_concepts": [
+      "Set intersection",
+      "Logical classification",
+      "Attribute matching"
+    ],
+    "related_concepts": [
+      "Venn diagrams",
+      "Matrix reasoning",
+      "Deductive logic"
+    ],
     "contrast_with": [],
     "mains_themes": [],
     "mains_intro": null,
@@ -922,7 +1731,14 @@
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["books", "classification", "logical reasoning", "attributes", "CSAT", "deduction"]
+    "keywords": [
+      "books",
+      "classification",
+      "logical reasoning",
+      "attributes",
+      "CSAT",
+      "deduction"
+    ]
   },
   {
     "idx": 37,
@@ -937,17 +1753,49 @@
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["PM Gati Shakti Master Plan (2021): integrated multi-modal connectivity portal integrating 16 ministries' infrastructure planning", "Requires aligning railways, highways, ports, aviation, digital infrastructure and logistics — needs public-private coordination"],
-    "prerequisite_concepts": ["PM Gati Shakti National Master Plan", "Multi-modal connectivity", "PPP in infrastructure"],
-    "related_concepts": ["NIP (National Infrastructure Pipeline)", "Logistics cost reduction", "PM GatiShakti portal"],
+    "factual_hooks": [
+      "PM Gati Shakti Master Plan (2021): integrated multi-modal connectivity portal integrating 16 ministries' infrastructure planning",
+      "Requires aligning railways, highways, ports, aviation, digital infrastructure and logistics — needs public-private coordination"
+    ],
+    "prerequisite_concepts": [
+      "PM Gati Shakti National Master Plan",
+      "Multi-modal connectivity",
+      "PPP in infrastructure"
+    ],
+    "related_concepts": [
+      "NIP (National Infrastructure Pipeline)",
+      "Logistics cost reduction",
+      "PM GatiShakti portal"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Gati Shakti as integrated connectivity reform", "Government-private sector coordination challenges", "Infrastructure as driver of economic growth"],
+    "mains_themes": [
+      "Gati Shakti as integrated connectivity reform",
+      "Government-private sector coordination challenges",
+      "Infrastructure as driver of economic growth"
+    ],
     "mains_intro": "PM Gati Shakti Yojana represents India's most ambitious attempt to create integrated, multi-modal infrastructure — but its success depends critically on unprecedented coordination between government ministries and private sector actors.",
-    "mains_body_points": ["Vision: Integrated portal with satellite/GIS mapping of planned infrastructure across 16 ministries; aims to reduce logistics cost from 13% to 8% of GDP", "Coordination need: Railways, highways, ports, airports, digital infra must be planned in tandem; Gati Shakti portal enables this but requires ministerial alignment", "Private sector role: PPP model for expressways, ports, logistics parks; private investment critical under NMP", "Challenges: Land acquisition delays, inter-ministerial turf wars, state government alignment, regulatory approvals", "Success factors: Strong PMO oversight, single-window clearances, transparent dispute resolution for PPP"],
+    "mains_body_points": [
+      "Vision: Integrated portal with satellite/GIS mapping of planned infrastructure across 16 ministries; aims to reduce logistics cost from 13% to 8% of GDP",
+      "Coordination need: Railways, highways, ports, airports, digital infra must be planned in tandem; Gati Shakti portal enables this but requires ministerial alignment",
+      "Private sector role: PPP model for expressways, ports, logistics parks; private investment critical under NMP",
+      "Challenges: Land acquisition delays, inter-ministerial turf wars, state government alignment, regulatory approvals",
+      "Success factors: Strong PMO oversight, single-window clearances, transparent dispute resolution for PPP"
+    ],
     "mains_conclusion": "Gati Shakti's transformative connectivity vision will be realized only through systematic inter-ministerial coordination mechanisms and enabling regulatory framework for private sector partnership.",
-    "mains_interlinkages": ["GS3 Economy", "GS2 Governance", "GS3 Infrastructure"],
+    "mains_interlinkages": [
+      "GS3 Economy",
+      "GS2 Governance",
+      "GS3 Infrastructure"
+    ],
     "contemporary_relevance": "PM Gati Shakti has become the framework for India's National Master Plan for multi-modal connectivity.",
-    "keywords": ["Gati Shakti", "multi-modal connectivity", "PPP", "logistics", "infrastructure", "government-private coordination"]
+    "keywords": [
+      "Gati Shakti",
+      "multi-modal connectivity",
+      "PPP",
+      "logistics",
+      "infrastructure",
+      "government-private coordination"
+    ]
   },
   {
     "idx": 38,
@@ -962,17 +1810,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Students may confuse this with the general election period (3 months for state/central elections); panchayat elections have a specific 6-month constitutional requirement.",
     "elimination_hint": "Article 243E: If a panchayat is dissolved before its 5-year term, elections must be held within 6 months to complete the remaining term. Option C (6 months) is correct.",
-    "factual_hooks": ["Article 243E(4): Panchayat dissolved before term — elections within 6 months; new panchayat serves only remaining term", "This 6-month requirement also applies to Municipalities (Article 243U)"],
-    "prerequisite_concepts": ["73rd Constitutional Amendment", "Panchayati Raj provisions", "Article 243E"],
-    "related_concepts": ["State Election Commission", "Five-year term of Panchayats", "Gram Sabha"],
-    "contrast_with": ["Panchayat dissolution elections (6 months) vs regular Panchayat elections (before expiry of 5 years)"],
+    "factual_hooks": [
+      "Article 243E(4): Panchayat dissolved before term — elections within 6 months; new panchayat serves only remaining term",
+      "This 6-month requirement also applies to Municipalities (Article 243U)"
+    ],
+    "prerequisite_concepts": [
+      "73rd Constitutional Amendment",
+      "Panchayati Raj provisions",
+      "Article 243E"
+    ],
+    "related_concepts": [
+      "State Election Commission",
+      "Five-year term of Panchayats",
+      "Gram Sabha"
+    ],
+    "contrast_with": [
+      "Panchayat dissolution elections (6 months) vs regular Panchayat elections (before expiry of 5 years)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["panchayat dissolution", "elections", "6 months", "Article 243E", "local government", "73rd Amendment"]
+    "keywords": [
+      "panchayat dissolution",
+      "elections",
+      "6 months",
+      "Article 243E",
+      "local government",
+      "73rd Amendment"
+    ]
   },
   {
     "idx": 39,
@@ -983,21 +1851,53 @@
     "dimension": "VS",
     "question_type": "Analytical",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["National parties like Congress and BJP have historically favored stronger Centre; regional parties (DMK, TRS, TMC) push for greater State autonomy", "Sarkaria Commission (1983) and Punchhi Commission (2010) recommended reducing centralization tendencies"],
-    "prerequisite_concepts": ["Centre-State relations", "Federalism in India", "Political parties and federalism"],
-    "related_concepts": ["Sarkaria Commission", "Inter-State Council", "Cooperative federalism"],
+    "factual_hooks": [
+      "National parties like Congress and BJP have historically favored stronger Centre; regional parties (DMK, TRS, TMC) push for greater State autonomy",
+      "Sarkaria Commission (1983) and Punchhi Commission (2010) recommended reducing centralization tendencies"
+    ],
+    "prerequisite_concepts": [
+      "Centre-State relations",
+      "Federalism in India",
+      "Political parties and federalism"
+    ],
+    "related_concepts": [
+      "Sarkaria Commission",
+      "Inter-State Council",
+      "Cooperative federalism"
+    ],
     "contrast_with": [],
-    "mains_themes": ["National parties' centralizing tendency vs regional parties' autonomy demand", "Structural factors driving centralization", "Path to cooperative federalism"],
+    "mains_themes": [
+      "National parties' centralizing tendency vs regional parties' autonomy demand",
+      "Structural factors driving centralization",
+      "Path to cooperative federalism"
+    ],
     "mains_intro": "The divergence between national parties' centralizing tendencies and regional parties' autonomy demands reflects a structural tension at the heart of India's quasi-federal system — each set of actors responding to different electoral and governance incentives.",
-    "mains_body_points": ["National party centralisation: Congress used Art 356 extensively; BJP's One Nation One Tax (GST), One Nation One Election proposals reflect centralizing philosophy", "Regional party autonomy demands: TMC's protest of central agencies; TRS demanding more Concurrent List subjects to State List; Amaravati vs CRDA conflict", "Structural explanation: National parties govern Centre, gain from centralisation; regional parties govern states, gain from autonomy — rational political behaviour", "Legitimate concerns: State financial autonomy (Finance Commission devolution, FRBM constraints), police-Centre conflict (CBI jurisdiction), natural resource disputes", "Way forward: Strengthen Inter-State Council, implement Sarkaria/Punchhi recommendations, devolve more funds to States"],
+    "mains_body_points": [
+      "National party centralisation: Congress used Art 356 extensively; BJP's One Nation One Tax (GST), One Nation One Election proposals reflect centralizing philosophy",
+      "Regional party autonomy demands: TMC's protest of central agencies; TRS demanding more Concurrent List subjects to State List; Amaravati vs CRDA conflict",
+      "Structural explanation: National parties govern Centre, gain from centralisation; regional parties govern states, gain from autonomy — rational political behaviour",
+      "Legitimate concerns: State financial autonomy (Finance Commission devolution, FRBM constraints), police-Centre conflict (CBI jurisdiction), natural resource disputes",
+      "Way forward: Strengthen Inter-State Council, implement Sarkaria/Punchhi recommendations, devolve more funds to States"
+    ],
     "mains_conclusion": "India's federal bargain requires both national cohesion and state autonomy — institutionalizing cooperative mechanisms rather than leaving federalism to political bargaining is the sustainable path forward.",
-    "mains_interlinkages": ["GS2 Polity", "GS3 Economy", "Governance"],
+    "mains_interlinkages": [
+      "GS2 Polity",
+      "GS3 Economy",
+      "Governance"
+    ],
     "contemporary_relevance": "Centre-State tensions over NEET, farm laws, GST compensation and CBI jurisdiction are recurring themes.",
-    "keywords": ["federalism", "national parties", "regional parties", "State autonomy", "centralisation", "Centre-State relations"]
+    "keywords": [
+      "federalism",
+      "national parties",
+      "regional parties",
+      "State autonomy",
+      "centralisation",
+      "Centre-State relations"
+    ]
   },
   {
     "idx": 40,
@@ -1012,17 +1912,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement 2 (Vietnam multi-party system) is false — Vietnam is a one-party Communist state. Statement 5 (most productive e-service sector in Indo-Pacific) is an unverified superlative.",
     "elimination_hint": "Vietnam: one-party state (not multi-party — statement 2 wrong); rapid growth (1 correct); export-led growth through supply chain integration (3 correct); low labour costs and stable exchange rate (4 correct). Answer: 1, 3, 4.",
-    "factual_hooks": ["Vietnam is governed by the Communist Party of Vietnam (one-party state); GDP growth among Asia's fastest at 6-8% per year", "Vietnam's manufacturing FDI boom driven by Samsung, Intel, Nike — low labour cost + stable dong + FTA access"],
-    "prerequisite_concepts": ["Vietnam's political economy", "ASEAN economies", "Global supply chain dynamics"],
-    "related_concepts": ["China+1 strategy", "RCEP", "CPTPP"],
-    "contrast_with": ["Vietnam (one-party, market economy) vs China (one-party, but larger SOE role)"],
+    "factual_hooks": [
+      "Vietnam is governed by the Communist Party of Vietnam (one-party state); GDP growth among Asia's fastest at 6-8% per year",
+      "Vietnam's manufacturing FDI boom driven by Samsung, Intel, Nike — low labour cost + stable dong + FTA access"
+    ],
+    "prerequisite_concepts": [
+      "Vietnam's political economy",
+      "ASEAN economies",
+      "Global supply chain dynamics"
+    ],
+    "related_concepts": [
+      "China+1 strategy",
+      "RCEP",
+      "CPTPP"
+    ],
+    "contrast_with": [
+      "Vietnam (one-party, market economy) vs China (one-party, but larger SOE role)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Vietnam is a key beneficiary of the China+1 manufacturing diversification strategy post-COVID.",
-    "keywords": ["Vietnam", "economic growth", "supply chains", "exports", "one-party state", "Indo-Pacific"]
+    "keywords": [
+      "Vietnam",
+      "economic growth",
+      "supply chains",
+      "exports",
+      "one-party state",
+      "Indo-Pacific"
+    ]
   },
   {
     "idx": 41,
@@ -1033,21 +1953,41 @@
     "dimension": "WHAT",
     "question_type": "Factual",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": "The word 'Tebhaga' literally means 'three portions' — students may guess it means abolishing zamindari (C) or writing off debts (D) rather than the specific crop-share demand.",
     "elimination_hint": "Tebhaga (1946-47 Bengal peasant movement): sharecroppers demanded 2/3 share of crop for themselves and 1/3 for landlord (reducing landlord's share from 1/2 to 1/3). Option A is correct.",
-    "factual_hooks": ["Tebhaga = 'three parts' — peasants demanded 2/3 of harvest vs the prevailing 1/2 given to cultivators", "Led by Kisan Sabha (CPAI); largest peasant movement in Bengal before Independence"],
-    "prerequisite_concepts": ["Peasant movements in colonial India", "Bengal agrarian structure", "Sharecropping system"],
-    "related_concepts": ["Telangana Peasant Armed Struggle", "Deccan Riots", "Punnapra-Vayalar uprising"],
-    "contrast_with": ["Tebhaga (crop share) vs Telangana (land redistribution) — different demands in different peasant movements"],
+    "factual_hooks": [
+      "Tebhaga = 'three parts' — peasants demanded 2/3 of harvest vs the prevailing 1/2 given to cultivators",
+      "Led by Kisan Sabha (CPAI); largest peasant movement in Bengal before Independence"
+    ],
+    "prerequisite_concepts": [
+      "Peasant movements in colonial India",
+      "Bengal agrarian structure",
+      "Sharecropping system"
+    ],
+    "related_concepts": [
+      "Telangana Peasant Armed Struggle",
+      "Deccan Riots",
+      "Punnapra-Vayalar uprising"
+    ],
+    "contrast_with": [
+      "Tebhaga (crop share) vs Telangana (land redistribution) — different demands in different peasant movements"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Tebhaga", "peasant movement", "Bengal", "crop share", "landlord", "1946"]
+    "keywords": [
+      "Tebhaga",
+      "peasant movement",
+      "Bengal",
+      "crop share",
+      "landlord",
+      "1946"
+    ]
   },
   {
     "idx": 42,
@@ -1062,17 +2002,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "ADB headquarters is in Manila (Philippines), not Tokyo; ASEAN secretariat is in Jakarta, not Bangkok. Only APEC Secretariat is in Singapore (established 1993).",
     "elimination_hint": "ADB = Manila; APEC Secretariat = Singapore (correct pair 2); ASEAN Secretariat = Jakarta. Only pair 2 (APEC-Singapore) is correct.",
-    "factual_hooks": ["APEC Secretariat is in Singapore; ADB headquarters in Manila, Philippines", "ASEAN Secretariat (not headquarters) is in Jakarta, Indonesia; Bangkok hosts various ESCAP offices"],
-    "prerequisite_concepts": ["International organization headquarters", "Asia-Pacific institutions", "ASEAN vs APEC"],
-    "related_concepts": ["SCO", "RCEP", "Indo-Pacific Economic Framework"],
-    "contrast_with": ["ASEAN (Southeast Asia, Jakarta) vs APEC (Asia-Pacific, Singapore Secretariat)"],
+    "factual_hooks": [
+      "APEC Secretariat is in Singapore; ADB headquarters in Manila, Philippines",
+      "ASEAN Secretariat (not headquarters) is in Jakarta, Indonesia; Bangkok hosts various ESCAP offices"
+    ],
+    "prerequisite_concepts": [
+      "International organization headquarters",
+      "Asia-Pacific institutions",
+      "ASEAN vs APEC"
+    ],
+    "related_concepts": [
+      "SCO",
+      "RCEP",
+      "Indo-Pacific Economic Framework"
+    ],
+    "contrast_with": [
+      "ASEAN (Southeast Asia, Jakarta) vs APEC (Asia-Pacific, Singapore Secretariat)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["ADB", "APEC", "ASEAN", "Singapore", "Manila", "international organization headquarters"]
+    "keywords": [
+      "ADB",
+      "APEC",
+      "ASEAN",
+      "Singapore",
+      "Manila",
+      "international organization headquarters"
+    ]
   },
   {
     "idx": 43,
@@ -1083,21 +2043,41 @@
     "dimension": "WHAT",
     "question_type": "Factual",
     "difficulty": "Hard",
-    "confidence_score": 0.80,
+    "confidence_score": 0.8,
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement I about InvIT income tax treatment has been reversed — actually dividend (not interest) from InvITs is taxed in investor hands; interest income distributed to unit holders was previously tax-exempt but tax treatment has evolved.",
     "elimination_hint": "Statement I is actually incorrect as stated — in current tax treatment, dividend from InvITs is taxable in investors' hands; interest income pass-through exemption is partial. Statement II about InvITs as borrowers under SARFAESI is correct. Answer: Statement II correct, Statement I incorrect.",
-    "factual_hooks": ["InvITs (Infrastructure Investment Trusts) are SEBI-regulated vehicles pooling infrastructure assets for investor returns", "InvITs are recognized as borrowers under SARFAESI Act 2002, enabling them to access secured credit"],
-    "prerequisite_concepts": ["InvIT structure", "SARFAESI Act", "Infrastructure financing"],
-    "related_concepts": ["REITs", "NaBFID", "Infrastructure bonds"],
-    "contrast_with": ["InvIT (infrastructure assets) vs REIT (real estate assets) — similar structure, different underlying assets"],
+    "factual_hooks": [
+      "InvITs (Infrastructure Investment Trusts) are SEBI-regulated vehicles pooling infrastructure assets for investor returns",
+      "InvITs are recognized as borrowers under SARFAESI Act 2002, enabling them to access secured credit"
+    ],
+    "prerequisite_concepts": [
+      "InvIT structure",
+      "SARFAESI Act",
+      "Infrastructure financing"
+    ],
+    "related_concepts": [
+      "REITs",
+      "NaBFID",
+      "Infrastructure bonds"
+    ],
+    "contrast_with": [
+      "InvIT (infrastructure assets) vs REIT (real estate assets) — similar structure, different underlying assets"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "InvITs have raised over ₹1 lakh crore for Indian infrastructure; critical for asset monetization under NMP.",
-    "keywords": ["InvIT", "infrastructure investment trust", "SARFAESI", "tax", "dividend", "infrastructure financing"]
+    "keywords": [
+      "InvIT",
+      "infrastructure investment trust",
+      "SARFAESI",
+      "tax",
+      "dividend",
+      "infrastructure financing"
+    ]
   },
   {
     "idx": 44,
@@ -1112,17 +2092,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "ECOSOC currently has 54 members (not 24 — which was the original 1945 composition before expansions in 1965 and 1971). Statement 2 about 2/3 majority election for 3-year terms is correct.",
     "elimination_hint": "ECOSOC has 54 members (expanded from 18 in 1965, then 27 in 1965, then 54 in 1973). Statement 1 is wrong. Statement 2 is correct — elected by 2/3 majority of UNGA for 3-year terms. Answer: only statement 2.",
-    "factual_hooks": ["ECOSOC has 54 members elected by UNGA by 2/3 majority for 3-year terms", "ECOSOC's 54-member composition is geographically distributed: 14 Africa, 11 Asia, 6 Eastern Europe, 10 Latin America, 13 Western Europe+Others"],
-    "prerequisite_concepts": ["UN principal organs", "ECOSOC composition and mandate", "UN General Assembly voting"],
-    "related_concepts": ["UN Security Council", "UNCTAD", "UN specialized agencies"],
-    "contrast_with": ["ECOSOC (54 members, UNGA-elected) vs Security Council (15 members, including 5 permanent)"],
+    "factual_hooks": [
+      "ECOSOC has 54 members elected by UNGA by 2/3 majority for 3-year terms",
+      "ECOSOC's 54-member composition is geographically distributed: 14 Africa, 11 Asia, 6 Eastern Europe, 10 Latin America, 13 Western Europe+Others"
+    ],
+    "prerequisite_concepts": [
+      "UN principal organs",
+      "ECOSOC composition and mandate",
+      "UN General Assembly voting"
+    ],
+    "related_concepts": [
+      "UN Security Council",
+      "UNCTAD",
+      "UN specialized agencies"
+    ],
+    "contrast_with": [
+      "ECOSOC (54 members, UNGA-elected) vs Security Council (15 members, including 5 permanent)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "ECOSOC's role in SDG follow-up is central to global development governance.",
-    "keywords": ["ECOSOC", "United Nations", "54 members", "2/3 majority", "3-year term", "General Assembly"]
+    "keywords": [
+      "ECOSOC",
+      "United Nations",
+      "54 members",
+      "2/3 majority",
+      "3-year term",
+      "General Assembly"
+    ]
   },
   {
     "idx": 45,
@@ -1133,21 +2133,53 @@
     "dimension": "IMPACT",
     "question_type": "Analytical",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["I2U2 (India, Israel, UAE, USA) — also called West Asian Quad — focused on food security, clean energy, infrastructure", "First I2U2 summit in July 2022; India-Israel-UAE normalization post-Abraham Accords enabled this"),
-    "prerequisite_concepts": ["I2U2 formation and agenda", "Abraham Accords", "India's West Asia policy"],
-    "related_concepts": ["Quad (Indo-Pacific)", "IMEC (India-Middle East-Europe Corridor)", "India-UAE bilateral"],
+    "factual_hooks": [
+      "I2U2 (India, Israel, UAE, USA) — also called West Asian Quad — focused on food security, clean energy, infrastructure",
+      "First I2U2 summit in July 2022; India-Israel-UAE normalization post-Abraham Accords enabled this"
+    ],
+    "prerequisite_concepts": [
+      "I2U2 formation and agenda",
+      "Abraham Accords",
+      "India's West Asia policy"
+    ],
+    "related_concepts": [
+      "Quad (Indo-Pacific)",
+      "IMEC (India-Middle East-Europe Corridor)",
+      "India-UAE bilateral"
+    ],
     "contrast_with": [],
-    "mains_themes": ["I2U2 as new minilateral grouping", "India's enhanced role in West Asian geopolitics", "Economic and strategic gains for India"],
+    "mains_themes": [
+      "I2U2 as new minilateral grouping",
+      "India's enhanced role in West Asian geopolitics",
+      "Economic and strategic gains for India"
+    ],
     "mains_intro": "The I2U2 grouping — an unlikely but strategically coherent coalition of India, Israel, UAE and USA — signals India's expanding geopolitical footprint and its integration into evolving West Asian security and economic architecture.",
-    "mains_body_points": ["Formation context: Enabled by Abraham Accords (2020) normalizing Israel-UAE relations; India already strong bilateral ties with all three", "Agenda: Clean energy, food security, water, space, transportation, health — practical, economically focused unlike QUAD's security orientation", "India's gain: Access to Israeli agri-tech/water technology, UAE investment and logistics hub, US technology transfer; diversifies West Asia engagement beyond Gulf oil states", "Strategic positioning: I2U2 complements IMEC (India-Middle East-Europe Economic Corridor); positions India at center of evolving connectivity architecture", "Limitations: Divergences on Ukraine, Iran; India's non-alignment constrains deeper security alignment; Palestinian issue complicates India-Arab relations"],
+    "mains_body_points": [
+      "Formation context: Enabled by Abraham Accords (2020) normalizing Israel-UAE relations; India already strong bilateral ties with all three",
+      "Agenda: Clean energy, food security, water, space, transportation, health — practical, economically focused unlike QUAD's security orientation",
+      "India's gain: Access to Israeli agri-tech/water technology, UAE investment and logistics hub, US technology transfer; diversifies West Asia engagement beyond Gulf oil states",
+      "Strategic positioning: I2U2 complements IMEC (India-Middle East-Europe Economic Corridor); positions India at center of evolving connectivity architecture",
+      "Limitations: Divergences on Ukraine, Iran; India's non-alignment constrains deeper security alignment; Palestinian issue complicates India-Arab relations"
+    ],
     "mains_conclusion": "I2U2 transforms India from a peripheral to central player in West Asian geopolitics, enhancing its strategic autonomy through economic minilateralism rather than security alliances.",
-    "mains_interlinkages": ["GS2 IR", "GS3 Economy", "GS2 Governance"],
+    "mains_interlinkages": [
+      "GS2 IR",
+      "GS3 Economy",
+      "GS2 Governance"
+    ],
     "contemporary_relevance": "I2U2's first project — Israeli food parks in India with UAE investment — is underway; IMEC announced at G20 2023 builds on its vision.",
-    "keywords": ["I2U2", "India Israel UAE USA", "West Asia", "minilateral", "Abraham Accords", "foreign policy"]
+    "keywords": [
+      "I2U2",
+      "India Israel UAE USA",
+      "West Asia",
+      "minilateral",
+      "Abraham Accords",
+      "foreign policy"
+    ]
   },
   {
     "idx": 46,
@@ -1162,17 +2194,49 @@
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Corruption is a symptom of moral failure at individual, institutional and societal levels", "Measures: ethical education, institutional transparency, civic awareness, role models in public life"],
-    "prerequisite_concepts": ["Ethics in public life", "Probity and integrity", "Value education"],
-    "related_concepts": ["Second ARC on ethics", "Nolan Committee principles", "Whistle-blower protection"],
+    "factual_hooks": [
+      "Corruption is a symptom of moral failure at individual, institutional and societal levels",
+      "Measures: ethical education, institutional transparency, civic awareness, role models in public life"
+    ],
+    "prerequisite_concepts": [
+      "Ethics in public life",
+      "Probity and integrity",
+      "Value education"
+    ],
+    "related_concepts": [
+      "Second ARC on ethics",
+      "Nolan Committee principles",
+      "Whistle-blower protection"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Corruption as values failure", "Measures to rebuild core values", "Individual vs systemic approaches"],
+    "mains_themes": [
+      "Corruption as values failure",
+      "Measures to rebuild core values",
+      "Individual vs systemic approaches"
+    ],
     "mains_intro": "Corruption, when understood as a manifestation of values failure, demands solutions that go beyond punitive deterrence to the restoration of ethical foundations at individual, institutional and societal levels.",
-    "mains_body_points": ["Values failure argument: Corruption thrives when self-interest overrides public duty, when social norms normalize dishonesty, and when institutions lack ethical culture", "Educational measures: Value education from early schooling; ethics as a component of civil service training (LBSNAA); NEP 2020 emphasis on character building", "Institutional measures: Strong anti-corruption bodies (Lokpal, Vigilance Commissions); mandatory asset disclosure; whistle-blower protection; zero-tolerance culture", "Social measures: Civil society role in naming and shaming; promoting role models; media integrity; celebrating honest public servants", "Systemic measures: Reducing discretionary powers; process simplification; e-governance minimizing human interface; performance-based accountability"],
+    "mains_body_points": [
+      "Values failure argument: Corruption thrives when self-interest overrides public duty, when social norms normalize dishonesty, and when institutions lack ethical culture",
+      "Educational measures: Value education from early schooling; ethics as a component of civil service training (LBSNAA); NEP 2020 emphasis on character building",
+      "Institutional measures: Strong anti-corruption bodies (Lokpal, Vigilance Commissions); mandatory asset disclosure; whistle-blower protection; zero-tolerance culture",
+      "Social measures: Civil society role in naming and shaming; promoting role models; media integrity; celebrating honest public servants",
+      "Systemic measures: Reducing discretionary powers; process simplification; e-governance minimizing human interface; performance-based accountability"
+    ],
     "mains_conclusion": "Uplifting core values requires a multi-pronged strategy combining moral education, institutional integrity mechanisms and social norm transformation — individually necessary but collectively transformative.",
-    "mains_interlinkages": ["GS4 Ethics", "GS2 Governance", "GS1 Society"],
+    "mains_interlinkages": [
+      "GS4 Ethics",
+      "GS2 Governance",
+      "GS1 Society"
+    ],
     "contemporary_relevance": "India's anti-corruption architecture (Lokpal, PMLA, IBC) and Mission Karmayogi address both systemic and values dimensions.",
-    "keywords": ["corruption", "core values", "ethics", "probity", "governance", "moral failure"]
+    "keywords": [
+      "corruption",
+      "core values",
+      "ethics",
+      "probity",
+      "governance",
+      "moral failure"
+    ]
   },
   {
     "idx": 47,
@@ -1187,17 +2251,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement II (Switzerland second largest gold reserves) is the trap — US holds the world's largest gold reserves; Switzerland holds significant reserves but is not second largest (Germany is closer to second).",
     "elimination_hint": "Switzerland is a leading gold exporter because it is the world's top gold refining hub — refines ~70% of global gold. This is the real explanation for Statement I, not its own gold reserves. Statement II is incorrect.",
-    "factual_hooks": ["Switzerland refines ~70% of world's gold (via Valcambi, Argor-Heraeus, PAMP refineries) — hence top gold exporter", "US holds world's largest gold reserves (~8,133 tonnes); Switzerland holds ~1,040 tonnes — not second largest"],
-    "prerequisite_concepts": ["Global gold market", "Switzerland's role in commodity trading", "Gold reserves vs gold trade"],
-    "related_concepts": ["London Gold Market", "Gold standard", "LBMA"],
-    "contrast_with": ["Gold exporter (Switzerland — refining hub) vs gold producer (China, Russia, Australia — mining)"],
+    "factual_hooks": [
+      "Switzerland refines ~70% of world's gold (via Valcambi, Argor-Heraeus, PAMP refineries) — hence top gold exporter",
+      "US holds world's largest gold reserves (~8,133 tonnes); Switzerland holds ~1,040 tonnes — not second largest"
+    ],
+    "prerequisite_concepts": [
+      "Global gold market",
+      "Switzerland's role in commodity trading",
+      "Gold reserves vs gold trade"
+    ],
+    "related_concepts": [
+      "London Gold Market",
+      "Gold standard",
+      "LBMA"
+    ],
+    "contrast_with": [
+      "Gold exporter (Switzerland — refining hub) vs gold producer (China, Russia, Australia — mining)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Gold trade routes are strategically important; India is the world's second largest gold consumer.",
-    "keywords": ["Switzerland", "gold exports", "gold reserves", "gold refining", "trade", "precious metals"]
+    "keywords": [
+      "Switzerland",
+      "gold exports",
+      "gold reserves",
+      "gold refining",
+      "trade",
+      "precious metals"
+    ]
   },
   {
     "idx": 48,
@@ -1212,17 +2296,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement 1 (Jhelum passes through Wular Lake) is correct. Statement 2 is wrong — Kolleru Lake is fed by Krishna and Godavari rivers via seasonal streams, not directly by Krishna. Statement 3: Kanwar Lake is formed by Gandak's meandering — needs verification.",
     "elimination_hint": "Jhelum does pass through Wular Lake (Kashmir) — correct. Kolleru Lake (Andhra Pradesh) is fed by surplus waters of Krishna and Godavari through seasonal streams — not directly/exclusively by Krishna (Statement 2 disputed). Kanwar Lake (Bihar) is an oxbow lake formed by Gandak's meandering — Statement 3 correct. Answer: Only one (statement 1 per UPSC key).",
-    "factual_hooks": ["Wular Lake (Jammu & Kashmir) — Jhelum River passes through it, one of Asia's largest freshwater lakes", "Kolleru Lake is fed by Krishna and Godavari seasonal floodwaters; Kanwar Taal (Bihar) is a Ramsar wetland formed by Gandak meanders"],
-    "prerequisite_concepts": ["Indian lakes and their drainage", "River systems and lakes", "Oxbow lake formation"],
-    "related_concepts": ["Ramsar wetlands in India", "Chilika Lake", "Loktak Lake"],
-    "contrast_with": ["Wular (river-linked, Kashmir) vs Chilika (coastal lagoon, Odisha)"],
+    "factual_hooks": [
+      "Wular Lake (Jammu & Kashmir) — Jhelum River passes through it, one of Asia's largest freshwater lakes",
+      "Kolleru Lake is fed by Krishna and Godavari seasonal floodwaters; Kanwar Taal (Bihar) is a Ramsar wetland formed by Gandak meanders"
+    ],
+    "prerequisite_concepts": [
+      "Indian lakes and their drainage",
+      "River systems and lakes",
+      "Oxbow lake formation"
+    ],
+    "related_concepts": [
+      "Ramsar wetlands in India",
+      "Chilika Lake",
+      "Loktak Lake"
+    ],
+    "contrast_with": [
+      "Wular (river-linked, Kashmir) vs Chilika (coastal lagoon, Odisha)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Wular Lake's ecological health is linked to Jhelum water management — strategic given India-Pakistan context.",
-    "keywords": ["Jhelum", "Wular Lake", "Kolleru Lake", "Krishna River", "Kanwar Lake", "Gandak"]
+    "keywords": [
+      "Jhelum",
+      "Wular Lake",
+      "Kolleru Lake",
+      "Krishna River",
+      "Kanwar Lake",
+      "Gandak"
+    ]
   },
   {
     "idx": 49,
@@ -1237,17 +2341,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Visakhapatnam port being the largest container port sounds plausible but JNPT (Mumbai) is actually India's largest container port. Kamaraj Port (Chennai) as first major port registered as company is correct.",
     "elimination_hint": "Kamaraj Port (formerly Ennore Port) = first major port in India incorporated as a company (correct, pair 1). Mundra Port = India's largest privately owned port (correct, pair 2). Visakhapatnam is not the largest container port (JNPT is). Answer: two pairs correct.",
-    "factual_hooks": ["Kamaraj Port (Ennore, Chennai) was incorporated as a company under Companies Act — first major port to do so", "Mundra Port (Adani Ports) is India's largest private port by cargo volume"],
-    "prerequisite_concepts": ["Major ports of India", "Port governance in India", "Private vs public ports"],
-    "related_concepts": ["JNPT", "Sagarmala project", "Port Trust Act"],
-    "contrast_with": ["Major Ports (central govt, Major Port Authorities Act) vs Non-major ports (state govt jurisdiction)"],
+    "factual_hooks": [
+      "Kamaraj Port (Ennore, Chennai) was incorporated as a company under Companies Act — first major port to do so",
+      "Mundra Port (Adani Ports) is India's largest private port by cargo volume"
+    ],
+    "prerequisite_concepts": [
+      "Major ports of India",
+      "Port governance in India",
+      "Private vs public ports"
+    ],
+    "related_concepts": [
+      "JNPT",
+      "Sagarmala project",
+      "Port Trust Act"
+    ],
+    "contrast_with": [
+      "Major Ports (central govt, Major Port Authorities Act) vs Non-major ports (state govt jurisdiction)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Sagarmala program aims to modernize India's port infrastructure; Mundra's growth exemplifies private port potential.",
-    "keywords": ["Kamaraj Port", "Mundra Port", "Visakhapatnam", "container port", "private port", "major ports India"]
+    "keywords": [
+      "Kamaraj Port",
+      "Mundra Port",
+      "Visakhapatnam",
+      "container port",
+      "private port",
+      "major ports India"
+    ]
   },
   {
     "idx": 50,
@@ -1262,17 +2386,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Jackfruit is an evergreen tree (not deciduous) — it retains leaves year-round. Students may assume all large fruit trees are deciduous. Mahua and Teak are both deciduous.",
     "elimination_hint": "Mahua (Madhuca indica) and Teak (Tectona grandis) are deciduous trees that shed leaves in dry season. Jackfruit (Artocarpus heterophyllus) is an evergreen tropical tree. Answer: only two deciduous.",
-    "factual_hooks": ["Teak is a classic deciduous tree of dry deciduous forests; sheds leaves in summer/dry season", "Jackfruit is evergreen — does not shed all leaves seasonally; Mahua is deciduous"],
-    "prerequisite_concepts": ["Deciduous vs evergreen trees", "Indian forest types", "Seasonal adaptation of trees"],
-    "related_concepts": ["Tropical dry deciduous forest", "Monsoon forests", "Tree phenology"],
-    "contrast_with": ["Deciduous (teak, mahua — leaf shedding) vs Evergreen (jackfruit, rubber — no leaf shedding)"],
+    "factual_hooks": [
+      "Teak is a classic deciduous tree of dry deciduous forests; sheds leaves in summer/dry season",
+      "Jackfruit is evergreen — does not shed all leaves seasonally; Mahua is deciduous"
+    ],
+    "prerequisite_concepts": [
+      "Deciduous vs evergreen trees",
+      "Indian forest types",
+      "Seasonal adaptation of trees"
+    ],
+    "related_concepts": [
+      "Tropical dry deciduous forest",
+      "Monsoon forests",
+      "Tree phenology"
+    ],
+    "contrast_with": [
+      "Deciduous (teak, mahua — leaf shedding) vs Evergreen (jackfruit, rubber — no leaf shedding)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["deciduous trees", "jackfruit", "mahua", "teak", "evergreen", "Indian vegetation"]
+    "keywords": [
+      "deciduous trees",
+      "jackfruit",
+      "mahua",
+      "teak",
+      "evergreen",
+      "Indian vegetation"
+    ]
   },
   {
     "idx": 51,
@@ -1287,17 +2431,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Nilgiri Hills (home to Todas, Badagas) and Lakshadweep might seem plausible for a tribal group, but Shompen are exclusive to the Nicobar Islands.",
     "elimination_hint": "Shompen is a Particularly Vulnerable Tribal Group (PVTG) found exclusively in the interior of Great Nicobar Island in the Nicobar Islands, Andaman & Nicobar.",
-    "factual_hooks": ["Shompen tribe is a PVTG found only on Great Nicobar Island; estimated population under 300", "Shompen are a nomadic tribe with minimal contact with mainstream society; threatened by development projects on Great Nicobar"],
-    "prerequisite_concepts": ["Tribal groups of India", "Andaman and Nicobar tribes", "PVTGs"],
-    "related_concepts": ["Sentinelese", "Jarawa", "Great Nicobar development project"],
-    "contrast_with": ["Shompen (Nicobar) vs Sentinelese and Jarawa (Andaman Islands)"],
+    "factual_hooks": [
+      "Shompen tribe is a PVTG found only on Great Nicobar Island; estimated population under 300",
+      "Shompen are a nomadic tribe with minimal contact with mainstream society; threatened by development projects on Great Nicobar"
+    ],
+    "prerequisite_concepts": [
+      "Tribal groups of India",
+      "Andaman and Nicobar tribes",
+      "PVTGs"
+    ],
+    "related_concepts": [
+      "Sentinelese",
+      "Jarawa",
+      "Great Nicobar development project"
+    ],
+    "contrast_with": [
+      "Shompen (Nicobar) vs Sentinelese and Jarawa (Andaman Islands)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Great Nicobar Island development project raises concerns about Shompen tribal rights and ecological impact.",
-    "keywords": ["Shompen", "Nicobar Islands", "tribal group", "PVTG", "Great Nicobar", "Andaman and Nicobar"]
+    "keywords": [
+      "Shompen",
+      "Nicobar Islands",
+      "tribal group",
+      "PVTG",
+      "Great Nicobar",
+      "Andaman and Nicobar"
+    ]
   },
   {
     "idx": 52,
@@ -1312,17 +2476,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement 1 (India more arable area than China) is correct. Statement 2 (India higher proportion of irrigated area) is correct. Statement 3 (India higher productivity per hectare) is wrong — China's agricultural productivity per hectare is higher.",
     "elimination_hint": "India has more arable land than China (true). India has higher proportion of irrigated area (~48% vs ~40% in China — broadly true). China's per hectare productivity is higher than India's for most crops. Only statement 1 is definitively correct per UPSC answer key.",
-    "factual_hooks": ["India has ~156 million hectares of arable land vs China's ~120 million hectares", "China's agricultural productivity per hectare exceeds India's for most major crops due to better technology adoption"],
-    "prerequisite_concepts": ["India-China agricultural comparison", "Arable land statistics", "Irrigation infrastructure"],
-    "related_concepts": ["Green Revolution", "Agricultural technology gap", "Food security"],
-    "contrast_with": ["India (more arable land, lower productivity) vs China (less arable land, higher productivity)"],
+    "factual_hooks": [
+      "India has ~156 million hectares of arable land vs China's ~120 million hectares",
+      "China's agricultural productivity per hectare exceeds India's for most major crops due to better technology adoption"
+    ],
+    "prerequisite_concepts": [
+      "India-China agricultural comparison",
+      "Arable land statistics",
+      "Irrigation infrastructure"
+    ],
+    "related_concepts": [
+      "Green Revolution",
+      "Agricultural technology gap",
+      "Food security"
+    ],
+    "contrast_with": [
+      "India (more arable land, lower productivity) vs China (less arable land, higher productivity)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "India-China agricultural comparison is relevant to food security and trade policy debates.",
-    "keywords": ["India arable area", "China agriculture", "irrigated area", "productivity", "comparison", "agricultural geography"]
+    "keywords": [
+      "India arable area",
+      "China agriculture",
+      "irrigated area",
+      "productivity",
+      "comparison",
+      "agricultural geography"
+    ]
   },
   {
     "idx": 53,
@@ -1337,17 +2521,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Bhitarkanika (mangroves) and Naupada Swamp are marshy but formed by different processes; Rann of Kutch's extensive marshland is specifically related to repeated sea level changes and tectonic uplift.",
     "elimination_hint": "The Rann of Kutch is a salt marsh formed by repeated sea level changes — it was once part of the sea, and tectonic uplift combined with sea level falls created the extensive marshland. It floods seasonally with seawater.",
-    "factual_hooks": ["Rann of Kutch = seasonal salt marsh; geological evidence shows repeated marine transgressions and regressions", "During SW monsoon, the Rann floods with seawater; in winter it becomes a vast salt flat — evidence of sea level fluctuation impact"],
-    "prerequisite_concepts": ["Rann of Kutch geomorphology", "Sea level changes", "Tectonic geomorphology"],
-    "related_concepts": ["Salt marshes", "Marine transgression", "Gujarat coastal geography"],
-    "contrast_with": ["Rann of Kutch (tectonic + sea level) vs Bhitarkanika (deltaic mangrove)"],
+    "factual_hooks": [
+      "Rann of Kutch = seasonal salt marsh; geological evidence shows repeated marine transgressions and regressions",
+      "During SW monsoon, the Rann floods with seawater; in winter it becomes a vast salt flat — evidence of sea level fluctuation impact"
+    ],
+    "prerequisite_concepts": [
+      "Rann of Kutch geomorphology",
+      "Sea level changes",
+      "Tectonic geomorphology"
+    ],
+    "related_concepts": [
+      "Salt marshes",
+      "Marine transgression",
+      "Gujarat coastal geography"
+    ],
+    "contrast_with": [
+      "Rann of Kutch (tectonic + sea level) vs Bhitarkanika (deltaic mangrove)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Rann of Kutch's ecosystem faces threats from salt extraction and border infrastructure development.",
-    "keywords": ["Rann of Kutch", "sea level", "marshland", "geomorphology", "tectonic", "salt marsh"]
+    "keywords": [
+      "Rann of Kutch",
+      "sea level",
+      "marshland",
+      "geomorphology",
+      "tectonic",
+      "salt marsh"
+    ]
   },
   {
     "idx": 54,
@@ -1362,17 +2566,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Ilmenite (FeTiO3) and rutile (TiO2) sound metallic; students may associate with iron (Fe in ilmenite formula) rather than recognizing both as titanium ores.",
     "elimination_hint": "Both ilmenite (iron titanate, FeTiO3) and rutile (titanium dioxide, TiO2) are titanium ores. India's Kerala coast (beach placer deposits) is rich in both. Option D (Titanium) is correct.",
-    "factual_hooks": ["Ilmenite (FeTiO3) and Rutile (TiO2) are the primary commercial ores of Titanium", "India's Chavara coast (Kerala) and Manavalakurichi (Tamil Nadu) are major ilmenite/rutile deposits"],
-    "prerequisite_concepts": ["Mineral ore identification", "Titanium uses", "Indian coastal mineral deposits"],
-    "related_concepts": ["Strategic minerals", "Indian Rare Earths Limited", "Beach placer deposits"],
-    "contrast_with": ["Ilmenite/Rutile (titanium ores) vs Bauxite (aluminium ore) vs Malachite (copper ore)"],
+    "factual_hooks": [
+      "Ilmenite (FeTiO3) and Rutile (TiO2) are the primary commercial ores of Titanium",
+      "India's Chavara coast (Kerala) and Manavalakurichi (Tamil Nadu) are major ilmenite/rutile deposits"
+    ],
+    "prerequisite_concepts": [
+      "Mineral ore identification",
+      "Titanium uses",
+      "Indian coastal mineral deposits"
+    ],
+    "related_concepts": [
+      "Strategic minerals",
+      "Indian Rare Earths Limited",
+      "Beach placer deposits"
+    ],
+    "contrast_with": [
+      "Ilmenite/Rutile (titanium ores) vs Bauxite (aluminium ore) vs Malachite (copper ore)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Titanium is a critical mineral for aerospace, defence and emerging technologies — India's deposits are strategically valuable.",
-    "keywords": ["ilmenite", "rutile", "titanium", "coastal deposits", "India minerals", "FeTiO3"]
+    "keywords": [
+      "ilmenite",
+      "rutile",
+      "titanium",
+      "coastal deposits",
+      "India minerals",
+      "FeTiO3"
+    ]
   },
   {
     "idx": 55,
@@ -1387,17 +2611,49 @@
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Gandhi's quote emphasizes karma yoga — active service — over ritualistic prayer as moral action", "In present context: welfare governance, CSR, citizen voluntarism are 'acts of kindness' more impactful than symbolic gestures"],
-    "prerequisite_concepts": ["Gandhian ethics", "Karma yoga", "Service as spiritual practice"],
-    "related_concepts": ["Sarvodaya", "Trusteeship", "Nishkama karma"],
+    "factual_hooks": [
+      "Gandhi's quote emphasizes karma yoga — active service — over ritualistic prayer as moral action",
+      "In present context: welfare governance, CSR, citizen voluntarism are 'acts of kindness' more impactful than symbolic gestures"
+    ],
+    "prerequisite_concepts": [
+      "Gandhian ethics",
+      "Karma yoga",
+      "Service as spiritual practice"
+    ],
+    "related_concepts": [
+      "Sarvodaya",
+      "Trusteeship",
+      "Nishkama karma"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Active service over ritualistic piety", "Ethics of compassion in public and private life", "Relevance in governance: welfare as moral duty"],
+    "mains_themes": [
+      "Active service over ritualistic piety",
+      "Ethics of compassion in public and private life",
+      "Relevance in governance: welfare as moral duty"
+    ],
     "mains_intro": "Gandhi's assertion that simple acts of kindness surpass a thousand prayers in moral worth is a call to shift from performative religiosity to lived compassion — a distinction deeply relevant to both personal ethics and public governance.",
-    "mains_body_points": ["Core meaning: True morality is expressed through concrete acts of kindness — feeding the hungry, comforting the distressed — not through ritualistic observance", "Philosophical grounding: Karma yoga in Bhagavad Gita — action without attachment; Nishkama karma as highest ethic; Gandhi's Sarvodaya philosophy", "Present governance context: Social welfare schemes as institutionalized kindness; civil servant's duty to serve the marginalized is the modern equivalent", "Individual context: Voluntarism, organ donation, helping elderly neighbours — these simple acts constitute moral citizenship", "Counter and balance: Prayer and reflection also have value in cultivating compassionate disposition — Gandhi's own prayer meetings served this purpose"],
+    "mains_body_points": [
+      "Core meaning: True morality is expressed through concrete acts of kindness — feeding the hungry, comforting the distressed — not through ritualistic observance",
+      "Philosophical grounding: Karma yoga in Bhagavad Gita — action without attachment; Nishkama karma as highest ethic; Gandhi's Sarvodaya philosophy",
+      "Present governance context: Social welfare schemes as institutionalized kindness; civil servant's duty to serve the marginalized is the modern equivalent",
+      "Individual context: Voluntarism, organ donation, helping elderly neighbours — these simple acts constitute moral citizenship",
+      "Counter and balance: Prayer and reflection also have value in cultivating compassionate disposition — Gandhi's own prayer meetings served this purpose"
+    ],
     "mains_conclusion": "The quotation invites us to measure moral worth by its tangible impact on human lives — a standard that elevates active compassion over passive piety in both personal conduct and public service.",
-    "mains_interlinkages": ["GS4 Ethics", "GS2 Governance", "GS1 Society"],
+    "mains_interlinkages": [
+      "GS4 Ethics",
+      "GS2 Governance",
+      "GS1 Society"
+    ],
     "contemporary_relevance": "In an era of performative activism on social media, Gandhi's call for simple, direct kindness is especially resonant.",
-    "keywords": ["Gandhi", "kindness", "prayer", "karma yoga", "ethics", "service"]
+    "keywords": [
+      "Gandhi",
+      "kindness",
+      "prayer",
+      "karma yoga",
+      "ethics",
+      "service"
+    ]
   },
   {
     "idx": 56,
@@ -1412,17 +2668,37 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Botswana (diamond producer) and Kazakhstan (cobalt minor producer) are plausible distractors in an African/resource context, but DRC's dominance in cobalt is overwhelming.",
     "elimination_hint": "Democratic Republic of Congo produces ~70-75% of global cobalt supply; cobalt is a critical mineral for EV batteries (lithium-ion cathodes). Option C is correct.",
-    "factual_hooks": ["DRC produces ~70% of world's cobalt — overwhelmingly dominant supplier of a critical EV battery mineral", "Cobalt is used in lithium-ion battery cathodes (NMC chemistry); DRC's Katanga province is the cobalt heartland"],
-    "prerequisite_concepts": ["Critical minerals for energy transition", "EV battery supply chain", "African mineral resources"],
-    "related_concepts": ["Lithium Triangle (South America)", "Critical minerals strategy", "Artisanal mining challenges in DRC"],
-    "contrast_with": ["Cobalt (DRC dominant) vs Lithium (Australia, Chile dominant) vs Rare Earths (China dominant)"],
+    "factual_hooks": [
+      "DRC produces ~70% of world's cobalt — overwhelmingly dominant supplier of a critical EV battery mineral",
+      "Cobalt is used in lithium-ion battery cathodes (NMC chemistry); DRC's Katanga province is the cobalt heartland"
+    ],
+    "prerequisite_concepts": [
+      "Critical minerals for energy transition",
+      "EV battery supply chain",
+      "African mineral resources"
+    ],
+    "related_concepts": [
+      "Lithium Triangle (South America)",
+      "Critical minerals strategy",
+      "Artisanal mining challenges in DRC"
+    ],
+    "contrast_with": [
+      "Cobalt (DRC dominant) vs Lithium (Australia, Chile dominant) vs Rare Earths (China dominant)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "India's Critical Minerals Mission identifies cobalt as a priority; DRC relations are geopolitically important.",
-    "keywords": ["cobalt", "DRC", "Congo", "electric vehicles", "battery", "critical mineral"]
+    "keywords": [
+      "cobalt",
+      "DRC",
+      "Congo",
+      "electric vehicles",
+      "battery",
+      "critical mineral"
+    ]
   },
   {
     "idx": 57,
@@ -1437,17 +2713,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Uganda, South Sudan and Nigeria are in the broader Central/West African region but are not technically part of the Congo Basin drainage system; Cameroon's southeastern part does drain into the Congo.",
     "elimination_hint": "The Congo Basin drains parts of: DRC, Republic of Congo, Cameroon (southeastern), Central African Republic, Zambia, Angola, Gabon, Burundi. Cameroon (option A) is the correct answer.",
-    "factual_hooks": ["Congo Basin is the world's second largest tropical rainforest; spans parts of DRC, Republic of Congo, Cameroon, CAR, Gabon and others", "Nigeria and Uganda are NOT part of the Congo Basin drainage"],
-    "prerequisite_concepts": ["Congo Basin geography", "African river systems", "Tropical rainforest distribution"],
-    "related_concepts": ["Amazon Basin comparison", "Congo River discharge", "African tropical forests"],
-    "contrast_with": ["Congo Basin (Central Africa) vs Nile Basin (Eastern/Northeastern Africa)"],
+    "factual_hooks": [
+      "Congo Basin is the world's second largest tropical rainforest; spans parts of DRC, Republic of Congo, Cameroon, CAR, Gabon and others",
+      "Nigeria and Uganda are NOT part of the Congo Basin drainage"
+    ],
+    "prerequisite_concepts": [
+      "Congo Basin geography",
+      "African river systems",
+      "Tropical rainforest distribution"
+    ],
+    "related_concepts": [
+      "Amazon Basin comparison",
+      "Congo River discharge",
+      "African tropical forests"
+    ],
+    "contrast_with": [
+      "Congo Basin (Central Africa) vs Nile Basin (Eastern/Northeastern Africa)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Congo Basin forests are critical for global carbon sequestration; their conservation is a global climate priority.",
-    "keywords": ["Congo Basin", "Cameroon", "Africa", "tropical forest", "river basin", "geography"]
+    "keywords": [
+      "Congo Basin",
+      "Cameroon",
+      "Africa",
+      "tropical forest",
+      "river basin",
+      "geography"
+    ]
   },
   {
     "idx": 58,
@@ -1462,17 +2758,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "All three statements contain errors: Amarkantak is at junction of Vindhya and Satpura (not Sahyadri); Biligirirangan Hills are in Eastern Ghats (not Satpura); Seshachalam Hills are in Eastern Ghats (not Western Ghats).",
     "elimination_hint": "Statement 1: Amarkantak = confluence of Vindhya and Satpura ranges (not Sahyadri). Statement 2: BRT Hills are part of Eastern Ghats. Statement 3: Seshachalam Hills (Andhra Pradesh) are in Eastern Ghats, not Western Ghats. All three wrong — answer: None.",
-    "factual_hooks": ["Amarkantak: junction of Vindhya Range, Satpura Range and Maikal Hills — source of Narmada, Sone and Johilla rivers", "Seshachalam Hills (Tirupati area) are part of Eastern Ghats; BRT Hills link Eastern and Western Ghats"],
-    "prerequisite_concepts": ["Indian mountain ranges", "Eastern vs Western Ghats", "Peninsular India physiography"],
-    "related_concepts": ["Deccan Plateau", "Eastern Ghats hills", "Narmada rift valley"],
-    "contrast_with": ["Satpura (central) vs Vindhya (central) vs Sahyadri/Western Ghats (west coast)"],
+    "factual_hooks": [
+      "Amarkantak: junction of Vindhya Range, Satpura Range and Maikal Hills — source of Narmada, Sone and Johilla rivers",
+      "Seshachalam Hills (Tirupati area) are part of Eastern Ghats; BRT Hills link Eastern and Western Ghats"
+    ],
+    "prerequisite_concepts": [
+      "Indian mountain ranges",
+      "Eastern vs Western Ghats",
+      "Peninsular India physiography"
+    ],
+    "related_concepts": [
+      "Deccan Plateau",
+      "Eastern Ghats hills",
+      "Narmada rift valley"
+    ],
+    "contrast_with": [
+      "Satpura (central) vs Vindhya (central) vs Sahyadri/Western Ghats (west coast)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Amarkantak", "Biligirirangan", "Seshachalam", "Eastern Ghats", "Western Ghats", "Satpura"]
+    "keywords": [
+      "Amarkantak",
+      "Biligirirangan",
+      "Seshachalam",
+      "Eastern Ghats",
+      "Western Ghats",
+      "Satpura"
+    ]
   },
   {
     "idx": 59,
@@ -1487,17 +2803,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Statement 1 says Advocate General is appointed by the President on Governor's recommendation — but it is the Governor (not President) who appoints the Advocate General. Statement 2 says High Courts have advisory jurisdiction under CPC — but advisory jurisdiction is not from CPC.",
     "elimination_hint": "Article 165: Governor appoints Advocate General (not President) — statement 1 wrong. High Courts have original, appellate jurisdiction but not advisory jurisdiction (advisory jurisdiction is only with SC under Art 143). Statement 2 also wrong. Answer: neither.",
-    "factual_hooks": ["Article 165: Advocate General appointed by Governor (not President); holds office during Governor's pleasure", "Advisory jurisdiction belongs only to Supreme Court (Article 143); High Courts have original + appellate jurisdiction"],
-    "prerequisite_concepts": ["Article 165 (Advocate General)", "High Court jurisdiction", "Advisory jurisdiction vs appellate"],
-    "related_concepts": ["Attorney General of India (Art 76)", "Solicitor General", "High Court original jurisdiction"],
-    "contrast_with": ["Advocate General (state, appointed by Governor) vs Attorney General (centre, appointed by President)"],
+    "factual_hooks": [
+      "Article 165: Advocate General appointed by Governor (not President); holds office during Governor's pleasure",
+      "Advisory jurisdiction belongs only to Supreme Court (Article 143); High Courts have original + appellate jurisdiction"
+    ],
+    "prerequisite_concepts": [
+      "Article 165 (Advocate General)",
+      "High Court jurisdiction",
+      "Advisory jurisdiction vs appellate"
+    ],
+    "related_concepts": [
+      "Attorney General of India (Art 76)",
+      "Solicitor General",
+      "High Court original jurisdiction"
+    ],
+    "contrast_with": [
+      "Advocate General (state, appointed by Governor) vs Attorney General (centre, appointed by President)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Advocate General", "Governor", "High Court", "advisory jurisdiction", "Article 165", "state government"]
+    "keywords": [
+      "Advocate General",
+      "Governor",
+      "High Court",
+      "advisory jurisdiction",
+      "Article 165",
+      "state government"
+    ]
   },
   {
     "idx": 60,
@@ -1512,17 +2848,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "All three statements contain subtle errors: East-West Corridor connects Porbandar-Silchar (not Dibrugarh-Surat); Trilateral Highway connects Moreh-Mae Sot (not Chiang Mai); BCIM corridor connects Kolkata-Kunming (not Varanasi).",
     "elimination_hint": "East-West Corridor: Porbandar (Gujarat) to Silchar (Assam). Trilateral Highway: Moreh (India) to Mae Sot (Thailand) via Myanmar — not Chiang Mai. BCIM: Kolkata to Kunming — not Varanasi. All three wrong. Answer: None.",
-    "factual_hooks": ["East-West Corridor (NHDP): Porbandar–Silchar, not Dibrugarh–Surat", "India-Myanmar-Thailand Trilateral Highway: Moreh (Manipur) to Mae Sot (Thailand), passing through Myanmar"],
-    "prerequisite_concepts": ["Golden Quadrilateral and NHDP corridors", "India's connectivity projects in Southeast Asia", "BCIM corridor"],
-    "related_concepts": ["Sagarmala", "ASEAN connectivity", "Act East Policy"],
-    "contrast_with": ["East-West Corridor (east-west highway) vs North-South Corridor (INSTC)"],
+    "factual_hooks": [
+      "East-West Corridor (NHDP): Porbandar–Silchar, not Dibrugarh–Surat",
+      "India-Myanmar-Thailand Trilateral Highway: Moreh (Manipur) to Mae Sot (Thailand), passing through Myanmar"
+    ],
+    "prerequisite_concepts": [
+      "Golden Quadrilateral and NHDP corridors",
+      "India's connectivity projects in Southeast Asia",
+      "BCIM corridor"
+    ],
+    "related_concepts": [
+      "Sagarmala",
+      "ASEAN connectivity",
+      "Act East Policy"
+    ],
+    "contrast_with": [
+      "East-West Corridor (east-west highway) vs North-South Corridor (INSTC)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "India-Myanmar-Thailand Trilateral Highway is critical for Act East Policy but faces delays due to Myanmar instability.",
-    "keywords": ["East-West Corridor", "Trilateral Highway", "BCIM", "connectivity", "India foreign policy", "Golden Quadrilateral"]
+    "keywords": [
+      "East-West Corridor",
+      "Trilateral Highway",
+      "BCIM",
+      "connectivity",
+      "India foreign policy",
+      "Golden Quadrilateral"
+    ]
   },
   {
     "idx": 61,
@@ -1533,21 +2889,41 @@
     "dimension": "VS",
     "question_type": "Factual",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": "Statement II says uranium must be enriched to 60% for electricity production — this is false; nuclear power reactors use low-enriched uranium (3-5% U-235). 60%+ enrichment is for weapons-grade material.",
     "elimination_hint": "Statement I is correct — India despite uranium deposits depends on coal for most electricity (coal ~70% of power). Statement II is wrong — nuclear power uses ~3-5% enriched uranium (not 60%). Answer: Statement I correct, II incorrect.",
-    "factual_hooks": ["Nuclear power plants use Low-Enriched Uranium (LEU) with 3-5% U-235; weapons require >90% (HEU)", "India generates ~70% electricity from coal; nuclear contributes only ~3% of total electricity despite significant uranium deposits"],
-    "prerequisite_concepts": ["Uranium enrichment levels", "Nuclear fuel cycle", "India's energy mix"],
-    "related_concepts": ["NPT", "IAEA safeguards", "India's thorium programme"],
-    "contrast_with": ["Power reactor uranium (3-5% enriched) vs weapons-grade uranium (>90% enriched)"],
+    "factual_hooks": [
+      "Nuclear power plants use Low-Enriched Uranium (LEU) with 3-5% U-235; weapons require >90% (HEU)",
+      "India generates ~70% electricity from coal; nuclear contributes only ~3% of total electricity despite significant uranium deposits"
+    ],
+    "prerequisite_concepts": [
+      "Uranium enrichment levels",
+      "Nuclear fuel cycle",
+      "India's energy mix"
+    ],
+    "related_concepts": [
+      "NPT",
+      "IAEA safeguards",
+      "India's thorium programme"
+    ],
+    "contrast_with": [
+      "Power reactor uranium (3-5% enriched) vs weapons-grade uranium (>90% enriched)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "India's nuclear power expansion is critical for clean energy transition as it targets net zero by 2070.",
-    "keywords": ["uranium enrichment", "nuclear power", "electricity production", "coal dependence", "India energy", "LEU"]
+    "keywords": [
+      "uranium enrichment",
+      "nuclear power",
+      "electricity production",
+      "coal dependence",
+      "India energy",
+      "LEU"
+    ]
   },
   {
     "idx": 62,
@@ -1558,21 +2934,41 @@
     "dimension": "WHO",
     "question_type": "Factual",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "MEDIUM",
     "trap_factor": "UNEP and WWF seem like natural organizations to host a global invasive species database; but IUCN's Species Survival Commission includes the ISSG as a specialist group.",
     "elimination_hint": "Invasive Species Specialist Group (ISSG) is a specialist group of the IUCN Species Survival Commission (SSC). It maintains the Global Invasive Species Database (GISD). Answer: IUCN.",
-    "factual_hooks": ["ISSG is part of IUCN's Species Survival Commission; Global Invasive Species Database lists 100 worst invasive species", "IUCN is the parent body for various specialist groups on biodiversity conservation"],
-    "prerequisite_concepts": ["IUCN structure", "Invasive species and biodiversity threats", "Global biodiversity governance"],
-    "related_concepts": ["IPBES", "Convention on Biological Diversity", "100 worst invasive species"],
-    "contrast_with": ["IUCN (conservation body, non-governmental) vs UNEP (UN body, intergovernmental)"],
+    "factual_hooks": [
+      "ISSG is part of IUCN's Species Survival Commission; Global Invasive Species Database lists 100 worst invasive species",
+      "IUCN is the parent body for various specialist groups on biodiversity conservation"
+    ],
+    "prerequisite_concepts": [
+      "IUCN structure",
+      "Invasive species and biodiversity threats",
+      "Global biodiversity governance"
+    ],
+    "related_concepts": [
+      "IPBES",
+      "Convention on Biological Diversity",
+      "100 worst invasive species"
+    ],
+    "contrast_with": [
+      "IUCN (conservation body, non-governmental) vs UNEP (UN body, intergovernmental)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Invasive species are the second largest threat to global biodiversity after habitat loss; a critical conservation concern.",
-    "keywords": ["Invasive Species Specialist Group", "IUCN", "Global Invasive Species Database", "conservation", "invasive species", "ISSG"]
+    "keywords": [
+      "Invasive Species Specialist Group",
+      "IUCN",
+      "Global Invasive Species Database",
+      "conservation",
+      "invasive species",
+      "ISSG"
+    ]
   },
   {
     "idx": 63,
@@ -1583,21 +2979,41 @@
     "dimension": "WHERE",
     "question_type": "Factual",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "MEDIUM",
     "trap_factor": "Calcutta and Bombay are the more famous colonial cities; students may assume the first municipal corporation was in Calcutta (1726) — but Madras Corporation (1688) predates all others.",
     "elimination_hint": "Madras Municipal Corporation (now Greater Chennai Corporation) was established in 1688 — the first municipal corporation in India, predating those in Bombay (1726) and Calcutta (1726).",
-    "factual_hooks": ["Madras Municipal Corporation established 1688 under Governor Elihu Yale — first municipal corporation in India", "Bombay and Calcutta corporations established 1726; Delhi Municipal Corporation is much later (1958)"],
-    "prerequisite_concepts": ["History of urban governance in India", "Colonial municipal administration", "British East India Company cities"],
-    "related_concepts": ["74th Constitutional Amendment", "Urban local bodies", "Smart Cities Mission"],
-    "contrast_with": ["Madras (1688, first) vs Bombay/Calcutta (1726) municipal corporations"],
+    "factual_hooks": [
+      "Madras Municipal Corporation established 1688 under Governor Elihu Yale — first municipal corporation in India",
+      "Bombay and Calcutta corporations established 1726; Delhi Municipal Corporation is much later (1958)"
+    ],
+    "prerequisite_concepts": [
+      "History of urban governance in India",
+      "Colonial municipal administration",
+      "British East India Company cities"
+    ],
+    "related_concepts": [
+      "74th Constitutional Amendment",
+      "Urban local bodies",
+      "Smart Cities Mission"
+    ],
+    "contrast_with": [
+      "Madras (1688, first) vs Bombay/Calcutta (1726) municipal corporations"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Municipal Corporation", "Madras", "first", "1688", "colonial India", "urban governance"]
+    "keywords": [
+      "Municipal Corporation",
+      "Madras",
+      "first",
+      "1688",
+      "colonial India",
+      "urban governance"
+    ]
   },
   {
     "idx": 64,
@@ -1612,17 +3028,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Sambar Deer are large ungulates active at dawn/dusk (crepuscular) and often at night; Malabar Civet is nocturnal. Lion-tailed Macaque is diurnal (active during day). Only one (Malabar Civet) is truly nocturnal.",
     "elimination_hint": "Lion-tailed Macaque = diurnal. Malabar Civet = nocturnal (critically endangered, Western Ghats). Sambar Deer = crepuscular/nocturnal. Per UPSC answer key: only one (Malabar Civet) is 'most active after sunset.'",
-    "factual_hooks": ["Malabar Large-spotted Civet is critically endangered and nocturnal; found only in Western Ghats lowlands", "Lion-tailed Macaque (Western Ghats) is diurnal; Sambar Deer is crepuscular-to-nocturnal"],
-    "prerequisite_concepts": ["Animal behaviour patterns (diurnal/nocturnal/crepuscular)", "Western Ghats biodiversity", "PVTGs and fauna"],
-    "related_concepts": ["Nocturnal adaptations", "Western Ghats wildlife", "IUCN critically endangered"],
-    "contrast_with": ["Nocturnal (active at night) vs Diurnal (active during day) vs Crepuscular (active at dawn/dusk)"],
+    "factual_hooks": [
+      "Malabar Large-spotted Civet is critically endangered and nocturnal; found only in Western Ghats lowlands",
+      "Lion-tailed Macaque (Western Ghats) is diurnal; Sambar Deer is crepuscular-to-nocturnal"
+    ],
+    "prerequisite_concepts": [
+      "Animal behaviour patterns (diurnal/nocturnal/crepuscular)",
+      "Western Ghats biodiversity",
+      "PVTGs and fauna"
+    ],
+    "related_concepts": [
+      "Nocturnal adaptations",
+      "Western Ghats wildlife",
+      "IUCN critically endangered"
+    ],
+    "contrast_with": [
+      "Nocturnal (active at night) vs Diurnal (active during day) vs Crepuscular (active at dawn/dusk)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Western Ghats biodiversity is under severe threat from development; Malabar Civet is one of India's most endangered mammals.",
-    "keywords": ["Lion-tailed Macaque", "Malabar Civet", "Sambar Deer", "nocturnal", "Western Ghats", "biodiversity"]
+    "keywords": [
+      "Lion-tailed Macaque",
+      "Malabar Civet",
+      "Sambar Deer",
+      "nocturnal",
+      "Western Ghats",
+      "biodiversity"
+    ]
   },
   {
     "idx": 65,
@@ -1637,17 +3073,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Butterflies and wasps might seem capable of communication through movement, but the waggle dance is specifically documented for honeybees as a sophisticated communication system.",
     "elimination_hint": "Karl von Frisch discovered that honeybees perform waggle dance to communicate direction (relative to sun) and distance (duration of waggle) to food sources. Nobel Prize 1973. Answer: Honeybees.",
-    "factual_hooks": ["Waggle dance of honeybees: direction indicated by angle relative to sun; distance indicated by duration of waggle run", "Karl von Frisch won Nobel Prize in Physiology/Medicine 1973 for deciphering waggle dance communication"],
-    "prerequisite_concepts": ["Animal communication", "Bee behaviour", "Ethology"],
-    "related_concepts": ["Pheromone communication", "Animal cognition", "Pollination"],
-    "contrast_with": ["Waggle dance (honeybees — directional) vs round dance (honeybees — nearby food)"],
+    "factual_hooks": [
+      "Waggle dance of honeybees: direction indicated by angle relative to sun; distance indicated by duration of waggle run",
+      "Karl von Frisch won Nobel Prize in Physiology/Medicine 1973 for deciphering waggle dance communication"
+    ],
+    "prerequisite_concepts": [
+      "Animal communication",
+      "Bee behaviour",
+      "Ethology"
+    ],
+    "related_concepts": [
+      "Pheromone communication",
+      "Animal cognition",
+      "Pollination"
+    ],
+    "contrast_with": [
+      "Waggle dance (honeybees — directional) vs round dance (honeybees — nearby food)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Honeybee health and pollination services are critical to India's agriculture; bee population decline is a concern.",
-    "keywords": ["waggle dance", "honeybees", "communication", "food direction", "Karl von Frisch", "animal behaviour"]
+    "keywords": [
+      "waggle dance",
+      "honeybees",
+      "communication",
+      "food direction",
+      "Karl von Frisch",
+      "animal behaviour"
+    ]
   },
   {
     "idx": 66,
@@ -1658,21 +3114,53 @@
     "dimension": "WHAT",
     "question_type": "Analytical",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Sangam literature (300 BCE – 300 CE): 2381 poems in Tamil; Purananuru (war, politics), Akananuru (love) are main anthologies", "Political history hard to reconstruct as Sangam poems are non-sequential; but social realities vividly depicted"],
-    "prerequisite_concepts": ["Sangam literature content", "Five landscapes (tinai system)", "Social classes in Sangam age"],
-    "related_concepts": ["Three Tamil Sangams", "Tolkappiyam", "Murugan worship"],
+    "factual_hooks": [
+      "Sangam literature (300 BCE – 300 CE): 2381 poems in Tamil; Purananuru (war, politics), Akananuru (love) are main anthologies",
+      "Political history hard to reconstruct as Sangam poems are non-sequential; but social realities vividly depicted"
+    ],
+    "prerequisite_concepts": [
+      "Sangam literature content",
+      "Five landscapes (tinai system)",
+      "Social classes in Sangam age"
+    ],
+    "related_concepts": [
+      "Three Tamil Sangams",
+      "Tolkappiyam",
+      "Murugan worship"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Sangam literature's limitations for political history", "Vivid social and economic portrayal in Sangam poetry", "Cultural richness of ancient Tamil society"],
+    "mains_themes": [
+      "Sangam literature's limitations for political history",
+      "Vivid social and economic portrayal in Sangam poetry",
+      "Cultural richness of ancient Tamil society"
+    ],
     "mains_intro": "Sangam literature, while fragmentary and non-chronological as a source of political history, offers an unparalleled window into the social fabric, economic life and cultural values of ancient South India.",
-    "mains_body_points": ["Political history limitations: Poems are panegyrics, occasional and context-less; no sequential narrative; rulers mentioned episodically without administrative detail", "Social richness: Caste/class references (Vellala, Paraiya); warrior culture (puram poems); gender roles; sati (early references)", "Economic life: Trade ports (Puhar/Kaveripattinam), merchant guilds, Roman trade references (amphorae), coins; spices and cotton exports", "Cultural richness: Five tinai landscapes correlate to emotions; nature-human relationships; religious syncretism (Murugan, Shiva, Vishnu)", "Archaeological corroboration: Arikamedu findings confirm Sangam references to Indo-Roman trade"],
+    "mains_body_points": [
+      "Political history limitations: Poems are panegyrics, occasional and context-less; no sequential narrative; rulers mentioned episodically without administrative detail",
+      "Social richness: Caste/class references (Vellala, Paraiya); warrior culture (puram poems); gender roles; sati (early references)",
+      "Economic life: Trade ports (Puhar/Kaveripattinam), merchant guilds, Roman trade references (amphorae), coins; spices and cotton exports",
+      "Cultural richness: Five tinai landscapes correlate to emotions; nature-human relationships; religious syncretism (Murugan, Shiva, Vishnu)",
+      "Archaeological corroboration: Arikamedu findings confirm Sangam references to Indo-Roman trade"
+    ],
     "mains_conclusion": "Sangam literature's true historical value lies not in political chronology but as a literary-sociological document — one of humanity's finest records of an ancient civilization's inner life.",
-    "mains_interlinkages": ["GS1 History", "GS1 Art & Culture", "World History"],
+    "mains_interlinkages": [
+      "GS1 History",
+      "GS1 Art & Culture",
+      "World History"
+    ],
     "contemporary_relevance": "Sangam literature is foundational to Tamil cultural identity and classical language status debates.",
-    "keywords": ["Sangam literature", "South India", "social history", "economic conditions", "Tamil poetry", "ancient India"]
+    "keywords": [
+      "Sangam literature",
+      "South India",
+      "social history",
+      "economic conditions",
+      "Tamil poetry",
+      "ancient India"
+    ]
   },
   {
     "idx": 67,
@@ -1687,17 +3175,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Students may doubt bioluminescent mushrooms (statement 4) as an unusual fact, but dozens of species of bioluminescent fungi (foxfire) are documented.",
     "elimination_hint": "All four are well-documented: medicinal mushrooms (Reishi, Shiitake), psychoactive (Psilocybe), insecticidal (Beauveria bassiana, though technically not a mushroom but a fungus), bioluminescent (foxfire fungi, Mycena chlorophos). Answer: all four.",
-    "factual_hooks": ["Medicinal: Reishi (Ganoderma lucidum) — adaptogenic; Shiitake (lentinula edodes) — immune modulating", "Bioluminescent fungi: ~80 species known (Mycena chlorophos, Panellus stipticus); produce light via luciferin-luciferase reaction"],
-    "prerequisite_concepts": ["Fungi classification and properties", "Bioactive compounds in fungi", "Bioluminescence in nature"],
-    "related_concepts": ["Mycology", "Entheogens", "Pharmaceutical fungi"],
-    "contrast_with": ["Edible mushrooms vs medicinal vs toxic vs psychoactive fungi"],
+    "factual_hooks": [
+      "Medicinal: Reishi (Ganoderma lucidum) — adaptogenic; Shiitake (lentinula edodes) — immune modulating",
+      "Bioluminescent fungi: ~80 species known (Mycena chlorophos, Panellus stipticus); produce light via luciferin-luciferase reaction"
+    ],
+    "prerequisite_concepts": [
+      "Fungi classification and properties",
+      "Bioactive compounds in fungi",
+      "Bioluminescence in nature"
+    ],
+    "related_concepts": [
+      "Mycology",
+      "Entheogens",
+      "Pharmaceutical fungi"
+    ],
+    "contrast_with": [
+      "Edible mushrooms vs medicinal vs toxic vs psychoactive fungi"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Medicinal mushroom research (psilocybin therapy, beta-glucans) is a rapidly growing pharmaceutical field.",
-    "keywords": ["mushrooms", "medicinal", "psychoactive", "insecticidal", "bioluminescent", "fungi"]
+    "keywords": [
+      "mushrooms",
+      "medicinal",
+      "psychoactive",
+      "insecticidal",
+      "bioluminescent",
+      "fungi"
+    ]
   },
   {
     "idx": 68,
@@ -1712,17 +3220,37 @@
     "prelims_priority": "LOW",
     "trap_factor": "Statement 1 (burrows in ground) applies to ground squirrels, not Indian tree squirrels — Indian squirrels nest in trees, not burrows. Statement 3 (omnivorous) is correct — Indian squirrels eat insects, eggs and nuts.",
     "elimination_hint": "Indian squirrels (like Indian Giant Squirrel, Five-striped Palm Squirrel) build nests in trees (not burrows). They do store food in ground caches (statement 2 correct). They are omnivorous (statement 3 correct). Answer: statements 2 and 3 = two correct.",
-    "factual_hooks": ["Indian squirrels build dreys (leaf nests) in trees, not burrows — unlike ground squirrels", "Indian squirrels cache nuts/seeds in ground; also eat insects, eggs, small birds — omnivorous"],
-    "prerequisite_concepts": ["Indian fauna behaviour", "Squirrel ecology", "Animal food habits"],
-    "related_concepts": ["Indian Giant Squirrel (Malabar)", "Five-striped Palm Squirrel", "Wildlife sanctuary"],
-    "contrast_with": ["Tree squirrels (nests in trees) vs Ground squirrels (burrows in ground)"],
+    "factual_hooks": [
+      "Indian squirrels build dreys (leaf nests) in trees, not burrows — unlike ground squirrels",
+      "Indian squirrels cache nuts/seeds in ground; also eat insects, eggs, small birds — omnivorous"
+    ],
+    "prerequisite_concepts": [
+      "Indian fauna behaviour",
+      "Squirrel ecology",
+      "Animal food habits"
+    ],
+    "related_concepts": [
+      "Indian Giant Squirrel (Malabar)",
+      "Five-striped Palm Squirrel",
+      "Wildlife sanctuary"
+    ],
+    "contrast_with": [
+      "Tree squirrels (nests in trees) vs Ground squirrels (burrows in ground)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["Indian squirrels", "nests", "burrows", "omnivorous", "food storage", "animal behaviour"]
+    "keywords": [
+      "Indian squirrels",
+      "nests",
+      "burrows",
+      "omnivorous",
+      "food storage",
+      "animal behaviour"
+    ]
   },
   {
     "idx": 69,
@@ -1737,17 +3265,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Students may doubt statement 1 (above boiling point) without knowing about thermophiles/hyperthermophiles; however all three are well-documented extremophile categories.",
     "elimination_hint": "All three are correct: thermophiles/hyperthermophiles grow above 100°C (hydrothermal vents); psychrophiles grow below 0°C; acidophiles grow at pH below 3 (Picrophilus, pH 0). Answer: all three correct.",
-    "factual_hooks": ["Hyperthermophiles (e.g., Pyrolobus fumarii) grow at 121°C near hydrothermal vents — above boiling point", "Psychrophiles grow below 0°C in Antarctic ice; acidophiles (Picrophilus torridus) grow at pH 0"],
-    "prerequisite_concepts": ["Extremophiles", "Microbial diversity", "Conditions for life"],
-    "related_concepts": ["Archaea", "Astrobiology", "Biotech applications of extremophiles"],
-    "contrast_with": ["Thermophiles (high temp) vs Psychrophiles (low temp) vs Acidophiles (low pH) vs Halophiles (high salt)"],
+    "factual_hooks": [
+      "Hyperthermophiles (e.g., Pyrolobus fumarii) grow at 121°C near hydrothermal vents — above boiling point",
+      "Psychrophiles grow below 0°C in Antarctic ice; acidophiles (Picrophilus torridus) grow at pH 0"
+    ],
+    "prerequisite_concepts": [
+      "Extremophiles",
+      "Microbial diversity",
+      "Conditions for life"
+    ],
+    "related_concepts": [
+      "Archaea",
+      "Astrobiology",
+      "Biotech applications of extremophiles"
+    ],
+    "contrast_with": [
+      "Thermophiles (high temp) vs Psychrophiles (low temp) vs Acidophiles (low pH) vs Halophiles (high salt)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Extremophile enzymes (Taq polymerase from Thermus aquaticus) are widely used in PCR and biotechnology.",
-    "keywords": ["extremophiles", "thermophiles", "psychrophiles", "acidophiles", "microorganisms", "boiling point"]
+    "keywords": [
+      "extremophiles",
+      "thermophiles",
+      "psychrophiles",
+      "acidophiles",
+      "microorganisms",
+      "boiling point"
+    ]
   },
   {
     "idx": 70,
@@ -1758,21 +3306,41 @@
     "dimension": "WHAT",
     "question_type": "Factual",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "LOW",
     "trap_factor": "Otters use tools (rocks) to crack shells, not sticks to scrape; sloth bears have long claws and snouts for insects but don't use tools; fishing cats are not tool users.",
     "elimination_hint": "Orangutans are well-documented tool users in the wild — they use sticks to probe for insects and seeds in holes. This demonstrates higher-order cognition in great apes. Option B is correct.",
-    "factual_hooks": ["Orangutans use sticks to extract insects from tree holes and probe for seeds — documented in Borneo and Sumatra", "Tool use in animals: chimpanzees (termite fishing), crows (wire hooks), dolphins (sponge for foraging) — orangutans are among the most sophisticated"],
-    "prerequisite_concepts": ["Animal cognition", "Tool use in animals", "Great ape intelligence"],
-    "related_concepts": ["Primatology", "Animal intelligence", "Jane Goodall's chimpanzee research"],
-    "contrast_with": ["Orangutan (stick tool for insects) vs Chimpanzee (straw/twig for termite fishing) — different primates, similar tool use"],
+    "factual_hooks": [
+      "Orangutans use sticks to extract insects from tree holes and probe for seeds — documented in Borneo and Sumatra",
+      "Tool use in animals: chimpanzees (termite fishing), crows (wire hooks), dolphins (sponge for foraging) — orangutans are among the most sophisticated"
+    ],
+    "prerequisite_concepts": [
+      "Animal cognition",
+      "Tool use in animals",
+      "Great ape intelligence"
+    ],
+    "related_concepts": [
+      "Primatology",
+      "Animal intelligence",
+      "Jane Goodall's chimpanzee research"
+    ],
+    "contrast_with": [
+      "Orangutan (stick tool for insects) vs Chimpanzee (straw/twig for termite fishing) — different primates, similar tool use"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": null,
-    "keywords": ["orangutan", "tool use", "stick", "insects", "animal cognition", "primates"]
+    "keywords": [
+      "orangutan",
+      "tool use",
+      "stick",
+      "insects",
+      "animal cognition",
+      "primates"
+    ]
   },
   {
     "idx": 71,
@@ -1783,21 +3351,53 @@
     "dimension": "WHY",
     "question_type": "Analytical",
     "difficulty": "Medium",
-    "confidence_score": 0.90,
+    "confidence_score": 0.9,
     "prelims_priority": "HIGH",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Berlin Conference (1884-85): European powers carved Africa ignoring existing ethnic, linguistic and cultural boundaries", "Scramble for Africa: 1880-1914; within 30 years, ~90% of Africa colonized; borders drawn by rulers, rivers, straight lines"],
-    "prerequisite_concepts": ["Scramble for Africa", "Berlin Conference 1884-85", "Colonialism and state formation"],
-    "related_concepts": ["Decolonization of Africa", "Pan-Africanism", "Post-colonial state instability"],
+    "factual_hooks": [
+      "Berlin Conference (1884-85): European powers carved Africa ignoring existing ethnic, linguistic and cultural boundaries",
+      "Scramble for Africa: 1880-1914; within 30 years, ~90% of Africa colonized; borders drawn by rulers, rivers, straight lines"
+    ],
+    "prerequisite_concepts": [
+      "Scramble for Africa",
+      "Berlin Conference 1884-85",
+      "Colonialism and state formation"
+    ],
+    "related_concepts": [
+      "Decolonization of Africa",
+      "Pan-Africanism",
+      "Post-colonial state instability"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Berlin Conference and artificial borders", "European competition creating African states", "Legacy of artificial borders in contemporary Africa"],
+    "mains_themes": [
+      "Berlin Conference and artificial borders",
+      "European competition creating African states",
+      "Legacy of artificial borders in contemporary Africa"
+    ],
     "mains_intro": "The cartographic violence of European colonialism — drawing arbitrary lines across Africa's diverse civilizational landscape at the Berlin Conference of 1884-85 — created the 'artificial states' whose instabilities continue to define African politics.",
-    "mains_body_points": ["Berlin Conference (1884-85): 13 European powers divided Africa without consulting Africans; only Ethiopia and Liberia remained independent", "Nature of artificiality: Borders drawn by rivers/meridians split ethnic communities (Somali across 5 countries), amalgamated hostile groups (Hutu-Tutsi in Rwanda/Burundi)", "European competition: Britain (Cape-to-Cairo), France (west-east), Belgium, Germany, Portugal — African borders reflect power bargains, not geography", "Consequences: Post-independence secessionism (Biafra, South Sudan), ethnic conflicts (Rwanda genocide), irredentism (Greater Somalia concept)", "Post-colonial challenge: OAU's 1963 Cairo Resolution preserving colonial borders as pragmatic choice — yet the borders' artificiality persists as source of instability"],
+    "mains_body_points": [
+      "Berlin Conference (1884-85): 13 European powers divided Africa without consulting Africans; only Ethiopia and Liberia remained independent",
+      "Nature of artificiality: Borders drawn by rivers/meridians split ethnic communities (Somali across 5 countries), amalgamated hostile groups (Hutu-Tutsi in Rwanda/Burundi)",
+      "European competition: Britain (Cape-to-Cairo), France (west-east), Belgium, Germany, Portugal — African borders reflect power bargains, not geography",
+      "Consequences: Post-independence secessionism (Biafra, South Sudan), ethnic conflicts (Rwanda genocide), irredentism (Greater Somalia concept)",
+      "Post-colonial challenge: OAU's 1963 Cairo Resolution preserving colonial borders as pragmatic choice — yet the borders' artificiality persists as source of instability"
+    ],
     "mains_conclusion": "Africa's post-colonial instability is partly a legacy of borders created by European competition rather than organic political development — a reminder that state-building requires legitimacy, not just cartographic precision.",
-    "mains_interlinkages": ["GS1 World History", "GS2 IR Africa", "GS1 Society"],
+    "mains_interlinkages": [
+      "GS1 World History",
+      "GS2 IR Africa",
+      "GS1 Society"
+    ],
     "contemporary_relevance": "Contemporary conflicts in Sudan, DRC and Sahel echo the border-drawing legacies of colonial-era European competition.",
-    "keywords": ["Africa", "colonialism", "Berlin Conference", "artificial states", "European competition", "borders"]
+    "keywords": [
+      "Africa",
+      "colonialism",
+      "Berlin Conference",
+      "artificial states",
+      "European competition",
+      "borders"
+    ]
   },
   {
     "idx": 72,
@@ -1812,17 +3412,37 @@
     "prelims_priority": "MEDIUM",
     "trap_factor": "Fire retardants (statement 3) — HFCs are used in some fire suppression systems; lubricants (statement 4) — some HFCs are used as specialty lubricants. The question asks 'in making of how many.'",
     "elimination_hint": "HFCs are used in: aerosols (propellants), foam blowing agents, and fire retardant (halon replacements). HFCs as lubricants is less established/not standard. Answer: three (aerosols, foam, fire retardants) per UPSC key.",
-    "factual_hooks": ["HFCs replaced CFCs/HCFCs as per Montreal Protocol; used in aerosols, refrigerants, foam blowing, fire suppression", "Kigali Amendment (2016) to Montreal Protocol targets phasedown of HFCs due to their high GWP"],
-    "prerequisite_concepts": ["HFCs and climate change", "Montreal Protocol", "Ozone layer and greenhouse gases"],
-    "related_concepts": ["CFCs", "Kigali Amendment", "HFOs (replacements for HFCs)"],
-    "contrast_with": ["HFCs (ozone-safe but high GWP climate gas) vs CFCs (ozone-depleting and GHG)"],
+    "factual_hooks": [
+      "HFCs replaced CFCs/HCFCs as per Montreal Protocol; used in aerosols, refrigerants, foam blowing, fire suppression",
+      "Kigali Amendment (2016) to Montreal Protocol targets phasedown of HFCs due to their high GWP"
+    ],
+    "prerequisite_concepts": [
+      "HFCs and climate change",
+      "Montreal Protocol",
+      "Ozone layer and greenhouse gases"
+    ],
+    "related_concepts": [
+      "CFCs",
+      "Kigali Amendment",
+      "HFOs (replacements for HFCs)"
+    ],
+    "contrast_with": [
+      "HFCs (ozone-safe but high GWP climate gas) vs CFCs (ozone-depleting and GHG)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "India ratified Kigali Amendment 2021; HFC phase-down is a key climate and ozone commitment.",
-    "keywords": ["HFCs", "hydrofluorocarbons", "aerosols", "foam agents", "fire retardants", "Montreal Protocol"]
+    "keywords": [
+      "HFCs",
+      "hydrofluorocarbons",
+      "aerosols",
+      "foam agents",
+      "fire retardants",
+      "Montreal Protocol"
+    ]
   },
   {
     "idx": 73,
@@ -1837,17 +3457,49 @@
     "prelims_priority": "LOW",
     "trap_factor": null,
     "elimination_hint": null,
-    "factual_hooks": ["Tandava is the cosmic dance of Lord Shiva; earliest literary reference in Mahabharata; inscriptional evidence from Gupta-Pallava period", "Mattavilasa Prahasana (Pallava king Mahendravarman I, 7th CE) contains early reference to Tandava performed by Shiva"],
-    "prerequisite_concepts": ["Classical Indian dance history", "Shiva iconography", "Nataraja form"],
-    "related_concepts": ["Nataraja", "Ananda Tandava", "Bharatanatyam origins"],
+    "factual_hooks": [
+      "Tandava is the cosmic dance of Lord Shiva; earliest literary reference in Mahabharata; inscriptional evidence from Gupta-Pallava period",
+      "Mattavilasa Prahasana (Pallava king Mahendravarman I, 7th CE) contains early reference to Tandava performed by Shiva"
+    ],
+    "prerequisite_concepts": [
+      "Classical Indian dance history",
+      "Shiva iconography",
+      "Nataraja form"
+    ],
+    "related_concepts": [
+      "Nataraja",
+      "Ananda Tandava",
+      "Bharatanatyam origins"
+    ],
     "contrast_with": [],
-    "mains_themes": ["Tandava in early inscriptions", "Shiva as cosmic dancer in temple sculpture", "Religious dance traditions in ancient India"],
+    "mains_themes": [
+      "Tandava in early inscriptions",
+      "Shiva as cosmic dancer in temple sculpture",
+      "Religious dance traditions in ancient India"
+    ],
     "mains_intro": "Tandava, the fierce and cosmic dance of Shiva, is attested in early Indian literary and epigraphic sources as a divine performance that symbolizes the cycles of creation and destruction.",
-    "mains_body_points": ["Literary origins: Mahabharata mentions Shiva's Ananda Tandava; Ramayana refers to Shiva's dance; Kalidasa's Kumarasambhava elaborates the dance's divine significance", "Inscriptional evidence: Pallava inscription at Mahabalipuram (7th CE) describes Shiva's dance; Mattavilasa Prahasana of Mahendravarman I is contextual", "Dance forms: Ananda Tandava (blissful); Rudra Tandava (fierce); Sandhya Tandava (twilight) — different moods of the cosmic dance", "Nataraja iconography: Chola bronze Nataraja (10th-12th CE) — Shiva dancing in ring of fire, symbolising cosmic cycle; Tamil inscriptions describe dance ritual in temples", "Cultural legacy: Tandava became foundational to Indian classical dance traditions including Bharatanatyam"],
+    "mains_body_points": [
+      "Literary origins: Mahabharata mentions Shiva's Ananda Tandava; Ramayana refers to Shiva's dance; Kalidasa's Kumarasambhava elaborates the dance's divine significance",
+      "Inscriptional evidence: Pallava inscription at Mahabalipuram (7th CE) describes Shiva's dance; Mattavilasa Prahasana of Mahendravarman I is contextual",
+      "Dance forms: Ananda Tandava (blissful); Rudra Tandava (fierce); Sandhya Tandava (twilight) — different moods of the cosmic dance",
+      "Nataraja iconography: Chola bronze Nataraja (10th-12th CE) — Shiva dancing in ring of fire, symbolising cosmic cycle; Tamil inscriptions describe dance ritual in temples",
+      "Cultural legacy: Tandava became foundational to Indian classical dance traditions including Bharatanatyam"
+    ],
     "mains_conclusion": "Early inscriptions preserve Tandava not merely as artistic expression but as theological assertion — Shiva's dance as the rhythm of the universe, encoded in stone and later in living dance traditions.",
-    "mains_interlinkages": ["GS1 Art & Culture", "GS1 History", "Religion"],
+    "mains_interlinkages": [
+      "GS1 Art & Culture",
+      "GS1 History",
+      "Religion"
+    ],
     "contemporary_relevance": "Nataraja image is recognized globally as a symbol of Indian civilization; now displayed at CERN representing cosmic dance of particles.",
-    "keywords": ["Tandava", "Shiva", "inscriptions", "ancient India", "classical dance", "Nataraja"]
+    "keywords": [
+      "Tandava",
+      "Shiva",
+      "inscriptions",
+      "ancient India",
+      "classical dance",
+      "Nataraja"
+    ]
   },
   {
     "idx": 74,
@@ -1862,16 +3514,36 @@
     "prelims_priority": "HIGH",
     "trap_factor": "Statement 2 is the trap — Lok Adalats can handle matrimonial/family disputes (including divorce, maintenance etc.). Students may think family courts have exclusive jurisdiction.",
     "elimination_hint": "Statement 1 is correct — Lok Adalat award is deemed a decree of civil court and is final; no appeal lies (Legal Services Authorities Act 1987, Section 21). Statement 2 is wrong — matrimonial cases are covered by Lok Adalat. Answer: only statement 1.",
-    "factual_hooks": ["Lok Adalat award under Section 21 of Legal Services Authorities Act 1987 is deemed a civil court decree; no appeal in any court", "Lok Adalat jurisdiction: motor accident claims, matrimonial disputes (except divorce), labour disputes, property disputes, compoundable criminal offences"],
-    "prerequisite_concepts": ["Lok Adalat system", "Alternative Dispute Resolution", "Legal Services Authorities Act 1987"],
-    "related_concepts": ["National Legal Services Authority (NALSA)", "Permanent Lok Adalat", "Mediation"],
-    "contrast_with": ["Lok Adalat (no appeal, consensual) vs Regular court (appealable, adversarial)"],
+    "factual_hooks": [
+      "Lok Adalat award under Section 21 of Legal Services Authorities Act 1987 is deemed a civil court decree; no appeal in any court",
+      "Lok Adalat jurisdiction: motor accident claims, matrimonial disputes (except divorce), labour disputes, property disputes, compoundable criminal offences"
+    ],
+    "prerequisite_concepts": [
+      "Lok Adalat system",
+      "Alternative Dispute Resolution",
+      "Legal Services Authorities Act 1987"
+    ],
+    "related_concepts": [
+      "National Legal Services Authority (NALSA)",
+      "Permanent Lok Adalat",
+      "Mediation"
+    ],
+    "contrast_with": [
+      "Lok Adalat (no appeal, consensual) vs Regular court (appealable, adversarial)"
+    ],
     "mains_themes": [],
     "mains_intro": null,
     "mains_body_points": [],
     "mains_conclusion": null,
     "mains_interlinkages": [],
     "contemporary_relevance": "Lok Adalats are increasingly important for India's overburdened judicial system; 5+ crore cases settled annually.",
-    "keywords": ["Lok Adalat", "civil court decree", "appeal", "matrimonial disputes", "ADR", "Legal Services Authorities Act"]
+    "keywords": [
+      "Lok Adalat",
+      "civil court decree",
+      "appeal",
+      "matrimonial disputes",
+      "ADR",
+      "Legal Services Authorities Act"
+    ]
   }
 ]

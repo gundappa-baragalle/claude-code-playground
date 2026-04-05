@@ -2,85 +2,97 @@
   "International Relations": {
     "Global Issues": {
       "Global Challenges": {
-        "count": 35,
-        "prelims": 32,
-        "mains": 3,
+        "count": 76,
+        "prelims": 66,
+        "mains": 10,
         "years": [
+          2025,
+          2024,
+          2023,
+          2022,
           2021,
+          2020,
+          2018,
+          2017,
           2016,
-          2015,
-          2014,
-          2011,
-          2009,
-          2008,
-          2007,
-          2006,
-          2005
+          2015
         ],
-        "file": "global-challenges.md"
+        "file": "global-challenges.md",
+        "revision_priority": "HIGH"
       },
       "Indian Diaspora": {
-        "count": 2,
-        "prelims": 0,
-        "mains": 2,
+        "count": 5,
+        "prelims": 2,
+        "mains": 3,
         "years": [
           2023,
-          2017
+          2020,
+          2017,
+          2005
         ],
-        "file": "indian-diaspora.md"
+        "file": "indian-diaspora.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "India's Foreign Policy": {
       "Foreign Policy Principles": {
-        "count": 5,
-        "prelims": 3,
-        "mains": 2,
+        "count": 17,
+        "prelims": 8,
+        "mains": 9,
         "years": [
+          2025,
+          2024,
+          2023,
+          2022,
           2019,
+          2017,
+          2016,
           2015,
-          2011,
-          2007,
-          1997
+          2013,
+          2011
         ],
-        "file": "foreign-policy-principles.md"
+        "file": "foreign-policy-principles.md",
+        "revision_priority": "HIGH"
       }
     },
     "International Organizations": {
       "Regional Groupings": {
-        "count": 23,
-        "prelims": 22,
-        "mains": 1,
+        "count": 52,
+        "prelims": 48,
+        "mains": 4,
         "years": [
+          2025,
+          2023,
+          2022,
           2021,
+          2020,
+          2018,
           2017,
+          2016,
           2015,
-          2014,
-          2010,
-          2009,
-          2008,
-          2007,
-          2006,
-          2005
+          2014
         ],
-        "file": "regional-groupings.md"
+        "file": "regional-groupings.md",
+        "revision_priority": "HIGH"
       },
       "Multilateral Forums": {
-        "count": 18,
-        "prelims": 18,
-        "mains": 0,
+        "count": 56,
+        "prelims": 49,
+        "mains": 7,
         "years": [
-          2014,
-          2009,
-          2008,
-          2007,
-          2006,
-          2005,
-          2001,
-          1998,
-          1997,
-          1996
+          2025,
+          2024,
+          2023,
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015
         ],
-        "file": "multilateral-forums.md"
+        "file": "multilateral-forums.md",
+        "revision_priority": "HIGH"
       },
       "International Political Movements": {
         "count": 1,
@@ -89,350 +101,166 @@
         "years": [
           1995
         ],
-        "file": "international-political-movements.md"
+        "file": "international-political-movements.md",
+        "revision_priority": "MEDIUM"
       },
       "United Nations": {
-        "count": 16,
-        "prelims": 12,
-        "mains": 4,
+        "count": 27,
+        "prelims": 19,
+        "mains": 8,
         "years": [
           2025,
           2024,
+          2023,
+          2022,
+          2020,
+          2019,
           2017,
           2016,
-          2011,
-          2010,
-          2009,
-          2006,
-          2005,
-          2004
+          2015,
+          2011
         ],
-        "file": "united-nations.md"
+        "file": "united-nations.md",
+        "revision_priority": "HIGH"
       }
     },
     "Africa": {
       "African Political Leadership": {
-        "count": 8,
-        "prelims": 8,
-        "mains": 0,
+        "count": 22,
+        "prelims": 18,
+        "mains": 4,
         "years": [
-          2008,
-          2006,
-          2004,
-          2002
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2016,
+          2015,
+          2014,
+          2009,
+          2008
         ],
-        "file": "african-political-leadership.md"
+        "file": "african-political-leadership.md",
+        "revision_priority": "HIGH"
       }
     },
     "India & Neighbours": {
       "Other Neighbours": {
-        "count": 7,
-        "prelims": 7,
-        "mains": 0,
+        "count": 20,
+        "prelims": 13,
+        "mains": 7,
         "years": [
+          2024,
+          2023,
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2013,
           2007,
-          2006,
-          2004,
-          2003,
-          2002,
-          2001
+          2006
         ],
-        "file": "other-neighbours.md"
+        "file": "other-neighbours.md",
+        "revision_priority": "HIGH"
       },
       "India-Sri Lanka": {
-        "count": 3,
-        "prelims": 2,
-        "mains": 1,
+        "count": 5,
+        "prelims": 3,
+        "mains": 2,
         "years": [
           2022,
+          2013,
           2009,
+          1999,
           1998
         ],
-        "file": "india-sri-lanka.md"
+        "file": "india-sri-lanka.md",
+        "revision_priority": "MEDIUM"
       },
       "India-China": {
-        "count": 3,
-        "prelims": 3,
-        "mains": 0,
+        "count": 11,
+        "prelims": 4,
+        "mains": 7,
         "years": [
+          2024,
+          2018,
+          2017,
+          2016,
+          2014,
+          2013,
           2008,
           2007,
           2005
         ],
-        "file": "india-china.md"
+        "file": "india-china.md",
+        "revision_priority": "HIGH"
       },
       "India-Bangladesh": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
+        "count": 5,
+        "prelims": 3,
+        "mains": 2,
         "years": [
+          2025,
+          2020,
+          2013,
           1996
         ],
-        "file": "india-bangladesh.md"
+        "file": "india-bangladesh.md",
+        "revision_priority": "MEDIUM"
       },
       "India-Pakistan": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
+        "count": 6,
+        "prelims": 3,
+        "mains": 3,
         "years": [
-          2003
+          2016,
+          2015,
+          2009,
+          2003,
+          1999
         ],
-        "file": "india-pakistan.md"
+        "file": "india-pakistan.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Global Political Movements": {
       "International Political Movements": {
-        "count": 5,
-        "prelims": 5,
+        "count": 6,
+        "prelims": 6,
         "mains": 0,
         "years": [
           2014,
           2009,
           2004,
           2003,
+          2001,
           1996
         ],
-        "file": "international-political-movements.md"
+        "file": "international-political-movements.md",
+        "revision_priority": "MEDIUM"
       }
     }
   },
   "CSAT": {
     "Logical Reasoning": {
       "Seating Arrangement": {
-        "count": 3,
-        "prelims": 3,
+        "count": 6,
+        "prelims": 6,
         "mains": 0,
         "years": [
+          2010,
           2009,
+          2007,
           2000,
-          1998
+          1998,
+          1997
         ],
-        "file": "seating-arrangement.md"
+        "file": "seating-arrangement.md",
+        "revision_priority": "MEDIUM"
       },
       "Ordering and Ranking": {
-        "count": 7,
-        "prelims": 7,
-        "mains": 0,
-        "years": [
-          2010,
-          2007,
-          2006,
-          2004,
-          1997,
-          1996,
-          1995
-        ],
-        "file": "ordering-and-ranking.md"
-      },
-      "Direction Sense": {
-        "count": 4,
-        "prelims": 4,
-        "mains": 0,
-        "years": [
-          2010,
-          2009,
-          2000,
-          1996
-        ],
-        "file": "direction-sense.md"
-      },
-      "Series Completion": {
-        "count": 6,
-        "prelims": 6,
-        "mains": 0,
-        "years": [
-          2008,
-          2000,
-          1998,
-          1997,
-          1995
-        ],
-        "file": "series-completion.md"
-      },
-      "Syllogisms": {
-        "count": 6,
-        "prelims": 6,
-        "mains": 0,
-        "years": [
-          2001,
-          1998,
-          1996,
-          1995
-        ],
-        "file": "syllogisms.md"
-      },
-      "Blood Relations": {
-        "count": 4,
-        "prelims": 4,
-        "mains": 0,
-        "years": [
-          2011,
-          2009,
-          2000,
-          1998
-        ],
-        "file": "blood-relations.md"
-      },
-      "Coding-Decoding": {
-        "count": 2,
-        "prelims": 2,
-        "mains": 0,
-        "years": [
-          1999,
-          1998
-        ],
-        "file": "coding-decoding.md"
-      },
-      "Data Interpretation": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          1995
-        ],
-        "file": "data-interpretation.md"
-      },
-      "Analogy": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          2009
-        ],
-        "file": "analogy.md"
-      }
-    },
-    "Quantitative Aptitude": {
-      "Geometry": {
-        "count": 17,
-        "prelims": 17,
-        "mains": 0,
-        "years": [
-          2006,
-          2005,
-          2004,
-          2003,
-          2002,
-          2000,
-          1999,
-          1997,
-          1996,
-          1995
-        ],
-        "file": "geometry.md"
-      },
-      "Percentages": {
-        "count": 4,
-        "prelims": 4,
-        "mains": 0,
-        "years": [
-          2010,
-          1997,
-          1996,
-          1995
-        ],
-        "file": "percentages.md"
-      },
-      "Volume and Mensuration": {
-        "count": 4,
-        "prelims": 4,
-        "mains": 0,
-        "years": [
-          2000,
-          1995
-        ],
-        "file": "volume-and-mensuration.md"
-      },
-      "Algebra": {
-        "count": 8,
-        "prelims": 8,
-        "mains": 0,
-        "years": [
-          2009,
-          2008,
-          2006,
-          2001,
-          2000,
-          1998
-        ],
-        "file": "algebra.md"
-      },
-      "Time, Speed and Distance": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          2001
-        ],
-        "file": "time,-speed-and-distance.md"
-      },
-      "Work and Rates": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          2001
-        ],
-        "file": "work-and-rates.md"
-      },
-      "Exponential Growth and Series": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          2001
-        ],
-        "file": "exponential-growth-and-series.md"
-      },
-      "Percentages and Population": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          2001
-        ],
-        "file": "percentages-and-population.md"
-      },
-      "Set Theory and Venn Diagrams": {
-        "count": 8,
-        "prelims": 8,
-        "mains": 0,
-        "years": [
-          2010,
-          2009,
-          2008,
-          2006,
-          2001,
-          2000,
-          1999
-        ],
-        "file": "set-theory-and-venn-diagrams.md"
-      },
-      "Geometry and Angles": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          2001
-        ],
-        "file": "geometry-and-angles.md"
-      },
-      "Permutation and Combination": {
-        "count": 19,
-        "prelims": 19,
-        "mains": 0,
-        "years": [
-          2010,
-          2009,
-          2008,
-          2007,
-          2006,
-          2005,
-          2004
-        ],
-        "file": "permutation-and-combination.md"
-      },
-      "Time Speed Distance": {
         "count": 16,
         "prelims": 16,
         "mains": 0,
@@ -442,641 +270,1053 @@
           2006,
           2005,
           2004,
+          2000,
+          1999,
+          1997,
+          1996,
+          1995
+        ],
+        "file": "ordering-and-ranking.md",
+        "revision_priority": "HIGH"
+      },
+      "Direction Sense": {
+        "count": 5,
+        "prelims": 5,
+        "mains": 0,
+        "years": [
+          2010,
+          2009,
+          2000,
+          1996
+        ],
+        "file": "direction-sense.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Series Completion": {
+        "count": 11,
+        "prelims": 11,
+        "mains": 0,
+        "years": [
+          2008,
+          2000,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995
+        ],
+        "file": "series-completion.md",
+        "revision_priority": "HIGH"
+      },
+      "Syllogisms": {
+        "count": 14,
+        "prelims": 14,
+        "mains": 0,
+        "years": [
+          2010,
+          2001,
+          1998,
+          1997,
+          1996,
+          1995
+        ],
+        "file": "syllogisms.md",
+        "revision_priority": "HIGH"
+      },
+      "Blood Relations": {
+        "count": 5,
+        "prelims": 5,
+        "mains": 0,
+        "years": [
+          2011,
+          2010,
+          2009,
+          2000,
+          1998
+        ],
+        "file": "blood-relations.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Coding-Decoding": {
+        "count": 5,
+        "prelims": 5,
+        "mains": 0,
+        "years": [
+          2000,
+          1999,
+          1998,
+          1996
+        ],
+        "file": "coding-decoding.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Data Interpretation": {
+        "count": 1,
+        "prelims": 1,
+        "mains": 0,
+        "years": [
+          1995
+        ],
+        "file": "data-interpretation.md",
+        "revision_priority": "HIGH"
+      },
+      "Analogy": {
+        "count": 3,
+        "prelims": 3,
+        "mains": 0,
+        "years": [
+          2009,
+          1998,
+          1996
+        ],
+        "file": "analogy.md",
+        "revision_priority": "LOW"
+      },
+      "Permutation and Combination": {
+        "count": 1,
+        "prelims": 1,
+        "mains": 0,
+        "years": [
+          2010
+        ],
+        "file": "permutation-and-combination.md",
+        "revision_priority": "HIGH"
+      },
+      "Set Theory and Venn Diagrams": {
+        "count": 1,
+        "prelims": 1,
+        "mains": 0,
+        "years": [
+          1995
+        ],
+        "file": "set-theory-and-venn-diagrams.md",
+        "revision_priority": "HIGH"
+      }
+    },
+    "Quantitative Aptitude": {
+      "Geometry": {
+        "count": 30,
+        "prelims": 30,
+        "mains": 0,
+        "years": [
+          2010,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003,
+          2002,
+          2001,
+          2000
+        ],
+        "file": "geometry.md",
+        "revision_priority": "HIGH"
+      },
+      "Percentages": {
+        "count": 9,
+        "prelims": 9,
+        "mains": 0,
+        "years": [
+          2010,
+          2007,
+          2002,
+          2001,
+          1998,
+          1997,
+          1996,
+          1995
+        ],
+        "file": "percentages.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Volume and Mensuration": {
+        "count": 7,
+        "prelims": 7,
+        "mains": 0,
+        "years": [
+          2000,
+          1999,
+          1998,
+          1997,
+          1995
+        ],
+        "file": "volume-and-mensuration.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Algebra": {
+        "count": 17,
+        "prelims": 17,
+        "mains": 0,
+        "years": [
+          2009,
+          2008,
+          2006,
+          2005,
+          2003,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998
+        ],
+        "file": "algebra.md",
+        "revision_priority": "HIGH"
+      },
+      "Time, Speed and Distance": {
+        "count": 1,
+        "prelims": 1,
+        "mains": 0,
+        "years": [
+          2001
+        ],
+        "file": "time,-speed-and-distance.md",
+        "revision_priority": "LOW"
+      },
+      "Work and Rates": {
+        "count": 1,
+        "prelims": 1,
+        "mains": 0,
+        "years": [
+          2001
+        ],
+        "file": "work-and-rates.md",
+        "revision_priority": "LOW"
+      },
+      "Exponential Growth and Series": {
+        "count": 2,
+        "prelims": 2,
+        "mains": 0,
+        "years": [
+          2010,
+          2001
+        ],
+        "file": "exponential-growth-and-series.md",
+        "revision_priority": "LOW"
+      },
+      "Percentages and Population": {
+        "count": 1,
+        "prelims": 1,
+        "mains": 0,
+        "years": [
+          2001
+        ],
+        "file": "percentages-and-population.md",
+        "revision_priority": "LOW"
+      },
+      "Set Theory and Venn Diagrams": {
+        "count": 14,
+        "prelims": 14,
+        "mains": 0,
+        "years": [
+          2010,
+          2009,
+          2008,
+          2006,
+          2005,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997
+        ],
+        "file": "set-theory-and-venn-diagrams.md",
+        "revision_priority": "HIGH"
+      },
+      "Geometry and Angles": {
+        "count": 1,
+        "prelims": 1,
+        "mains": 0,
+        "years": [
+          2001
+        ],
+        "file": "geometry-and-angles.md",
+        "revision_priority": "LOW"
+      },
+      "Permutation and Combination": {
+        "count": 36,
+        "prelims": 36,
+        "mains": 0,
+        "years": [
+          2010,
+          2009,
+          2008,
+          2007,
+          2006,
+          2005,
+          2004,
+          2003
+        ],
+        "file": "permutation-and-combination.md",
+        "revision_priority": "HIGH"
+      },
+      "Time Speed Distance": {
+        "count": 26,
+        "prelims": 26,
+        "mains": 0,
+        "years": [
+          2010,
+          2007,
+          2006,
+          2005,
+          2004,
           2003,
           2002,
           2001,
           1999,
           1998
         ],
-        "file": "time-speed-distance.md"
+        "file": "time-speed-distance.md",
+        "revision_priority": "HIGH"
       },
       "Mensuration": {
-        "count": 2,
-        "prelims": 2,
-        "mains": 0,
-        "years": [
-          2002,
-          1995
-        ],
-        "file": "mensuration.md"
-      },
-      "Probability": {
         "count": 7,
         "prelims": 7,
         "mains": 0,
         "years": [
+          2002,
+          1999,
+          1998,
+          1997,
+          1996,
+          1995
+        ],
+        "file": "mensuration.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Probability": {
+        "count": 11,
+        "prelims": 11,
+        "mains": 0,
+        "years": [
           2008,
+          2007,
           2006,
           2005,
           2004,
           2002,
           2000,
+          1997,
+          1996,
           1995
         ],
-        "file": "probability.md"
+        "file": "probability.md",
+        "revision_priority": "HIGH"
       },
       "Data Interpretation": {
-        "count": 10,
-        "prelims": 10,
+        "count": 17,
+        "prelims": 17,
         "mains": 0,
         "years": [
+          2000,
           1999,
           1998,
           1997,
-          1996
+          1996,
+          1995
         ],
-        "file": "data-interpretation.md"
+        "file": "data-interpretation.md",
+        "revision_priority": "HIGH"
       },
       "Number System": {
-        "count": 4,
-        "prelims": 4,
+        "count": 11,
+        "prelims": 11,
         "mains": 0,
         "years": [
           2009,
+          2008,
           2007,
+          2006,
+          2004,
+          2003,
           1997
         ],
-        "file": "number-system.md"
+        "file": "number-system.md",
+        "revision_priority": "HIGH"
       },
       "Simple and Compound Interest": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          1995
-        ],
-        "file": "simple-and-compound-interest.md"
-      },
-      "Profit and Loss": {
         "count": 2,
         "prelims": 2,
         "mains": 0,
         "years": [
-          2008,
-          2002
+          2010,
+          1995
         ],
-        "file": "profit-and-loss.md"
+        "file": "simple-and-compound-interest.md",
+        "revision_priority": "LOW"
       },
-      "Ratio & Proportion": {
+      "Profit and Loss": {
         "count": 4,
         "prelims": 4,
         "mains": 0,
         "years": [
-          2000,
-          1999
+          2008,
+          2005,
+          2002,
+          1998
         ],
-        "file": "ratio-and-proportion.md"
+        "file": "profit-and-loss.md",
+        "revision_priority": "LOW"
       },
-      "Work and Time": {
-        "count": 1,
-        "prelims": 1,
+      "Ratio & Proportion": {
+        "count": 6,
+        "prelims": 6,
         "mains": 0,
         "years": [
-          2008
+          2002,
+          2000,
+          1999,
+          1997
         ],
-        "file": "work-and-time.md"
+        "file": "ratio-and-proportion.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Work and Time": {
+        "count": 4,
+        "prelims": 4,
+        "mains": 0,
+        "years": [
+          2008,
+          2007,
+          2003,
+          1998
+        ],
+        "file": "work-and-time.md",
+        "revision_priority": "LOW"
       }
     }
   },
   "Economy": {
     "Development & Planning": {
       "Inclusive Growth": {
-        "count": 17,
-        "prelims": 11,
-        "mains": 6,
+        "count": 41,
+        "prelims": 23,
+        "mains": 18,
         "years": [
+          2024,
+          2023,
           2022,
           2020,
           2019,
+          2017,
           2016,
+          2015,
           2014,
-          2013,
-          2010,
-          2005,
-          2002,
-          1999
+          2013
         ],
-        "file": "inclusive-growth.md"
+        "file": "inclusive-growth.md",
+        "revision_priority": "HIGH"
       },
       "Human Development": {
-        "count": 9,
-        "prelims": 7,
-        "mains": 2,
+        "count": 21,
+        "prelims": 16,
+        "mains": 5,
         "years": [
+          2025,
+          2023,
           2022,
           2019,
+          2018,
           2013,
           2012,
           2003,
-          2000,
-          1998,
-          1997
+          2002,
+          2001
         ],
-        "file": "human-development.md"
+        "file": "human-development.md",
+        "revision_priority": "HIGH"
       },
       "Planning": {
-        "count": 9,
-        "prelims": 9,
-        "mains": 0,
+        "count": 17,
+        "prelims": 15,
+        "mains": 2,
         "years": [
+          2019,
+          2018,
           2014,
           2010,
+          2009,
           2004,
           2000,
           1999,
-          1996,
-          1995
+          1997,
+          1996
         ],
-        "file": "planning.md"
+        "file": "planning.md",
+        "revision_priority": "HIGH"
       }
     },
     "Macroeconomics": {
       "National Income": {
-        "count": 17,
-        "prelims": 14,
-        "mains": 3,
+        "count": 34,
+        "prelims": 30,
+        "mains": 4,
         "years": [
-          2021,
-          2020,
-          2019,
-          2013,
-          2011,
-          2010,
-          2002,
-          2001,
-          2000,
-          1999
-        ],
-        "file": "national-income.md"
-      },
-      "Banking System": {
-        "count": 31,
-        "prelims": 31,
-        "mains": 0,
-        "years": [
-          2025,
-          2021,
-          2015,
-          2014,
-          2013,
-          2012,
-          2011,
-          2010,
-          2009,
-          2007
-        ],
-        "file": "banking-system.md"
-      },
-      "Savings and Investment": {
-        "count": 2,
-        "prelims": 2,
-        "mains": 0,
-        "years": [
-          1997,
-          1996
-        ],
-        "file": "savings-and-investment.md"
-      },
-      "Money & Banking": {
-        "count": 24,
-        "prelims": 24,
-        "mains": 0,
-        "years": [
+          2024,
           2023,
           2022,
           2021,
-          2014,
+          2020,
+          2019,
+          2018,
+          2015,
           2013,
-          2012,
-          2011,
-          2010,
-          2007,
-          2005
+          2011
         ],
-        "file": "money-and-banking.md"
+        "file": "national-income.md",
+        "revision_priority": "HIGH"
+      },
+      "Banking System": {
+        "count": 65,
+        "prelims": 64,
+        "mains": 1,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
+        ],
+        "file": "banking-system.md",
+        "revision_priority": "HIGH"
+      },
+      "Savings and Investment": {
+        "count": 9,
+        "prelims": 8,
+        "mains": 1,
+        "years": [
+          2025,
+          2022,
+          2017,
+          2005,
+          2003,
+          1997,
+          1996
+        ],
+        "file": "savings-and-investment.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Money & Banking": {
+        "count": 40,
+        "prelims": 40,
+        "mains": 0,
+        "years": [
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015
+        ],
+        "file": "money-and-banking.md",
+        "revision_priority": "HIGH"
       },
       "Inflation": {
-        "count": 8,
-        "prelims": 7,
+        "count": 17,
+        "prelims": 16,
         "mains": 1,
         "years": [
           2024,
+          2022,
+          2021,
+          2020,
+          2015,
           2013,
           2011,
           2010,
           2005,
-          1998,
-          1997
+          2002
         ],
-        "file": "inflation.md"
+        "file": "inflation.md",
+        "revision_priority": "HIGH"
       }
     },
     "Public Finance": {
       "Taxation": {
-        "count": 11,
-        "prelims": 9,
-        "mains": 2,
+        "count": 24,
+        "prelims": 19,
+        "mains": 5,
         "years": [
+          2025,
+          2022,
+          2021,
           2019,
           2018,
+          2017,
           2015,
           2014,
-          2012,
-          2011,
-          2009,
-          2006,
-          2003,
-          2001
+          2013,
+          2012
         ],
-        "file": "taxation.md"
+        "file": "taxation.md",
+        "revision_priority": "HIGH"
       },
       "Fiscal Federalism": {
-        "count": 6,
-        "prelims": 5,
-        "mains": 1,
+        "count": 11,
+        "prelims": 8,
+        "mains": 3,
         "years": [
+          2025,
+          2023,
           2020,
           2018,
+          2017,
           2012,
           2010,
           2000
         ],
-        "file": "fiscal-federalism.md"
+        "file": "fiscal-federalism.md",
+        "revision_priority": "HIGH"
       },
       "Government Budget": {
-        "count": 16,
-        "prelims": 14,
-        "mains": 2,
+        "count": 31,
+        "prelims": 26,
+        "mains": 5,
         "years": [
+          2025,
+          2022,
+          2021,
+          2020,
+          2019,
+          2017,
+          2016,
           2015,
           2014,
-          2013,
-          2011,
-          2010,
-          2006,
-          2002,
-          2001,
-          2000,
-          1999
+          2013
         ],
-        "file": "government-budget.md"
+        "file": "government-budget.md",
+        "revision_priority": "HIGH"
       }
     },
     "Industry & Infrastructure": {
       "Industrial Policy": {
-        "count": 32,
-        "prelims": 24,
-        "mains": 8,
+        "count": 58,
+        "prelims": 44,
+        "mains": 14,
         "years": [
+          2025,
           2024,
+          2023,
           2022,
           2019,
           2017,
           2016,
           2015,
           2014,
-          2013,
-          2011,
-          2009
+          2013
         ],
-        "file": "industrial-policy.md"
+        "file": "industrial-policy.md",
+        "revision_priority": "HIGH"
       },
       "Energy": {
-        "count": 13,
-        "prelims": 6,
-        "mains": 7,
+        "count": 29,
+        "prelims": 21,
+        "mains": 8,
         "years": [
+          2025,
+          2024,
           2022,
+          2020,
           2018,
           2016,
           2015,
           2013,
           2009,
-          2008,
-          2001
+          2008
         ],
-        "file": "energy.md"
+        "file": "energy.md",
+        "revision_priority": "HIGH"
       },
       "Infrastructure": {
-        "count": 8,
-        "prelims": 6,
-        "mains": 2,
+        "count": 20,
+        "prelims": 11,
+        "mains": 9,
         "years": [
+          2025,
+          2024,
+          2023,
+          2022,
           2021,
+          2017,
           2015,
+          2014,
           2013,
-          2009,
-          2005,
-          2004,
-          1999,
-          1998
+          2009
         ],
-        "file": "infrastructure.md"
+        "file": "infrastructure.md",
+        "revision_priority": "HIGH"
       }
     },
     "Agriculture": {
       "Food Security": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
-        "years": [
-          2004
-        ],
-        "file": "food-security.md"
-      },
-      "Agricultural Economy": {
-        "count": 10,
-        "prelims": 8,
-        "mains": 2,
-        "years": [
-          2020,
-          2015,
-          2013,
-          2011,
-          2008,
-          2007,
-          2003,
-          2001,
-          1996
-        ],
-        "file": "agricultural-economy.md"
-      },
-      "Irrigation & Technology": {
-        "count": 4,
-        "prelims": 2,
+        "count": 5,
+        "prelims": 3,
         "mains": 2,
         "years": [
           2024,
-          2020
+          2020,
+          2019,
+          2004
         ],
-        "file": "irrigation-and-technology.md"
+        "file": "food-security.md",
+        "revision_priority": "HIGH"
       },
-      "Agricultural Policy": {
-        "count": 16,
-        "prelims": 11,
-        "mains": 5,
+      "Agricultural Economy": {
+        "count": 26,
+        "prelims": 20,
+        "mains": 6,
         "years": [
-          2022,
+          2025,
+          2023,
+          2020,
           2019,
           2018,
+          2017,
           2015,
           2014,
           2013,
-          2011,
-          2010,
-          2001,
-          2000
+          2011
         ],
-        "file": "agricultural-policy.md"
+        "file": "agricultural-economy.md",
+        "revision_priority": "HIGH"
+      },
+      "Irrigation & Technology": {
+        "count": 17,
+        "prelims": 9,
+        "mains": 8,
+        "years": [
+          2024,
+          2021,
+          2020,
+          2019,
+          2017,
+          2016,
+          2015,
+          2011
+        ],
+        "file": "irrigation-and-technology.md",
+        "revision_priority": "HIGH"
+      },
+      "Agricultural Policy": {
+        "count": 57,
+        "prelims": 33,
+        "mains": 24,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015
+        ],
+        "file": "agricultural-policy.md",
+        "revision_priority": "HIGH"
       },
       "Land Reforms": {
-        "count": 3,
-        "prelims": 0,
-        "mains": 3,
+        "count": 8,
+        "prelims": 1,
+        "mains": 7,
         "years": [
+          2024,
+          2023,
           2021,
+          2019,
+          2016,
           2015,
-          2014
+          2014,
+          2013
         ],
-        "file": "land-reforms.md"
+        "file": "land-reforms.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "External Sector": {
       "Trade Policy": {
-        "count": 21,
-        "prelims": 19,
-        "mains": 2,
-        "years": [
-          2018,
-          2013,
-          2011,
-          2010,
-          2009,
-          2006,
-          2003,
-          2002,
-          2000,
-          1998
-        ],
-        "file": "trade-policy.md"
-      },
-      "Foreign Investment": {
-        "count": 12,
-        "prelims": 9,
+        "count": 37,
+        "prelims": 34,
         "mains": 3,
         "years": [
-          2014,
+          2025,
+          2023,
+          2020,
+          2018,
+          2017,
+          2016,
           2013,
+          2011,
           2010,
-          2009,
-          2008,
-          2007,
-          2004,
-          2003,
-          1998,
-          1995
+          2009
         ],
-        "file": "foreign-investment.md"
+        "file": "trade-policy.md",
+        "revision_priority": "HIGH"
+      },
+      "Foreign Investment": {
+        "count": 33,
+        "prelims": 29,
+        "mains": 4,
+        "years": [
+          2025,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2017,
+          2016,
+          2014,
+          2013
+        ],
+        "file": "foreign-investment.md",
+        "revision_priority": "HIGH"
       },
       "Exchange Rate": {
-        "count": 7,
-        "prelims": 7,
+        "count": 18,
+        "prelims": 18,
         "mains": 0,
         "years": [
+          2024,
+          2022,
+          2021,
+          2020,
+          2019,
+          2016,
+          2015,
           2012,
-          2002,
-          2000,
-          1999,
-          1998,
-          1996
+          2010,
+          2002
         ],
-        "file": "exchange-rate.md"
+        "file": "exchange-rate.md",
+        "revision_priority": "HIGH"
       },
       "Balance of Payments": {
-        "count": 8,
-        "prelims": 8,
-        "mains": 0,
+        "count": 15,
+        "prelims": 14,
+        "mains": 1,
         "years": [
+          2020,
+          2019,
+          2016,
+          2015,
           2014,
           2013,
           2011,
           2006,
-          2002,
-          1999
+          2004,
+          2002
         ],
-        "file": "balance-of-payments.md"
+        "file": "balance-of-payments.md",
+        "revision_priority": "HIGH"
       }
     }
   },
   "Geography": {
     "Indian Geography": {
       "Agriculture": {
-        "count": 10,
-        "prelims": 9,
-        "mains": 1,
+        "count": 21,
+        "prelims": 16,
+        "mains": 5,
         "years": [
+          2023,
+          2022,
+          2018,
+          2017,
           2016,
+          2014,
           2013,
           2011,
           2010,
-          2009,
-          2008,
-          2006,
-          1999,
-          1997,
-          1996
+          2009
         ],
-        "file": "agriculture.md"
+        "file": "agriculture.md",
+        "revision_priority": "HIGH"
       },
       "Physical Features of India": {
-        "count": 36,
-        "prelims": 36,
-        "mains": 0,
+        "count": 53,
+        "prelims": 50,
+        "mains": 3,
         "years": [
+          2025,
+          2023,
+          2021,
+          2020,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013
+        ],
+        "file": "physical-features-of-india.md",
+        "revision_priority": "HIGH"
+      },
+      "Agricultural Geography": {
+        "count": 25,
+        "prelims": 24,
+        "mains": 1,
+        "years": [
+          2025,
+          2021,
+          2020,
           2014,
           2013,
-          2009,
-          2008,
-          2007,
-          2006,
-          2005,
+          2012,
+          2010,
           2004,
           2003,
           2002
         ],
-        "file": "physical-features-of-india.md"
-      },
-      "Agricultural Geography": {
-        "count": 14,
-        "prelims": 14,
-        "mains": 0,
-        "years": [
-          2025,
-          2014,
-          2013,
-          2012,
-          2004,
-          2003,
-          2002,
-          1997,
-          1996
-        ],
-        "file": "agricultural-geography.md"
+        "file": "agricultural-geography.md",
+        "revision_priority": "HIGH"
       },
       "Industries": {
-        "count": 13,
-        "prelims": 11,
-        "mains": 2,
+        "count": 25,
+        "prelims": 21,
+        "mains": 4,
         "years": [
           2019,
+          2018,
           2016,
           2014,
           2010,
           2007,
           2006,
+          2005,
           2004,
-          2002,
-          2000,
-          1998
+          2003
         ],
-        "file": "industries.md"
+        "file": "industries.md",
+        "revision_priority": "HIGH"
       },
       "Minerals & Energy": {
+        "count": 38,
+        "prelims": 33,
+        "mains": 5,
+        "years": [
+          2023,
+          2022,
+          2021,
+          2020,
+          2018,
+          2017,
+          2016,
+          2013,
+          2012,
+          2010
+        ],
+        "file": "minerals-and-energy.md",
+        "revision_priority": "HIGH"
+      },
+      "Physiography": {
         "count": 21,
         "prelims": 20,
         "mains": 1,
         "years": [
+          2023,
           2022,
-          2013,
-          2012,
-          2010,
-          2009,
-          2008,
-          2007,
-          2006,
-          2005,
-          2004
-        ],
-        "file": "minerals-and-energy.md"
-      },
-      "Physiography": {
-        "count": 12,
-        "prelims": 11,
-        "mains": 1,
-        "years": [
           2021,
           2017,
           2015,
           2014,
           2010,
           2009,
-          2007,
-          2005,
-          2003,
-          1995
+          2008,
+          2007
         ],
-        "file": "physiography.md"
+        "file": "physiography.md",
+        "revision_priority": "HIGH"
       },
       "Drainage System": {
-        "count": 34,
-        "prelims": 31,
-        "mains": 3,
+        "count": 63,
+        "prelims": 55,
+        "mains": 8,
         "years": [
+          2025,
           2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
           2018,
           2017,
-          2014,
-          2013,
-          2010,
-          2009,
-          2008,
-          2006,
-          2005
+          2016
         ],
-        "file": "drainage-system.md"
+        "file": "drainage-system.md",
+        "revision_priority": "HIGH"
       },
       "Natural Vegetation": {
-        "count": 8,
-        "prelims": 8,
-        "mains": 0,
+        "count": 16,
+        "prelims": 14,
+        "mains": 2,
         "years": [
+          2023,
+          2021,
+          2020,
+          2015,
           2014,
+          2012,
           2011,
           2010,
           2008,
-          2004,
-          2002,
-          1997,
-          1995
+          2004
         ],
-        "file": "natural-vegetation.md"
+        "file": "natural-vegetation.md",
+        "revision_priority": "HIGH"
       },
       "Climate & Monsoon": {
-        "count": 13,
-        "prelims": 11,
-        "mains": 2,
+        "count": 19,
+        "prelims": 13,
+        "mains": 6,
         "years": [
+          2023,
+          2020,
           2019,
+          2017,
           2016,
+          2015,
           2012,
           2005,
           2004,
-          2002,
-          2001,
-          2000,
-          1997,
-          1996
+          2002
         ],
-        "file": "climate-and-monsoon.md"
+        "file": "climate-and-monsoon.md",
+        "revision_priority": "HIGH"
       },
       "Soils": {
+        "count": 4,
+        "prelims": 4,
+        "mains": 0,
+        "years": [
+          2021,
+          2018,
+          2013,
+          2010
+        ],
+        "file": "soils.md",
+        "revision_priority": "LOW"
+      },
+      "Oceanography": {
         "count": 1,
         "prelims": 1,
         "mains": 0,
         "years": [
-          2013
+          2017
         ],
-        "file": "soils.md"
+        "file": "oceanography.md",
+        "revision_priority": "HIGH"
       }
     },
     "World Geography": {
@@ -1089,170 +1329,193 @@
           1999,
           1997
         ],
-        "file": "ethnic-communities-and-tribes.md"
+        "file": "ethnic-communities-and-tribes.md",
+        "revision_priority": "LOW"
       },
       "World Population Distribution": {
-        "count": 6,
-        "prelims": 6,
+        "count": 7,
+        "prelims": 7,
         "mains": 0,
         "years": [
           2004,
           2003,
+          2002,
           2001,
           1999,
           1997
         ],
-        "file": "world-population-distribution.md"
+        "file": "world-population-distribution.md",
+        "revision_priority": "MEDIUM"
       },
       "Continents & Regions": {
-        "count": 63,
-        "prelims": 63,
-        "mains": 0,
+        "count": 104,
+        "prelims": 102,
+        "mains": 2,
         "years": [
           2025,
+          2024,
+          2023,
           2022,
+          2021,
+          2020,
+          2019,
           2017,
-          2014,
-          2013,
-          2012,
-          2011,
-          2010,
-          2009,
-          2008
+          2015,
+          2014
         ],
-        "file": "continents-and-regions.md"
+        "file": "continents-and-regions.md",
+        "revision_priority": "HIGH"
       },
       "Resource Distribution": {
-        "count": 6,
-        "prelims": 6,
-        "mains": 0,
+        "count": 20,
+        "prelims": 14,
+        "mains": 6,
         "years": [
-          2007,
-          2006,
-          2003,
-          2000,
-          1999
+          2025,
+          2023,
+          2022,
+          2021,
+          2018,
+          2017,
+          2015,
+          2009,
+          2008,
+          2007
         ],
-        "file": "resource-distribution.md"
+        "file": "resource-distribution.md",
+        "revision_priority": "HIGH"
       },
       "Economic Geography": {
-        "count": 4,
-        "prelims": 3,
-        "mains": 1,
+        "count": 7,
+        "prelims": 4,
+        "mains": 3,
         "years": [
+          2024,
+          2022,
           2020,
+          2014,
           2013,
           2000,
           1995
         ],
-        "file": "economic-geography.md"
+        "file": "economic-geography.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Physical Geography": {
       "Oceanography": {
-        "count": 12,
-        "prelims": 11,
-        "mains": 1,
+        "count": 25,
+        "prelims": 18,
+        "mains": 7,
         "years": [
-          2017,
-          2013,
-          2012,
-          2010,
-          2006,
-          2005,
-          2004,
-          2002,
-          2001,
-          2000
-        ],
-        "file": "oceanography.md"
-      },
-      "Climatology": {
-        "count": 43,
-        "prelims": 41,
-        "mains": 2,
-        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
           2019,
           2017,
           2015,
           2014,
-          2013,
-          2012,
-          2011,
-          2010,
-          2009,
-          2007
+          2013
         ],
-        "file": "climatology.md"
+        "file": "oceanography.md",
+        "revision_priority": "HIGH"
       },
-      "Geomorphology": {
-        "count": 19,
-        "prelims": 16,
-        "mains": 3,
+      "Climatology": {
+        "count": 74,
+        "prelims": 60,
+        "mains": 14,
         "years": [
+          2025,
+          2024,
           2023,
+          2022,
           2021,
           2020,
-          2013,
-          2012,
-          2009,
-          2005,
-          2004,
-          2001,
-          1999
+          2019,
+          2017,
+          2016,
+          2015
         ],
-        "file": "geomorphology.md"
+        "file": "climatology.md",
+        "revision_priority": "HIGH"
+      },
+      "Geomorphology": {
+        "count": 38,
+        "prelims": 27,
+        "mains": 11,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2018,
+          2014,
+          2013,
+          2012
+        ],
+        "file": "geomorphology.md",
+        "revision_priority": "HIGH"
       },
       "Biogeography": {
-        "count": 1,
-        "prelims": 1,
+        "count": 2,
+        "prelims": 2,
         "mains": 0,
         "years": [
+          2023,
           2010
         ],
-        "file": "biogeography.md"
+        "file": "biogeography.md",
+        "revision_priority": "MEDIUM"
       }
     }
   },
   "History": {
     "Medieval India": {
       "Regional Kingdoms": {
-        "count": 16,
-        "prelims": 16,
-        "mains": 0,
-        "years": [
-          2009,
-          2008,
-          2006,
-          2004,
-          2003,
-          2001,
-          2000,
-          1996
-        ],
-        "file": "regional-kingdoms.md"
-      },
-      "Delhi Sultanate": {
-        "count": 20,
-        "prelims": 19,
+        "count": 40,
+        "prelims": 39,
         "mains": 1,
         "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2017,
+          2016,
+          2015
+        ],
+        "file": "regional-kingdoms.md",
+        "revision_priority": "HIGH"
+      },
+      "Delhi Sultanate": {
+        "count": 29,
+        "prelims": 27,
+        "mains": 2,
+        "years": [
+          2023,
+          2022,
+          2021,
+          2019,
           2018,
+          2016,
           2006,
           2004,
           2003,
-          2002,
-          2001,
-          2000,
-          1999,
-          1998,
-          1997
+          2002
         ],
-        "file": "delhi-sultanate.md"
+        "file": "delhi-sultanate.md",
+        "revision_priority": "HIGH"
       },
       "Maratha Empire": {
-        "count": 5,
-        "prelims": 5,
+        "count": 6,
+        "prelims": 6,
         "mains": 0,
         "years": [
           2003,
@@ -1260,7 +1523,8 @@
           1998,
           1995
         ],
-        "file": "maratha-empire.md"
+        "file": "maratha-empire.md",
+        "revision_priority": "MEDIUM"
       },
       "Bhakti and Sufi Movement": {
         "count": 1,
@@ -1269,251 +1533,577 @@
         "years": [
           1996
         ],
-        "file": "bhakti-and-sufi-movement.md"
+        "file": "bhakti-and-sufi-movement.md",
+        "revision_priority": "LOW"
       },
       "Mughal Empire": {
-        "count": 25,
-        "prelims": 24,
-        "mains": 1,
+        "count": 36,
+        "prelims": 34,
+        "mains": 2,
         "years": [
           2025,
+          2022,
+          2021,
+          2019,
+          2018,
           2015,
           2014,
           2012,
           2010,
-          2009,
-          2006,
-          2004,
-          2003,
-          2002
+          2009
         ],
-        "file": "mughal-empire.md"
+        "file": "mughal-empire.md",
+        "revision_priority": "HIGH"
       },
       "Medieval Art & Architecture": {
-        "count": 15,
-        "prelims": 15,
-        "mains": 0,
+        "count": 30,
+        "prelims": 26,
+        "mains": 4,
         "years": [
+          2025,
+          2024,
+          2022,
+          2020,
+          2018,
+          2017,
+          2015,
           2014,
-          2012,
-          2009,
-          2006,
-          2005,
-          2003,
-          2002,
-          1999,
-          1997,
-          1996
+          2013,
+          2012
         ],
-        "file": "medieval-art-and-architecture.md"
+        "file": "medieval-art-and-architecture.md",
+        "revision_priority": "HIGH"
       },
       "Sufi Movement": {
-        "count": 5,
-        "prelims": 4,
+        "count": 6,
+        "prelims": 5,
         "mains": 1,
         "years": [
           2014,
           2012,
+          2002,
           1997,
           1996
         ],
-        "file": "sufi-movement.md"
+        "file": "sufi-movement.md",
+        "revision_priority": "MEDIUM"
       },
       "Bhakti Movement": {
-        "count": 8,
-        "prelims": 8,
-        "mains": 0,
+        "count": 14,
+        "prelims": 12,
+        "mains": 2,
         "years": [
+          2022,
+          2021,
+          2019,
+          2018,
+          2016,
           2014,
           2013,
           2010,
           2006,
-          2004,
-          2002,
-          2001
+          2004
         ],
-        "file": "bhakti-movement.md"
+        "file": "bhakti-movement.md",
+        "revision_priority": "HIGH"
       }
     },
     "Ancient India": {
       "Sangam Age": {
-        "count": 6,
-        "prelims": 6,
-        "mains": 0,
+        "count": 14,
+        "prelims": 13,
+        "mains": 1,
         "years": [
+          2023,
+          2022,
+          2018,
+          2016,
+          2015,
+          2013,
           2000,
           1999,
           1998,
-          1997,
-          1995
+          1997
         ],
-        "file": "sangam-age.md"
+        "file": "sangam-age.md",
+        "revision_priority": "HIGH"
       },
       "Post-Gupta Period": {
-        "count": 17,
-        "prelims": 16,
-        "mains": 1,
+        "count": 29,
+        "prelims": 24,
+        "mains": 5,
         "years": [
+          2025,
+          2024,
+          2023,
           2021,
+          2020,
           2018,
           2014,
+          2013,
           2012,
-          2008,
-          2003,
-          2001,
-          2000,
-          1999,
-          1996
+          2008
         ],
-        "file": "post-gupta-period.md"
+        "file": "post-gupta-period.md",
+        "revision_priority": "HIGH"
       },
       "Mauryan Empire": {
+        "count": 20,
+        "prelims": 20,
+        "mains": 0,
+        "years": [
+          2025,
+          2022,
+          2020,
+          2019,
+          2016,
+          2015,
+          2013,
+          2006,
+          2002,
+          2000
+        ],
+        "file": "mauryan-empire.md",
+        "revision_priority": "HIGH"
+      },
+      "Vedic Age": {
+        "count": 25,
+        "prelims": 21,
+        "mains": 4,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2016,
+          2014,
+          2013,
+          2012,
+          2011,
+          2008
+        ],
+        "file": "vedic-age.md",
+        "revision_priority": "HIGH"
+      },
+      "Post-Mauryan Period": {
+        "count": 20,
+        "prelims": 18,
+        "mains": 2,
+        "years": [
+          2021,
+          2019,
+          2017,
+          2016,
+          2014,
+          2013,
+          2012,
+          2006,
+          2003,
+          2001
+        ],
+        "file": "post-mauryan-period.md",
+        "revision_priority": "HIGH"
+      },
+      "Buddhism": {
+        "count": 36,
+        "prelims": 34,
+        "mains": 2,
+        "years": [
+          2024,
+          2023,
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014
+        ],
+        "file": "buddhism.md",
+        "revision_priority": "HIGH"
+      },
+      "Jainism": {
         "count": 12,
         "prelims": 12,
         "mains": 0,
         "years": [
-          2020,
+          2023,
+          2022,
+          2018,
           2013,
-          2002,
-          2000,
-          1998,
-          1997,
-          1995
-        ],
-        "file": "mauryan-empire.md"
-      },
-      "Vedic Age": {
-        "count": 15,
-        "prelims": 15,
-        "mains": 0,
-        "years": [
-          2014,
-          2013,
-          2012,
           2011,
-          2008,
+          2009,
           2004,
-          1999,
-          1997,
-          1996,
-          1995
-        ],
-        "file": "vedic-age.md"
-      },
-      "Post-Mauryan Period": {
-        "count": 12,
-        "prelims": 11,
-        "mains": 1,
-        "years": [
-          2019,
-          2013,
-          2012,
           2003,
-          2001,
           2000,
-          1999,
-          1998,
-          1997,
           1996
         ],
-        "file": "post-mauryan-period.md"
+        "file": "jainism.md",
+        "revision_priority": "HIGH"
       },
-      "Buddhism": {
-        "count": 16,
-        "prelims": 16,
-        "mains": 0,
+      "Gupta Empire": {
+        "count": 27,
+        "prelims": 24,
+        "mains": 3,
         "years": [
+          2025,
+          2022,
+          2020,
+          2019,
           2017,
           2014,
           2013,
-          2012,
-          2009,
+          2010,
           2006,
-          2005,
-          2004,
-          2002,
-          2001
+          2003
         ],
-        "file": "buddhism.md"
-      },
-      "Jainism": {
-        "count": 9,
-        "prelims": 9,
-        "mains": 0,
-        "years": [
-          2013,
-          2011,
-          2009,
-          2004,
-          2003,
-          2000,
-          1996,
-          1995
-        ],
-        "file": "jainism.md"
-      },
-      "Gupta Empire": {
-        "count": 17,
-        "prelims": 17,
-        "mains": 0,
-        "years": [
-          2014,
-          2013,
-          2006,
-          2003,
-          2000,
-          1999,
-          1998,
-          1997,
-          1996,
-          1995
-        ],
-        "file": "gupta-empire.md"
+        "file": "gupta-empire.md",
+        "revision_priority": "HIGH"
       },
       "Indus Valley Civilization": {
-        "count": 8,
-        "prelims": 6,
-        "mains": 2,
+        "count": 15,
+        "prelims": 11,
+        "mains": 4,
         "years": [
+          2025,
+          2024,
           2023,
+          2021,
+          2019,
+          2017,
+          2015,
           2014,
           2013,
-          2011,
-          2002,
-          2001,
-          1998,
-          1997
+          2011
         ],
-        "file": "indus-valley-civilization.md"
+        "file": "indus-valley-civilization.md",
+        "revision_priority": "HIGH"
+      },
+      "Prehistoric Period": {
+        "count": 3,
+        "prelims": 2,
+        "mains": 1,
+        "years": [
+          2021,
+          2019,
+          2015
+        ],
+        "file": "prehistoric-period.md",
+        "revision_priority": "LOW"
       }
     },
     "Modern India": {
       "British-Era Committees and Commissions": {
-        "count": 12,
-        "prelims": 12,
+        "count": 17,
+        "prelims": 17,
         "mains": 0,
         "years": [
+          2018,
+          2017,
           2010,
           2008,
           2007,
           2004,
           2003,
           2002,
-          1997,
-          1996,
-          1995
+          2001,
+          1997
         ],
-        "file": "british-era-committees-and-commissions.md"
+        "file": "british-era-committees-and-commissions.md",
+        "revision_priority": "HIGH"
       },
       "Rise of Nationalism": {
-        "count": 55,
-        "prelims": 52,
-        "mains": 3,
+        "count": 90,
+        "prelims": 83,
+        "mains": 7,
         "years": [
+          2023,
+          2021,
           2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013
+        ],
+        "file": "rise-of-nationalism.md",
+        "revision_priority": "HIGH"
+      },
+      "Constitutional Development": {
+        "count": 38,
+        "prelims": 36,
+        "mains": 2,
+        "years": [
+          2024,
+          2023,
+          2022,
+          2021,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013
+        ],
+        "file": "constitutional-development.md",
+        "revision_priority": "HIGH"
+      },
+      "Gandhian Era": {
+        "count": 77,
+        "prelims": 66,
+        "mains": 11,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
+        ],
+        "file": "gandhian-era.md",
+        "revision_priority": "HIGH"
+      },
+      "British Expansion": {
+        "count": 49,
+        "prelims": 44,
+        "mains": 5,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2013
+        ],
+        "file": "british-expansion.md",
+        "revision_priority": "HIGH"
+      },
+      "Social & Religious Reform": {
+        "count": 34,
+        "prelims": 28,
+        "mains": 6,
+        "years": [
+          2025,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2012,
+          2009
+        ],
+        "file": "social-and-religious-reform.md",
+        "revision_priority": "HIGH"
+      },
+      "Revolutionary Movement": {
+        "count": 16,
+        "prelims": 15,
+        "mains": 1,
+        "years": [
+          2022,
+          2021,
+          2014,
+          2008,
+          2005,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997
+        ],
+        "file": "revolutionary-movement.md",
+        "revision_priority": "HIGH"
+      },
+      "Communal Politics & Partition": {
+        "count": 19,
+        "prelims": 18,
+        "mains": 1,
+        "years": [
+          2019,
+          2014,
+          2008,
+          2005,
+          2002,
+          2001,
+          2000,
+          1999,
+          1998,
+          1997
+        ],
+        "file": "communal-politics-and-partition.md",
+        "revision_priority": "HIGH"
+      },
+      "Economic Impact of British Rule": {
+        "count": 24,
+        "prelims": 18,
+        "mains": 6,
+        "years": [
+          2024,
+          2022,
+          2020,
+          2018,
           2017,
           2015,
           2014,
+          2013,
+          2012,
+          2011
+        ],
+        "file": "economic-impact-of-british-rule.md",
+        "revision_priority": "HIGH"
+      },
+      "1857 Revolt": {
+        "count": 9,
+        "prelims": 7,
+        "mains": 2,
+        "years": [
+          2019,
+          2016,
+          2006,
+          2005,
+          2000,
+          1999,
+          1998
+        ],
+        "file": "1857-revolt.md",
+        "revision_priority": "MEDIUM"
+      }
+    },
+    "Post-Independence India": {
+      "Integration of States": {
+        "count": 18,
+        "prelims": 13,
+        "mains": 5,
+        "years": [
+          2025,
+          2024,
+          2021,
+          2018,
+          2013,
+          2009,
+          2008,
+          2007,
+          2006,
+          2002
+        ],
+        "file": "integration-of-states.md",
+        "revision_priority": "HIGH"
+      },
+      "Reorganization of States": {
+        "count": 8,
+        "prelims": 6,
+        "mains": 2,
+        "years": [
+          2025,
+          2022,
+          2018,
+          2008,
+          2007,
+          2006,
+          2004
+        ],
+        "file": "reorganization-of-states.md",
+        "revision_priority": "MEDIUM"
+      }
+    },
+    "World History": {
+      "World Wars": {
+        "count": 4,
+        "prelims": 1,
+        "mains": 3,
+        "years": [
+          2024,
+          2021,
+          2015,
+          1997
+        ],
+        "file": "world-wars.md",
+        "revision_priority": "LOW"
+      },
+      "Decolonization": {
+        "count": 6,
+        "prelims": 3,
+        "mains": 3,
+        "years": [
+          2017,
+          2016,
+          2014,
+          2008,
+          2005,
+          2003
+        ],
+        "file": "decolonization.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Political Philosophies": {
+        "count": 14,
+        "prelims": 8,
+        "mains": 6,
+        "years": [
+          2025,
+          2022,
+          2021,
+          2020,
+          2019,
+          2014,
+          2011,
+          2006,
+          2005,
+          2004
+        ],
+        "file": "political-philosophies.md",
+        "revision_priority": "HIGH"
+      },
+      "Colonialism & Imperialism": {
+        "count": 4,
+        "prelims": 2,
+        "mains": 2,
+        "years": [
+          2013,
+          2008,
+          2007
+        ],
+        "file": "colonialism-and-imperialism.md",
+        "revision_priority": "LOW"
+      },
+      "Industrial Revolution": {
+        "count": 4,
+        "prelims": 0,
+        "mains": 4,
+        "years": [
+          2023,
+          2015,
+          2013
+        ],
+        "file": "industrial-revolution.md",
+        "revision_priority": "LOW"
+      }
+    }
+  },
+  "Science & Technology": {
+    "Basic Sciences": {
+      "Physics": {
+        "count": 125,
+        "prelims": 122,
+        "mains": 3,
+        "years": [
+          2021,
+          2019,
+          2018,
+          2015,
           2013,
           2012,
           2011,
@@ -1521,286 +2111,46 @@
           2009,
           2008
         ],
-        "file": "rise-of-nationalism.md"
+        "file": "physics.md",
+        "revision_priority": "HIGH"
       },
-      "Constitutional Development": {
-        "count": 24,
-        "prelims": 24,
-        "mains": 0,
+      "Biology": {
+        "count": 173,
+        "prelims": 169,
+        "mains": 4,
         "years": [
-          2015,
-          2013,
-          2012,
-          2011,
-          2009,
-          2006,
-          2005,
-          2004,
-          2003,
-          2002
-        ],
-        "file": "constitutional-development.md"
-      },
-      "Gandhian Era": {
-        "count": 45,
-        "prelims": 40,
-        "mains": 5,
-        "years": [
+          2025,
           2024,
           2023,
+          2022,
+          2021,
+          2020,
           2019,
           2018,
-          2015,
+          2016,
+          2015
+        ],
+        "file": "biology.md",
+        "revision_priority": "HIGH"
+      },
+      "Chemistry": {
+        "count": 91,
+        "prelims": 90,
+        "mains": 1,
+        "years": [
+          2025,
+          2022,
+          2021,
+          2017,
+          2014,
           2013,
           2012,
           2011,
           2010,
           2009
         ],
-        "file": "gandhian-era.md"
-      },
-      "British Expansion": {
-        "count": 32,
-        "prelims": 30,
-        "mains": 2,
-        "years": [
-          2022,
-          2021,
-          2017,
-          2013,
-          2010,
-          2007,
-          2006,
-          2005,
-          2004,
-          2003
-        ],
-        "file": "british-expansion.md"
-      },
-      "Social & Religious Reform": {
-        "count": 22,
-        "prelims": 18,
-        "mains": 4,
-        "years": [
-          2022,
-          2021,
-          2019,
-          2017,
-          2012,
-          2009,
-          2008,
-          2007,
-          2006,
-          2005
-        ],
-        "file": "social-and-religious-reform.md"
-      },
-      "Revolutionary Movement": {
-        "count": 10,
-        "prelims": 10,
-        "mains": 0,
-        "years": [
-          2014,
-          2008,
-          2005,
-          2001,
-          2000,
-          1999,
-          1998,
-          1997,
-          1995
-        ],
-        "file": "revolutionary-movement.md"
-      },
-      "Communal Politics & Partition": {
-        "count": 13,
-        "prelims": 12,
-        "mains": 1,
-        "years": [
-          2019,
-          2005,
-          2002,
-          2000,
-          1999,
-          1998,
-          1997,
-          1996,
-          1995
-        ],
-        "file": "communal-politics-and-partition.md"
-      },
-      "Economic Impact of British Rule": {
-        "count": 8,
-        "prelims": 7,
-        "mains": 1,
-        "years": [
-          2022,
-          2011,
-          2007,
-          2003,
-          2001,
-          1999,
-          1996
-        ],
-        "file": "economic-impact-of-british-rule.md"
-      },
-      "1857 Revolt": {
-        "count": 5,
-        "prelims": 5,
-        "mains": 0,
-        "years": [
-          2006,
-          2005,
-          1998
-        ],
-        "file": "1857-revolt.md"
-      }
-    },
-    "Post-Independence India": {
-      "Integration of States": {
-        "count": 11,
-        "prelims": 7,
-        "mains": 4,
-        "years": [
-          2025,
-          2021,
-          2013,
-          2009,
-          2008,
-          2007,
-          2002,
-          2000,
-          1996
-        ],
-        "file": "integration-of-states.md"
-      },
-      "Reorganization of States": {
-        "count": 6,
-        "prelims": 5,
-        "mains": 1,
-        "years": [
-          2018,
-          2008,
-          2007,
-          2006,
-          2004
-        ],
-        "file": "reorganization-of-states.md"
-      }
-    },
-    "World History": {
-      "World Wars": {
-        "count": 2,
-        "prelims": 1,
-        "mains": 1,
-        "years": [
-          2024,
-          1997
-        ],
-        "file": "world-wars.md"
-      },
-      "Decolonization": {
-        "count": 4,
-        "prelims": 3,
-        "mains": 1,
-        "years": [
-          2017,
-          2008,
-          2005,
-          2003
-        ],
-        "file": "decolonization.md"
-      },
-      "Political Philosophies": {
-        "count": 6,
-        "prelims": 3,
-        "mains": 3,
-        "years": [
-          2025,
-          2021,
-          2019,
-          2006,
-          2005,
-          2004
-        ],
-        "file": "political-philosophies.md"
-      },
-      "Colonialism & Imperialism": {
-        "count": 2,
-        "prelims": 2,
-        "mains": 0,
-        "years": [
-          2008,
-          2007
-        ],
-        "file": "colonialism-and-imperialism.md"
-      },
-      "Industrial Revolution": {
-        "count": 1,
-        "prelims": 0,
-        "mains": 1,
-        "years": [
-          2023
-        ],
-        "file": "industrial-revolution.md"
-      }
-    }
-  },
-  "Science & Technology": {
-    "Basic Sciences": {
-      "Physics": {
-        "count": 92,
-        "prelims": 89,
-        "mains": 3,
-        "years": [
-          2021,
-          2018,
-          2013,
-          2012,
-          2011,
-          2010,
-          2009,
-          2008,
-          2007,
-          2006
-        ],
-        "file": "physics.md"
-      },
-      "Biology": {
-        "count": 119,
-        "prelims": 119,
-        "mains": 0,
-        "years": [
-          2015,
-          2014,
-          2013,
-          2012,
-          2011,
-          2010,
-          2009,
-          2008,
-          2007,
-          2006
-        ],
-        "file": "biology.md"
-      },
-      "Chemistry": {
-        "count": 60,
-        "prelims": 60,
-        "mains": 0,
-        "years": [
-          2014,
-          2012,
-          2011,
-          2010,
-          2009,
-          2008,
-          2007,
-          2006,
-          2005,
-          2004
-        ],
-        "file": "chemistry.md"
+        "file": "chemistry.md",
+        "revision_priority": "HIGH"
       },
       "Temperature and Thermometry": {
         "count": 1,
@@ -1809,7 +2159,8 @@
         "years": [
           1995
         ],
-        "file": "temperature-and-thermometry.md"
+        "file": "temperature-and-thermometry.md",
+        "revision_priority": "LOW"
       },
       "Simple Machines and Mechanics": {
         "count": 1,
@@ -1818,7 +2169,8 @@
         "years": [
           1996
         ],
-        "file": "simple-machines-and-mechanics.md"
+        "file": "simple-machines-and-mechanics.md",
+        "revision_priority": "LOW"
       },
       "Optics and Light": {
         "count": 1,
@@ -1827,227 +2179,306 @@
         "years": [
           1995
         ],
-        "file": "optics-and-light.md"
+        "file": "optics-and-light.md",
+        "revision_priority": "LOW"
       }
     },
     "Nuclear Technology": {
       "Nuclear Programme": {
-        "count": 13,
-        "prelims": 13,
-        "mains": 0,
+        "count": 29,
+        "prelims": 25,
+        "mains": 4,
         "years": [
-          2009,
-          2008,
-          2006,
-          2005,
-          2004,
-          2003,
-          2001,
-          1999,
-          1995
+          2025,
+          2023,
+          2020,
+          2018,
+          2017,
+          2016,
+          2013,
+          2012,
+          2011,
+          2009
         ],
-        "file": "nuclear-programme.md"
+        "file": "nuclear-programme.md",
+        "revision_priority": "HIGH"
       }
     },
     "Defence Technology": {
       "Defence R&D": {
-        "count": 7,
-        "prelims": 7,
-        "mains": 0,
+        "count": 20,
+        "prelims": 19,
+        "mains": 1,
         "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2018,
+          2016,
           2014,
           2009,
-          2008,
-          2007,
-          2001,
-          1996
+          2008
         ],
-        "file": "defence-randd.md"
+        "file": "defence-randd.md",
+        "revision_priority": "HIGH"
       }
     },
     "Emerging Technologies": {
       "Optical and Wireless Communication": {
-        "count": 4,
-        "prelims": 4,
+        "count": 8,
+        "prelims": 8,
         "mains": 0,
         "years": [
+          2024,
           2020,
+          2017,
+          2016,
+          2015,
           2014,
           2009,
           2007
         ],
-        "file": "optical-and-wireless-communication.md"
+        "file": "optical-and-wireless-communication.md",
+        "revision_priority": "MEDIUM"
       },
       "Nanotechnology": {
-        "count": 5,
-        "prelims": 3,
-        "mains": 2,
-        "years": [
-          2022,
-          2020,
-          2016,
-          2012,
-          2008
-        ],
-        "file": "nanotechnology.md"
-      },
-      "AI and Robotics": {
-        "count": 4,
-        "prelims": 2,
-        "mains": 2,
+        "count": 10,
+        "prelims": 7,
+        "mains": 3,
         "years": [
           2025,
           2023,
-          2010
+          2022,
+          2020,
+          2016,
+          2015,
+          2014,
+          2012,
+          2008
         ],
-        "file": "ai-and-robotics.md"
+        "file": "nanotechnology.md",
+        "revision_priority": "HIGH"
+      },
+      "AI and Robotics": {
+        "count": 30,
+        "prelims": 21,
+        "mains": 9,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2015,
+          2013
+        ],
+        "file": "ai-and-robotics.md",
+        "revision_priority": "HIGH"
       }
     },
     "Astronomy": {
       "Solar System": {
-        "count": 19,
-        "prelims": 19,
-        "mains": 0,
+        "count": 25,
+        "prelims": 24,
+        "mains": 1,
         "years": [
+          2024,
+          2011,
+          2009,
           2008,
           2007,
           2006,
           2005,
           2003,
           2002,
-          1999,
-          1998,
-          1997,
-          1996
+          1999
         ],
-        "file": "solar-system.md"
+        "file": "solar-system.md",
+        "revision_priority": "HIGH"
       },
       "Space Exploration": {
-        "count": 5,
-        "prelims": 4,
+        "count": 14,
+        "prelims": 13,
         "mains": 1,
         "years": [
+          2023,
           2022,
+          2021,
+          2019,
+          2017,
+          2015,
+          2014,
+          2012,
           2009,
-          2001,
-          2000,
-          1997
+          2007
         ],
-        "file": "space-exploration.md"
+        "file": "space-exploration.md",
+        "revision_priority": "HIGH"
       }
     },
     "Biotechnology": {
       "Biotech Applications": {
-        "count": 37,
-        "prelims": 34,
-        "mains": 3,
+        "count": 79,
+        "prelims": 70,
+        "mains": 9,
         "years": [
+          2025,
+          2024,
           2023,
           2022,
+          2021,
+          2020,
+          2019,
+          2018,
           2017,
-          2014,
-          2013,
-          2012,
-          2011,
-          2010,
-          2008,
-          2007
+          2016
         ],
-        "file": "biotech-applications.md"
+        "file": "biotech-applications.md",
+        "revision_priority": "HIGH"
       },
       "Biotech Ethics": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
+        "count": 3,
+        "prelims": 2,
+        "mains": 1,
         "years": [
+          2015,
+          2014,
           2012
         ],
-        "file": "biotech-ethics.md"
+        "file": "biotech-ethics.md",
+        "revision_priority": "LOW"
       }
     },
     "Space Technology": {
       "Indian Space Programme": {
-        "count": 12,
-        "prelims": 12,
-        "mains": 0,
+        "count": 25,
+        "prelims": 20,
+        "mains": 5,
         "years": [
+          2025,
+          2023,
+          2019,
           2018,
+          2017,
+          2016,
+          2015,
           2009,
           2008,
-          2007,
-          2006,
-          2004,
-          2003,
-          2002,
-          1998,
-          1996
+          2007
         ],
-        "file": "indian-space-programme.md"
+        "file": "indian-space-programme.md",
+        "revision_priority": "HIGH"
       },
       "Space Applications": {
-        "count": 7,
-        "prelims": 7,
+        "count": 22,
+        "prelims": 20,
+        "mains": 2,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2011
+        ],
+        "file": "space-applications.md",
+        "revision_priority": "HIGH"
+      },
+      "Space Exploration": {
+        "count": 3,
+        "prelims": 3,
         "mains": 0,
         "years": [
-          2010,
-          2009,
-          2007,
-          2002
+          2020,
+          2008
         ],
-        "file": "space-applications.md"
+        "file": "space-exploration.md",
+        "revision_priority": "HIGH"
       }
     },
     "Intellectual Property": {
       "IPR": {
-        "count": 5,
-        "prelims": 1,
-        "mains": 4,
+        "count": 10,
+        "prelims": 5,
+        "mains": 5,
         "years": [
           2024,
           2019,
+          2018,
+          2017,
+          2015,
           2014,
           2013,
           2010
         ],
-        "file": "ipr.md"
+        "file": "ipr.md",
+        "revision_priority": "HIGH"
       }
     },
     "IT & Communication": {
       "Digital Technology": {
-        "count": 12,
-        "prelims": 12,
-        "mains": 0,
+        "count": 28,
+        "prelims": 26,
+        "mains": 2,
         "years": [
+          2024,
+          2022,
+          2020,
+          2019,
+          2018,
+          2016,
+          2015,
           2014,
-          2010,
-          2008,
-          2007,
-          2006,
-          2004,
-          2000,
-          1999,
-          1995
+          2011,
+          2010
         ],
-        "file": "digital-technology.md"
+        "file": "digital-technology.md",
+        "revision_priority": "HIGH"
       },
       "Cyber Security": {
-        "count": 1,
-        "prelims": 0,
-        "mains": 1,
+        "count": 7,
+        "prelims": 5,
+        "mains": 2,
         "years": [
-          2015
+          2020,
+          2019,
+          2015,
+          2013,
+          2011
         ],
-        "file": "cyber-security.md"
+        "file": "cyber-security.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Optical and Wireless Communication": {
+        "count": 1,
+        "prelims": 1,
+        "mains": 0,
+        "years": [
+          2016
+        ],
+        "file": "optical-and-wireless-communication.md",
+        "revision_priority": "MEDIUM"
       }
     }
   },
   "Polity": {
     "Union Government": {
       "Prime Minister & Council": {
-        "count": 10,
-        "prelims": 9,
+        "count": 13,
+        "prelims": 12,
         "mains": 1,
         "years": [
+          2022,
+          2015,
           2014,
           2013,
           2012,
@@ -2056,162 +2487,206 @@
           1996,
           1995
         ],
-        "file": "prime-minister-and-council.md"
+        "file": "prime-minister-and-council.md",
+        "revision_priority": "HIGH"
       },
       "Lok Sabha": {
-        "count": 9,
-        "prelims": 8,
+        "count": 15,
+        "prelims": 14,
         "mains": 1,
         "years": [
-          2020,
-          2012,
-          2007,
-          2004,
-          2003,
-          2002,
-          1996
-        ],
-        "file": "lok-sabha.md"
-      },
-      "Rajya Sabha": {
-        "count": 4,
-        "prelims": 4,
-        "mains": 0,
-        "years": [
-          2013,
-          2012,
-          2001,
-          1995
-        ],
-        "file": "rajya-sabha.md"
-      },
-      "Supreme Court": {
-        "count": 13,
-        "prelims": 13,
-        "mains": 0,
-        "years": [
-          2014,
-          2012,
-          2008,
-          2007,
-          2006,
-          2005,
-          2003,
-          2001,
-          2000,
-          1997
-        ],
-        "file": "supreme-court.md"
-      },
-      "President": {
-        "count": 8,
-        "prelims": 7,
-        "mains": 1,
-        "years": [
+          2025,
+          2024,
           2022,
-          2014,
-          2003,
-          1997,
-          1996
-        ],
-        "file": "president.md"
-      },
-      "Parliament": {
-        "count": 21,
-        "prelims": 19,
-        "mains": 2,
-        "years": [
-          2021,
+          2020,
           2017,
-          2014,
-          2013,
           2012,
-          2011,
           2007,
           2004,
           2003,
           2002
         ],
-        "file": "parliament.md"
+        "file": "lok-sabha.md",
+        "revision_priority": "HIGH"
+      },
+      "Rajya Sabha": {
+        "count": 7,
+        "prelims": 6,
+        "mains": 1,
+        "years": [
+          2020,
+          2013,
+          2012,
+          2001,
+          1995
+        ],
+        "file": "rajya-sabha.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Supreme Court": {
+        "count": 31,
+        "prelims": 20,
+        "mains": 11,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2015
+        ],
+        "file": "supreme-court.md",
+        "revision_priority": "HIGH"
+      },
+      "President": {
+        "count": 16,
+        "prelims": 12,
+        "mains": 4,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2018,
+          2015,
+          2014,
+          2003,
+          2001,
+          1997
+        ],
+        "file": "president.md",
+        "revision_priority": "HIGH"
+      },
+      "Parliament": {
+        "count": 54,
+        "prelims": 42,
+        "mains": 12,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
+        ],
+        "file": "parliament.md",
+        "revision_priority": "HIGH"
       },
       "Vice President": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
+        "count": 3,
+        "prelims": 2,
+        "mains": 1,
         "years": [
+          2022,
+          2008,
           2004
         ],
-        "file": "vice-president.md"
+        "file": "vice-president.md",
+        "revision_priority": "LOW"
       }
     },
     "Elections & Representation": {
       "RPA Act": {
-        "count": 2,
-        "prelims": 2,
-        "mains": 0,
+        "count": 9,
+        "prelims": 5,
+        "mains": 4,
         "years": [
+          2025,
+          2022,
+          2020,
+          2019,
+          2002,
           2001,
+          1999,
           1995
         ],
-        "file": "rpa-act.md"
+        "file": "rpa-act.md",
+        "revision_priority": "MEDIUM"
       },
       "Electoral System": {
-        "count": 9,
-        "prelims": 8,
-        "mains": 1,
+        "count": 21,
+        "prelims": 18,
+        "mains": 3,
         "years": [
+          2024,
+          2023,
+          2021,
           2017,
           2014,
           2012,
           2008,
+          2005,
           2000,
-          1997,
-          1995
+          1997
         ],
-        "file": "electoral-system.md"
+        "file": "electoral-system.md",
+        "revision_priority": "HIGH"
       },
       "Political Parties": {
-        "count": 4,
-        "prelims": 2,
-        "mains": 2,
+        "count": 8,
+        "prelims": 3,
+        "mains": 5,
         "years": [
           2025,
           2021,
+          2019,
           2017,
-          1998
+          2016,
+          2013,
+          1998,
+          1995
         ],
-        "file": "political-parties.md"
+        "file": "political-parties.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Constitutional Bodies": {
       "CAG": {
-        "count": 1,
-        "prelims": 1,
-        "mains": 0,
+        "count": 5,
+        "prelims": 2,
+        "mains": 3,
         "years": [
+          2024,
+          2018,
+          2016,
+          2012,
           2001
         ],
-        "file": "cag.md"
+        "file": "cag.md",
+        "revision_priority": "MEDIUM"
       },
       "Election Commission": {
-        "count": 5,
-        "prelims": 5,
-        "mains": 0,
+        "count": 8,
+        "prelims": 6,
+        "mains": 2,
         "years": [
+          2022,
+          2018,
+          2017,
           2006,
           2004,
           2003,
           2002,
           1995
         ],
-        "file": "election-commission.md"
+        "file": "election-commission.md",
+        "revision_priority": "MEDIUM"
       },
       "Finance Commission": {
-        "count": 8,
+        "count": 9,
         "prelims": 6,
-        "mains": 2,
+        "mains": 3,
         "years": [
           2021,
+          2018,
           2015,
           2013,
           2011,
@@ -2220,36 +2695,56 @@
           2002,
           2000
         ],
-        "file": "finance-commission.md"
+        "file": "finance-commission.md",
+        "revision_priority": "MEDIUM"
       },
       "Other Bodies": {
-        "count": 2,
-        "prelims": 1,
-        "mains": 1,
+        "count": 13,
+        "prelims": 6,
+        "mains": 7,
         "years": [
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
           2018,
-          2012
+          2014,
+          2013,
+          2012,
+          2009
         ],
-        "file": "other-bodies.md"
+        "file": "other-bodies.md",
+        "revision_priority": "HIGH"
       }
     },
     "Constitutional Framework": {
       "Historical Background": {
-        "count": 4,
-        "prelims": 4,
-        "mains": 0,
+        "count": 15,
+        "prelims": 13,
+        "mains": 2,
         "years": [
+          2024,
+          2023,
+          2020,
+          2018,
+          2015,
+          2014,
+          2005,
           2004,
           2003,
           2002
         ],
-        "file": "historical-background.md"
+        "file": "historical-background.md",
+        "revision_priority": "HIGH"
       },
       "DPSP & Fundamental Duties": {
-        "count": 19,
-        "prelims": 18,
+        "count": 28,
+        "prelims": 27,
         "mains": 1,
         "years": [
+          2025,
+          2021,
           2020,
           2017,
           2015,
@@ -2257,88 +2752,103 @@
           2013,
           2012,
           2011,
-          2010,
-          2008,
-          2006
+          2010
         ],
-        "file": "dpsp-and-fundamental-duties.md"
+        "file": "dpsp-and-fundamental-duties.md",
+        "revision_priority": "HIGH"
       },
       "Fundamental Rights": {
-        "count": 21,
-        "prelims": 18,
-        "mains": 3,
+        "count": 61,
+        "prelims": 49,
+        "mains": 12,
         "years": [
+          2024,
           2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
           2017,
           2015,
-          2013,
-          2012,
-          2010,
-          2006,
-          2005,
-          2004,
-          2003
+          2014
         ],
-        "file": "fundamental-rights.md"
+        "file": "fundamental-rights.md",
+        "revision_priority": "HIGH"
       },
       "Constitutional Amendments": {
-        "count": 21,
-        "prelims": 20,
-        "mains": 1,
+        "count": 36,
+        "prelims": 32,
+        "mains": 4,
         "years": [
+          2025,
+          2024,
+          2022,
+          2019,
+          2018,
+          2016,
           2015,
           2013,
           2011,
-          2008,
-          2007,
-          2005,
-          2004,
-          2003,
-          2002,
-          2001
+          2009
         ],
-        "file": "constitutional-amendments.md"
+        "file": "constitutional-amendments.md",
+        "revision_priority": "HIGH"
       },
       "Basic Structure": {
-        "count": 5,
-        "prelims": 4,
-        "mains": 1,
+        "count": 25,
+        "prelims": 18,
+        "mains": 7,
         "years": [
-          2014,
-          2008,
-          2004,
-          2003,
-          1995
+          2025,
+          2024,
+          2023,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2014
         ],
-        "file": "basic-structure.md"
+        "file": "basic-structure.md",
+        "revision_priority": "HIGH"
       },
       "Preamble": {
-        "count": 2,
-        "prelims": 2,
-        "mains": 0,
+        "count": 8,
+        "prelims": 6,
+        "mains": 2,
         "years": [
+          2024,
+          2021,
+          2020,
           2017,
+          2016,
           1997
         ],
-        "file": "preamble.md"
+        "file": "preamble.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Federalism": {
       "Centre-State Relations": {
-        "count": 9,
-        "prelims": 6,
-        "mains": 3,
+        "count": 31,
+        "prelims": 16,
+        "mains": 15,
         "years": [
+          2025,
           2024,
-          2015,
-          2013,
-          2012,
-          2006,
-          2004,
-          2000,
-          1995
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
         ],
-        "file": "centre-state-relations.md"
+        "file": "centre-state-relations.md",
+        "revision_priority": "HIGH"
       },
       "Fiscal Federalism": {
         "count": 1,
@@ -2347,274 +2857,394 @@
         "years": [
           1995
         ],
-        "file": "fiscal-federalism.md"
+        "file": "fiscal-federalism.md",
+        "revision_priority": "HIGH"
       },
       "Local Government": {
-        "count": 16,
-        "prelims": 15,
-        "mains": 1,
+        "count": 31,
+        "prelims": 22,
+        "mains": 9,
         "years": [
+          2025,
+          2024,
           2023,
-          2015,
-          2013,
-          2012,
-          2011,
-          2010,
-          2005,
-          2001,
-          2000,
-          1999
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015
         ],
-        "file": "local-government.md"
+        "file": "local-government.md",
+        "revision_priority": "HIGH"
       },
       "Interstate Relations": {
-        "count": 1,
+        "count": 2,
         "prelims": 0,
-        "mains": 1,
+        "mains": 2,
         "years": [
+          2016,
           2013
         ],
-        "file": "interstate-relations.md"
+        "file": "interstate-relations.md",
+        "revision_priority": "LOW"
       }
     },
     "State Government": {
       "Governor": {
-        "count": 3,
-        "prelims": 3,
-        "mains": 0,
+        "count": 10,
+        "prelims": 9,
+        "mains": 1,
         "years": [
+          2025,
+          2022,
+          2019,
+          2018,
+          2016,
           2014,
           2013,
+          2009,
           1995
         ],
-        "file": "governor.md"
+        "file": "governor.md",
+        "revision_priority": "HIGH"
       },
       "High Court": {
-        "count": 7,
-        "prelims": 7,
+        "count": 13,
+        "prelims": 13,
         "mains": 0,
         "years": [
+          2016,
+          2009,
+          2008,
+          2007,
           2006,
+          2005,
           2004,
           2003,
           2002,
-          1996
+          2001
         ],
-        "file": "high-court.md"
+        "file": "high-court.md",
+        "revision_priority": "HIGH"
       },
       "State Legislature": {
-        "count": 2,
-        "prelims": 2,
-        "mains": 0,
+        "count": 9,
+        "prelims": 6,
+        "mains": 3,
         "years": [
+          2025,
+          2023,
+          2021,
+          2019,
+          2018,
+          2015,
           2008,
           1995
         ],
-        "file": "state-legislature.md"
+        "file": "state-legislature.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Statutory & Regulatory Bodies": {
       "Statutory Bodies": {
-        "count": 3,
-        "prelims": 3,
-        "mains": 0,
+        "count": 7,
+        "prelims": 6,
+        "mains": 1,
         "years": [
+          2025,
+          2022,
           2010,
           2004,
           1999
         ],
-        "file": "statutory-bodies.md"
+        "file": "statutory-bodies.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Regulatory Bodies": {
+        "count": 7,
+        "prelims": 3,
+        "mains": 4,
+        "years": [
+          2025,
+          2023,
+          2019,
+          2016,
+          2015,
+          2013
+        ],
+        "file": "regulatory-bodies.md",
+        "revision_priority": "MEDIUM"
       }
     }
   },
   "Society": {
     "Indian Society": {
       "Romani and Diaspora Communities": {
-        "count": 1,
-        "prelims": 1,
+        "count": 2,
+        "prelims": 2,
         "mains": 0,
         "years": [
+          2009,
           1995
         ],
-        "file": "romani-and-diaspora-communities.md"
+        "file": "romani-and-diaspora-communities.md",
+        "revision_priority": "LOW"
       },
       "Features of Indian Society": {
-        "count": 17,
-        "prelims": 10,
-        "mains": 7,
+        "count": 31,
+        "prelims": 13,
+        "mains": 18,
         "years": [
+          2025,
+          2024,
           2023,
+          2022,
           2021,
           2020,
           2019,
-          2015,
-          2014,
-          2013,
-          2009,
-          2008,
-          2005
+          2017,
+          2016,
+          2015
         ],
-        "file": "features-of-indian-society.md"
+        "file": "features-of-indian-society.md",
+        "revision_priority": "HIGH"
       },
       "Regionalism": {
-        "count": 2,
+        "count": 4,
         "prelims": 0,
-        "mains": 2,
+        "mains": 4,
         "years": [
+          2020,
           2016,
           2013
         ],
-        "file": "regionalism.md"
+        "file": "regionalism.md",
+        "revision_priority": "LOW"
       },
       "Caste System": {
-        "count": 6,
-        "prelims": 2,
-        "mains": 4,
+        "count": 14,
+        "prelims": 4,
+        "mains": 10,
         "years": [
           2024,
           2023,
+          2022,
+          2020,
+          2019,
           2018,
-          2014,
-          1996
+          2017,
+          2016,
+          2015,
+          2014
         ],
-        "file": "caste-system.md"
+        "file": "caste-system.md",
+        "revision_priority": "HIGH"
       },
       "Religion & Communalism": {
-        "count": 2,
+        "count": 7,
         "prelims": 1,
-        "mains": 1,
+        "mains": 6,
         "years": [
+          2023,
+          2019,
           2018,
+          2017,
+          2014,
           1999
         ],
-        "file": "religion-and-communalism.md"
+        "file": "religion-and-communalism.md",
+        "revision_priority": "MEDIUM"
       },
       "Family & Kinship": {
-        "count": 1,
-        "prelims": 0,
-        "mains": 1,
+        "count": 4,
+        "prelims": 1,
+        "mains": 3,
         "years": [
-          2022
+          2023,
+          2022,
+          2014,
+          1997
         ],
-        "file": "family-and-kinship.md"
+        "file": "family-and-kinship.md",
+        "revision_priority": "LOW"
       }
     },
     "Women & Gender": {
       "Women's Issues": {
-        "count": 5,
-        "prelims": 1,
-        "mains": 4,
+        "count": 14,
+        "prelims": 3,
+        "mains": 11,
         "years": [
           2024,
           2023,
+          2020,
+          2019,
+          2018,
+          2017,
+          2015,
           2014,
+          1998,
           1996
         ],
-        "file": "women's-issues.md"
+        "file": "women's-issues.md",
+        "revision_priority": "HIGH"
       },
       "Women Empowerment": {
-        "count": 3,
-        "prelims": 2,
-        "mains": 1,
+        "count": 21,
+        "prelims": 9,
+        "mains": 12,
         "years": [
+          2025,
+          2024,
+          2023,
+          2021,
           2019,
-          2009,
-          2003
+          2017,
+          2016,
+          2015,
+          2013,
+          2010
         ],
-        "file": "women-empowerment.md"
+        "file": "women-empowerment.md",
+        "revision_priority": "HIGH"
       }
     },
     "Population & Development": {
       "Population Issues": {
-        "count": 17,
-        "prelims": 17,
-        "mains": 0,
+        "count": 37,
+        "prelims": 32,
+        "mains": 5,
         "years": [
+          2024,
+          2021,
+          2015,
+          2014,
           2012,
           2011,
           2009,
           2008,
-          2005,
-          2004,
-          2003,
-          2002,
-          2001,
-          1999
+          2006,
+          2005
         ],
-        "file": "population-issues.md"
+        "file": "population-issues.md",
+        "revision_priority": "HIGH"
       },
       "Poverty & Inequality": {
-        "count": 2,
-        "prelims": 0,
-        "mains": 2,
+        "count": 9,
+        "prelims": 1,
+        "mains": 8,
         "years": [
+          2024,
+          2023,
+          2020,
           2018,
-          2016
+          2016,
+          2014,
+          1999
         ],
-        "file": "poverty-and-inequality.md"
+        "file": "poverty-and-inequality.md",
+        "revision_priority": "MEDIUM"
       },
       "Urbanization": {
+        "count": 13,
+        "prelims": 3,
+        "mains": 10,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2017,
+          2016,
+          2015,
+          2013,
+          2010
+        ],
+        "file": "urbanization.md",
+        "revision_priority": "HIGH"
+      },
+      "Human Development": {
         "count": 1,
         "prelims": 1,
         "mains": 0,
         "years": [
-          2010
+          2003
         ],
-        "file": "urbanization.md"
+        "file": "human-development.md",
+        "revision_priority": "HIGH"
       }
     },
     "Globalization": {
       "Impact of Globalization": {
-        "count": 3,
+        "count": 10,
         "prelims": 1,
-        "mains": 2,
+        "mains": 9,
         "years": [
+          2025,
+          2022,
+          2021,
+          2020,
           2019,
+          2018,
+          2017,
+          2016,
           2013,
           1997
         ],
-        "file": "impact-of-globalization.md"
+        "file": "impact-of-globalization.md",
+        "revision_priority": "HIGH"
       }
     }
   },
   "Governance": {
     "Awards and Honours": {
       "Dadasaheb Phalke Award": {
-        "count": 2,
-        "prelims": 2,
+        "count": 5,
+        "prelims": 5,
         "mains": 0,
         "years": [
+          2007,
+          2006,
           2004,
           2003
         ],
-        "file": "dadasaheb-phalke-award.md"
+        "file": "dadasaheb-phalke-award.md",
+        "revision_priority": "MEDIUM"
       },
       "National Awards": {
-        "count": 23,
-        "prelims": 23,
+        "count": 56,
+        "prelims": 56,
         "mains": 0,
         "years": [
+          2025,
+          2023,
           2021,
+          2015,
           2009,
           2008,
           2007,
           2006,
           2005,
-          2004,
-          2002,
-          2001,
-          2000
+          2004
         ],
-        "file": "national-awards.md"
+        "file": "national-awards.md",
+        "revision_priority": "HIGH"
       },
       "Bharat Ratna": {
-        "count": 1,
-        "prelims": 1,
+        "count": 4,
+        "prelims": 4,
         "mains": 0,
         "years": [
-          2001
+          2021,
+          2005,
+          2001,
+          1998
         ],
-        "file": "bharat-ratna.md"
+        "file": "bharat-ratna.md",
+        "revision_priority": "LOW"
       },
       "Eminent Indians": {
         "count": 1,
@@ -2623,24 +3253,28 @@
         "years": [
           2000
         ],
-        "file": "eminent-indians.md"
+        "file": "eminent-indians.md",
+        "revision_priority": "HIGH"
       },
       "Padma Awards": {
-        "count": 1,
-        "prelims": 1,
+        "count": 2,
+        "prelims": 2,
         "mains": 0,
         "years": [
-          2004
+          2004,
+          2002
         ],
-        "file": "padma-awards.md"
+        "file": "padma-awards.md",
+        "revision_priority": "LOW"
       }
     },
     "Prominent Personalities": {
       "Eminent Indians": {
-        "count": 35,
-        "prelims": 35,
+        "count": 62,
+        "prelims": 62,
         "mains": 0,
         "years": [
+          2016,
           2009,
           2008,
           2007,
@@ -2649,273 +3283,381 @@
           2004,
           2003,
           2001,
-          1998,
-          1996
+          2000
         ],
-        "file": "eminent-indians.md"
+        "file": "eminent-indians.md",
+        "revision_priority": "HIGH"
       }
     },
     "Development & Civil Society": {
       "Development Issues": {
-        "count": 9,
-        "prelims": 8,
-        "mains": 1,
+        "count": 21,
+        "prelims": 14,
+        "mains": 7,
         "years": [
+          2022,
+          2021,
           2019,
+          2018,
+          2017,
+          2016,
           2015,
+          2014,
           2013,
-          2010,
-          2009,
-          2008,
-          2005,
-          2002
+          2010
         ],
-        "file": "development-issues.md"
+        "file": "development-issues.md",
+        "revision_priority": "HIGH"
       },
       "Role of NGOs & SHGs": {
-        "count": 2,
-        "prelims": 0,
-        "mains": 2,
+        "count": 18,
+        "prelims": 1,
+        "mains": 17,
         "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
           2017,
+          2016,
           2015
         ],
-        "file": "role-of-ngos-and-shgs.md"
+        "file": "role-of-ngos-and-shgs.md",
+        "revision_priority": "HIGH"
       }
     },
     "E-Governance & Transparency": {
       "Transparency & Accountability": {
-        "count": 3,
-        "prelims": 1,
-        "mains": 2,
+        "count": 15,
+        "prelims": 5,
+        "mains": 10,
         "years": [
+          2025,
+          2024,
+          2021,
+          2020,
+          2018,
+          2017,
+          2015,
+          2014,
           2013,
           2008
         ],
-        "file": "transparency-and-accountability.md"
+        "file": "transparency-and-accountability.md",
+        "revision_priority": "HIGH"
       },
       "E-Governance": {
-        "count": 4,
-        "prelims": 2,
-        "mains": 2,
+        "count": 22,
+        "prelims": 11,
+        "mains": 11,
         "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
           2018,
-          2016,
-          2012,
-          2005
+          2017,
+          2016
         ],
-        "file": "e-governance.md"
+        "file": "e-governance.md",
+        "revision_priority": "HIGH"
       }
     },
     "Civil Services": {
       "Role of Civil Services": {
-        "count": 3,
-        "prelims": 2,
-        "mains": 1,
+        "count": 9,
+        "prelims": 3,
+        "mains": 6,
         "years": [
+          2025,
+          2024,
           2021,
+          2020,
+          2017,
+          2016,
           2014,
           2003
         ],
-        "file": "role-of-civil-services.md"
+        "file": "role-of-civil-services.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Government Schemes & Policies": {
       "Social Sector Schemes": {
-        "count": 14,
-        "prelims": 13,
-        "mains": 1,
+        "count": 35,
+        "prelims": 32,
+        "mains": 3,
         "years": [
+          2025,
+          2020,
+          2019,
+          2017,
           2016,
           2014,
           2012,
           2011,
-          2009,
-          2008,
-          2006,
-          2004,
-          2003,
-          2001
+          2010,
+          2009
         ],
-        "file": "social-sector-schemes.md"
+        "file": "social-sector-schemes.md",
+        "revision_priority": "HIGH"
       },
       "Welfare of Vulnerable Sections": {
-        "count": 4,
-        "prelims": 2,
-        "mains": 2,
+        "count": 16,
+        "prelims": 10,
+        "mains": 6,
         "years": [
           2025,
+          2024,
+          2023,
+          2021,
           2019,
-          2011
+          2018,
+          2017,
+          2016,
+          2013,
+          2012
         ],
-        "file": "welfare-of-vulnerable-sections.md"
+        "file": "welfare-of-vulnerable-sections.md",
+        "revision_priority": "HIGH"
       }
     },
     "Poverty & Hunger": {
       "Food Security": {
-        "count": 6,
-        "prelims": 2,
-        "mains": 4,
+        "count": 10,
+        "prelims": 4,
+        "mains": 6,
         "years": [
           2022,
           2021,
           2019,
+          2018,
+          2016,
+          2013,
           2004,
           2002
         ],
-        "file": "food-security.md"
+        "file": "food-security.md",
+        "revision_priority": "HIGH"
       },
       "Poverty Alleviation": {
-        "count": 2,
-        "prelims": 0,
-        "mains": 2,
+        "count": 9,
+        "prelims": 1,
+        "mains": 8,
         "years": [
+          2025,
+          2024,
           2022,
-          2017
+          2021,
+          2020,
+          2017,
+          2015,
+          2012
         ],
-        "file": "poverty-alleviation.md"
+        "file": "poverty-alleviation.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Health & Education": {
       "Health Issues": {
-        "count": 3,
-        "prelims": 3,
-        "mains": 0,
+        "count": 29,
+        "prelims": 21,
+        "mains": 8,
         "years": [
-          2012,
-          2008,
-          1996
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015
         ],
-        "file": "health-issues.md"
+        "file": "health-issues.md",
+        "revision_priority": "HIGH"
       },
       "Education": {
-        "count": 2,
-        "prelims": 1,
+        "count": 24,
+        "prelims": 8,
+        "mains": 16,
+        "years": [
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014
+        ],
+        "file": "education.md",
+        "revision_priority": "HIGH"
+      }
+    },
+    "Welfare of Vulnerable Sections": {
+      "Welfare of Vulnerable Sections": {
+        "count": 1,
+        "prelims": 0,
         "mains": 1,
         "years": [
-          2023,
-          2006
+          2018
         ],
-        "file": "education.md"
+        "file": "welfare-of-vulnerable-sections.md",
+        "revision_priority": "HIGH"
+      }
+    },
+    "Statutory & Regulatory Bodies": {
+      "Regulatory Bodies": {
+        "count": 1,
+        "prelims": 0,
+        "mains": 1,
+        "years": [
+          2014
+        ],
+        "file": "regulatory-bodies.md",
+        "revision_priority": "MEDIUM"
       }
     }
   },
   "Environment": {
     "Conservation": {
       "Protected Areas": {
-        "count": 22,
-        "prelims": 22,
+        "count": 41,
+        "prelims": 41,
         "mains": 0,
         "years": [
-          2019,
-          2015,
-          2014,
-          2012,
-          2011,
-          2010,
-          2008,
-          2007,
-          2006,
-          2005
-        ],
-        "file": "protected-areas.md"
-      },
-      "International Conservation": {
-        "count": 14,
-        "prelims": 13,
-        "mains": 1,
-        "years": [
-          2024,
-          2019,
-          2018,
-          2015,
-          2014,
-          2010,
-          2009,
-          2008,
-          2006,
-          2005
-        ],
-        "file": "international-conservation.md"
-      },
-      "Conservation Laws & Bodies": {
-        "count": 19,
-        "prelims": 17,
-        "mains": 2,
-        "years": [
+          2023,
           2022,
           2020,
+          2019,
           2018,
+          2017,
+          2016,
+          2015,
           2014,
-          2013,
-          2011,
-          2010,
-          2009,
-          2005,
-          2004
-        ],
-        "file": "conservation-laws-and-bodies.md"
-      },
-      "Biodiversity": {
-        "count": 3,
-        "prelims": 3,
-        "mains": 0,
-        "years": [
           2012
         ],
-        "file": "biodiversity.md"
+        "file": "protected-areas.md",
+        "revision_priority": "HIGH"
+      },
+      "International Conservation": {
+        "count": 40,
+        "prelims": 37,
+        "mains": 3,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015
+        ],
+        "file": "international-conservation.md",
+        "revision_priority": "HIGH"
+      },
+      "Conservation Laws & Bodies": {
+        "count": 39,
+        "prelims": 36,
+        "mains": 3,
+        "years": [
+          2024,
+          2022,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013
+        ],
+        "file": "conservation-laws-and-bodies.md",
+        "revision_priority": "HIGH"
+      },
+      "Biodiversity": {
+        "count": 5,
+        "prelims": 5,
+        "mains": 0,
+        "years": [
+          2025,
+          2016,
+          2012
+        ],
+        "file": "biodiversity.md",
+        "revision_priority": "HIGH"
       }
     },
     "Ecology & Ecosystem": {
       "Ecology Basics": {
-        "count": 18,
-        "prelims": 18,
-        "mains": 0,
+        "count": 31,
+        "prelims": 29,
+        "mains": 2,
         "years": [
+          2025,
+          2023,
+          2022,
+          2021,
+          2019,
           2015,
           2014,
           2013,
           2012,
-          2011,
-          2010,
-          2003,
-          2000,
-          1999
+          2011
         ],
-        "file": "ecology-basics.md"
+        "file": "ecology-basics.md",
+        "revision_priority": "HIGH"
       },
       "Biodiversity": {
-        "count": 21,
-        "prelims": 20,
-        "mains": 1,
+        "count": 52,
+        "prelims": 50,
+        "mains": 2,
         "years": [
           2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2014
+        ],
+        "file": "biodiversity.md",
+        "revision_priority": "HIGH"
+      },
+      "Ecosystem Types": {
+        "count": 14,
+        "prelims": 12,
+        "mains": 2,
+        "years": [
+          2024,
+          2022,
+          2021,
+          2019,
           2018,
           2014,
           2013,
           2012,
           2011,
-          2010,
-          2009,
-          2008,
-          2007
+          2002
         ],
-        "file": "biodiversity.md"
-      },
-      "Ecosystem Types": {
-        "count": 8,
-        "prelims": 7,
-        "mains": 1,
-        "years": [
-          2019,
-          2014,
-          2013,
-          2012,
-          2002,
-          1998,
-          1996
-        ],
-        "file": "ecosystem-types.md"
+        "file": "ecosystem-types.md",
+        "revision_priority": "HIGH"
       },
       "Oceanography": {
         "count": 1,
@@ -2924,69 +3666,79 @@
         "years": [
           2011
         ],
-        "file": "oceanography.md"
+        "file": "oceanography.md",
+        "revision_priority": "HIGH"
       },
       "Biogeography": {
-        "count": 1,
-        "prelims": 1,
+        "count": 3,
+        "prelims": 3,
         "mains": 0,
         "years": [
+          2024,
+          2018,
           2013
         ],
-        "file": "biogeography.md"
+        "file": "biogeography.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Environmental Issues": {
       "Climate Change": {
-        "count": 26,
-        "prelims": 21,
-        "mains": 5,
+        "count": 70,
+        "prelims": 56,
+        "mains": 14,
         "years": [
           2025,
+          2024,
           2023,
           2022,
-          2021,
-          2017,
-          2015,
-          2014,
-          2012,
-          2011,
-          2010
-        ],
-        "file": "climate-change.md"
-      },
-      "Pollution": {
-        "count": 25,
-        "prelims": 19,
-        "mains": 6,
-        "years": [
-          2024,
           2021,
           2020,
           2019,
           2018,
-          2015,
-          2014,
-          2013,
-          2012,
-          2011
+          2017,
+          2016
         ],
-        "file": "pollution.md"
+        "file": "climate-change.md",
+        "revision_priority": "HIGH"
       },
-      "Environmental Degradation": {
-        "count": 7,
-        "prelims": 5,
-        "mains": 2,
+      "Pollution": {
+        "count": 65,
+        "prelims": 53,
+        "mains": 12,
         "years": [
           2025,
-          2014,
-          2013,
-          2011,
-          2005,
-          1999,
-          1998
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
         ],
-        "file": "environmental-degradation.md"
+        "file": "pollution.md",
+        "revision_priority": "HIGH"
+      },
+      "Environmental Degradation": {
+        "count": 24,
+        "prelims": 11,
+        "mains": 13,
+        "years": [
+          2025,
+          2024,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015
+        ],
+        "file": "environmental-degradation.md",
+        "revision_priority": "HIGH"
       },
       "Biodiversity": {
         "count": 1,
@@ -2995,241 +3747,369 @@
         "years": [
           2012
         ],
-        "file": "biodiversity.md"
+        "file": "biodiversity.md",
+        "revision_priority": "HIGH"
       }
     },
     "Disaster Management": {
       "Disasters": {
-        "count": 6,
+        "count": 11,
         "prelims": 2,
-        "mains": 4,
+        "mains": 9,
         "years": [
           2024,
+          2023,
           2022,
+          2021,
+          2019,
           2016,
           2006,
           2001
         ],
-        "file": "disasters.md"
+        "file": "disasters.md",
+        "revision_priority": "HIGH"
       },
       "Disaster Management": {
-        "count": 3,
-        "prelims": 0,
-        "mains": 3,
-        "years": [
-          2020,
-          2019,
-          2015
-        ],
-        "file": "disaster-management.md"
-      }
-    }
-  },
-  "Ethics": {
-    "Public Administration Ethics": {
-      "Ethical Governance": {
-        "count": 8,
-        "prelims": 0,
-        "mains": 8,
-        "years": [
-          2025,
-          2023,
-          2022,
-          2019,
-          2015
-        ],
-        "file": "ethical-governance.md"
-      },
-      "Probity in Governance": {
         "count": 9,
         "prelims": 0,
         "mains": 9,
         "years": [
-          2021,
+          2024,
+          2020,
           2019,
           2018,
-          2017,
-          2015,
-          2014
-        ],
-        "file": "probity-in-governance.md"
-      }
-    },
-    "Ethics Fundamentals": {
-      "Ethics Basics": {
-        "count": 2,
-        "prelims": 0,
-        "mains": 2,
-        "years": [
-          2016,
-          2013
-        ],
-        "file": "ethics-basics.md"
-      },
-      "Human Values": {
-        "count": 15,
-        "prelims": 0,
-        "mains": 15,
-        "years": [
-          2024,
-          2023,
-          2021,
-          2020,
           2017,
           2016,
           2015,
           2014,
           2013
         ],
-        "file": "human-values.md"
+        "file": "disaster-management.md",
+        "revision_priority": "MEDIUM"
+      }
+    }
+  },
+  "Ethics": {
+    "Public Administration Ethics": {
+      "Ethical Governance": {
+        "count": 27,
+        "prelims": 0,
+        "mains": 27,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
+        ],
+        "file": "ethical-governance.md",
+        "revision_priority": "HIGH"
+      },
+      "Probity in Governance": {
+        "count": 34,
+        "prelims": 0,
+        "mains": 34,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015
+        ],
+        "file": "probity-in-governance.md",
+        "revision_priority": "HIGH"
+      }
+    },
+    "Ethics Fundamentals": {
+      "Ethics Basics": {
+        "count": 28,
+        "prelims": 0,
+        "mains": 28,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
+        ],
+        "file": "ethics-basics.md",
+        "revision_priority": "HIGH"
+      },
+      "Human Values": {
+        "count": 57,
+        "prelims": 0,
+        "mains": 57,
+        "years": [
+          2025,
+          2024,
+          2023,
+          2022,
+          2021,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016
+        ],
+        "file": "human-values.md",
+        "revision_priority": "HIGH"
+      },
+      "Attitude": {
+        "count": 3,
+        "prelims": 0,
+        "mains": 3,
+        "years": [
+          2025,
+          2016,
+          2014
+        ],
+        "file": "attitude.md",
+        "revision_priority": "LOW"
       }
     },
     "Applied Ethics": {
       "Aptitude for Civil Service": {
-        "count": 2,
+        "count": 19,
         "prelims": 0,
-        "mains": 2,
+        "mains": 19,
         "years": [
-          2022,
-          2017
-        ],
-        "file": "aptitude-for-civil-service.md"
-      },
-      "Emotional Intelligence": {
-        "count": 7,
-        "prelims": 0,
-        "mains": 7,
-        "years": [
+          2025,
           2024,
           2022,
+          2021,
+          2020,
+          2018,
+          2017,
+          2015,
+          2014,
+          2013
+        ],
+        "file": "aptitude-for-civil-service.md",
+        "revision_priority": "HIGH"
+      },
+      "Emotional Intelligence": {
+        "count": 17,
+        "prelims": 0,
+        "mains": 17,
+        "years": [
+          2024,
+          2023,
+          2022,
+          2021,
           2020,
           2019,
           2018,
+          2017,
           2016,
-          2013
+          2015
         ],
-        "file": "emotional-intelligence.md"
+        "file": "emotional-intelligence.md",
+        "revision_priority": "HIGH"
       }
     },
     "Case Studies": {
       "Case Study Approach": {
-        "count": 8,
+        "count": 72,
         "prelims": 0,
-        "mains": 8,
+        "mains": 72,
         "years": [
+          2025,
+          2024,
+          2023,
           2022,
+          2021,
           2020,
           2019,
+          2018,
           2017,
-          2015,
-          2013
+          2016
         ],
-        "file": "case-study-approach.md"
+        "file": "case-study-approach.md",
+        "revision_priority": "HIGH"
       }
     },
     "Thinkers & Philosophers": {
       "Indian Thinkers": {
-        "count": 4,
+        "count": 19,
         "prelims": 0,
-        "mains": 4,
+        "mains": 19,
         "years": [
           2025,
+          2024,
+          2023,
+          2022,
+          2021,
           2020,
+          2017,
           2016,
+          2015,
           2013
         ],
-        "file": "indian-thinkers.md"
+        "file": "indian-thinkers.md",
+        "revision_priority": "HIGH"
+      },
+      "Western Thinkers": {
+        "count": 10,
+        "prelims": 0,
+        "mains": 10,
+        "years": [
+          2024,
+          2020,
+          2019,
+          2018,
+          2017,
+          2016,
+          2015,
+          2014,
+          2013
+        ],
+        "file": "western-thinkers.md",
+        "revision_priority": "HIGH"
       }
     }
   },
   "Internal Security": {
     "Security Challenges": {
       "Insurgency": {
-        "count": 2,
-        "prelims": 1,
-        "mains": 1,
-        "years": [
-          2017,
-          1997
-        ],
-        "file": "insurgency.md"
-      },
-      "Left Wing Extremism": {
-        "count": 3,
-        "prelims": 0,
+        "count": 5,
+        "prelims": 2,
         "mains": 3,
         "years": [
-          2022,
-          2018,
-          2015
+          2025,
+          2017,
+          2015,
+          2004,
+          1997
         ],
-        "file": "left-wing-extremism.md"
+        "file": "insurgency.md",
+        "revision_priority": "MEDIUM"
       },
-      "Terrorism": {
-        "count": 2,
+      "Left Wing Extremism": {
+        "count": 6,
         "prelims": 0,
-        "mains": 2,
+        "mains": 6,
         "years": [
           2025,
-          2019
+          2022,
+          2020,
+          2018,
+          2015,
+          2013
         ],
-        "file": "terrorism.md"
+        "file": "left-wing-extremism.md",
+        "revision_priority": "MEDIUM"
+      },
+      "Terrorism": {
+        "count": 15,
+        "prelims": 1,
+        "mains": 14,
+        "years": [
+          2025,
+          2023,
+          2021,
+          2019,
+          2017,
+          2016,
+          2015,
+          2014
+        ],
+        "file": "terrorism.md",
+        "revision_priority": "HIGH"
       }
     },
     "Security Forces": {
       "Security Apparatus": {
-        "count": 3,
-        "prelims": 3,
+        "count": 7,
+        "prelims": 7,
         "mains": 0,
         "years": [
           2024,
+          2023,
           2008,
           2005
         ],
-        "file": "security-apparatus.md"
+        "file": "security-apparatus.md",
+        "revision_priority": "MEDIUM"
       }
     },
     "Cyber & Communication Security": {
       "Social Media & Security": {
-        "count": 1,
+        "count": 3,
         "prelims": 0,
-        "mains": 1,
+        "mains": 3,
         "years": [
+          2024,
+          2016,
           2013
         ],
-        "file": "social-media-and-security.md"
+        "file": "social-media-and-security.md",
+        "revision_priority": "LOW"
       },
       "Cyber Security Challenges": {
-        "count": 4,
-        "prelims": 0,
-        "mains": 4,
+        "count": 12,
+        "prelims": 2,
+        "mains": 10,
         "years": [
+          2022,
           2021,
+          2020,
+          2019,
+          2018,
+          2017,
           2015,
           2013
         ],
-        "file": "cyber-security-challenges.md"
+        "file": "cyber-security-challenges.md",
+        "revision_priority": "HIGH"
       }
     },
     "Border Security": {
       "Border Management": {
-        "count": 3,
+        "count": 13,
         "prelims": 1,
-        "mains": 2,
+        "mains": 12,
         "years": [
+          2025,
+          2024,
+          2023,
+          2022,
           2020,
+          2019,
+          2016,
+          2014,
+          2013,
           2008
         ],
-        "file": "border-management.md"
+        "file": "border-management.md",
+        "revision_priority": "HIGH"
       },
       "Organized Crime": {
-        "count": 1,
+        "count": 4,
         "prelims": 0,
-        "mains": 1,
+        "mains": 4,
         "years": [
-          2022
+          2024,
+          2022,
+          2018,
+          2014
         ],
-        "file": "organized-crime.md"
+        "file": "organized-crime.md",
+        "revision_priority": "LOW"
       }
     }
   }
