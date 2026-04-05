@@ -73,7 +73,7 @@ This skill produces notes engineered for **permanent memory** using cognitive sc
 
 This skill is bundled with a PYQ knowledge base covering 2,385+ tagged UPSC questions. Three files are always available:
 - `pyq-data/concept-index.json` — 218 concepts with frequency, years, dimensions tested
-- `pyq-data/topic-maps/{slug}.md` — 167 topic files with actual PYQ questions and patterns
+- `pyq-data/topic-maps/TOPIC-SLUG.md` — 167 topic files with actual PYQ questions and patterns
 - `pyq-data/elimination-patterns.md` — 10 logical elimination patterns extracted from 3,617 GS Prelims PYQs with real examples and strategies
 
 **When user asks about Prelims strategy, elimination tricks, or "how to crack Prelims":** Read `pyq-data/elimination-patterns.md` first. The 10 patterns cover 100% of GS Prelims question types. The two most important: **Common Confusion traps** (19% of PYQs — the most plausible-sounding option is the trap) and **General Factual Elimination** (62% — extreme language = usually wrong).
@@ -99,7 +99,7 @@ Read `pyq-data/concept-index.json` and search for the user's topic (case-insensi
 - "Fundamental Rights" → `fundamental-rights`
 - "Indian Geography" → `indian-geography`
 
-### 0B — Read `pyq-data/topic-maps/{slug}.md`
+### 0B — Read `pyq-data/topic-maps/TOPIC-SLUG.md`
 
 Read the matching topic-map file. Extract:
 - **Prelims Questions** — actual PYQ text, year, dimension, priority (HIGH priority first)
@@ -510,7 +510,7 @@ This generates flashcards like:
 ```
 
 **Source of MCQs — priority order:**
-1. **Real PYQ questions** from `pyq-data/topic-maps/{slug}.md` — use HIGH and MEDIUM priority questions verbatim (first 2–3 MCQs must be real PYQs)
+1. **Real PYQ questions** from `pyq-data/topic-maps/TOPIC-SLUG.md` — use HIGH and MEDIUM priority questions verbatim (first 2–3 MCQs must be real PYQs)
 2. **Synthetic questions** modelled on `dimensions_tested` and real patterns — fill remaining slots
 
 **Always add study-mode instructions as the first child of the Practice MCQs block:**
@@ -578,7 +578,7 @@ This generates flashcards like:
       - [Note dominant dimensions_tested — e.g., "WHERE asked 4/6 times"]
 ```
 
-**For `🎯 LAST YEARS PYQ PATTERN`:** Always pull from the "Exam Patterns & Insights" section of `pyq-data/topic-maps/{slug}.md`. Use real observed patterns — never fabricate. If topic-map is not available, note it explicitly.
+**For `🎯 LAST YEARS PYQ PATTERN`:** Always pull from the "Exam Patterns & Insights" section of `pyq-data/topic-maps/TOPIC-SLUG.md`. Use real observed patterns — never fabricate. If topic-map is not available, note it explicitly.
 
 **Rapid Revision Rules:**
 1. **Maximum 1 page** when printed
@@ -621,7 +621,7 @@ This generates flashcards like:
 
 **Filling Cross-Paper Transfer from Step 0 topic-map data:**
 
-Read the `## Cross-Paper Transfer` section in `pyq-data/topic-maps/{slug}.md`. It contains:
+Read the `## Cross-Paper Transfer` section in `pyq-data/topic-maps/TOPIC-SLUG.md`. It contains:
 - **GS Paper Connections** — aggregated from `interlinkages` field across all mains PYQs for this topic
 - **Essay & Thematic Angles** — aggregated from `themes` across all mains PYQs
 - **Contemporary Relevance** — best `contemporary_relevance` string from enriched questions
@@ -657,7 +657,7 @@ Map them to the correct descriptor:
 | 15m   | ~250w      | 40w   | 175w | 35w        |
 | 20m   | ~350w      | 50w   | 260w | 40w        |
 
-**Use Step 0 topic-map data:** Each mains question in `pyq-data/topic-maps/{slug}.md` includes `word_limit_suggested`, `intro_approach`, `body_points`, and `conclusion_approach` — pulled directly from the enrichment schema. Use these as the starting framework and adapt for the user's specific question.
+**Use Step 0 topic-map data:** Each mains question in `pyq-data/topic-maps/TOPIC-SLUG.md` includes `word_limit_suggested`, `intro_approach`, `body_points`, and `conclusion_approach` — pulled directly from the enrichment schema. Use these as the starting framework and adapt for the user's specific question.
 
 ---
 
@@ -769,7 +769,7 @@ Child1  Child2                                │
   (PYQ: [year] — [brief question context])
 ```
 
-**Source traps from Step 0 data:** Read actual PYQ questions from `pyq-data/topic-maps/{slug}.md`. Questions where a common wrong assumption could lead to the wrong option are your best trap alerts. Use real PYQ year in the `(PYQ: YYYY —)` tag.
+**Source traps from Step 0 data:** Read actual PYQ questions from `pyq-data/topic-maps/TOPIC-SLUG.md`. Questions where a common wrong assumption could lead to the wrong option are your best trap alerts. Use real PYQ year in the `(PYQ: YYYY —)` tag.
 
 **High-frequency UPSC trap patterns:**
 - Similar-sounding names (Kondanna vs Mahakasyapa)
@@ -1595,7 +1595,7 @@ The 11-section CDF architecture is designed for **GS1–GS4 content notes** (fac
 
 ### PYQ Integration ✓ (Step 0 Mandatory)
 - [ ] `pyq-data/concept-index.json` searched for topic
-- [ ] `pyq-data/topic-maps/{slug}.md` read (or noted as not indexed)
+- [ ] `pyq-data/topic-maps/TOPIC-SLUG.md` read (or noted as not indexed)
 - [ ] Section 1 `*~PYQ frequency*` uses real numbers from concept-index
 - [ ] Section 1 `*~Prelims weightage*` uses real `prelims_count`
 - [ ] At least 2–3 MCQs are real PYQ questions from topic-map
