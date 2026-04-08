@@ -17,21 +17,12 @@ Concepts represent **things** — objects, ideas, or entities. Shown in **bold**
 
 | Type | Delimiter | Example |
 |------|-----------|---------|
-| Two-way | `::` | `**Photosynthesis** :: Process converting light to energy` |
-| Forward | `:>` | `**Term** :> Definition` |
-| Backward | `:<` | `**Term** :< Definition` |
+| Two-way (default) | `::` | `**Photosynthesis** :: Process converting light to energy` |
+| Forward only | `:>` | `**Term** :> Definition` (name→def, no reverse card) |
+| Backward only | `:<` | `**Term** :< Definition` (def→name only) |
 | Disabled | `:-` | `**Category** :- Just a header, no flashcard` |
 
-## Descriptor Cards (Semicolon-based)
 
-Descriptors represent **properties** of concepts. Shown in *italics*. Must be indented under a concept.
-
-| Type | Delimiter | Example |
-|------|-----------|---------|
-| Forward | `;;` | `*purpose* ;; To generate ATP` |
-| Backward | `;<` | `*abbreviation* ;< ATP` |
-| Two-way | `;;<` | `*formula* ;;< E=mc²` |
-| Disabled | `;-` | `*note* ;- Additional info, no card` |
 
 ## Multi-line Flashcards
 
@@ -88,7 +79,7 @@ Use when order matters and items should be numbered.
 
 ## Multiple-Choice Flashcards
 
-First nested item is always the correct answer. RemNote shuffles options during practice.
+First nested child is always the correct answer. RemNote shuffles options during practice.
 
 | Type | Delimiter | Description |
 |------|-----------|-------------|
@@ -101,13 +92,75 @@ First nested item is always the correct answer. RemNote shuffles options during 
 | Enabled | `:>>A)` | `;;>A)` |
 | Disabled | `:-A)` | `;-A)` |
 
-**Example:**
+**Example (Basic):**
 ```markdown
 - What is the powerhouse of the cell? >>A)
   - Mitochondria
   - Nucleus
   - Ribosome
   - Golgi apparatus
+```
+
+**Example (CDF-native — correct pattern for Section 12 PYQ Archive):**
+```markdown
+- **PYQ:2023-powerhouse** :-
+  - Which of the following is the powerhouse of the cell? >>A)
+    - Mitochondria          ← ALWAYS first child = correct answer
+    - Nucleus
+    - Ribosome
+    - Golgi apparatus
+    - ✅ Explanation #[[Extra Card Detail]]
+      - ✅ Correct (Mitochondria): site of ATP synthesis via oxidative phosphorylation
+      - ❌ Nucleus: stores DNA, does not produce energy
+      - ⚠️ Trap: ribosome is common wrong pick (protein synthesis, not energy)
+      - 🧠 Hook: "Mito = mighty energy factory"
+```
+> ⛔ **NEVER use `;;>A)` for MCQs in CDF notes.** `;;>A)` is a Descriptor MCQ type — it generates a different card format and breaks PYQ anchor linking. Always use `>>A)` for all MCQs (Section 9 practice MCQs AND Section 12 PYQ Archive).
+
+**⚠️ CRITICAL — Extra Card Detail (ECD) with MCQs — PYQ ANCHOR SYSTEM:**
+
+In CDF notes, every PYQ is wrapped in a **named outer parent anchor Rem** (`**PYQ:YEAR-slug** :-`) so that concepts elsewhere in the file can link to it via `[[PYQ:year-slug]]`. The MCQ is nested *inside* the anchor as a child. The `#[[Extra Card Detail]]` explanation is placed as a **sibling of the answer options** (direct child of `>>A)`), not nested under the correct answer.
+
+```markdown
+✅ CORRECT — anchor as outer parent, ECD as sibling of options:
+- **PYQ:2023-powerhouse** :-                        ← outer parent anchor (named, no flashcard)
+  - Which of the following is the powerhouse? >>A)  ← MCQ nested inside anchor
+    - Mitochondria                                  ← first child = correct answer
+    - Nucleus
+    - Ribosome
+    - Golgi apparatus
+    - ✅ Explanation #[[Extra Card Detail]]          ← sibling of options; shown after answering
+      - ✅ Correct (Mitochondria): [why right]
+      - ❌ Nucleus: [why wrong]
+      - ⚠️ Trap: [common confusion]
+      - 🧠 Hook: [memory device]
+
+❌ WRONG — anchor as child inside MCQ (breaks [[PYQ:year-slug]] linking):
+- Which of the following is the powerhouse? >>A)
+  - **PYQ:2023-powerhouse** :-   ← anchor must be outer parent, not a child
+  - Mitochondria
+  ...
+
+❌ WRONG — ECD nested under correct answer (only shows for that one option):
+- Question? >>A)
+  - Mitochondria
+    - ✅ Explanation #[[Extra Card Detail]]   ← grandchild of MCQ; only appears for Mitochondria option
+  - Nucleus
+  - Ribosome
+```
+
+**For Section 9 Practice MCQs** (no PYQ anchor needed — synthetic questions only):
+```markdown
+- Which of the following best describes demand-pull inflation? >>A)
+  - Rise in prices caused by excess aggregate demand over supply
+  - Rise in prices caused by increase in production costs
+  - Fall in supply due to external supply shocks
+  - Rise in interest rates by the central bank
+  - ✅ Explanation #[[Extra Card Detail]]
+    - ✅ Correct: demand-pull = demand > supply → prices rise
+    - ❌ Cost increase = cost-push inflation, not demand-pull
+    - ⚠️ Trap: supply shock = stagflation trigger, not demand-pull
+    - 🧠 Hook: "Pull = demand pulling prices up"
 ```
 
 ## Cloze Deletions
@@ -214,3 +267,68 @@ Tables automatically generate Concept/Descriptor flashcards in RemNote.
 ### Math (LaTeX)
 - Inline: `$formula$`
 - Block: `$$formula$$`
+
+---
+
+## CDF Descriptor Naming Convention
+
+```
+Standard descriptors:
+  *~definition* :: ...    *~born* ;; 1869    *~source* ;- NCERT Ch 5
+
+Emoji descriptors (no ~ prefix):
+  *📌 beginner note* ;-    *🧠 analogy* ;-      *🧠 mnemonic* ;-
+  *🧠 etymology* ;-        *🧠 story* ;-         *🧠 visual* ;-
+  *⚡ vs [Other]* ;-       *⚠️ exam trap* ;-     *🔗 connects to* ;;
+  *💡 insight* ;-          *🎯 Prelims focus* ;- *📝 Mains angle* ;-
+  *~does NOT apply when* ;-  *💭 self-explain* ;-  *🔨 your example* ;-
+  *🧪 try first* ;-
+
+Mathematical / Flow descriptors:
+  *~formula* ;;             → The mathematical relationship (e.g., MV = PQ)
+  *~mechanism* ;-           → Step-by-step causal chain: A ↑ → B ↓ → C ↑
+  *~graph* ;-               → ASCII graph showing the relationship visually
+  *~prerequisite* ;-        → "To understand this, first understand: [X]"
+  *~builds from* ;-         → "This follows from [earlier concept] because..."
+  *~why it matters here* ;- → One-line bridge to the next concept
+```
+
+## Flashcard Type Decision Rule
+
+```
+Will UPSC ask this fact directly?   YES → ;;    NO → ;-
+Need two-way recall?                YES → ;;<
+Main concept definition?            Use ::  (always two-way)
+MCQ (Section 9 or 12)?              Use >>A)  — NEVER ;;>A)
+```
+
+## Section 7 One-Liner Pattern
+
+One-liners generate flashcards ONLY when written with `;;`:
+
+```
+CORRECT (generates flashcard):
+  - National Income = ;; NNP at Factor Cost
+  - GNP formula ;; GDP + NFIA
+  - India's GDP base year (since 2015) ;; 2011-12
+
+WRONG (plain text, no flashcard):
+  - National Income = NNP at Factor Cost → Back of card
+  - GNP = GDP + NFIA → Back of card
+```
+
+`→ Back of card` is a RemNote UI label — it has no effect in a file.
+
+## Output File Naming
+
+```
+[subject]-[topic]-cdf.md  (lowercase, hyphens, drop prepositions/articles/conjunctions)
+
+Examples:
+  polity-fundamental-rights-cdf.md
+  economy-water-food-security-cdf.md   ← "Water and Food Security" drops "and"
+  ancient-india-buddhism-cdf.md
+  geography-indian-monsoon-cdf.md
+  gs4-ethics-integrity-cdf.md
+  essay-democracy-india-cdf.md
+```
