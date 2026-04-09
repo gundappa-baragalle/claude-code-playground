@@ -16,6 +16,7 @@ Every ✗ is a reason to revise before delivering.
 ### Logical Flow ✓ (NEW — check every note)
 - [ ] Section 4 entries are ordered from most foundational to most derived (prerequisite chain respected)
 - [ ] Section 4 has minimum entry count: ≥6 entries for narrow topics, ≥12 for standard topics, ≥20 for flagship topics — every technical term used anywhere in Sections 5–12 must be defined here
+- [ ] Every classification TYPE used in Section 5 (e.g., Demand-Pull, Cost-Push, Orographic) has its component terms defined in Section 4 first — type names are not self-explanatory to beginners
 - [ ] No term appears in Section 5 before it is defined in Section 4 or earlier in Section 5
 - [ ] Causes appear before effects throughout
 - [ ] Mechanisms are explained before policies that respond to them
@@ -37,7 +38,7 @@ Every ✗ is a reason to revise before delivering.
 - [ ] `*~PYQ frequency*` uses real `total_count` from the topic-map file (not a guess or memory estimate)
 - [ ] `*~Prelims weightage*` uses real `prelims_count`
 - [ ] `*~revision priority*` matches HIGH/MEDIUM/LOW thresholds
-- [ ] Section 9 MCQs are **synthetic only** — no real PYQs here (all verbatim PYQs go to Section 12)
+- [ ] Section 9 MCQs are **predictive only** — based on gap analysis (untested dimensions, gap years, post-`last_asked` developments, recurring trap patterns); no real PYQs here (all verbatim PYQs go to Section 12)
 - [ ] `🎯 LAST YEARS PYQ PATTERN` block present in Section 10 (RAPID REVISION), pulled from topic-map "Exam Patterns & Insights" section — real patterns only, not invented
 
 ### Cognitive Quality ✓
@@ -61,8 +62,30 @@ Every ✗ is a reason to revise before delivering.
 - [ ] Statement-based MCQs: all numbered statements listed as sub-bullets BEFORE the `>>A)` options
 - [ ] "How many of the above are correct?" MCQs: statements listed first, then options ("Only one", "Only two", etc.) with correct first
 - [ ] Every MCQ has `#[[Extra Card Detail]]` explanation
+- [ ] Table uses `*~RemNote setup* ;-` (column config) AND `*~Table* ;-` (wrapping the actual rows) — both as children of `**[Title] Table** :-`
 - [ ] Table Name column is always first (left)
 - [ ] Table cells are < 5 words
+
+### Classification Quality ✓ (apply when topic has types/categories/kinds)
+- [ ] Every classifiable concept in Section 5 has a **Classification Landscape** block (signal: "types of", "classified as", "on the basis of")
+- [ ] Single-basis variant used when exactly 1 axis exists (Within-Basis Trap Zone, single Enumeration count) — multi-basis full template only when 2+ axes
+- [ ] Section 3 Big Picture has a **classification matrix branch** for heavily classificatory topics (basis → types as leaves; no definitions — spatial overview only)
+- [ ] Every basis has `*~all types* ;;>1.` with type names as ordered children — generates enumeration flashcard
+- [ ] Every type node has `*~basis* ;;` descriptor — generates cross-basis attribution flashcard
+- [ ] Every type node uses `*~trigger condition* ;-` (not `;;`) unless topic-map explicitly shows UPSC tested the trigger mechanism for that type
+- [ ] Inline mini-tables use `*⚡ [Basis] types — side-by-side* ;-` with `;-` not `;;` (scaffold only — not a flashcard)
+- [ ] `*~UPSC note*` uses `;-` (multi-fact planning note, not atomic — atomic facts go in Section 7 one-liners)
+- [ ] **Cross-Basis Trap Zone** present when 2+ bases exist — names specific cross-basis confusions explicitly
+- [ ] **Within-Basis Trap Zone** present in single-basis variant — names the most confused within-axis pair
+- [ ] `*~UPSC note*` flags which bases/types are tested vs untested (untested = Section 9 targets)
+- [ ] `**🔢 Enumeration Master**` block present with `*~[Basis] count* ;;` for each basis
+- [ ] Section 7 has **classification one-liners** — Category A (Type → basis attribution) and Category B (Type → threshold/defining criterion) for every Classification Landscape
+- [ ] Section 8 has **Classification Enumeration** cloze sub-block — one sentence per basis, count as hint on last cloze
+- [ ] Section 9 has at least one cross-basis discrimination MCQ — Frame A (attribution), B (basis ID), or C (pair discrimination)
+- [ ] Section 10 **⚠️ TRAP ALERTS** block contains cross-basis trap entries pulled from the Cross-Basis Trap Zone
+- [ ] Section 10 **🔢 NUMBERS TO REMEMBER** block contains threshold and count entries from the Enumeration Master
+- [ ] Section 10 **📋 FACTS TO MEMORIZE** table has classification rows (basis → compressed type list) for each Classification Landscape
+- [ ] Classification content stays in Section 5 — never moved to a Section 6 table (Section 6 = entity comparison only)
 
 ### Completeness ✓
 - [ ] Big Picture ASCII map present and **multi-line** (each branch on its own line — never a single collapsed pipe-separated string)
@@ -167,9 +190,23 @@ Every ✗ is a reason to revise before delivering.
 | Paraphrase PYQ question stems | Exact wording matters — UPSC reuses phrasing; always copy verbatim |
 | Omit Mains PYQs from Section 12 | Mains preparation requires exposure to every real essay question from the topic |
 | List wrong answer first in MCQ | RemNote reads FIRST child as correct; wrong order breaks the flashcard |
-| Skip the Dependency Map (Step 3.5) before writing Sections 4 and 5 | Sections 4 and 5 will reflect textbook order, not understanding order — the entire learning ladder architecture collapses |
-| Place synthetic MCQs in Section 12 (PYQ Archive) | Section 12 is verbatim PYQs only — synthetic questions belong exclusively in Section 9; mixing them destroys the archive's integrity |
+| Skip the Dependency Map (Step 6) before writing Sections 4 and 5 | Sections 4 and 5 will reflect textbook order, not understanding order — the entire learning ladder architecture collapses |
+| Skip `📊 Prediction basis` in Section 9 MCQ explanations | Every Section 9 question must state which signal (gap year / untested dimension / post-last_asked development / pattern) justified including it |
+| Place synthetic or predictive MCQs in Section 12 (PYQ Archive) | Section 12 is verbatim PYQs only — predictive questions belong exclusively in Section 9; mixing them destroys the archive's integrity |
+| List types as flat bullets under a concept without a Classification Landscape | Flat lists create Level 1 recall only; UPSC tests Level 2 (cross-basis) and Level 3 (enumeration) — these require the full `;;>1.` / `*~basis* ;;` / Cross-Basis Trap Zone structure |
+| Use `;;` on `*~trigger condition*` unconditionally | Trigger conditions are causal/mechanistic — `;-` by default; only use `;;` when topic-map confirms UPSC directly tested the trigger for that specific type |
+| Use `;;` on inline mini-tables inside Classification Landscape | The `*⚡ [Basis] types — side-by-side* ;-` table is a scaffold — it uses `;-`; the flashcards come from `::` on each type and `;;>1.` on each basis |
+| Omit `*~basis* ;;` from individual type nodes | Without it, students can define every type but cannot answer "stagflation belongs to which classification axis?" — the cross-basis attribution flashcard is what `*~basis* ;;` generates |
+| Skip classification one-liners in Section 7 | Cross-basis attribution facts (Type → basis) and thresholds are prime `;;` targets; leaving them out means SRS misses atomic Level 2 recall cards entirely |
+| Skip Classification Enumeration clozes in Section 8 | "How many of the following are correct?" questions require recall of the complete set per basis — enumeration clozes train exactly this |
+| Skip the cross-basis MCQ in Section 9 when topic has classifications | Cross-basis discrimination is UPSC's post-2020 pattern shift — at least one Section 9 question must use Frame A, B, or C |
+| Leave Section 10 TRAP ALERTS generic when Cross-Basis Trap Zone exists in Section 5 | The Cross-Basis Trap Zone must feed directly into Section 10 TRAP ALERTS — this is the student's last-minute reminder of the most dangerous confusions |
+| Leave Section 10 NUMBERS generic when Enumeration Master exists in Section 5 | Thresholds and type counts from the Enumeration Master belong in Section 10 NUMBERS TO REMEMBER |
+| Use multi-basis template for a single-axis concept | Single-axis concepts (rocks, clouds, soils) use the single-basis variant — empty Cross-Basis Trap Zones waste space and signal sloppy application |
+| Create a Section 6 table for a Classification Landscape | Section 6 is for entity-to-entity comparison (WPI vs CPI); classification landscapes belong entirely in Section 5 with the full `::` / `;;>1.` / `*~basis*` structure |
+| Skip the classification matrix branch in Section 3 for heavily classificatory topics | For topics where classification IS the primary dimension, the ASCII tree must include a classification matrix branch — it is the spatial advance organiser for the entire Section 5 landscape |
 | Explain Concept B without first explaining Concept A that B depends on | Forces student to work backwards — destroys comprehension and flow |
+| Use a classification type name in Section 5 without defining its component terms in Section 4 | Type names like "Demand-Pull" or "Orographic" are not self-explanatory — the prerequisite chain rule applies to types too; undefined terms make Section 5 incomprehensible to beginners |
 | Skip a formula when one exists | Equations reveal relationships more precisely than prose; student is comfortable with elementary maths |
 | State directional relationships without showing direction | Always use arrow notation: A ↑ → B ↓; never say "A affects B" without showing how |
 | Cover a concept without tracing its prerequisite chain | Creates isolated knowledge islands that cannot be connected or reconstructed |

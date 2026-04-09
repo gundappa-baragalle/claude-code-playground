@@ -259,6 +259,81 @@ Everyday: "Government makes rules that affect me"
         - *~purpose* ;; To oust a person who is illegally occupying a public office
         - *⚠️ exam trap* ;- Quo Warranto is the ONLY writ that can be filed by any member of the public, not just the aggrieved party. Directly tested in PYQ 2022.
 
+      - **Five Writs — Classification Landscape** :- How the Five Writs Are Classified
+        - *~classification count* ;; 3 independent bases: purpose/action, timing, who can file
+        - *~UPSC note* ;- Tested: By Purpose (all 5 writs individually — most PYQs). By Timing (Prohibition vs Certiorari tested 2024). By Who Can File (Quo Warranto vs others tested 2022). All three bases are live targets.
+
+        - **By Purpose / Action: What the writ orders** :- 5 types
+          - *~all types* ;;>1.
+            - Habeas Corpus (produce the body)
+            - Mandamus (command performance of duty)
+            - Prohibition (stop proceedings)
+            - Certiorari (quash an order)
+            - Quo Warranto (challenge authority to hold office)
+          - *⚡ By-Purpose types — side-by-side* ;-
+            | Writ | Action commanded | Directed at | Core right protected |
+            |------|-----------------|-------------|---------------------|
+            | **Habeas Corpus** | Produce detained person | State + private | Personal liberty |
+            | **Mandamus** | Perform public duty | Public authority only | Legal right to performance |
+            | **Prohibition** | Stop exceeding jurisdiction | Inferior courts/tribunals | Fair process |
+            | **Certiorari** | Quash ultra vires order | Inferior courts/tribunals | Correct legal record |
+            | **Quo Warranto** | Justify authority to hold office | Public office holder | Public interest |
+          - **Habeas Corpus** :: Compels production of a detained person — checks legality of detention
+            - *~basis* ;; By Purpose: produce the body / test detention legality
+            - *~trigger condition* ;- Illegal or arbitrary detention by State or private party
+            - *~unique rule* ;; Only writ issuable against PRIVATE individuals (all others = public authorities only)
+            - *⚠️ exam trap* ;- "Habeas Corpus applies only to State detention" — FALSE. It is the one writ that reaches private detentions too.
+          - **Mandamus** :: Commands a public authority to perform a mandatory duty it has failed to perform
+            - *~basis* ;; By Purpose: command performance of an omitted duty
+            - *~trigger condition* ;- Public authority has a mandatory (not discretionary) duty and has failed to perform it
+            - *~NOT against* ;; President, Governor, private individuals, discretionary acts
+            - *⚠️ exam trap* ;- Mandamus does NOT lie against discretionary acts — only mandatory duties. Cannot tell a minister HOW to exercise discretion, only that he MUST exercise it.
+          - **Prohibition** :: Orders an inferior court to stop proceedings it has no jurisdiction to conduct
+            - *~basis* ;; By Purpose: prevent excess of jurisdiction BEFORE it becomes an order
+            - *~trigger condition* ;- Inferior court is about to exceed its jurisdiction — proceedings ongoing
+            - *⚠️ exam trap* ;- Prohibition is PREVENTIVE (before judgment); Certiorari is CURATIVE (after judgment). Both target inferior courts exceeding jurisdiction — timing is the only difference.
+          - **Certiorari** :: Quashes an order already passed by an inferior court that exceeded its jurisdiction
+            - *~basis* ;; By Purpose: correct/quash a jurisdictional excess AFTER it has occurred
+            - *~trigger condition* ;- Inferior court has already passed an ultra vires order
+            - *⚠️ exam trap* ;- Students confuse Prohibition and Certiorari because both target inferior courts. Key: Prohibition = STOP sign before judgment; Certiorari = UNDO button after judgment.
+          - **Quo Warranto** :: Challenges a person's legal authority to hold a public office
+            - *~basis* ;; By Purpose: interrogate the legal basis for holding public office
+            - *~trigger condition* ;- A person occupies a public office without legal entitlement
+            - *~unique rule* ;; Can be filed by ANY member of the public — not just an aggrieved party
+            - *⚠️ exam trap* ;- Quo Warranto is the only writ where the petitioner need not be personally aggrieved — public interest suffices.
+
+        - **By Timing: When in proceedings the writ is issued** :- 2 types
+          - *~all types* ;;>1.
+            - Before judgment (Prohibition)
+            - After judgment (Certiorari)
+          - *⚡ By-Timing types — side-by-side* ;-
+            | Timing | Writ | Effect | Analogy |
+            |--------|------|--------|---------|
+            | **Before judgment** | Prohibition | Stops proceedings mid-track | STOP sign at intersection |
+            | **After judgment** | Certiorari | Quashes the order already passed | UNDO button on a mistake |
+          - *~note on other writs* ;- Habeas Corpus, Mandamus, and Quo Warranto are not classified by timing — they are issued whenever the triggering condition exists.
+
+        - **By Who Can File: Who has standing to petition** :- 2 types
+          - *~all types* ;;>1.
+            - Aggrieved party only (Mandamus, Prohibition, Certiorari, Habeas Corpus in most cases)
+            - Any person / public interest (Quo Warranto)
+          - *⚡ By-Filer types — side-by-side* ;-
+            | Standing | Writs | Why |
+            |----------|-------|-----|
+            | **Aggrieved party** | Mandamus, Prohibition, Certiorari | Personal right affected |
+            | **Anyone** | Quo Warranto | Public office = public interest; no personal injury needed |
+            | **Aggrieved + others** | Habeas Corpus | Liberty is so fundamental that others may act on your behalf |
+
+        - **⚠️ Cross-Basis Trap Zone** :- Types From Different Bases That UPSC Conflates
+          - *~Prohibition vs Certiorari* ;- Same basis (By Purpose: both target inferior courts exceeding jurisdiction) but different timing sub-type: Prohibition = before judgment (preventive); Certiorari = after judgment (curative). Trap: students treat them as entirely different writs when they share the same purpose-basis and differ only in timing.
+          - *~Habeas Corpus filer vs Quo Warranto filer* ;- Same basis (By Who Can File) but different rules: Habeas Corpus = aggrieved party OR others acting on their behalf (liberty is the reason); Quo Warranto = genuinely ANY person (public office is the reason). The basis is the same; the trigger logic is different.
+          - *~Mandamus vs Habeas Corpus against private parties* ;- By Purpose they are different (command duty vs produce person), but By Who It Is Issued Against they diverge critically: Habeas Corpus reaches private individuals; Mandamus does NOT. Students who know individual definitions still trip on cross-writ comparisons.
+
+        - **🔢 Enumeration Master** :- Full Count by Basis
+          - *~By Purpose count* ;; 5 writs: Habeas Corpus | Mandamus | Prohibition | Certiorari | Quo Warranto
+          - *~By Timing count* ;; 2 (of 5 writs have timing rules): Before judgment = Prohibition | After judgment = Certiorari
+          - *~By Filer count* ;; 2 categories: Aggrieved party (4 writs) | Any person (Quo Warranto only)
+
     - **Art 32 vs Art 226** :- Comparison
       | Aspect | Article 32 (SC) | Article 226 (HC) |
       |--------|-----------------|------------------|
@@ -283,6 +358,7 @@ Everyday: "Government makes rules that affect me"
 
   - **Six FRs Quick Reference** :- Flashcard Table
     - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | Articles: Forward only (FR → Articles) | Citizen or All?: Both directions | Can suspend in Emergency?: Both directions
+    - *~Table* ;-
     | FR Category | Articles | Citizen or All? | Can suspend in Emergency? |
     |-------------|----------|-----------------|--------------------------|
     | **Right to Equality** | 14-18 | All persons | Partially (Art 14 can; Art 17 cannot) |
@@ -294,6 +370,7 @@ Everyday: "Government makes rules that affect me"
 
   - **Five Writs** :- Flashcard Table
     - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | Meaning: Forward only (Writ → Meaning) | Against: Both directions | Timing: Both directions | Who Can File: Both directions
+    - *~Table* ;-
     | Writ | Meaning | Against | Timing | Who Can File |
     |------|---------|---------|--------|-------------|
     | **Habeas Corpus** | Have the body | State AND private | Anytime | Aggrieved + others |
@@ -346,73 +423,89 @@ Everyday: "Government makes rules that affect me"
     - Puttaswamy case ({{2017}}{({year})}) declared Right to {{Privacy}}{({under Art 21})} a Fundamental Right.
     - Maneka Gandhi case ({{1978}}{({year})}) held that Art 21 procedure must be {{fair, just and reasonable}}{({not any procedure)}}.
 
-  - **Practice MCQs** :- Self-Test
+  - **Classification Enumeration** :- Recall Full Lists by Basis
+    - Five writs by purpose: {{Habeas Corpus}}{({produce body})}, {{Mandamus}}{({command duty})}, {{Prohibition}}{({stop proceedings})}, {{Certiorari}}{({quash order})}, {{Quo Warranto}}{({challenge office — 5 total})}.
+    - Of the five writs, only {{Prohibition}}{({before judgment})} and {{Certiorari}}{({after judgment})} are classified by timing — the other three have {{no timing restriction}}{({issued anytime})}.
+    - Writ issued before judgment to stop inferior court = {{Prohibition}}{({NOT Certiorari})}; writ issued after judgment to quash order = {{Certiorari}}{({NOT Prohibition})}.
+    - Writ that ANY person (not just aggrieved) can file = {{Quo Warranto}}{({public office — 1 of 5})}.
+    - Writ issuable against PRIVATE individuals = {{Habeas Corpus}}{({only one of the five})}.
+    - Writ that cannot be directed at discretionary acts = {{Mandamus}}{({mandatory duties only)}}.
     - *~Prelims mode* ;- Cover all options. Read the question stem only. Predict the answer BEFORE revealing choices. Attempt under time pressure (90 seconds per question).
     - *~Mains mode* ;- Read the topic heading only. Write 3 key points from memory. Then open your notes and check.
+    - *~prediction basis* ;- Questions generated by gap analysis: untested dimensions from topic-map (Art 13 void/inconsistency, Art 33-35 Parliament's power over FRs, writ jurisdiction comparison), gap years in PYQ record, and post-2022 DPDP Act development creating new Art 21 angle.
 
-    - Under which of the following Articles of the Constitution of India has the Supreme Court placed the Right to Privacy? [2024] >>A)
-      - Article 21
-      - Article 15
-      - Article 16
-      - Article 19
+    - Consider the following statements regarding Article 13 of the Constitution: 1. It renders pre-constitutional laws void to the extent they are inconsistent with Fundamental Rights. 2. It applies only to laws made after the commencement of the Constitution. 3. The doctrine of severability flows from Article 13. Which of the statements given above is/are correct? >>A)
+      - 1 and 3 only
+      - 2 and 3 only
+      - 1 only
+      - 1, 2 and 3
       - ✅ Explanation #[[Extra Card Detail]]
-        - ✅ **Correct (Art 21):** Puttaswamy (2017) — Right to Privacy is intrinsic to life and personal liberty under Art 21.
-        - ❌ **Art 19:** Tempting because privacy relates to expression — but SC specifically anchored privacy under Art 21, not Art 19.
-        - ❌ **Art 15 / Art 16:** Equality articles — no connection to privacy jurisprudence.
-        - 🧠 **Hook:** Privacy = personal liberty = Art 21.
+        - ✅ **Correct (1 and 3 only):** Art 13(1) = pre-constitutional laws void to extent of inconsistency. Art 13(2) = post-constitutional laws void. Severability doctrine (valid part survives if separable) is rooted in Art 13.
+        - ❌ **Statement 2 alone:** Art 13 applies to BOTH pre- (Art 13(1)) and post-constitutional (Art 13(2)) laws — not one alone.
+        - ⚠️ **Trap:** Statement 2 is a partial truth — Art 13 does cover post-constitutional laws (Art 13(2)), but it equally covers pre-constitutional laws (Art 13(1)). Choosing "2 only" misses Art 13(1).
+        - 🧠 **Hook:** Art 13 = FR guardian. Pre + Post = both void if they bite FRs.
+        - 📊 **Prediction basis:** Art 13 (void laws + severability) appears in dimensions_tested but was last directly tested in 2015 — 9-year gap as of 2024 makes it high-probability. Statement-based pattern matches UPSC's approach for multi-part constitutional articles.
 
-    - A Writ of Prohibition is an order issued by the Supreme Court or High Courts to: [2024] >>A)
-      - The lower court prohibiting continuation of proceedings in a case
-      - A government officer prohibiting him from taking a particular action
-      - The Parliament/Legislative Assembly to pass a law on Prohibition
-      - The Government prohibiting it from following an unconstitutional policy
+    - Which of the following writs can be issued by the High Court but NOT by the Supreme Court? >>A)
+      - None — both courts can issue all five writs
+      - Habeas Corpus and Mandamus only
+      - Quo Warranto only
+      - Certiorari and Prohibition only
       - ✅ Explanation #[[Extra Card Detail]]
-        - ✅ **Correct (lower court):** Prohibition stops an inferior court mid-proceedings, before judgment is pronounced. It is preventive.
-        - ❌ **Govt officer:** That is Mandamus — commands performance of a public duty, not a stop order on proceedings.
-        - ❌ **Parliament/Legislature:** Writs are not directed at the legislature to pass laws.
-        - ❌ **Govt policy:** Certiorari quashes government orders; Prohibition stops ongoing court proceedings only.
-        - ⚠️ **Trap:** Prohibition vs Certiorari — Prohibition STOPS (preventive, before judgment); Certiorari QUASHES (curative, after judgment).
-        - 🧠 **Hook:** Prohibition = STOP sign held up mid-trial.
+        - ✅ **Correct (None):** Both SC (Art 32) and HC (Art 226) can issue all five writs — Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo Warranto. The difference is scope: Art 226 (HC) is wider — covers FR violations AND any other legal right.
+        - ❌ **Other options:** All suggest some writs are exclusive to one court — this is false. The distinction is jurisdictional scope, not writ type.
+        - ⚠️ **Trap:** Students often think SC and HC have different writ menus. They don't — same five writs, different scope of jurisdiction.
+        - 🧠 **Hook:** SC Art 32 = FR only. HC Art 226 = FR + other legal rights. Same writs, wider net.
+        - 📊 **Prediction basis:** SC vs HC writ comparison is an untested dimension — topic-map shows UPSC has tested individual writs extensively but never directly asked a comparison of SC vs HC writ power. "Which is NOT" pattern fits UPSC's style for comparison topics.
 
-    - Which of the following are envisaged by the Right against Exploitation? 1. Prohibition of traffic in human beings and forced labour. 2. Abolition of untouchability. 3. Protection of the interests of minorities. 4. Prohibition of employment of children in factories and mines. [2017] >>A)
-      - 1 and 4 only
-      - 1, 2 and 4 only
-      - 2, 3 and 4 only
-      - 1, 2, 3 and 4
+    - With reference to Article 33 of the Constitution of India, which of the following statements is correct? >>A)
+      - Parliament alone (not State Legislatures) can restrict or abrogate Fundamental Rights of members of armed forces
+      - Both Parliament and State Legislatures can modify FRs of armed forces serving within their territory
+      - The President can issue an ordinance restricting FRs of armed forces in times of emergency
+      - The Supreme Court can directly restrict FRs of armed forces through judicial orders
       - ✅ Explanation #[[Extra Card Detail]]
-        - ✅ **Correct (1 and 4 only):** Right against Exploitation (Art 23-24) covers forced labour/trafficking (Art 23) and child labour (Art 24) only.
-        - ❌ **Statement 2 (untouchability):** Art 17 — under Right to Equality, not Right against Exploitation.
-        - ❌ **Statement 3 (minority protection):** Art 29-30 — Cultural and Educational Rights.
-        - ⚠️ **Trap:** "Exploitation" sounds broad — constitutionally it is a specific and narrow category (economic/labour only, not social discrimination).
-        - 🧠 **Hook:** Exploitation = economic exploitation (labour/children). Social discrimination = separate category (Equality).
+        - ✅ **Correct (Parliament alone):** Art 33 gives ONLY Parliament (not State Legislatures, not President via ordinance, not courts) the power to restrict or abrogate FRs of armed forces, police, intelligence, and analogous forces.
+        - ❌ **State Legislatures:** Art 33 explicitly restricts this power to Parliament — national security is a Union subject.
+        - ❌ **President's ordinance:** An ordinance has the same force as a law made by Parliament, but Art 33 requires legislative action — and more importantly, an ordinance cannot abrogate FRs as a constitutional matter.
+        - ❌ **Supreme Court:** Courts interpret FRs; they do not directly abrogate them through orders.
+        - ⚠️ **Trap:** Art 33 is often overlooked because it's a "limiting article" — it limits FRs rather than conferring them. Students forget it exists.
+        - 🧠 **Hook:** Art 33 = Army exception. Parliament only. National security trumps individual FRs for uniformed forces.
+        - 📊 **Prediction basis:** Arts 33-35 (Parliament's power over FRs) are completely untested in the PYQ archive — zero questions in dimensions_tested. High-probability target as UPSC has exhausted mainstream FR articles and is moving to peripheral provisions (post-2022 pattern shift observed in PYQ data).
 
-    - Which Article of the Indian Constitution provides that no child below 14 years shall be employed in any factory or mine or hazardous employment? [2004] >>A)
-      - Article 24
-      - Article 45
-      - Article 330
-      - Article 368
+    - The Digital Personal Data Protection Act, 2023 derives its constitutional backing primarily from which Fundamental Right? >>A)
+      - Article 21 (Right to Life and Personal Liberty)
+      - Article 19(1)(a) (Freedom of Speech and Expression)
+      - Article 14 (Right to Equality)
+      - Article 15 (Prohibition of Discrimination)
       - ✅ Explanation #[[Extra Card Detail]]
-        - ✅ **Correct (Art 24):** Prohibits child labour under 14 in hazardous occupations — a Fundamental Right under Part III (Right against Exploitation).
-        - ❌ **Art 45:** A DPSP on free education — now partly converted to FR by Art 21A (RTE for 6-14 years).
-        - ❌ **Art 330 / Art 368:** Reservation in Lok Sabha and Amendment procedure respectively — unrelated.
-        - 🧠 **Hook:** 24 = child labour ban; 21A = child education guarantee. Both deal with children but in separate categories.
+        - ✅ **Correct (Art 21):** The DPDP Act 2023 implements the Right to Privacy, which the Supreme Court in Puttaswamy (2017) held to be a fundamental right under Art 21. Data protection = privacy protection = Art 21.
+        - ❌ **Art 19(1)(a):** Freedom of expression relates to the *right to share* information, not the right to protect personal data from being shared without consent.
+        - ❌ **Art 14:** Equality before law — no direct nexus to data privacy regulation.
+        - ❌ **Art 15:** Non-discrimination — unrelated to data protection framework.
+        - ⚠️ **Trap:** The DPDP Act regulates *speech* (data sharing), so Art 19(1)(a) seems plausible — but data *protection* (controlling what others do with your data) is a privacy right, not a speech right.
+        - 🧠 **Hook:** Privacy chain: Puttaswamy 2017 (Art 21) → DPDP Act 2023 (implementation). Art 21 is the constitutional root.
+        - 📊 **Prediction basis:** Post-last_asked development — DPDP Act was enacted in 2023, after the most recent FR PYQs. UPSC consistently tests new legislation within 1-2 exam cycles. This connects a recent law to a well-established FR dimension (Art 21 / Privacy), exactly the pattern UPSC uses for "application" questions.
 
-    - Right to Privacy is protected as intrinsic part of Right to Life. Which of the following correctly implies this? [2018] >>A)
-      - Article 21 and the freedoms guaranteed in Part III
-      - Article 14 and provisions under the 42nd Amendment
-      - Article 17 and the Directive Principles in Part IV
-      - Article 24 and provisions under the 44th Amendment
+    - Which of the following pairs correctly matches a writ with the classification basis that distinguishes it from all other writs? >>A)
+      - Quo Warranto — By Who Can File: the only writ any person may petition for regardless of personal grievance
+      - Prohibition — By Purpose: the only writ directed at executive authorities rather than courts
+      - Habeas Corpus — By Timing: the only writ issued after a judgment has been passed
+      - Mandamus — By Who It Is Issued Against: the only writ that applies to private individuals
       - ✅ Explanation #[[Extra Card Detail]]
-        - ✅ **Correct (Art 21 + Part III):** Puttaswamy (2017) — Privacy is intrinsic to Right to Life and Personal Liberty (Art 21), read with the broader freedoms guaranteed in Part III.
-        - ❌ **Art 14 + 42nd Amendment:** Equality article + emergency-era amendment; no nexus to privacy jurisprudence.
-        - ❌ **Art 17 + Part IV (DPSP):** Art 17 abolishes untouchability; DPSPs are non-justiciable. Neither is relevant.
-        - ❌ **Art 24 + 44th Amendment:** Child labour ban + property amendment; unrelated to privacy.
-        - 🧠 **Hook:** Privacy = Personal liberty = Art 21. Always link privacy to Art 21, never Art 19 alone.
+        - ✅ **Correct (Quo Warranto — By Who Can File):** Quo Warranto is uniquely available to ANY person regardless of personal grievance — all other writs require the petitioner to be aggrieved. This is its defining cross-basis distinction: by filer-standing, it stands alone.
+        - ❌ **Prohibition — executive authorities:** Wrong basis AND wrong fact. Prohibition is directed at inferior COURTS/TRIBUNALS exceeding jurisdiction — not executive authorities. Mandamus reaches executive authorities. And Prohibition's distinguishing feature is TIMING (before judgment), not target.
+        - ❌ **Habeas Corpus — after judgment:** Completely wrong timing basis. Certiorari = after judgment. Habeas Corpus has no timing restriction — it is issued whenever illegal detention exists.
+        - ❌ **Mandamus — private individuals:** The exact reverse is true. Habeas Corpus is the ONLY writ that can be issued against private individuals. Mandamus is confined to public authorities with public duties.
+        - ⚠️ **Trap:** This question forces you to apply THREE classification bases simultaneously — purpose, timing, and filer. Students who have only memorised individual writ definitions (Level 1 recall) will be confused by the cross-basis framing. Only students who have practised basis-attribution (Level 2) will navigate the distractors correctly.
+        - 🧠 **Hook:** For each writ, know its ONE unique cross-basis feature: Quo Warranto = any filer | Habeas Corpus = private party target | Prohibition = before judgment | Certiorari = after judgment | Mandamus = mandatory duty only.
+        - 📊 **Prediction basis:** Cross-basis discrimination — the Five Writs Classification Landscape has 3 bases (purpose, timing, filer). UPSC has tested individual writs extensively but never directly tested cross-basis attribution. Frame C (pair discrimination) used here. Post-2020 UPSC pattern shift toward basis-attribution questions makes this high-probability.
 
   - **🚀 RAPID REVISION** :- Last-Minute Review
     - *~read time* ;- 5 minutes
 
     - **📋 FACTS TO MEMORIZE** :- Core Data
+      - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | Value: Both directions (Item → Value AND Value → Item; core recall target) | Memory Hook: Skip (context only, not a recall target)
+      - *~Table* ;-
       | Item | Value | Memory Hook |
       |------|-------|-------------|
       | **FR Part** | Part III | Three = FR |
@@ -754,21 +847,28 @@ Everyday: "Government makes rules that affect me"
 | Section 5 has *~India context* | ✅ Present on Art 12 (BCCI), Art 14 (Indra Sawhney), Art 19 (Shreya Singhal), Art 21 (Puttaswamy) |
 | Section 5 has *🔨 your example* | ✅ Present on Art 12 and Art 14 |
 | Section 5 has *~mechanism* with arrows | ✅ Art 12, Art 14, Art 21 (Gopalan -> Maneka -> Puttaswamy chain) |
-| Section 6 has Flashcard Tables | ✅ Six FRs table + Five Writs table |
+| Section 6 has Flashcard Tables with *~Table* ;- wrapper | ✅ Six FRs table + Five Writs table — both use *~RemNote setup* ;- AND *~Table* ;- descriptors |
 | Section 7 has One-Liners | ✅ 23 one-liners |
 | Section 8 Cloze Cards use correct syntax | ✅ All clozes use {{answer}}{({hint})} not {{answer::hint}} |
-| Section 9 has *~Prelims mode* and *~Mains mode* | ✅ Both present |
-| Section 9 is a sampler (5 questions, not all PYQs) | ✅ 5 sampler questions; all PYQs in Section 12 |
-| Section 10 RAPID REVISION present | ✅ Facts table, Comparisons, Trap Alerts, Numbers, Mains Keywords, PYQ Pattern |
+| Section 9 has *~Prelims mode*, *~Mains mode*, and *~prediction basis* | ✅ All three present |
+| Section 9 has predictive questions (gap analysis, not real PYQs) | ✅ 5 predictive questions (4 gap/untested + 1 cross-basis classification); each has 📊 Prediction basis in ECD; no real PYQs |
+| Section 9 has at least one cross-basis classification MCQ | ✅ Writ basis-attribution MCQ (Frame C: pair discrimination) — tests Level 2 recall across all 3 writ classification bases simultaneously |
+| Section 10 RAPID REVISION present | ✅ Facts table (with *~RemNote setup* ;- AND *~Table* ;- descriptors), Comparisons, Trap Alerts, Numbers, Mains Keywords, PYQ Pattern |
 | Section 11 has Feynman Test + Connections + Cross-Paper Transfer + Mains Framework | ✅ All four blocks present |
 | *~current affairs link* is post-2022 | ✅ DPDP Act 2023 cited |
 | Section 12 PYQ ARCHIVE present | ✅ 23 Prelims PYQs + 6 Mains PYQs with full answer frameworks |
 | Section 12 correct answer FIRST in every MCQ | ✅ All MCQs follow this rule |
 | Section 12 PYQs copied verbatim from topic-map | ✅ Question stems match topic-map exactly |
 | No ## markdown headers anywhere | ✅ Only :- container nodes used |
-| 17 cognitive-science principles table | ✅ Canonical table in `references/cognitive-science.md` |
+| 19 cognitive-science principles table | ✅ Canonical table in `references/cognitive-science.md` |
 | *~current affairs link* uses correct descriptor name | ✅ Correct name: `*~current affairs link*` (not `*~current affairs*`) |
 | Dependency Map shown for a Polity topic | ✅ Shown at top of example |
-| No synthetic MCQs in Section 12 | ✅ Section 12 contains only verbatim PYQs |
+| No predictive or synthetic MCQs in Section 12 | ✅ Section 12 contains only verbatim PYQs |
+| Section 5 has Classification Landscape when concept has types | ✅ Five Writs Classification Landscape — 3 bases (purpose, timing, filer), each with ;;>1. enumeration, *~basis* ;; on every type, Cross-Basis Trap Zone, Enumeration Master |
+| Every basis has *~all types* ;;>1. enumeration flashcard | ✅ All 3 writ bases have ;;>1. list-answer descriptor |
+| Every type node has *~basis* ;; descriptor | ✅ All 5 writs have *~basis* ;; under the By-Purpose basis |
+| Inline mini-tables use ;- not ;; | ✅ All *⚡ ... side-by-side* descriptors use ;- |
+| Cross-Basis Trap Zone present | ✅ 3 cross-basis pairs named with explicit distinguishing logic |
+| Section 8 has Classification Enumeration cloze sub-block | ✅ 6 enumeration clozes — 1 sentence per basis + cross-basis discrimination clozes |
 
 **This is the authoritative quality benchmark. Before delivering any note, ask: does my output look like this?**

@@ -29,12 +29,14 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 
 ## TAXONOMY (Subject > Category > Topics)
 
-**CSAT** *(not in standard taxonomy — use these)*
+**CSAT** _(not in standard taxonomy — use these)_
+
 - Quantitative Aptitude: Number System | Percentages | Ratio & Proportion | Time Speed Distance | Work and Time | Profit and Loss | Simple and Compound Interest | Geometry | Mensuration | Volume and Mensuration | Algebra | Set Theory and Venn Diagrams | Data Interpretation | Permutation and Combination | Probability | Exponential Growth and Series | Seating Arrangement (if math-based)
 - Logical Reasoning: Seating Arrangement | Blood Relations | Direction Sense | Coding-Decoding | Syllogisms | Ordering and Ranking | Analogy | Input-Output | Series Completion
 - Reading Comprehension: Reading Comprehension | Vocabulary | Grammar
 
 **History**
+
 - Ancient India: Prehistoric Period | Indus Valley Civilization | Vedic Age | Buddhism | Jainism | Mauryan Empire | Post-Mauryan Period | Gupta Empire | Post-Gupta Period | Sangam Age
 - Medieval India: Delhi Sultanate | Mughal Empire | Regional Kingdoms | Bhakti Movement | Sufi Movement | Maratha Empire | Medieval Art & Architecture
 - Modern India: British Expansion | Economic Impact of British Rule | Social & Religious Reform | 1857 Revolt | Rise of Nationalism | Gandhian Era | Revolutionary Movement | Communal Politics & Partition | Constitutional Development | British-Era Committees and Commissions
@@ -42,17 +44,20 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 - World History: Industrial Revolution | Colonialism & Imperialism | World Wars | Decolonization | Political Philosophies
 
 **Geography**
+
 - Physical Geography: Geomorphology | Climatology | Oceanography | Biogeography
 - Indian Geography: Physiography | Drainage System | Climate & Monsoon | Soils | Natural Vegetation | Minerals & Energy | Agriculture | Industries | Physical Features of India | Agricultural Geography
 - World Geography: Continents & Regions | Resource Distribution | World Population Distribution | Ethnic Communities and Tribes | Economic Geography
 
 **Society**
+
 - Indian Society: Features of Indian Society | Caste System | Family & Kinship | Religion & Communalism | Regionalism | Romani and Diaspora Communities
 - Women & Gender: Women's Issues | Women Empowerment
 - Population & Development: Population Issues | Poverty & Inequality | Urbanization
 - Globalization: Impact of Globalization
 
 **Polity**
+
 - Constitutional Framework: Historical Background | Preamble | Basic Structure | Fundamental Rights | DPSP & Fundamental Duties | Constitutional Amendments
 - Union Government: President | Vice President | Prime Minister & Council | Parliament | Supreme Court | Lok Sabha | Rajya Sabha
 - State Government: Governor | State Legislature | High Court
@@ -62,6 +67,7 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 - Elections & Representation: Electoral System | RPA Act | Political Parties
 
 **Governance**
+
 - Government Schemes & Policies: Social Sector Schemes | Welfare of Vulnerable Sections
 - Development & Civil Society: Role of NGOs & SHGs | Development Issues
 - Health & Education: Health Issues | Education
@@ -72,6 +78,7 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 - Prominent Personalities: Eminent Indians
 
 **International Relations**
+
 - India's Foreign Policy: Foreign Policy Principles
 - India & Neighbours: India-Pakistan | India-China | India-Bangladesh | India-Nepal | India-Sri Lanka | Other Neighbours
 - International Organizations: United Nations | Regional Groupings | Multilateral Forums
@@ -80,6 +87,7 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 - Global Political Movements: International Political Movements
 
 **Economy**
+
 - Macroeconomics: National Income | Money & Banking | Banking System | Inflation | Savings and Investment
 - Public Finance: Government Budget | Taxation | Fiscal Federalism
 - External Sector: Balance of Payments | Trade Policy | Foreign Investment | Exchange Rate
@@ -88,12 +96,14 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 - Development & Planning: Planning | Inclusive Growth | Human Development
 
 **Environment**
+
 - Ecology & Ecosystem: Ecology Basics | Biodiversity | Ecosystem Types
 - Environmental Issues: Pollution | Climate Change | Environmental Degradation
 - Conservation: Protected Areas | Conservation Laws & Bodies | International Conservation
 - Disaster Management: Disasters | Disaster Management
 
 **Science & Technology**
+
 - Space Technology: Indian Space Programme | Space Applications
 - Defence Technology: Defence R&D
 - Biotechnology: Biotech Applications | Biotech Ethics
@@ -105,12 +115,14 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 - Emerging Technologies: Optical and Wireless Communication | AI and Robotics | Nanotechnology
 
 **Internal Security**
+
 - Security Challenges: Terrorism | Left Wing Extremism | Insurgency
 - Border Security: Border Management | Organized Crime
 - Cyber & Communication Security: Cyber Security Challenges | Social Media & Security
 - Security Forces: Security Apparatus
 
-**Ethics** *(Paper=GS4 questions always go here)*
+**Ethics** _(Paper=GS4 questions always go here)_
+
 - Ethics Fundamentals: Ethics Basics | Human Values | Attitude
 - Thinkers & Philosophers: Indian Thinkers | Western Thinkers
 - Applied Ethics: Emotional Intelligence | Aptitude for Civil Service
@@ -125,72 +137,72 @@ Return ONLY a valid JSON array — no explanation, no markdown, no extra text.
 
 Derive the prefix from subject + category using this exact table:
 
-| Subject | Category | syllabus_id prefix |
-|---------|----------|--------------------|
-| History | Ancient India | HIS.ANC |
-| History | Medieval India | HIS.MED |
-| History | Modern India | HIS.MOD |
-| History | Post-Independence India | HIS.POST |
-| History | World History | HIS.WLD |
-| Geography | Physical Geography | GEO.PHY |
-| Geography | Indian Geography | GEO.IND |
-| Geography | World Geography | GEO.WLD |
-| Society | Indian Society | SOC.IND |
-| Society | Women & Gender | SOC.WOM |
-| Society | Population & Development | SOC.POP |
-| Society | Globalization | SOC.GLOB |
-| Polity | Constitutional Framework | POL.CON |
-| Polity | Union Government | POL.UNI |
-| Polity | State Government | POL.ST |
-| Polity | Federalism | POL.FED |
-| Polity | Constitutional Bodies | POL.CB |
-| Polity | Statutory & Regulatory Bodies | POL.SRB |
-| Polity | Elections & Representation | POL.ELX |
-| Governance | Government Schemes & Policies | GOV.SCH |
-| Governance | Development & Civil Society | GOV.DEV |
-| Governance | Health & Education | GOV.HED |
-| Governance | Poverty & Hunger | GOV.POV |
-| Governance | E-Governance & Transparency | GOV.EGV |
-| Governance | Civil Services | GOV.CS |
-| Governance | Awards and Honours | GOV.AWD |
-| Governance | Prominent Personalities | GOV.PERS |
-| International Relations | India's Foreign Policy | IR.FP |
-| International Relations | India & Neighbours | IR.NBR |
-| International Relations | International Organizations | IR.IO |
-| International Relations | Global Issues | IR.GLB |
-| International Relations | Africa | IR.AFR |
-| International Relations | Global Political Movements | IR.GPM |
-| Economy | Macroeconomics | ECO.MAC |
-| Economy | Public Finance | ECO.PUB |
-| Economy | External Sector | ECO.EXT |
-| Economy | Agriculture | ECO.AGR |
-| Economy | Industry & Infrastructure | ECO.IND |
-| Economy | Development & Planning | ECO.DEV |
-| Environment | Ecology & Ecosystem | ENV.ECO |
-| Environment | Environmental Issues | ENV.ISS |
-| Environment | Conservation | ENV.CON |
-| Environment | Disaster Management | ENV.DIS |
-| Science & Technology | Space Technology | S&T.SPC |
-| Science & Technology | Defence Technology | S&T.DEF |
-| Science & Technology | Biotechnology | S&T.BIO |
-| Science & Technology | IT & Communication | S&T.IT |
-| Science & Technology | Nuclear Technology | S&T.NUC |
-| Science & Technology | Basic Sciences | S&T.BSC |
-| Science & Technology | Intellectual Property | S&T.IPR |
-| Science & Technology | Astronomy | S&T.ASTRO |
-| Science & Technology | Emerging Technologies | S&T.EMR |
-| Internal Security | Security Challenges | SEC.CH |
-| Internal Security | Border Security | SEC.BDR |
-| Internal Security | Cyber & Communication Security | SEC.CYB |
-| Internal Security | Security Forces | SEC.SF |
-| Ethics | Ethics Fundamentals | ETH.FND |
-| Ethics | Thinkers & Philosophers | ETH.THK |
-| Ethics | Applied Ethics | ETH.APP |
-| Ethics | Public Administration Ethics | ETH.PAE |
-| Ethics | Case Studies | ETH.CS |
-| CSAT | Quantitative Aptitude | CSAT.QA |
-| CSAT | Logical Reasoning | CSAT.LR |
-| CSAT | Reading Comprehension | CSAT.RC |
+| Subject                 | Category                       | syllabus_id prefix |
+| ----------------------- | ------------------------------ | ------------------ |
+| History                 | Ancient India                  | HIS.ANC            |
+| History                 | Medieval India                 | HIS.MED            |
+| History                 | Modern India                   | HIS.MOD            |
+| History                 | Post-Independence India        | HIS.POST           |
+| History                 | World History                  | HIS.WLD            |
+| Geography               | Physical Geography             | GEO.PHY            |
+| Geography               | Indian Geography               | GEO.IND            |
+| Geography               | World Geography                | GEO.WLD            |
+| Society                 | Indian Society                 | SOC.IND            |
+| Society                 | Women & Gender                 | SOC.WOM            |
+| Society                 | Population & Development       | SOC.POP            |
+| Society                 | Globalization                  | SOC.GLOB           |
+| Polity                  | Constitutional Framework       | POL.CON            |
+| Polity                  | Union Government               | POL.UNI            |
+| Polity                  | State Government               | POL.ST             |
+| Polity                  | Federalism                     | POL.FED            |
+| Polity                  | Constitutional Bodies          | POL.CB             |
+| Polity                  | Statutory & Regulatory Bodies  | POL.SRB            |
+| Polity                  | Elections & Representation     | POL.ELX            |
+| Governance              | Government Schemes & Policies  | GOV.SCH            |
+| Governance              | Development & Civil Society    | GOV.DEV            |
+| Governance              | Health & Education             | GOV.HED            |
+| Governance              | Poverty & Hunger               | GOV.POV            |
+| Governance              | E-Governance & Transparency    | GOV.EGV            |
+| Governance              | Civil Services                 | GOV.CS             |
+| Governance              | Awards and Honours             | GOV.AWD            |
+| Governance              | Prominent Personalities        | GOV.PERS           |
+| International Relations | India's Foreign Policy         | IR.FP              |
+| International Relations | India & Neighbours             | IR.NBR             |
+| International Relations | International Organizations    | IR.IO              |
+| International Relations | Global Issues                  | IR.GLB             |
+| International Relations | Africa                         | IR.AFR             |
+| International Relations | Global Political Movements     | IR.GPM             |
+| Economy                 | Macroeconomics                 | ECO.MAC            |
+| Economy                 | Public Finance                 | ECO.PUB            |
+| Economy                 | External Sector                | ECO.EXT            |
+| Economy                 | Agriculture                    | ECO.AGR            |
+| Economy                 | Industry & Infrastructure      | ECO.IND            |
+| Economy                 | Development & Planning         | ECO.DEV            |
+| Environment             | Ecology & Ecosystem            | ENV.ECO            |
+| Environment             | Environmental Issues           | ENV.ISS            |
+| Environment             | Conservation                   | ENV.CON            |
+| Environment             | Disaster Management            | ENV.DIS            |
+| Science & Technology    | Space Technology               | S&T.SPC            |
+| Science & Technology    | Defence Technology             | S&T.DEF            |
+| Science & Technology    | Biotechnology                  | S&T.BIO            |
+| Science & Technology    | IT & Communication             | S&T.IT             |
+| Science & Technology    | Nuclear Technology             | S&T.NUC            |
+| Science & Technology    | Basic Sciences                 | S&T.BSC            |
+| Science & Technology    | Intellectual Property          | S&T.IPR            |
+| Science & Technology    | Astronomy                      | S&T.ASTRO          |
+| Science & Technology    | Emerging Technologies          | S&T.EMR            |
+| Internal Security       | Security Challenges            | SEC.CH             |
+| Internal Security       | Border Security                | SEC.BDR            |
+| Internal Security       | Cyber & Communication Security | SEC.CYB            |
+| Internal Security       | Security Forces                | SEC.SF             |
+| Ethics                  | Ethics Fundamentals            | ETH.FND            |
+| Ethics                  | Thinkers & Philosophers        | ETH.THK            |
+| Ethics                  | Applied Ethics                 | ETH.APP            |
+| Ethics                  | Public Administration Ethics   | ETH.PAE            |
+| Ethics                  | Case Studies                   | ETH.CS             |
+| CSAT                    | Quantitative Aptitude          | CSAT.QA            |
+| CSAT                    | Logical Reasoning              | CSAT.LR            |
+| CSAT                    | Reading Comprehension          | CSAT.RC            |
 
 **Examples:** `HIS.MED.1` / `GEO.IND.1` / `CSAT.QA.1` / `S&T.BSC.1`
 **NEVER use:** paper codes like `PTGS.x`, old codes like `S&T.PHY`, or numbers other than `.1`

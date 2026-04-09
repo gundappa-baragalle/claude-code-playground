@@ -37,4 +37,4 @@ UPSC traps are not random — they exploit predictable confusions. Traps are ide
 **7. No isolation — every concept connects**
 After building a concept from zero, always show where it connects outward: what it depends on, what depends on it, how it appears in different UPSC papers, and what current affairs it links to. Knowledge built in isolation decays; knowledge built in a web survives.
 
-*For the cognitive science behind these principles: `references/cognitive-science.md` contains the 17-principle research table (Paivio, Roediger, Kapur et al.) and detailed quality standards for each principle. Read it only if you need to understand why a standard exists — never required during normal generation.*
+*For the cognitive science behind these principles: `references/cognitive-science.md` contains the 19-principle research table (Paivio, Roediger, Kapur et al.) and detailed quality standards for each principle. Read it only if you need to understand why a standard exists — never required during normal generation.*

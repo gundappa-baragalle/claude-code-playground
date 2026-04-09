@@ -80,6 +80,21 @@ UPSC asks 3–5 direct Prelims questions every year. Two PYQ types dominate: **i
 **Types:** Physical, Human, Economic, Environmental
 **Connect to:** Climate change, Agriculture, Industries, Current disasters
 
+**Classification Landscape trigger — mandatory for heavily classificatory Geography topics:**
+Physical geography is the highest-density classification domain in UPSC. Whenever the topic has types, apply the full Classification Landscape block in Section 5.
+
+| Trigger topic | Classification bases to include |
+|--------------|--------------------------------|
+| Soils | Type (Zonal/Intrazonal/Azonal) + origin/formation + ICAR classification (Alluvial/Black/Red/Laterite/Arid/Saline/Peaty/Forest) |
+| Rocks | Formation process (Igneous/Sedimentary/Metamorphic) + texture/grain size |
+| Clouds | Altitude (High/Middle/Low/Vertical) + form (Cumulus/Stratus/Cirrus/Nimbus) |
+| Cyclones | Origin basin (Tropical/Extra-tropical) + intensity scale |
+| Rainfall | Mechanism (Orographic/Convectional/Cyclonic/Frontal) |
+| Earthquakes | Focus depth (Shallow/Intermediate/Deep) + wave type (P/S/Surface) |
+| Ocean currents | Temperature (Warm/Cold) + cause (Wind-driven/Density/Tidal) |
+
+Use the **single-basis variant** when only one classification axis matters (e.g., rocks by formation process only). Use the **multi-basis template** when UPSC has tested cross-axis questions (e.g., soils by ICAR type AND by formation).
+
 **Map-based questions (Prelims staple):** For every geography topic, generate a **Locate It** block:
 ```
 - **Locate It** :- Map Practice
@@ -142,6 +157,20 @@ S&T questions fall into three types — use a different emphasis for each:
 
 **Always include:** Species/Ecosystem details, Conservation status (IUCN, Wildlife Protection Act Schedule), Policies/Conventions
 **Connect to:** International conventions (CBD, CITES, Ramsar, Paris Agreement), India's commitments, Recent IPCC/WWF reports
+
+**Classification Landscape trigger — mandatory for heavily classificatory Environment topics:**
+Ecology and environment have multiple classification axes that UPSC cross-tests. Apply the full Classification Landscape block in Section 5 for any of the following:
+
+| Trigger topic | Classification bases to include |
+|--------------|--------------------------------|
+| Ecosystems | Type (Terrestrial/Aquatic/Wetland) + energy flow structure + productivity |
+| Biodiversity | Level (Genetic/Species/Ecosystem) + hotspot designation criteria |
+| Forests | FAO/FSI type (Tropical/Sub-tropical/Temperate/Alpine) + legal category (Reserved/Protected/Village) |
+| Pollution | Medium (Air/Water/Soil/Noise/Radioactive) + source (Point/Non-point) |
+| Wetlands | Formation (Natural/Man-made) + Ramsar status + ecosystem services |
+| IUCN categories | Conservation status (EX/EW/CR/EN/VU/NT/LC) — single-basis variant |
+
+Cross-basis trap: students confuse **ecosystem type** (structure) with **biome type** (climate zone) and **forest legal category** (legal status) — these are three different bases. Include a Cross-Basis Trap Zone whenever two or more of these axes apply.
 
 **Extra mandatory elements:**
 - Every species note: IUCN status + Schedule under WPA 1972 + found in which states

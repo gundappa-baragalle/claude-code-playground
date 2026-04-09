@@ -5,7 +5,7 @@ In normal operation, just apply the standards listed in SKILL.md — they alread
 
 ---
 
-## The 17 Principles Embedded in Every Note
+## The 19 Principles Embedded in Every Note
 
 | Principle | Research Basis | How Implemented |
 |-----------|---------------|-----------------|
@@ -14,18 +14,20 @@ In normal operation, just apply the standards listed in SKILL.md — they alread
 | **Retrieval Practice** | Roediger & Karpicke, 2006 | Cloze cards, MCQs, fill-in-the-blank |
 | **Spaced Repetition** | Ebbinghaus, 1885 | RemNote SRS + `;;` on all testable facts |
 | **Schema Building** | Ausubel, 1960 | `*📌 beginner note*` connects to familiar concepts |
-| **Chunking** | Miller, 1956 | Hierarchical nesting, mnemonics, numbered lists |
-| **Concrete Examples** | Zhu & Simon, 1987 | `*🧠 analogy*`, real-world examples |
-| **Interleaving** | Kornell & Bjork, 2008 | `*⚡ contrast*` comparisons throughout |
+| **Chunking** | Miller, 1956 | Hierarchical nesting, mnemonics, numbered lists; Classification Landscape chunks types by their basis rather than as an undifferentiated list |
+| **Concrete Examples** | Zhu & Simon, 1987 | `*🧠 analogy*`, real-world examples; `*~India example* ;;` on every classification type |
+| **Interleaving** | Kornell & Bjork, 2008 | `*⚡ contrast*` comparisons throughout; Cross-Basis Trap Zone deliberately mixes types across classification axes — the same interleaving effect that produces stronger discrimination than blocked practice |
 | **Emotional Encoding** | McGaugh, 2004 | Story hooks, vivid imagery, surprising facts |
 | **Self-Explanation Effect** | Chi et al., 1994 | `*💭 self-explain*` prompts before revealing answers |
 | **Productive Failure** | Kapur, 2016 | `*🧪 try first*` challenge block before content |
 | **Boundary Conditions** | Schwartz & Bransford, 1998 | `*~does NOT apply when*` for every major concept |
 | **Generative Learning** | Wittrock, 1990 | `*🔨 your example*` prompts after analogies |
 | **Transfer-Appropriate Processing** | Morris et al., 1977 | Explicit `*~Prelims mode*` vs `*~Mains mode*` in MCQs |
-| **Advance Organizers** | Ausubel, 1960 | **Before You Read** pre-questions at top of every note |
+| **Advance Organizers** | Ausubel, 1960 | **Before You Read** pre-questions; Classification Matrix branch in Section 3 Big Picture presents the full basis→types map before Section 5 introduces individual types — a spatial advance organiser for classification-heavy topics |
 | **Feynman Technique** | Feynman (heuristic) | Feynman Test block at end of notes |
 | **Method of Loci** | Ancient / modern research | Big Picture maps, visual structure |
+| **Category Learning / Prototype Theory** | Rosch, 1975; Smith & Medin, 1981 | Classification Landscape makes the defining criterion (the basis) explicit before the types — the way the brain learns categories: by grasping the rule that separates members from non-members. `**By [Basis]** :-` names the criterion; `**[Type]** ::` defines the member; `*~basis* ;;` reinforces category membership for cross-basis retrieval |
+| **Discrimination Learning** | Lashley, 1938; Terrace, 1963 | Cross-Basis Trap Zone names the exact confusion between types from different axes and explains why the brain defaults to the wrong choice; Section 9 cross-basis MCQ (Frames A/B/C) forces active discrimination — the practice regime that builds the most durable categorical boundaries |
 
 ---
 
@@ -146,6 +148,22 @@ Compare whenever: two traditions answer same question differently; similar terms
 - **Categories** for types: Organelles → Energy, Synthesis, Transport
 - **Timelines** for chronology: Dates grouped by century/era
 - **Hierarchy** for relationships: Part-whole, Type-subtype
+
+**Classification Landscape — the structured form of chunking for multi-basis categories:**
+
+When a concept has multiple independent bases of classification, flat chunking fails because it conflates three distinct recall levels that UPSC tests independently:
+
+| Recall Level | Cognitive principle | What UPSC asks | RemNote syntax |
+|-------------|-------------------|----------------|----------------|
+| **Level 1 — Within-basis definition** | Retrieval Practice (Roediger & Karpicke, 2006) | "What is hyperinflation?" | `**Type** ::` concept card |
+| **Level 2 — Cross-basis attribution** | Category Learning / Prototype Theory (Rosch, 1975; Smith & Medin, 1981) | "Hyperinflation is classified by which basis?" | `*~basis* ;;` descriptor |
+| **Level 3 — Enumeration** | Chunking + Retrieval Practice (Miller, 1956; Roediger & Karpicke, 2006) | "Name all types of inflation by speed" | `*~all types* ;;>1.` list-answer |
+
+The Cross-Basis Trap Zone applies **Discrimination Learning** (Lashley, 1938; Terrace, 1963) and **Interleaving** (Kornell & Bjork, 2008) — naming the exact confusion between types from different axes and explaining why the brain defaults to it; the Section 9 cross-basis MCQ forces active discrimination practice, which builds the most durable categorical boundaries.
+
+The classification matrix branch in Section 3 Big Picture is a spatial **Advance Organiser** (Ausubel, 1960) — it gives the student the full basis→types map before any individual type is explained in Section 5, activating schema scaffolding before detail encoding begins.
+
+**Single-basis variant:** When only one classification axis exists, omit the Cross-Basis Trap Zone (no cross-axis confusion possible). Keep `;;>1.` enumeration, `*~basis* ;;` on every type, and a Within-Basis Trap Zone for the most-confused pair within that single axis. Discrimination Learning still applies — just within one axis instead of across axes.
 
 ### Standard 9: Spaced Repetition Optimization
 - `::` for important definitions (two-way review)

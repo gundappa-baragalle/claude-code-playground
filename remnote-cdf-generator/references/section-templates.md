@@ -37,6 +37,21 @@ The ASCII tree lives inside a triple-backtick code fence as the value of `*~stru
 - **Historical topics**: use a timeline with `────` connectors and vertical drops
 - **Cyclical processes**: use arrow loops `→ A → B → C → A`
 - **Comparisons**: use a side-by-side split with a `|` divider column
+- **Heavily classificatory topics** (inflation, earthquakes, soils, rocks, cells, ecosystems — any topic where classification IS the primary dimension): add a **classification matrix branch** to the ASCII tree showing each basis as a branch and its types as leaves. This gives the student a spatial overview of the entire classification landscape before they read Section 5.
+
+```
+      TOPIC NAME
+      │
+      ├── [Main conceptual branches...]
+      │
+      └── CLASSIFICATION MATRIX
+              ├── By [Basis 1]: Type A | Type B | Type C
+              ├── By [Basis 2]: Type X | Type Y
+              └── By [Basis 3]: Type P | Type Q | Type R
+              ⚠️ Cross-basis traps: [Type A] ≠ [Type X] (different axes)
+```
+
+This matrix branch in Section 3 is a spatial advance organiser (Ausubel, 1960) — it shows the full shape of the classification landscape before the student encounters any individual type. Do not put definitions here; put only the basis names and type names.
 
 **Worked example (Inflation) — basic `+--` style:**
 
@@ -187,6 +202,13 @@ Before writing Section 4, do this thinking exercise:
 
 **The prerequisite chain rule:** If Term B requires Term A to be understood, Term A must appear BEFORE Term B in this section. Work backwards from the main topic until you hit concepts the beginner already knows from daily life.
 
+**The classification-type prerequisite rule:** If Section 5 will contain a Classification Landscape with types (e.g., Demand-Pull Inflation, Cost-Push Inflation), every classification TYPE must be defined in Section 4 first — before Section 5 uses it. The type names are not self-explanatory to a beginner. A student reading "Demand-Pull" in Section 5 must already know what "aggregate demand" means; a student reading "Orographic rainfall" must already know what "orography" means. Apply this chain:
+1. List every type name that will appear in every Classification Landscape in Section 5
+2. For each type, identify which component terms a beginner would not know
+3. Add those component terms to Section 4, in prerequisite order, before the main concept definition
+
+Example: for Inflation Classification Landscape → Section 4 must define **Aggregate Demand**, **Aggregate Supply**, **Cost of Production**, **Supply Shock**, **Structural rigidity** — before "Demand-Pull" or "Cost-Push" is named in Section 5.
+
 Example chain for Inflation:
 ```
 Daily life knowledge: "prices went up at the market"
@@ -300,6 +322,194 @@ Every concept that UPSC has tested or could test gets this full treatment:
 - Exclude biographical trivia, excessive historical narrative, and content with zero PYQ relevance
 - Never compress a concept to save space — if it needs 10 lines to be fully clear, write 10 lines
 
+#### Classification Landscape — mandatory when a concept has types
+
+**When to apply:** Any concept in Section 5 that has types, kinds, or categories — signal phrases: "types of", "classified as", "kinds of", "on the basis of". Applies across ALL subjects: inflation types, earthquake types, cell types, soil types, cloud types, ecosystem types, rights categories, writ types, etc.
+
+**Why a dedicated block:** Classifications have three distinct recall levels that UPSC tests independently:
+- **Level 1 — Within-basis:** "What is stagflation?" → Type → definition
+- **Level 2 — Cross-basis attribution:** "Stagflation is classified by which basis?" → Type → its basis
+- **Level 3 — Enumeration:** "Name all types of inflation by speed" → Basis → full ordered list
+
+Flat bullet lists address only Level 1. The Classification Landscape addresses all three using the right RemNote syntax for each.
+
+**Position:** Place the Classification Landscape as the last sub-block inside the concept node — after explaining the concept itself, before moving to the next concept in Section 5.
+
+**Full template:**
+
+```
+    - **[Concept] — Classification Landscape** :- How [Concept] Is Classified
+      - *~classification count* ;; [N] independent bases — each produces a different set of types
+      - *~UPSC note* ;- [Which bases/types have been tested — from dimensions_tested in topic-map. Also flag untested bases as "not yet asked" — these are Section 9 targets.]
+        ← `;-` not `;;`: this descriptor bundles multiple planning facts (tested bases, untested bases, PYQ years) into one note — it is not atomic enough for a clean flashcard. The individual atomic facts (e.g. "By Cause tested in 2019") belong in Section 7 one-liners or the `*~basis* ;;` descriptors on each type.
+
+      - **By [Basis 1 name]: [The criterion — what property is being used to classify]** :- [N] types
+        - *~all types* ;;>1.                     ← LIST-ANSWER flashcard: "All types by [Basis 1]?" → must recall ordered list
+          - [Type A]
+          - [Type B]
+          - [Type C]
+        - *⚡ [Basis 1] types — side-by-side* ;-          ← `;-` not `;;` — understanding aid, NOT a flashcard
+          | Type | Defining feature | Trigger / Example | UPSC trap |
+          |------|-----------------|-------------------|-----------|
+          | **[Type A]** | [≤5 words] | [India example] | [confusion] |
+          | **[Type B]** | [≤5 words] | [India example] | [confusion] |
+          | **[Type C]** | [≤5 words] | [India example] | [confusion] |
+        - **[Type A]** :: [One-sentence definition — what makes it THIS type and not another]
+          - *~basis* ;; By [Basis 1]: [criterion]     ← cross-basis flashcard (Level 2): "Type A → which basis?"
+          - *~trigger condition* ;- [What conditions produce/cause this type — use `;-` not `;;`; only upgrade to `;;` if topic-map shows UPSC has directly tested the trigger mechanism]
+          - *~India example* ;; [Specific Indian instance + year if applicable]
+          - *⚠️ exam trap* ;- [Most likely confusion: with which other type, and why the brain picks wrong]
+        - **[Type B]** :: [definition]
+          - *~basis* ;; By [Basis 1]: [criterion]
+          - *~trigger condition* ;- [...]
+          - *~India example* ;; [...]
+          - *⚠️ exam trap* ;- [...]
+
+      - **By [Basis 2 name]: [The criterion]** :- [N] types
+        - *~all types* ;;>1.
+          - [Type X]
+          - [Type Y]
+        - *⚡ [Basis 2] types — side-by-side* ;-
+          | Type | Defining feature | Trigger / Example | UPSC trap |
+          |------|-----------------|-------------------|-----------|
+          | **[Type X]** | ... | ... | ... |
+          | **[Type Y]** | ... | ... | ... |
+        - **[Type X]** :: [definition]
+          - *~basis* ;; By [Basis 2]: [criterion]
+          - *~trigger condition* ;- [...]
+          - *~India example* ;; [...]
+          - *⚠️ exam trap* ;- [...]
+
+      - **⚠️ Cross-Basis Trap Zone** :- Types From Different Bases That UPSC Conflates
+        - *~[Type A] vs [Type X]* ;- Different bases: [Type A] = by [Basis 1] ([criterion 1]); [Type X] = by [Basis 2] ([criterion 2]). [One-line distinguishing logic — why they feel similar, what separates them]
+        - *~[further cross-basis pairs as needed]* ;- [...]
+
+      - **🔢 Enumeration Master** :- Full Count by Basis
+        - *~[Basis 1] count* ;; [N] types: [Type A] | [Type B] | [Type C]
+        - *~[Basis 2] count* ;; [N] types: [Type X] | [Type Y]
+```
+
+**Worked example — Types of Inflation:**
+
+```
+    - **Inflation — Classification Landscape** :- How Inflation Is Classified
+      - *~classification count* ;; 4 independent bases: cause, speed, scope, expectation
+      - *~UPSC note* ;- Tested: By Cause (demand-pull, cost-push — PYQs 2012–2019); By Speed (hyperinflation 2017). Not yet asked: By Scope, By Expectation — high-probability Section 9 targets.
+
+      - **By Cause: What pushes prices up** :- 3 types
+        - *~all types* ;;>1.
+          - Demand-Pull
+          - Cost-Push
+          - Structural
+        - *⚡ By-Cause types — side-by-side* ;-
+          | Type | Defining feature | India trigger | UPSC trap |
+          |------|-----------------|---------------|-----------|
+          | **Demand-Pull** | Demand > Supply | Fiscal stimulus; rising incomes | Confused with monetary inflation |
+          | **Cost-Push** | Production costs rise | Oil shock; MSP hike; wage rise | Confused with demand-pull |
+          | **Structural** | Supply-chain bottlenecks | Agricultural storage gaps | Confused with cost-push |
+        - **Demand-Pull Inflation** :: Prices rise because aggregate demand exceeds aggregate supply
+          - *~basis* ;; By Cause: demand exceeds supply
+          - *~trigger condition* ;- Fiscal stimulus / rising incomes / loose monetary policy → AD ↑ > AS
+          - *~India example* ;; Post-COVID stimulus 2021 → demand surge while supply constrained
+          - *⚠️ exam trap* ;- "Both demand-pull and monetary inflation involve too much money" — true, but M↑ causes demand-pull; demand-pull is the result. They are measured differently on the AD-AS graph.
+        - **Cost-Push Inflation** :: Prices rise because production costs increase, shifting supply left
+          - *~basis* ;; By Cause: supply-side cost increase
+          - *~trigger condition* ;- Oil shock / MSP hike / wage rise → AS ↓ → prices ↑
+          - *~India example* ;; 2022 post-Ukraine oil shock → fuel price rise → cascading cost-push across sectors
+          - *⚠️ exam trap* ;- Both demand-pull and cost-push raise prices — key: demand-pull = AD shifts right; cost-push = AS shifts left. Growth direction differs: demand-pull = output rises; cost-push = output falls (→ stagflation risk).
+
+      - **By Speed: How fast prices rise** :- 4 types
+        - *~all types* ;;>1.
+          - Creeping (0–3%)
+          - Walking (3–10%)
+          - Galloping (10–50%)
+          - Hyperinflation (>50%/month)
+        - *⚡ By-Speed types — side-by-side* ;-
+          | Type | Rate | Consequence | Canonical example |
+          |------|------|-------------|-------------------|
+          | **Creeping** | 0–3% | Tolerable; mild growth signal | Normal developed economy |
+          | **Walking** | 3–10% | Warning; erodes real wages | India average 2010s |
+          | **Galloping** | 10–50% | Dangerous; savings eroded | Venezuela 2010s |
+          | **Hyperinflation** | >50%/month | Currency collapses | Zimbabwe 2008; Weimar 1923 |
+        - **Hyperinflation** :: Inflation exceeding 50% per month — currency loses value faster than it can be spent
+          - *~basis* ;; By Speed: rate >50%/month
+          - *~trigger condition* ;- Govt prints money uncontrollably to finance deficit → M↑↑ → P↑↑
+          - *~India example* ;; Not in India — Zimbabwe 2008 (canonical); Weimar Germany 1923
+          - *⚠️ exam trap* ;- "Hyperinflation = very high inflation" is vague — UPSC expects the 50%/month threshold. Galloping (10–50%) ≠ hyperinflation.
+
+      - **⚠️ Cross-Basis Trap Zone** :- Types From Different Bases That UPSC Conflates
+        - *~Stagflation vs Cost-Push* ;- Different bases: Stagflation = by Growth outcome (inflation + stagnation together); Cost-Push = by Cause (supply-side cost rise). Cost-push CAN trigger stagflation but they are not in the same classification axis.
+        - *~Hyperinflation vs Galloping* ;- Same basis (speed) but different thresholds — Galloping = 10–50%; Hyperinflation = >50%/month. Galloping is dangerous; hyperinflation is catastrophic currency collapse.
+        - *~Disinflation vs Deflation* ;- Not even the same phenomenon: Disinflation = inflation rate is falling (still positive); Deflation = price level itself is falling (negative inflation). Disinflation ≠ prices falling.
+
+      - **🔢 Enumeration Master** :- Full Count by Basis
+        - *~By Cause count* ;; 3 types: Demand-Pull | Cost-Push | Structural
+        - *~By Speed count* ;; 4 types: Creeping (0–3%) | Walking (3–10%) | Galloping (10–50%) | Hyperinflation (>50%/month)
+        - *~By Scope count* ;; 2 types: Comprehensive (all goods) | Sporadic/Sectoral (specific sectors)
+        - *~By Expectation count* ;; 2 types: Anticipated | Unanticipated
+```
+
+**Single-basis variant — use when the concept has exactly 1 basis of classification:**
+
+Many UPSC topics have only one axis of classification with multiple types — clouds (by altitude/form), rocks (by origin), constitutional amendments (by procedure), soil types (by composition). For these, the multi-basis machinery (Cross-Basis Trap Zone, Enumeration Master with multiple counts) is either empty or redundant. Use this stripped-down variant instead:
+
+```
+    - **[Concept] — Classification Landscape** :- How [Concept] Is Classified
+      - *~classification count* ;; 1 basis: [basis name]
+      - *~UPSC note* ;- [Which types have been tested; which are untested — Section 9 targets]
+
+      - **By [Basis]: [The criterion]** :- [N] types
+        - *~all types* ;;>1.
+          - [Type A]
+          - [Type B]
+          - [Type C]
+        - *⚡ [Basis] types — side-by-side* ;-
+          | Type | Defining feature | Example | UPSC trap |
+          |------|-----------------|---------|-----------|
+          | **[Type A]** | [≤5 words] | [...] | [...] |
+          | **[Type B]** | [≤5 words] | [...] | [...] |
+        - **[Type A]** :: [One-sentence definition]
+          - *~basis* ;; By [Basis]: [criterion]
+          - *~trigger condition* ;- [What produces/causes this type]
+          - *~India example* ;; [...]
+          - *⚠️ exam trap* ;- [Most common confusion — often within-basis: Type A confused with Type B]
+        - **[Type B]** :: [...]
+          - *~basis* ;; By [Basis]: [criterion]
+          - *~trigger condition* ;- [...]
+          - *~India example* ;; [...]
+          - *⚠️ exam trap* ;- [...]
+
+      - **⚠️ Within-Basis Trap Zone** :- Most Confused Pair
+        - *~[Type A] vs [Type B]* ;- [What makes them feel similar; what actually separates them]
+
+      - **🔢 Enumeration** :- Full Count
+        - *~[Basis] count* ;; [N] types: [Type A] | [Type B] | [Type C]
+```
+
+**When to use single-basis vs multi-basis variant:**
+
+| Condition | Use |
+|-----------|-----|
+| 1 axis of classification | Single-basis variant (no Cross-Basis Trap Zone) |
+| 2+ independent axes | Multi-basis full template (with Cross-Basis Trap Zone) |
+| Unclear how many axes | Start with the axes you know; add more as Section 5 content demands |
+
+The within-basis trap zone in the single-basis variant replaces the cross-basis trap zone — it still forces discrimination, just between types within the same axis.
+
+**Six design rules — enforce without exception:**
+
+1. **Every basis gets `;;>1.` (list-answer descriptor).** This is the enumeration flashcard — "Name all types by [basis]?" with children as the ordered list. This is the only RemNote syntax that forces recall of a complete set in order.
+
+2. **Every type gets `*~basis* ;;`.** This creates the cross-basis attribution flashcard. Without it, students can define all types but cannot answer "stagflation belongs to which classification axis?"
+
+3. **`*~trigger condition*` always uses `;-` by default.** Trigger conditions are mechanistic/causal context — they aid understanding but are rarely tested directly. Only upgrade to `;;` when the topic-map's `dimensions_tested` shows UPSC has explicitly tested the trigger mechanism for that specific type. Defaulting to `;;` floods the SRS queue with low-value cards.
+
+4. **The inline mini-table uses `;-` not `;;`.** It is an understanding scaffold — the flashcards come from `::` on each type and `;;>1.` on each basis. Never make the table itself a flashcard target.
+
+5. **Cross-Basis Trap Zone is mandatory when 2+ bases exist.** UPSC's hardest classification questions force cross-basis discrimination. Naming the confusion explicitly is more powerful than hoping students notice it.
+
+6. **Do NOT create a Section 6 table for the classification landscape.** The inline mini-table in Section 5 is sufficient. Section 6 tables are for entity-to-entity comparison (WPI vs CPI), not for type landscapes which require the full `::` / `;;>1.` / `*~basis*` structure.
+
 #### Coverage floor — non-negotiable
 
 After writing Section 5, ask: "If a student read only this section, could they answer every Prelims question in the PYQ Archive?" If the answer is no for even one question — find the gap and fill it.
@@ -328,70 +538,42 @@ This is why BOTH printing money AND output collapse cause inflation.
 **CRITICAL — RemNote Simple Table Flashcard Design:**
 
 When RemNote imports a Markdown table, it becomes a **Simple Table**. In Simple Tables:
+
 - The **first column = Concept column** (shown in gray = the "Name" of each row)
 - Every **other column = Descriptor column** (can generate flashcards per column)
 - For each non-Name column, the user enables flashcards via: click column header → Flashcard Configuration → Enable For This Column → choose direction
 
 **Design rules for every table:**
+
 1. **Name column must be the primary identity** of each row — the thing being studied (e.g., the Council name, the Site name, the Concept name). Never put a generic label like "Feature" or "Item" as the first-column value.
 2. **Each non-Name column should test one discrete fact** — keep cells ≤5 words so flashcard answers are crisp.
 3. **After every table, add a RemNote Flashcard Setup descriptor** specifying which columns to enable and which direction. This is mandatory — it tells the user exactly what to configure after import.
 
 **Flashcard direction guide:**
+
 - `Forward` (Name + column header → cell value): Use when you see the concept and need to recall the fact
 - `Backward` (column header + cell value → Name): Use when you see the fact and need to recall the concept
 - `Both`: Use when recall in both directions is valuable (e.g., location ↔ site name)
 - `Skip`: Use for context/memory-hook columns that are not worth drilling
-
-#### ⛔ CRITICAL INDENTATION RULE — THE MOST COMMON TABLE FAILURE
-
-The `*~RemNote setup* ;-` descriptor and the Markdown table rows are **siblings** — both are direct children of the parent `**[Title] Table** :-` Rem. The table is NOT nested inside or under the setup descriptor.
-
-**WRONG (table nested under setup descriptor — produces garbled output):**
-```
-  - **WPI vs CPI Table** :- Flashcard Table
-    - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | WPI: Both directions | CPI: Both directions | Notes: Skip
-      | Feature | WPI | CPI-Combined | Notes |
-      |---------|-----|--------------|-------|
-      | **Full name** | Wholesale Price Index | Consumer Price Index | — |
-```
-In RemNote this concatenates the setup descriptor text with the table pipe characters into one unreadable garbled line.
-
-**CORRECT (setup descriptor and table rows are siblings at the same indentation level):**
-```
-  - **WPI vs CPI Comparison** :- Flashcard Table
-    - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | WPI: Both directions | CPI: Both directions | Notes: Skip
-    | Feature | WPI | CPI-Combined | Notes |
-    |---------|-----|--------------|-------|
-    | **Full name** | Wholesale Price Index | Consumer Price Index | — |
-    | **Tracks prices at** | Wholesale/producer level | Retail/consumer level | CPI = what YOU pay |
-    | **Covers services?** | NO | YES | Key WPI limitation |
-    | **Food weight** | ~24% | ~39% (combined) | CPI more food-sensitive |
-    | **Base year** | 2011-12 | 2012 | — |
-    | **Frequency** | Monthly | Monthly | WPI = monthly |
-    | **RBI's measure?** | Was until 2014 | YES (since 2014) | MPC targets CPI |
-    | **Published by** | Office of Economic Adviser (DPIIT) | MoSPI | Different ministries |
-```
-
-Notice: the `| Feature | WPI |...` table row is at the **same indentation** as `- *~RemNote setup* ;-`, not further indented under it.
 
 #### Full Template
 
 ```
   - **[Title] Table** :- Flashcard Table
     - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | [Column 2]: Both directions | [Column 3]: Forward only | [Column 4]: Skip
+    - *~Table* ;-
     | Name | [Column 2] | [Column 3] | [Column 4] |
     |------|-----------|-----------|-----------|
     | **Row 1** | cell | cell | cell |
     | **Row 2** | cell | cell | cell |
 ```
 
-**⚠️ Do NOT use HTML comments (`<!-- RemNote Setup: ... -->`).** RemNote renders HTML comments as visible plain text. Always use the `*~RemNote setup* ;-` descriptor format — but ensure it is a **sibling** of the table rows, not their parent.
-
 **Worked example — Buddhist Sites Table:**
+
 ```
   - **Key Buddhist Sites Table** :- Flashcard Table
     - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | Location: Both directions (Site → Location AND Location → Site; PYQ trap area) | Known For: Forward only | Memory Hook: Skip
+    - *~Table* ;-
     | Site | Location | Known For | Memory Hook |
     |------|----------|-----------|-------------|
     | **Sanchi** | Madhya Pradesh | Greatest stupa; Torana; UNESCO | Ashoka built |
@@ -399,6 +581,7 @@ Notice: the `| Feature | WPI |...` table row is at the **same indentation** as `
 ```
 
 **Column design decision rules:**
+
 - If a column contains the **primary UPSC-testable fact** about the Name → Both directions
 - If a column contains **supplementary context** (dates, notes) → Forward only
 - If a column contains **memory hooks, analogies, or "NOT X" traps** → Skip (or Forward only if the trap itself is testable)
@@ -417,6 +600,56 @@ Every one-liner **must** use `;;` (forward-only descriptor) to generate an actua
 
 > **⚠️ Do NOT use `→ Back of card` suffix.** This is a RemNote UI label, not a syntax delimiter — it has no effect in imported files and appears as literal text. Use `;;` instead.
 
+**Classification one-liners — mandatory when topic has Classification Landscapes:**
+
+Every Classification Landscape must contribute at minimum three categories of one-liners to Section 7. These are the atomic flashcard form of the same content — the student hits them in SRS daily, long after the Section 5 detail has faded.
+
+**Category A — Threshold / count facts** (the crisp numbers UPSC tests directly):
+```
+    - Hyperinflation threshold ;; >50%/month
+    - Galloping inflation range ;; 10–50%
+    - Inflation classification bases ;; 4 (cause, speed, scope, expectation)
+    - Creeping inflation range ;; 0–3% (tolerable)
+```
+
+**Category B — Cross-basis attribution** (Type → its basis — directly maps to Level 2 recall):
+```
+    - Demand-Pull inflation ;; By Cause: demand exceeds supply
+    - Stagflation basis ;; By Growth outcome — NOT by cause
+    - Hyperinflation basis ;; By Speed (>50%/month) — NOT by cause
+    - Structural inflation basis ;; By Cause: supply-chain bottleneck
+```
+
+**Category C — Cross-basis discrimination** (the "NOT" one-liners that nail the trap):
+```
+    - Disinflation ≠ Deflation ;; Disinflation = rate falling (still +ve); Deflation = price level falling
+    - Stagflation ≠ Cost-Push ;; Stagflation = growth outcome axis; Cost-Push = cause axis
+    - Galloping ≠ Hyperinflation ;; Galloping = 10–50%; Hyper = >50%/month
+```
+
+**Rule:** Categories A and B are always `;;` (forward flashcard — UPSC tests these directly). Category C uses `;;` with the full discrimination in the value half — the "≠" format forces the student to read and process both sides of the confusion. Do not use `;-` for any of these three categories.
+
+**Classification one-liners — mandatory when topic has Classification Landscapes:**
+
+The Section 7 one-liner block must include entries for every Classification Landscape in Section 5. Two categories of classification one-liners are required:
+
+*Category A — Cross-basis attribution facts* (Type → its basis). These are exactly what Level 2 recall requires and they compress cleanly into one-liner format:
+```
+    - Stagflation basis ;; By Growth Outcome — inflation + stagnation simultaneously
+    - Hyperinflation basis ;; By Speed — rate >50%/month
+    - Cost-Push basis ;; By Cause — supply-side production cost rise
+```
+
+*Category B — Threshold / defining facts per type* (the single number or criterion that uniquely identifies the type):
+```
+    - Hyperinflation threshold ;; >50% per month (Cagan, 1956)
+    - Galloping inflation range ;; 10–50%
+    - Creeping inflation range ;; 0–3% (mild, tolerable)
+    - [Concept] classification count ;; [N] independent bases
+```
+
+These one-liners are distinct from the `;;>1.` enumeration flashcard in Section 5 (which tests the full ordered list) — they test atomic cross-basis and threshold facts that deserve their own SRS cards. Do not skip them.
+
 ### Section 8: Quick Revision (Cloze Flashcards)
 ```
   - **Quick Revision** :- Cloze Cards
@@ -427,27 +660,120 @@ Every one-liner **must** use `;;` (forward-only descriptor) to generate an actua
 Every answer MUST use `{{}}`. Use `{{cloze}}{({hint})}` for confusable items.
 Good hints: context, category, what it's NOT, year/era. Bad hints: near-synonyms.
 
+**Classification Enumeration sub-block — add when the topic has Classification Landscapes:**
+
+Every Classification Landscape from Section 5 must produce enumeration cloze cards in Section 8. These force recall of the complete set per basis — the exact skill UPSC's "how many of the following" questions demand.
+
+**Pattern:** One sentence per basis. Cloze each type name. Use the count as a hint on the last item.
+
+```
+  - **Classification Enumeration** :- Recall Full Lists by Basis
+    - Types of [concept] by [Basis 1]: {{[Type A]}}{({1st})}, {{[Type B]}}{({2nd})}, {{[Type C]}}{({3rd — [N] total})}.
+    - Types of [concept] by [Basis 2]: {{[Type X]}}{({[hint])}}, {{[Type Y]}}{({last of [N])}}.
+    - [Basis 1] that produced [specific India example] ;; [Type name] — because [one-line reason]
+```
+
+**Worked example — Inflation enumeration clozes:**
+
+```
+  - **Classification Enumeration** :- Recall Full Lists by Basis
+    - Types of inflation by cause: {{Demand-Pull}}{({excess demand})}, {{Cost-Push}}{({supply cost rise})}, {{Structural}}{({bottleneck — 3 total})}.
+    - Types of inflation by speed: {{Creeping}}{({0–3%})}, {{Walking}}{({3–10%})}, {{Galloping}}{({10–50%})}, {{Hyperinflation}}{({>50%/month — 4 total})}.
+    - 2022 post-Ukraine fuel price rise in India ;; Cost-Push — because input costs rose, not because demand increased
+    - Inflation rate falling but still positive ;; {{Disinflation}}{({NOT deflation})} — price level is not falling, only the rate is
+```
+
+**Rules for Classification Enumeration clozes:**
+- One sentence per basis — never mix two bases in one sentence
+- Always include the total count as a hint on the last cloze in each sentence
+- Add at least one "identify the type from a description" cloze per basis (the hardest Level 2 recall)
+- For cross-basis traps, add a discrimination cloze: "{{Disinflation}}{({NOT deflation})} = rate falling"
+
 ### Section 9: Practice MCQs
+
+Section 9 contains **5–8 predictive questions** — purpose-built MCQs designed to anticipate what UPSC is *likely to ask next*, based on rigorous analysis of the PYQ record. These are not random practice questions; each one is a deliberate prediction grounded in gap analysis, pattern logic, and examiner behaviour.
+
+**Do NOT put real PYQs here.** All verbatim past questions belong exclusively in Section 12 (PYQ Archive). Mixing the two creates duplicate flashcards in RemNote.
+
+#### Pre-writing: Predictive Analysis (mandatory before writing a single question)
+
+Before writing any MCQ, open the topic-map file and extract the following signals:
+
+**Signal 1 — Gap years:** Which years in the `year_range` have NO question? A topic asked in 2014, 2016, 2019, 2022 has gaps in 2015, 2017–18, 2020–21, 2023. UPSC frequently returns to a topic after a 2–4 year gap. The next exam falls into a gap → elevated probability.
+
+**Signal 2 — Untested dimensions:** `dimensions_tested` lists what has already been asked. Everything in `dimensions_tested` that has NOT been asked yet is a candidate. If UPSC has tested "location" and "known for" but never "who built it" — the builder dimension is overdue.
+
+**Signal 3 — Partial coverage:** Some dimensions have been tested only once. A dimension asked in 2013 and never since has 10+ years of accumulated probability. Treat single-test dimensions as high priority.
+
+**Signal 4 — Post-syllabus events:** Any development after the last PYQ year (`last_asked`) that connects to the topic is a new testable angle UPSC has not yet exploited. For example, if a site got UNESCO status after the last question, that status is now a live target.
+
+**Signal 5 — Recurring question patterns:** What *type* of question does UPSC prefer for this topic? Some topics always get statement-based (I, II, III) questions; others always get direct factual or "Which is NOT" questions. Match the predicted question to the established pattern type.
+
+**Signal 6 — Examiner trap patterns:** From `exam_traps` or `dimensions_tested`, identify which confusions UPSC has already exploited. New questions often introduce *new* traps on the same topic — a confusion adjacent to the ones already used.
+
+Write a one-line prediction rationale for each question before drafting it:
+```
+Prediction rationale: Dimension "X" untested since 2014 (10-year gap); statement-based pattern; trap = confusing X with Y
+```
+This rationale goes into the `*~prediction basis*` descriptor on each question (see template below).
+
+#### Pattern variety — match to topic-map pattern history
+
+Use the pattern types UPSC has already used for this topic (from `dimensions_tested` / question history), then extend to adjacent untested patterns:
+
+- **Statement-based (I, II, III):** Most common for multi-faceted topics (Buddhism, Polity, Economy). Use when testing whether multiple claims about a concept are correct.
+- **"Which is NOT correct":** Use when the trap is a plausible-sounding false claim — forces the student to verify every option.
+- **"Common to both X and Y":** Use for comparison topics where UPSC tests overlap knowledge.
+- **Direct factual:** Use for dimensions with a single crisp answer (year, location, person, body).
+- **Match-the-following / Pairs:** Use when UPSC has tested association between two sets.
+- **"How many of the following are correct?" (post-2022 pattern):** Use for topics with 3+ discrete facts — options are "Only one", "Only two", "All three", "None".
+- **Cross-basis classification (mandatory when topic has Classification Landscapes):** When the topic has a Classification Landscape in Section 5, at least one Section 9 question MUST be a cross-basis discrimination question. See rule below.
+
+**Cross-basis classification MCQ rule — mandatory trigger:**
+
+If the topic has a Classification Landscape in Section 5, include at least one MCQ that forces the student to discriminate between types from different bases. This is the hardest classification recall level and the one most likely to appear in the next exam cycle (UPSC has shifted toward cross-basis questions post-2020).
+
+**Three valid cross-basis question frames:**
+
+Frame A — Attribution: "Which of the following types of [concept] is classified by [Basis X]?"
+Frame B — Basis identification: "[Type] is an example of inflation classified on the basis of ___?"
+Frame C — Pair discrimination: "[Type A] and [Type B] are both types of [concept]. Which statement correctly distinguishes them?"
+
+The `📊 Prediction basis` bullet for cross-basis questions should always note: "Cross-basis discrimination — untested dimension; UPSC post-2020 pattern shift toward basis-attribution questions."
+
+#### Template
+
 ```
   - **Practice MCQs** :- Self-Test
     - *~Prelims mode* ;- Cover options. Read stem only. Predict answer BEFORE seeing choices.
     - *~Mains mode* ;- Read topic heading only. Write 3 points from memory. Then check notes.
-    - [Question text]? >>A)
-      - Correct answer                    ← ALWAYS first
+    - *~prediction basis* ;- Questions generated by gap analysis: untested dimensions from topic-map, gap years in PYQ record, post-[last_asked year] developments, and recurring examiner trap patterns.
+
+    - [Question text based on untested/gap dimension]? >>A)
+      - Correct answer                              ← ALWAYS first child
       - Wrong option 1
       - Wrong option 2
       - Wrong option 3
-      - ✅ Explanation #[[Extra Card Detail]]   ← sibling of options; ECD powerup makes this show after answering
-        - ✅ **Correct:** [why this answer is right]
-        - ❌ **[Wrong option 1]:** [why it's wrong]
-        - ❌ **[Wrong option 2]:** [why it's wrong]
-        - ❌ **[Wrong option 3]:** [why it's wrong]
+      - ✅ Explanation #[[Extra Card Detail]]        ← sibling of options; ECD powerup shows after answering
+        - ✅ **Correct:** [why this is right]
+        - ❌ **[Wrong option 1]:** [why wrong]
+        - ❌ **[Wrong option 2]:** [why wrong]
+        - ❌ **[Wrong option 3]:** [why wrong]
         - 🧠 **Trick:** [exam trap / memory hook]
+        - 📊 **Prediction basis:** [one line: which signal made this a target — gap year / untested dimension / post-last_asked development / recurring pattern]
 ```
-Source priority: **Synthetic questions only**, modelled on `dimensions_tested` from the topic-map. Do NOT put real PYQs here — all verbatim PYQs belong exclusively in Section 12 (PYQ Archive). Mixing the two creates duplicate flashcards in RemNote.
-Pattern variety: direct factual, "Which is NOT", "Common to both X and Y", match-the-following, statement-based (I, II, III).
 
-**CRITICAL:** Section 9 is a *sampler* only (5–8 questions max). ALL remaining PYQs go into Section 12 (PYQ Archive) below.
+#### What makes a good predictive MCQ
+
+**Target untested dimensions first.** If UPSC has asked about a Buddhist site's location and significance but never its architectural style, write a question on architectural style.
+
+**Target gap years.** If the topic was last asked in 2021 and the exam is in 2025, that's a 4-year gap — prime territory. Design the question to test the angle UPSC hasn't hit yet.
+
+**Use the established trap structure.** UPSC doesn't randomly select wrong options — distractors are always plausible adjacent facts. Model distractors on the same logic as existing PYQ distractors: same category, similar sound, geographically adjacent, historically proximate.
+
+**Do not repeat what Section 12 already covers.** Every real PYQ is in Section 12. Section 9 tests the *next* questions, not the past ones.
+
+**Difficulty calibration:** Aim for questions a prepared student would get 50–70% of the time — not trivially easy, not impossibly obscure. The sweet spot is a question that is answerable if the student has studied the notes carefully, but trips up anyone relying on surface memory.
 
 > **Note on ECD placement:** The `✅ Explanation #[[Extra Card Detail]]` rem is always a **sibling of the answer options** (direct child of `>>A)`), NOT nested under the correct answer. Nesting it under the correct answer causes it to show only for that one option. The sibling placement + ECD powerup ensures it displays after any option is selected. This applies to both Section 9 and Section 12 MCQs.
 
@@ -458,6 +784,7 @@ Pattern variety: direct factual, "Which is NOT", "Common to both X and Y", match
 
     - **📋 FACTS TO MEMORIZE** :- Core Data
       - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | Value: Both directions (Item → Value AND Value → Item; core recall target) | Memory Hook: Skip (context only, not a recall target)
+      - *~Table* ;-
       | Item | Value | Memory Hook |
       |------|-------|-------------|
       | [fact] | [value] | [hook] |
@@ -478,6 +805,32 @@ Pattern variety: direct factual, "Which is NOT", "Common to both X and Y", match
       - [Pull from "Exam Patterns & Insights" in topic-map — real patterns only]
 ```
 Maximum 1 page when printed. Tables for facts, bullets for comparisons.
+
+**Classification feed into Section 10 — mandatory when topic has Classification Landscapes:**
+
+The Classification Landscape in Section 5 generates content that must appear in three specific Section 10 blocks. Do not leave these generic when classification content exists:
+
+**→ `**⚠️ TRAP ALERTS**` block:** Pull every entry from the Cross-Basis Trap Zone verbatim in compressed form. These are the highest-value last-minute reminders because students most often confuse types from different axes under exam pressure.
+```
+    - **⚠️ TRAP ALERTS** :- Don't Confuse
+      - Stagflation ≠ Cost-Push — different axes: stagflation = growth outcome; cost-push = cause
+      - Disinflation ≠ Deflation — disinflation = rate falling (still +ve); deflation = price level falling
+      - Galloping ≠ Hyperinflation — galloping = 10–50%; hyperinflation = >50%/month
+```
+
+**→ `**🔢 NUMBERS TO REMEMBER**` block:** Pull every threshold and count from the Enumeration Master.
+```
+    - **🔢 NUMBERS TO REMEMBER** :- Key Figures
+      - Inflation bases ;; 4 (cause, speed, scope, expectation)
+      - Hyperinflation threshold ;; >50%/month
+      - Galloping range ;; 10–50% | Creeping ;; 0–3%
+```
+
+**→ `**📋 FACTS TO MEMORIZE**` table:** Add a classification row for each basis showing the count and types in compressed form.
+```
+      | **Inflation by cause** | 3 types: Demand-Pull, Cost-Push, Structural | Cause = WHY prices rose |
+      | **Inflation by speed** | 4 types: Creeping/Walking/Galloping/Hyper | Speed = HOW FAST |
+```
 
 ### Section 11: Feynman Test + Connections + Mains Framework
 ```

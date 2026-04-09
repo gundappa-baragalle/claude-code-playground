@@ -216,14 +216,24 @@ Full worked example → `references/section-templates.md` § Section 3.
 | 2 | Why Study + Before You Read | Motivation, prior-knowledge activation |
 | 3 | Big Picture | Multi-line ASCII structure / timeline map |
 | 4 | Prerequisite Concepts & Key Terms | Foundation layer in dependency order |
-| 5 | Content (Main Body) | Learning ladder in dependency order |
-| 6 | Flashcard Tables | Structured comparison tables |
+| 5 | Content (Main Body) | Learning ladder; includes **Classification Landscape** blocks when concept has types |
+| 6 | Flashcard Tables | Entity-to-entity comparison tables (WPI vs CPI, SC vs HC) |
 | 7 | One-Liners | Rapid recall fragments (all with `;;`) |
-| 8 | Quick Revision | Cloze flashcard sentences |
-| 9 | Practice MCQs | 5–8 synthetic self-test questions |
+| 8 | Quick Revision | Cloze flashcards + **Classification Enumeration** sub-block when topic has types |
+| 9 | Practice MCQs | 5–8 predictive questions; **cross-basis MCQ mandatory** when topic has classifications |
 | 10 | Rapid Revision | 1-page last-minute review |
 | 11 | Feynman Test + Connections + Mains Framework | Comprehension + cross-paper links |
 | 12 | PYQ Archive | All verbatim past year questions — Prelims + Mains |
+
+**Classification Landscape — trigger check before writing Section 5:**
+
+Before writing each concept node in Section 5, ask: *"Does this concept have types, kinds, or categories?"* Signal phrases: "types of", "classified as", "kinds of", "on the basis of". If yes → the concept node must end with a **Classification Landscape** block covering:
+1. Every independent basis (`**By [Basis]** :-` with `;;>1.` enumeration)
+2. Every type (`**[Type]** ::` with `*~basis* ;;`)
+3. Cross-Basis Trap Zone (when 2+ bases exist)
+4. Enumeration Master
+
+Full template and inflation worked example → `references/section-templates.md` § Classification Landscape.
 
 ---
 
@@ -268,20 +278,22 @@ subject-specific checks. Open the file — do not run from memory.
 
 **Table flashcard setup — verify every table in Sections 6 and 10:**
 
-Every Markdown table needs a `*~RemNote setup* ;-` descriptor as a sibling of
-the table rows (same indentation level, both direct children of the parent Rem).
+Every Markdown table must use `*~RemNote setup* ;-` (for column configuration)
+AND `*~Table* ;-` (which contains the actual table rows) — both as children of
+the parent `**[Title] Table** :-` Rem.
 
 ```
-CORRECT — setup and table rows at same indent:
+CORRECT — setup and table wrapped in *~Table* ;- descriptor:
   - **WPI vs CPI** :- Flashcard Table
-    - *~RemNote setup* ;- WPI: Both directions | CPI: Both directions | Notes: Skip
+    - *~RemNote setup* ;- After import → click each column header → Flashcard Configuration → Enable For This Column | WPI: Both directions | CPI: Both directions | Notes: Skip
+    - *~Table* ;-
     | Feature | WPI | CPI | Notes |
     |---------|-----|-----|-------|
 
-WRONG — table rows indented one level under setup:
+WRONG — table rows not wrapped in *~Table* ;-:
   - **WPI vs CPI** :- Flashcard Table
     - *~RemNote setup* ;- ...
-      | Feature | WPI | CPI |   ← extra indent concatenates into garbled output
+    | Feature | WPI | CPI |   ← table rows must be inside *~Table* ;- descriptor
 ```
 
 Never use `<!-- RemNote Setup: -->` HTML comments — they render as visible text.
@@ -311,7 +323,7 @@ Scan the entire output for these errors before saving:
 | `→ Back of card` in Section 7 | Replace whole line with `[label] ;; [value]` |
 | Bare bullets in Section 7 (no delimiter) | Add `;;` delimiter |
 | `*~structure* ;- TOPIC \| +-- A ...` inline | Rewrite as multi-line inside triple-backtick fence |
-| Table rows indented under setup descriptor | Dedent to sibling level |
+| Table rows not wrapped in `*~Table* ;-` descriptor | Wrap table in `- *~Table* ;-` child of the parent Rem |
 
 ---
 
@@ -391,13 +403,3 @@ descriptor naming conventions) → `references/syntax-guide.md`
 | `pyq-data/elimination-patterns.md` | When user asks about Prelims strategy |
 
 ---
-
-## Changelog
-
-| Date | Change |
-|------|--------|
-| 2026-04-08 | Section 3 (Big Picture) upgraded: box-drawing characters (├──, └──, │) now preferred over +-- style; geometric/relational ASCII diagrams (triangles, trilemmas) added as a visual type; visual type guide added; FR example in both section-templates.md and examples.md updated to full rich ├──/└── style with Golden Triangle diagram. |
-| 2026-04-08 | Section 3 (Big Picture) template updated: ASCII tree now wrapped in triple-backtick code fences inside the `*~structure* ;-` descriptor. Old "no code fences" Rule 3 and inline-pipe failure-mode warning removed. examples.md Big Picture updated to match. SKILL.md syntax scan row updated accordingly. |
-| 2026-04-08 | Phase 3 & 4: subject-guidelines.md — 11-section ToC with accurate line numbers added (models can now `view` target line range directly). cognitive-science.md removed from SKILL.md reference table and Core Philosophy pointer — it is a rationale-only file with no generation-time trigger; pointer folded into core-philosophy.md closing line so it remains discoverable. 4a/4b/4c confirmed already resolved in Phase 1. |
-| 2026-04-08 | Phase 2: examples.md — stripped 17-principle table, memory hook quick-reference, and mathematical/flow descriptors (all already canonical in cognitive-science.md and syntax-guide.md); duplicate heading/dep-map removed; 3-line ToC added at top; stale verification rows updated; cognitive-science.md header fixed from "13 Principles" to "17 Principles". |
-| 2026-04-08 | Phase 1 restructure: 11-step clean checklist (was 0/1/1.5/2/3/3.5/3.6/4/4.5/5/5.5/5.6/6/7), scope-check moved before PYQ lookup, interruption notice moved to top-of-file, CDF syntax reference moved to syntax-guide.md (pointer added), philosophy compressed to 7 one-liners, redundant reference table removed, file-naming consolidated into Step 11, node definition added to coverage floors, dependency map output made mandatory (removed "mentally" option), decision tree added for scope ambiguity. |
