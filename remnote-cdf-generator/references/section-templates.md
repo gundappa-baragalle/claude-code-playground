@@ -705,7 +705,7 @@ Before writing any MCQ, open the topic-map file and extract the following signal
 
 **Signal 3 — Partial coverage:** Some dimensions have been tested only once. A dimension asked in 2013 and never since has 10+ years of accumulated probability. Treat single-test dimensions as high priority.
 
-**Signal 4 — Post-syllabus events:** Any development after the last PYQ year (`last_asked`) that connects to the topic is a new testable angle UPSC has not yet exploited. For example, if a site got UNESCO status after the last question, that status is now a live target.
+**Signal 4 — Post-syllabus events:** Any development after the last PYQ year (`last_asked`) that connects to the topic is a new testable angle UPSC has not yet exploited. For example, if a site got UNESCO status after the last question, that status is now a live target. Check the `## Cross-Paper Transfer` and `contemporary_relevance` fields in the topic-map first — these index known post-`last_asked` developments. If a development is not in the topic-map and you are not certain it occurred, write: `{{development}}{(verify: search [topic] + 2024/2025)}` rather than stating it as fact. Never invent post-`last_asked` events.
 
 **Signal 5 — Recurring question patterns:** What *type* of question does UPSC prefer for this topic? Some topics always get statement-based (I, II, III) questions; others always get direct factual or "Which is NOT" questions. Match the predicted question to the established pattern type.
 
@@ -804,7 +804,7 @@ The `📊 Prediction basis` bullet for cross-basis questions should always note:
     - **🎯 LAST YEARS PYQ PATTERN** :- What UPSC Asks
       - [Pull from "Exam Patterns & Insights" in topic-map — real patterns only]
 ```
-Maximum 1 page when printed. Tables for facts, bullets for comparisons.
+Target: fits on 1 printed page (guideline, not a hard cap — never cut content to hit this; instead compress wording). Tables for facts, bullets for comparisons. "Completeness beats brevity" applies to Sections 4 and 5; Section 10 is the exception — it is a summary by design.
 
 **Classification feed into Section 10 — mandatory when topic has Classification Landscapes:**
 

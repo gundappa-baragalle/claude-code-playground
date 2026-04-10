@@ -92,6 +92,31 @@ Extract: `total_count`, `prelims_count`, `year_range`, `last_asked`,
 copy questions from it, or reconstruct them from memory?" If the latter —
 stop, open the file, then regenerate Section 12.
 
+**2c — Extract high-frequency traps:**
+While reading the topic-map, scan every `⚠️ **Trap:**` entry across ALL
+priority sections (HIGH, MEDIUM, LOW). Build a running list of traps that
+appear in 3 or more questions, or that target the same wrong assumption from
+different angles. Write this list explicitly as a planning note:
+
+```
+High-frequency traps on this topic:
+- [Wrong assumption 1] — appears in [year], [year], [year]
+- [Wrong assumption 2] — appears in [year], [year]
+```
+
+This list directly feeds:
+- **Section 7 one-liners** (Category C discrimination one-liners — the most
+  exam-relevant `;;` cards)
+- **Section 9 MCQ design** (trap patterns in distractor logic)
+
+Do NOT skip this step for topics with ≥10 PYQs — high-frequency topics have
+the densest trap patterns and the highest payoff from trap extraction.
+
+**2d — Extract related concepts for Section 11:**
+From the topic-map `## Related Concepts` and `## Cross-Paper Transfer`
+sections, note the GS paper connections and essay angles. These feed
+Section 11 Connections block directly — do not reconstruct from memory.
+
 **If topic slug not found:** Try the parent subject slug (e.g., "inflation" →
 "money-and-banking"), then a synonym. If truly absent:
 - Set PYQ frequency: `Not yet indexed — estimate based on syllabus weight`
@@ -220,7 +245,7 @@ Full worked example → `references/section-templates.md` § Section 3.
 | 6 | Flashcard Tables | Entity-to-entity comparison tables (WPI vs CPI, SC vs HC) |
 | 7 | One-Liners | Rapid recall fragments (all with `;;`) |
 | 8 | Quick Revision | Cloze flashcards + **Classification Enumeration** sub-block when topic has types |
-| 9 | Practice MCQs | 5–8 predictive questions; **cross-basis MCQ mandatory** when topic has classifications |
+| 9 | Practice MCQs | 5–8 predictive questions; **cross-basis MCQ mandatory** when topic has classifications; open `pyq-data/elimination-patterns.md` to match trap design to UPSC's documented elimination patterns |
 | 10 | Rapid Revision | 1-page last-minute review |
 | 11 | Feynman Test + Connections + Mains Framework | Comprehension + cross-paper links |
 | 12 | PYQ Archive | All verbatim past year questions — Prelims + Mains |
@@ -400,6 +425,6 @@ descriptor naming conventions) → `references/syntax-guide.md`
 | `references/quality-checklist.md` | Step 9 — full checklist |
 | `references/syntax-guide.md` | Steps 9–10 — syntax edge cases |
 | `references/core-philosophy.md` | When you need rationale for a principle (links to cognitive-science.md at its end) |
-| `pyq-data/elimination-patterns.md` | When user asks about Prelims strategy |
+| `pyq-data/elimination-patterns.md` | Step 7 — before writing Section 9 MCQs; match trap design to UPSC's 10 documented elimination patterns |
 
 ---

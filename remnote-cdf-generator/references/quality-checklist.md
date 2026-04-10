@@ -1,7 +1,24 @@
 # Pre-Output Quality Checklist
 
-Run this checklist mentally before finalising any CDF note output.
+Run this checklist before finalising any CDF note output.
 Every ✗ is a reason to revise before delivering.
+
+---
+
+## ⚡ Critical Path — Run These 10 First (Every Note, No Exceptions)
+
+These are the highest-impact checks. If any fail, fix before continuing.
+
+1. **No `##` markdown headers** anywhere in output
+2. **Section 12 PYQ count** = `prelims_count` in topic-map (re-open file, count both)
+3. **Section 12 questions are verbatim** — not paraphrased or reconstructed from memory
+4. **Section 7 one-liners all use `;;`** — no plain `=` or `→ Back of card`
+5. **Section 5 dimensions coverage** — open `dimensions_tested` in topic-map; for each dimension type listed (WHAT, HOW, WHERE, WHY, WHO, WHEN, VS), verify Section 5 has at least one concept node addressing that angle. WHAT-heavy topics (e.g. WHAT:45) need proportionally more WHAT-dimension content than HOW-dimension content.
+6. **High-frequency traps extracted** — traps from Step 2c planning note appear as Category C one-liners in Section 7 and as distractor logic in Section 9 MCQs
+7. **Dependency Map visible** — the `*~dependency chain* ;-` descriptor is present as the first child of Section 4 (not just built mentally)
+8. **Correct answer is FIRST child** of every `>>A)` MCQ node
+9. **Section 3 Big Picture is multi-line** — each ASCII branch on its own line, never pipe-separated inline
+10. **No synthetic MCQs in Section 12** — Section 12 is verbatim PYQs only; predictive questions belong in Section 9
 
 ---
 
@@ -23,6 +40,7 @@ Every ✗ is a reason to revise before delivering.
 - [ ] Simpler/cleaner cases appear before complex/multi-variable cases
 - [ ] Every concept's connection to the previous concept is made explicit ("this is why...")
 - [ ] The Dependency Map was built before writing — sequence reflects understanding order, not textbook order
+- [ ] The Dependency Map is **visible in the output** as `*~dependency chain* ;-` descriptor (first child of Section 4) — a mental-only map does not count
 
 ### Mathematical Clarity ✓ (NEW — check Economy, Science, Geography topics especially)
 - [ ] Every concept with a mathematical relationship has its formula included (MV=PQ, Fiscal Deficit = E−R, etc.)
@@ -39,7 +57,8 @@ Every ✗ is a reason to revise before delivering.
 - [ ] `*~Prelims weightage*` uses real `prelims_count`
 - [ ] `*~revision priority*` matches HIGH/MEDIUM/LOW thresholds
 - [ ] Section 9 MCQs are **predictive only** — based on gap analysis (untested dimensions, gap years, post-`last_asked` developments, recurring trap patterns); no real PYQs here (all verbatim PYQs go to Section 12)
-- [ ] `🎯 LAST YEARS PYQ PATTERN` block present in Section 10 (RAPID REVISION), pulled from topic-map "Exam Patterns & Insights" section — real patterns only, not invented
+- [ ] Section 9 trap design matches UPSC's documented elimination patterns — `elimination-patterns.md` opened and the dominant pattern type for this topic's subject checked (e.g. History → General Factual 62%; Polity → Statement-Based)
+- [ ] `🎯 LAST YEARS PYQ PATTERN` block present in Section 10 (RAPID REVISION), pulled from topic-map `## Exam Patterns & Insights` section (look for "Most tested dimension" and "Common Trap Patterns on This Topic" subsections) — real patterns only, not invented
 
 ### Cognitive Quality ✓
 - [ ] Every unfamiliar term defined on first use (Beginner Test)
@@ -97,6 +116,8 @@ Every ✗ is a reason to revise before delivering.
 - [ ] Cross-Paper Transfer block filled with all GS angles
 - [ ] `*~GS4 angle*` filled for all History and Polity topics
 - [ ] `*~Essay angle*` filled for all topics
+- [ ] **Section 5 covers all `dimensions_tested`** — re-open topic-map `dimensions_tested` field; for each dimension type (WHAT, HOW, WHERE, WHY, WHO, WHEN, IMPACT, VS), confirm Section 5 has at least one concept node that would allow a student to answer a question of that type. If a dimension is present in the topic-map but absent from Section 5, add a concept node before finalising.
+- [ ] **High-frequency traps appear in Section 7** — the trap list built in Step 2c must have at least one Category C discrimination one-liner (`;;`) per high-frequency trap in Section 7; traps that appear in 3+ PYQs must not be left out.
 - [ ] **Section 12 (PYQ Archive) present** — all Prelims PYQs copied verbatim from topic-map
 - [ ] **Section 12 count verified** — number of MCQ nodes = number of Prelims PYQs in topic-map (count both to confirm; re-open topic-map file to count — never use memory)
 - [ ] **Section 12 ordering** — questions are newest-first (2024 → 2023 → oldest); verify before delivering
@@ -133,7 +154,7 @@ Every ✗ is a reason to revise before delivering.
 - [ ] Indian govt program/agency linked for every S&T concept
 
 ### Current Affairs Integration ✓
-- [ ] `*~current affairs link*` filled in every note (not left blank) — event must be post-2022; if uncertain of a recent event, write the search prompt rather than using stale news
+- [ ] `*~current affairs link*` filled in every note (not left blank) — event must be post-2022 (prefer 2024–2025); if uncertain of a recent event, write the search prompt (`Verify: search [topic] + 2024/2025`) rather than using stale or invented news
 - [ ] `*~contemporary_relevance*` from topic-map carried into note
 - [ ] At least one current event cited with year in Mains Answer Framework body
 - [ ] Recent policy/law cited where relevant (post-2020 preferred)
@@ -175,6 +196,9 @@ Every ✗ is a reason to revise before delivering.
 | Skip Feynman Test | Most reliable comprehension check |
 | Leave `*~current affairs link*` blank | Static notes fail at Mains level |
 | Invent PYQ years or question counts | Only use data from pyq-data/ files |
+| Skip opening `elimination-patterns.md` before Section 9 | Section 9 MCQ distractor logic must match UPSC's actual elimination pattern frequency — invented traps miss what the exam tests |
+| Leave Section 7 empty of Category C discrimination one-liners when high-frequency traps exist | The trap list from Step 2c must produce `;;` one-liners — traps that appear in 3+ PYQs are prime atomic recall targets |
+| State post-`last_asked` developments as fact without verification | If not in topic-map, mark as `{{development}}{(verify: search [topic] + 2024/2025)}` — never invent |
 | Invent quotes in Ethics notes | Fabricated quotes destroy credibility |
 | Start Essay with a definition | Penalised by examiners; always quote/paradox/anecdote |
 | Write Essay as a list of points | Essay is prose — bullets lose marks |

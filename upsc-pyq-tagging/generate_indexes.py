@@ -168,41 +168,18 @@ def format_prelims_high(lines: list, idx: int, q: dict) -> None:
 
 # --------------------------------------------------------------------------
 # Helper: format a single Prelims question at MEDIUM detail level
-# Full question + options + trap factor only (no hooks/hints — saves tokens).
+# Same full format as HIGH — question + options + trap + hints + hooks.
 # --------------------------------------------------------------------------
 def format_prelims_medium(lines: list, idx: int, q: dict) -> None:
-    q_text = q['question'].replace('\n', ' ').strip()
-    lines.append(f"**[Q{idx}]** [{q['year']}] {q_text}")
-    lines.append("")
-
-    correct = q.get('correct_option', '').strip().upper()
-    for key, label in [('option_a', 'A'), ('option_b', 'B'),
-                        ('option_c', 'C'), ('option_d', 'D')]:
-        opt = q.get(key, '').strip()
-        if not opt:
-            continue
-        marker = "✅" if label == correct else "  "
-        lines.append(f"  {marker} {label}) {opt}")
-    lines.append("")
-
-    trap = q['prelims'].get('trap_factor', '').strip()
-    if trap:
-        lines.append(f"  ⚠️ **Trap:** {trap}")
-        lines.append("")
+    format_prelims_high(lines, idx, q)
 
 
 # --------------------------------------------------------------------------
-# Helper: format a single Prelims question at LOW detail (stub only).
-# Minimal tokens — just enough to know what was asked.
+# Helper: format a single Prelims question at LOW detail.
+# Same full format as HIGH — question + options + trap + hints + hooks.
 # --------------------------------------------------------------------------
 def format_prelims_low(lines: list, idx: int, q: dict) -> None:
-    q_text = q['question'].replace('\n', ' ').strip()
-    if len(q_text) > 130:
-        q_text = q_text[:130] + "..."
-    correct = q.get('correct_option', '?')
-    dim     = q.get('dimension', '')
-    lines.append(f"- **[Q{idx}]** [{q['year']}] {q_text}")
-    lines.append(f"  - Dim: {dim} | Ans: {correct}")
+    format_prelims_high(lines, idx, q)
 
 
 # --------------------------------------------------------------------------
@@ -337,7 +314,7 @@ def generate_topic_map(topic: str, qs: list, index_data: dict) -> str:
                 format_prelims_medium(lines, i, q)
 
         if low_qs:
-            lines.append("### 🟢 LOW Priority — Reference Stubs")
+            lines.append("### 🟢 LOW Priority — Full Options")
             lines.append("")
             for i, q in low_qs:
                 format_prelims_low(lines, i, q)
@@ -472,10 +449,10 @@ def generate_topic_map(topic: str, qs: list, index_data: dict) -> str:
     return "\n".join(lines)
 
 
-# Generate topic maps for all topics with ≥ 3 questions
+# Generate topic maps for all topics with ≥ 1 question
 generated_count = 0
 for topic, qs_list in topic_questions.items():
-    if len(qs_list) >= 3:
+    if len(qs_list) >= 1:
         index_data = concept_index.get(topic, {})
         if index_data:
             content  = generate_topic_map(topic, qs_list, index_data)
@@ -744,7 +721,7 @@ print(f"""
 Files Generated:
   concept-index.json   — {len(concept_index)} concepts indexed
   topic-maps/          — {generated_count} markdown files
-                         (HIGH: full MCQ + trap | MEDIUM: options + trap | LOW: stubs)
+                         (HIGH: full MCQ + trap | MEDIUM: options + trap | LOW: full options)
   patterns.json        — Exam patterns & frequency analysis
   subject-index.json   — Hierarchical subject navigation
   priority-list.md     — {len(concept_index)} topics ranked by PYQ count
