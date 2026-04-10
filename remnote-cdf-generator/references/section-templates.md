@@ -1,14 +1,36 @@
 ## The 12 Sections — Templates
 
+### Table of Contents
+
+| Section | Name | Line (approx.) |
+|---------|------|----------------|
+| 1 | Header & Metadata | §Section 1 |
+| 2 | Why Study + Before You Read | §Section 2 |
+| 3 | Big Picture (Visual Map) | §Section 3 |
+| 4 | Prerequisite Concepts & Key Terms | §Section 4 |
+| 5 | Content — Main Body + Classification Landscape | §Section 5 |
+| 6 | Flashcard Tables | §Section 6 |
+| 7 | One-Liners (Rapid Recall) | §Section 7 |
+| 8 | Quick Revision (Cloze Flashcards) | §Section 8 |
+| 9 | Practice MCQs | §Section 9 |
+| 10 | 🚀 RAPID REVISION | §Section 10 |
+| 11 | Feynman Test + Connections + Mains Framework | §Section 11 |
+| 12 | 📚 PYQ ARCHIVE | §Section 12 |
+
+Search `### Section N:` to jump directly to any section.
+
+---
+
 ### Section 1: Header & Metadata
 ```
 - **[Topic]** :- UPSC [Subject]
   - *~version* ;- v[date] — refresh if >6 months old
   - *~source* ;- [Standard books with chapter numbers]
-  - *~PYQ frequency* ;- [Step 0: "X total (Prelims: Y, Mains: Z), YYYY–YYYY"]
-  - *~Prelims weightage* ;- [Step 0: real prelims_count; last asked YYYY]
+  - *~PYQ frequency* ;- [Step 2: "X total (Prelims: Y, Mains: Z), YYYY–YYYY"]
+  - *~Prelims weightage* ;- [Step 2: real prelims_count from topic-map; last asked YYYY]
   - *~Mains relevance* ;- [Which GS paper, what themes]
-  - *~revision priority* ;- [Step 0: HIGH / MEDIUM / LOW]
+  - *~revision priority* ;- [Step 2: HIGH / MEDIUM / LOW — see thresholds below]
+  - *~beginner-audit* ;- [Added after Step 8 — write: PASSED: no undefined terms found | or GAPS FOUND: list each gap and the line where it was fixed]
 ```
 Revision priority thresholds: HIGH = ≥10 PYQs (daily SRS) | MEDIUM = 5–9 (weekly) | LOW = <5 (monthly)
 
@@ -302,7 +324,7 @@ Every concept that UPSC has tested or could test gets this full treatment:
 ```
     - **[Concept Name]** :: [Precise one-sentence definition — no jargon unless already defined]
       - *📌 beginner note* ;- [How does this relate to something the student already knows from daily life? What would a non-economist call this?]
-      - *~why it arises* ;; [Root cause — what conditions produce this concept? This must use only already-explained concepts]
+      - *~why it arose* ;; [Root cause — what conditions produce this concept? This must use only already-explained concepts]
       - *~significance* ;; [Why does this matter? What does it cause or prevent? Link to real India/UPSC context]
       - *~mechanism* ;- [Step-by-step: how does this work? Use arrows: A → B → C. Use math where it adds precision]
       - *💭 self-explain* ;- [Ask the student to reason through something BEFORE revealing the answer — placed immediately before the key insight, never after]
@@ -311,7 +333,8 @@ Every concept that UPSC has tested or could test gets this full treatment:
       - *⚡ vs [Most Confused Alternative]* ;- [Side-by-side contrast. Use a mini table if 3+ dimensions differ]
       - *⚠️ exam trap* ;- [Specific UPSC trap from PYQ data: state the wrong thinking → explain why it's wrong → give the correct logic]
       - *~does NOT apply when* ;- [Boundary condition: when is this concept NOT relevant or NOT the right frame?]
-      - *~India context* ;; [Specific Indian example, data point, institution, or case — prefer post-2022 examples. If uncertain of recency, write: `Verify: search [topic] + 2024/2025 for current data` rather than using potentially stale news]
+      - *~India context* ;; [Specific Indian example, data point, or institution — only use `;;` when confident the example is accurate. Prefer post-2022 examples.]
+        ← If uncertain whether a post-2022 development occurred: write `*~India context* ;- Unverified — search "[topic] India 2024/2025" and replace with confirmed example` using `;-` (disabled). NEVER write a placeholder inside a `;;` flashcard — it generates a card where the "answer" is the placeholder text.
       - *🔨 your example* ;- [Ask the student to generate their own example — forces active processing]
 ```
 
@@ -602,22 +625,22 @@ Every one-liner **must** use `;;` (forward-only descriptor) to generate an actua
 
 **Classification one-liners — mandatory when topic has Classification Landscapes:**
 
-Every Classification Landscape must contribute at minimum three categories of one-liners to Section 7. These are the atomic flashcard form of the same content — the student hits them in SRS daily, long after the Section 5 detail has faded.
+Every Classification Landscape must contribute all three categories of one-liners to Section 7. These are the atomic flashcard form of the Section 5 classification content — the student hits them in SRS daily, long after the full Section 5 detail has faded. They are distinct from the `;;>1.` enumeration flashcard in Section 5 (which tests the full ordered list) — they test atomic facts that each deserve their own SRS card. Do not skip any category.
 
-**Category A — Threshold / count facts** (the crisp numbers UPSC tests directly):
-```
-    - Hyperinflation threshold ;; >50%/month
-    - Galloping inflation range ;; 10–50%
-    - Inflation classification bases ;; 4 (cause, speed, scope, expectation)
-    - Creeping inflation range ;; 0–3% (tolerable)
-```
-
-**Category B — Cross-basis attribution** (Type → its basis — directly maps to Level 2 recall):
+**Category A — Cross-basis attribution** (Type → its basis — directly maps to Level 2 recall):
 ```
     - Demand-Pull inflation ;; By Cause: demand exceeds supply
     - Stagflation basis ;; By Growth outcome — NOT by cause
     - Hyperinflation basis ;; By Speed (>50%/month) — NOT by cause
     - Structural inflation basis ;; By Cause: supply-chain bottleneck
+```
+
+**Category B — Threshold / count facts** (the crisp numbers and counts UPSC tests directly):
+```
+    - Hyperinflation threshold ;; >50%/month
+    - Galloping inflation range ;; 10–50%
+    - Inflation classification bases ;; 4 (cause, speed, scope, expectation)
+    - Creeping inflation range ;; 0–3% (tolerable)
 ```
 
 **Category C — Cross-basis discrimination** (the "NOT" one-liners that nail the trap):
@@ -627,28 +650,7 @@ Every Classification Landscape must contribute at minimum three categories of on
     - Galloping ≠ Hyperinflation ;; Galloping = 10–50%; Hyper = >50%/month
 ```
 
-**Rule:** Categories A and B are always `;;` (forward flashcard — UPSC tests these directly). Category C uses `;;` with the full discrimination in the value half — the "≠" format forces the student to read and process both sides of the confusion. Do not use `;-` for any of these three categories.
-
-**Classification one-liners — mandatory when topic has Classification Landscapes:**
-
-The Section 7 one-liner block must include entries for every Classification Landscape in Section 5. Two categories of classification one-liners are required:
-
-*Category A — Cross-basis attribution facts* (Type → its basis). These are exactly what Level 2 recall requires and they compress cleanly into one-liner format:
-```
-    - Stagflation basis ;; By Growth Outcome — inflation + stagnation simultaneously
-    - Hyperinflation basis ;; By Speed — rate >50%/month
-    - Cost-Push basis ;; By Cause — supply-side production cost rise
-```
-
-*Category B — Threshold / defining facts per type* (the single number or criterion that uniquely identifies the type):
-```
-    - Hyperinflation threshold ;; >50% per month (Cagan, 1956)
-    - Galloping inflation range ;; 10–50%
-    - Creeping inflation range ;; 0–3% (mild, tolerable)
-    - [Concept] classification count ;; [N] independent bases
-```
-
-These one-liners are distinct from the `;;>1.` enumeration flashcard in Section 5 (which tests the full ordered list) — they test atomic cross-basis and threshold facts that deserve their own SRS cards. Do not skip them.
+**Rule:** All three categories use `;;` (forward flashcard — UPSC tests these directly). Category A and B generate atomic recall cards. Category C uses the "≠" format to force the student to process both sides of the confusion at SRS time. Do not use `;-` for any category.
 
 ### Section 8: Quick Revision (Cloze Flashcards)
 ```
@@ -705,7 +707,7 @@ Before writing any MCQ, open the topic-map file and extract the following signal
 
 **Signal 3 — Partial coverage:** Some dimensions have been tested only once. A dimension asked in 2013 and never since has 10+ years of accumulated probability. Treat single-test dimensions as high priority.
 
-**Signal 4 — Post-syllabus events:** Any development after the last PYQ year (`last_asked`) that connects to the topic is a new testable angle UPSC has not yet exploited. For example, if a site got UNESCO status after the last question, that status is now a live target. Check the `## Cross-Paper Transfer` and `contemporary_relevance` fields in the topic-map first — these index known post-`last_asked` developments. If a development is not in the topic-map and you are not certain it occurred, write: `{{development}}{(verify: search [topic] + 2024/2025)}` rather than stating it as fact. Never invent post-`last_asked` events.
+**Signal 4 — Post-syllabus events:** Any development after the last PYQ year (`last_asked`) that connects to the topic is a new testable angle UPSC has not yet exploited. For example, if a site got UNESCO status after the last question, that status is now a live target. Check the `## Cross-Paper Transfer` and `contemporary_relevance` fields in the topic-map first — these index known post-`last_asked` developments. If a development is not in the topic-map and you are not certain it occurred, write `*~unverified development* ;- search [topic] + 2024/2025 to confirm before including` using `;-` (disabled). Never state unverified events as fact. Never use cloze syntax `{{...}}` for unverified content — it creates a broken flashcard with placeholder text as the hidden answer.
 
 **Signal 5 — Recurring question patterns:** What *type* of question does UPSC prefer for this topic? Some topics always get statement-based (I, II, III) questions; others always get direct factual or "Which is NOT" questions. Match the predicted question to the established pattern type.
 
@@ -842,7 +844,9 @@ The Classification Landscape in Section 5 generates content that must appear in 
     - *~builds on* ;; [[Previous Topic]] — [relationship]
     - *~leads on* ;; [[Next Topic]] — [relationship]
     - *~compare with* ;; [[Similar Topic]]
-    - *~current affairs link* ;; [Post-2022 event only — if uncertain, write: "Verify: search [topic] + 2024/2025 for latest hook" rather than using stale news]
+    - *~contemporary_relevance* ;- [Copy verbatim from topic-map `### Contemporary Relevance` section — do not paraphrase; this is the topic's ongoing policy/political/academic significance]
+    - *~current affairs link* ;; [Post-2022 event — only use `;;` when confident the event is accurate and post-2022]
+      ← If uncertain: write `*~current affairs link* ;- Unverified — search "[topic] + 2024/2025" and replace with confirmed event` using `;-` (disabled). A `;;` placeholder creates a RemNote flashcard where the "answer" is the placeholder text — silent data corruption in the student's SRS deck.
 
   - **Cross-Paper Transfer** :- Use This Topic Elsewhere
     - *~GS1 angle* ;- [History/Geography/Society/Culture dimension]
@@ -854,10 +858,21 @@ The Classification Landscape in Section 5 generates content that must appear in 
 
   - **Mains Answer Framework** :- Essay Structure
     - *~marks/word limit* ;- [10m=150w | 15m=250w | 20m=350w]
-    - *~introduction angle* ;- [~30–40w: context + thesis]
-    - *~body points* ;- [4–6 points covering all dimensions_tested]
-    - *~conclusion angle* ;- [~25–30w: forward-looking / constitutional angle]
+    - *~paper* ;- [GS1 / GS2 / GS3 / GS4 / Essay — pick one; determines structure below]
+    - *~introduction angle* ;- [~30–40w: context + thesis — see paper-specific note below]
+    - *~body points* ;- [4–6 points covering all dimensions_tested — see paper-specific note below]
+    - *~conclusion angle* ;- [~25–30w: see paper-specific note below]
     - *~quote/committee* ;- [Relevant quote or committee for opening/closing]
+
+**Paper-specific answer structures — fill the three fields above using the right row:**
+
+| Paper | Introduction (~30–40w) | Body structure | Conclusion (~25–30w) |
+|-------|----------------------|---------------|---------------------|
+| **GS1** (History / Geography / Society) | Historical/geographical/societal context + thesis | Causes/features → Significance/Impact → Contemporary relevance → India-specific dimension | Civilizational or national-identity forward look; connect to Constitution's Preamble values |
+| **GS2** (Polity / Governance / IR / Social Justice) | Constitutional/legal context + problem statement (lead with Article / provision if applicable) | Constitutional provisions → Implementation gap → Government initiatives → Judicial/committee view → Way forward | Rights-based or constitutional morality angle; cite SC judgment or Nolan Principle if applicable |
+| **GS3** (Economy / Environment / Disaster / Security) | Data point or statistic + why it matters now | Causes → Multidimensional impacts (economic/social/environmental) → Government response → Structural challenges → Specific way forward | Sustainable development goal / national security / SDG link; avoid vague optimism |
+| **GS4** (Ethics) | Define the concept + civil service relevance in one sentence | Individual dimension → Institutional safeguard → Societal/constitutional angle (use the 3-dimension structure from subject-guidelines.md) | Quote from `references/quote-bank.md` + constitutional morality angle |
+| **Essay** | Quote / Paradox / Anecdote (NEVER a definition) + thesis | 4 quadrants: Historical/Philosophical + Contemporary + Challenges + Way Forward; ≥1 interdisciplinary argument; Indian example + global comparison | Echoes Preamble / Article 21 / civilizational vision — NOT a summary |
 ```
 
 Word budget:

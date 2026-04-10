@@ -5,7 +5,9 @@ Read the section for the user's topic. Apply these on top of the standard 11 sec
 
 ## Section Index
 
-| Subject | Line |
+> ⚠️ **Line numbers below are approximate and may drift as this file is edited.** If a line number is off, search for the `## [Subject Name]` heading directly — every section starts with a level-2 heading matching the Subject column.
+
+| Subject | Approx. Line |
 |---------|------|
 | History (Ancient / Medieval / Modern) | 24 |
 | Art & Culture | 37 |
@@ -18,6 +20,9 @@ Read the section for the user's topic. Apply these on top of the standard 11 sec
 | Essay Paper | 182 |
 | Current Affairs Integration (all subjects) | 203 |
 | Cross-Paper Transfer — Filling the Block | 224 |
+| International Relations (GS-II) | 275 |
+| Social Issues (GS-I / GS-II) | 308 |
+| Disaster Management (GS-III) | 340 |
 
 ---
 
@@ -184,7 +189,7 @@ Cross-basis trap: students confuse **ecosystem type** (structure) with **biome t
 GS4 is 250 marks — 125 from theory (Paper 1) and 125 from case studies (Paper 2). Both need distinct treatment.
 
 **Mandatory elements for every Ethics concept:**
-- `*~thinker quote*` — attributable only; use only quotes from the Quote Bank in references/examples.md; NEVER invent
+- `*~thinker quote*` — attributable only; use only quotes from `references/quote-bank.md`; NEVER invent
 - `*~case study angle*` — a civil service scenario (not a generic "in daily life" example)
 - `*~opposite value*` — the conflicting value named + resolution method stated explicitly
 - `*~governance link*` — Nolan Principle / CCS Rule / relevant Article cited
@@ -266,3 +271,131 @@ Read the `## Cross-Paper Transfer` section in `pyq-data/topic-maps/TOPIC-SLUG.md
 **Every History topic:** identify GS4 ethical dimension (moral choice in the event).
 **Every Polity topic:** identify Essay angle (constitutional philosophy).
 **Every Economy/Environment topic:** fill both GS3 and Essay angles.
+
+---
+
+## International Relations (GS-II)
+
+UPSC asks 5–8 Prelims questions per year on international organisations, treaties, India's bilateral relations, and foreign policy concepts. Mains GS2 expects analysis of India's foreign policy position, not just factual recall.
+
+**Four mandatory elements for every IR note:**
+1. **Organisation/treaty table** — Founded | Headquarters | Members | India's role/status (use `*~RemNote setup* ;-` + `*~Table* ;-` wrappers)
+2. **India's position** — `*~India's stand* ;;` on the issue/treaty/body — always include India's specific, official stance
+3. **Current affairs anchor** — mandatory post-2022 development; use `*~as of* ;; [year]` on all membership counts and dates
+4. **Cross-paper linkage** — every IR topic connects to at least one of GS1 (global history), GS3 (trade/technology transfer), GS4 (ethics of non-alignment, foreign policy)
+
+**Coverage map:**
+
+| Sub-topic | Mandatory elements |
+|-----------|-------------------|
+| **UN System** | Principal organs + specialised agencies; India's SC reform position; veto power holders |
+| **India bilateral** | Year of strategic partnership; recent summit; key agreements in force |
+| **Nuclear/Arms treaties** | NPT, CTBT, NSG, MTCR — India's exact status on each (signed / not signed / waiver) |
+| **Trade/Economic bodies** | WTO, RCEP, QUAD, SCO, BRICS — India's membership status and stated priorities |
+| **India-China** | LAC framework, CPEC objections, trade data (`*~as of*`), recent standoff/disengagement |
+| **India-USA** | BECA, LEMOA, COMCASA, iCET — what each enables; recent developments |
+| **India-Neighbourhood** | SAARC (why stalled), BIMSTEC (India's preferred format), each neighbour's primary issue |
+
+**PYQ patterns:** "India is a member of which of the following?", "Match the body with its headquarters", "Which statement about [treaty] is correct?", statement-based elimination on treaty provisions
+
+**Extra mandatory elements:**
+- `*~India membership status* ;;` — member / observer / signed not ratified / not a member — for every body
+- `*~headquarters* ;;` — UPSC tests this for every major international organisation
+- `*~established year* ;;` — chronological order questions appear every year
+- `*~current affairs link*` — must be a post-2022 summit, treaty development, or India position change
+- Every subject that has classification potential (UN organs, treaty categories, types of partnerships) must use the Classification Landscape block in Section 5
+
+---
+
+## Social Issues (GS-I / GS-II)
+
+Covers poverty, health, education, gender justice, caste, urbanisation, migration, social security — a consistent 8–12 question domain across Prelims and Mains GS1/GS2.
+
+**Four mandatory elements for every Social Issues note:**
+1. **Data block** — NFHS-5 / Census 2011 (or 2024 if released) / NSSO / PLFS / NITI Aayog data with `*~as of* ;; [year]` on every statistic
+2. **Scheme matrix** — Scheme name | Ministry | Year launched | Target group | Current status — all five columns
+3. **SDG linkage** — which SDG(s) this maps to; India's progress on that goal
+4. **Critique block** — `*~implementation gap* ;-` — why schemes underperform (exclusion errors, last-mile delivery, DBT leakage) — essential for Mains analysis; never just describe what a scheme does
+
+**Coverage map:**
+
+| Sub-topic | Key elements |
+|-----------|--------------|
+| **Poverty** | Poverty line definitions (Tendulkar, Rangarajan, SECC, MPI); PM-KISAN, MGNREGS, PMGKAY |
+| **Health** | MMR, IMR, TFR (NFHS-5 data `*~as of* ;; 2021`); NHM, Ayushman Bharat-PM-JAY, mental health |
+| **Education** | GER, dropout rates (UDISE+ data); NEP 2020 key changes; FLN Mission; PM SHRI |
+| **Gender** | GPI; Beti Bachao Beti Padhao; Women's Reservation Act 2023 (33% in LS/VidhanSabha) |
+| **SC/ST/OBC** | Reservation framework; SC/ST PoA Act 1989; Art 15(4), 16(4), 46 provisions |
+| **Urbanisation** | Slum population share; PMAY-U; Smart Cities Mission; AMRUT 2.0 |
+| **Social Security** | PM-SYM, EPFO, ESIC, NPS; informal sector coverage gap |
+
+**PYQ patterns:** "Which scheme falls under which Ministry?", match-the-following (scheme ↔ year/benefit), statement-based elimination on welfare policy provisions
+
+**Extra mandatory elements:**
+- `*~as of* ;; [year]` on ALL statistics — social data changes every year; undated stats are liabilities
+- `*~current status*` for every government scheme — many have been renamed, merged, or restructured
+- `*~international convention* ;;` — ratification status of CEDAW, CRC, ICCPR, etc. for relevant topics
+- Every note must have a `*~critique* ;-` block covering at minimum: exclusion errors, implementation gaps, and one structural barrier — UPSC Mains rewards analysis of WHY gaps persist, not just listing schemes
+
+---
+
+## Disaster Management (GS-III)
+
+**Always include:** NDMA/SDMA/DDMA institutional hierarchy, DM Act 2005 key provisions, Sendai Framework 2015–2030 priorities and targets, NDRF deployment authority chain.
+
+**Four mandatory elements for every DM note:**
+1. **Institutional hierarchy** — National → State → District architecture with exact authority at each level
+2. **Sendai Framework linkage** — which of the 4 priorities and 7 targets this disaster/topic connects to
+3. **DM Act 2005 provision** — the specific section(s) relevant to the disaster type or institution discussed
+4. **Classification Landscape** — disaster types almost always have 2+ classification bases; always apply the full Classification Landscape block in Section 5
+
+**Sendai Framework 2015–2030 — must be able to reproduce:**
+```
+4 Priorities for Action:
+  1. Understanding disaster risk
+  2. Strengthening disaster risk governance to manage disaster risk
+  3. Investing in DRR for resilience
+  4. Enhancing disaster preparedness for effective response and to "Build Back Better"
+
+7 Global Targets (to achieve by 2030):
+  A. Reduce global disaster mortality
+  B. Reduce number of affected people
+  C. Reduce direct disaster economic loss relative to GDP
+  D. Reduce damage to critical infrastructure + disruption of services
+  E. Increase number of countries with national/local DRR strategies
+  F. Enhance international cooperation for developing countries
+  G. Increase people's access to multi-hazard early warning systems
+```
+
+**Institutional hierarchy (DM Act 2005) — must appear in Section 4:**
+```
+NATIONAL: NDMA (PM chairs) → sets policy, guidelines, approves plans
+          National Executive Committee (Cabinet Sec chairs) → implements
+          NDRF (16 battalions, paramilitary) → central rapid response force
+          NIDM — training and research
+
+STATE:    SDMA (CM chairs) → state policy and plans
+          State Executive Committee (Chief Sec chairs) → coordinates
+          SDRF — state-level response force
+
+DISTRICT: DDMA (District Magistrate/Collector chairs) → frontline authority
+          → DM is the most important officer during actual disaster response
+```
+
+**Coverage map:**
+
+| Disaster type | Classification bases to include | Mandatory links |
+|--------------|--------------------------------|-----------------|
+| **Cyclones** | By intensity (wind speed: Depression/CS/SCS/VSCS/SuCS/ESCS) + by origin basin (BoB vs AS) | IMD classification; pre-positioned NDRF |
+| **Earthquakes** | By focus depth (Shallow/Intermediate/Deep) + by wave type (P/S/Surface/Love/Rayleigh) | Seismic Zone Map I–V; NDRF technical teams |
+| **Floods** | By cause (riverine/flash/urban/coastal) + by scale (local/regional/national) | CWC flood forecasting; embankment failure patterns |
+| **Droughts** | By duration (meteorological/agricultural/hydrological) + by region | IMD SPI; NDMA Drought Manual 2016; MGNREGS relief |
+| **Landslides** | By trigger (rainfall/earthquake/anthropogenic) + by material (rock/debris/earth) | GSI hazard zonation; Himalayan vs Western Ghats risk |
+
+**PYQ patterns:** NDMA vs SDMA powers, Sendai Framework priority identification, "who has authority to deploy NDRF?" (Central Govt only), NDRF composition, statement-based on DM Act provisions
+
+**Extra mandatory elements:**
+- `*~NDRF deployment authority* ;;` — NDRF is a central force; deployed by Centre; states cannot independently deploy NDRF (they have SDRF). This is a recurring UPSC trap.
+- `*~Sendai priority* ;;` — tag every concept/policy to one of the 4 Sendai priorities
+- `*~DM Act 2005 section* ;;` — cite the specific section when describing any institutional power
+- `*~current affairs link*` — must cite a specific disaster event from 2023–2025 and the institutional response (NDRF deployment, NDMA advisory, etc.)

@@ -1,6 +1,6 @@
 # UPSC PYQ Priority Study List
 
-Ranked by PYQ frequency across **5044 questions** (1995–2025).
+Ranked by PYQ frequency across **4769 questions** (1995–2025).
 **Study in this order — higher count = higher exam ROI.**
 
 ## Tier Guide
@@ -233,39 +233,6 @@ Ranked by PYQ frequency across **5044 questions** (1995–2025).
 | 111 | Emotional Intelligence | 17 | 0 | 17 | 2024 | 🟠 T2 | emotional-intelligence.md |
 | 148 | Western Thinkers | 10 | 0 | 10 | 2024 | 🟡 T3 | western-thinkers.md |
 | 208 | Attitude | 3 | 0 | 3 | 2025 | 🟢 T4 | attitude.md |
-
-## CSAT  ·  275 PYQs across 28 topics
-
-| Rank | Topic | PYQs | P | M | Last | Tier | File |
-|------|-------|------|---|---|------|------|------|
-| 38 | Permutation and Combination | 37 | 37 | 0 | 2010 | 🔴 T1 | permutation-and-combination.md |
-| 54 | Geometry | 30 | 30 | 0 | 2010 | 🔴 T1 | geometry.md |
-| 68 | Time Speed Distance | 26 | 26 | 0 | 2010 | 🟠 T2 | time-speed-distance.md |
-| 99 | Data Interpretation | 18 | 18 | 0 | 2000 | 🟠 T2 | data-interpretation.md |
-| 106 | Algebra | 17 | 17 | 0 | 2009 | 🟠 T2 | algebra.md |
-| 113 | Ordering and Ranking | 16 | 16 | 0 | 2010 | 🟠 T2 | ordering-and-ranking.md |
-| 116 | Set Theory and Venn Diagrams | 15 | 15 | 0 | 2010 | 🟠 T2 | set-theory-and-venn-diagrams.md |
-| 125 | Syllogisms | 14 | 14 | 0 | 2010 | 🟡 T3 | syllogisms.md |
-| 139 | Probability | 11 | 11 | 0 | 2008 | 🟡 T3 | probability.md |
-| 140 | Series Completion | 11 | 11 | 0 | 2008 | 🟡 T3 | series-completion.md |
-| 141 | Number System | 11 | 11 | 0 | 2009 | 🟡 T3 | number-system.md |
-| 151 | Percentages | 9 | 9 | 0 | 2010 | 🟡 T3 | percentages.md |
-| 167 | Mensuration | 7 | 7 | 0 | 2002 | 🟡 T3 | mensuration.md |
-| 170 | Volume and Mensuration | 7 | 7 | 0 | 2000 | 🟡 T3 | volume-and-mensuration.md |
-| 178 | Seating Arrangement | 6 | 6 | 0 | 2010 | 🟢 T4 | seating-arrangement.md |
-| 179 | Ratio & Proportion | 6 | 6 | 0 | 2002 | 🟢 T4 | ratio-and-proportion.md |
-| 184 | Direction Sense | 5 | 5 | 0 | 2010 | 🟢 T4 | direction-sense.md |
-| 185 | Coding-Decoding | 5 | 5 | 0 | 2000 | 🟢 T4 | coding-decoding.md |
-| 188 | Blood Relations | 5 | 5 | 0 | 2011 | 🟢 T4 | blood-relations.md |
-| 196 | Profit and Loss | 4 | 4 | 0 | 2008 | 🟢 T4 | profit-and-loss.md |
-| 197 | Work and Time | 4 | 4 | 0 | 2008 | 🟢 T4 | work-and-time.md |
-| 204 | Analogy | 3 | 3 | 0 | 2009 | 🟢 T4 | analogy.md |
-| 211 | Simple and Compound Interest | 2 | 2 | 0 | 2010 | 🟢 T4 | simple-and-compound-interest.md |
-| 212 | Exponential Growth and Series | 2 | 2 | 0 | 2010 | 🟢 T4 | exponential-growth-and-series.md |
-| 219 | Time, Speed and Distance | 1 | 1 | 0 | 2001 | 🟢 T4 | time,-speed-and-distance.md |
-| 220 | Work and Rates | 1 | 1 | 0 | 2001 | 🟢 T4 | work-and-rates.md |
-| 221 | Percentages and Population | 1 | 1 | 0 | 2001 | 🟢 T4 | percentages-and-population.md |
-| 222 | Geometry and Angles | 1 | 1 | 0 | 2001 | 🟢 T4 | geometry-and-angles.md |
 
 ## Society  ·  166 PYQs across 12 topics
 

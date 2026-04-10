@@ -825,7 +825,7 @@ climatology, atmosphere, temperature, equator, Climatology, latitude, Northern H
   ✅ C) direction keeping the polestar to his left
      D) direction keeping the polestar to his right
 
-  ⚠️ **Trap:** This appears to be a CSAT-type direction question but tests geographical knowledge of Polestar (north) — candidates may overcomplicate the direction logic.
+  ⚠️ **Trap:** This appears to be a direction-logic question but tests geographical knowledge of Polestar (north) — candidates may overcomplicate the direction logic.
   💡 **Eliminate:** Polestar is due North; to go East, keep North to your left. Simple cardinal direction logic: facing North = left is West, right is East — keep Polestar to the LEFT to face East.
   📌 **Key facts:**
      - Polestar (Polaris) always indicates True North

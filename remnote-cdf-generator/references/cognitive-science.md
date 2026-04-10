@@ -104,7 +104,7 @@ Every major concept needs at least 3 memory hooks from different types:
 | **One-liner** | `*🧠 summary*` | Compression |
 
 ### Standard 5: Exam Trap Test ⚠️ (Error Prevention)
-Flag every common wrong answer with correction. Pull traps from real PYQ data (Step 0).
+Flag every common wrong answer with correction. Pull traps from real PYQ data (Step 2).
 
 ```
 - *⚠️ exam trap* ;- [Wrong answer] often confused with [right answer]. 
@@ -178,10 +178,10 @@ Every note must include a UPSC Analysis block:
 - **UPSC Analysis** :- Exam Strategy
   - *🎯 Prelims focus* ;- [What specific facts to memorize]
   - *📝 Mains angles* ;- [Themes, debates, analytical points]
-  - *~PYQ pattern* ;- [How UPSC asks about this topic — from Step 0]
-  - *~current affairs link* ;- [Recent relevance]
+  - *~PYQ pattern* ;- [How UPSC asks about this topic — from Step 2]
+  - *~current affairs link* ;; [Post-2022 event — use `;;` when confirmed; `;-` + "Unverified" when uncertain]
   - *~committee/report* ;- [Any relevant committee]
-  - *~quote* ;- [Quotable line for answers]
+  - *~quote/committee* ;- [Quotable line for answers — from `references/quote-bank.md` only; NEVER invented]
 ```
 
 ### Standard 11: Conceptual Clarity 💭

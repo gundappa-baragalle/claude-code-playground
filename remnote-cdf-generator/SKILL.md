@@ -51,11 +51,42 @@ Use the decision tree below. Do this before PYQ lookup so you do not run a
 UPSC workflow on a JEE or CAT request.
 
 ```
+Is the topic CSAT / UPSC Paper-II (Quantitative Aptitude, Logical Reasoning, Analytical Ability)?
+  Signal phrases: "time and distance", "blood relations", "seating arrangement", "coding decoding",
+  "syllogisms", "data interpretation", "profit and loss", "number series", "permutation combination",
+  "CSAT", "Paper II", "Paper-II", "aptitude test", "logical reasoning", "verbal reasoning"
+  YES → Respond: "This skill covers UPSC GS Paper-I (Prelims GS) and Mains (GS1–GS4 + Essay) only.
+                  CSAT / Paper-II topics have no indexed topic-maps or PYQ archive here — proceeding
+                  would generate a note with fabricated frequency data.
+                  I can generate a general study note for this topic without any PYQ metadata if you'd
+                  like, or redirect you to a CSAT-focused resource."
+        Do NOT proceed with the CDF workflow — no topic-maps or PYQ data exist for CSAT topics.
+
 Is the exam clearly non-UPSC (JEE, NEET, CAT, CA, MBA, school)?
   YES → Ask: "Should I generate UPSC-style CDF notes, or a different format?"
         Proceed CDF only after confirmation.
-        For confirmed non-UPSC: use 12-section structure, replace PYQ Archive
-        and revision priority with exam equivalents; skip Steps 2 and 3.
+        For confirmed non-UPSC: use 12-section structure with these substitutions:
+          Section 1 metadata: replace `*~PYQ frequency*` with `*~question frequency* ;- [topic frequency in this exam]`
+                              replace `*~revision priority*` with exam's own tier/weight label
+          Section 12 (PYQ Archive): retitle as `**📚 Past Questions Archive**` and populate with
+                              official past paper questions for that exam (JEE PYQs, NEET PYQs, etc.)
+                              Use the same anchor + MCQ structure; verbatim only.
+          Steps 2 and 3: skip entirely (no UPSC topic-maps or subject-guidelines apply).
+          All other sections (2–11): keep as-is — the learning-ladder logic is exam-agnostic.
+
+Does the request signal time pressure or a lightweight need?
+  Signal phrases: "exam tomorrow", "quick revision", "before my exam", "just key points",
+  "rapid review", "brush up", "short notes", "only the important points", "revise quickly",
+  "in 10 minutes", "last-minute", "cram sheet"
+  YES → QUICK REVISION MODE:
+        Sections to generate: 1 (metadata only), 3 (Big Picture), 7 (One-Liners),
+                               8 (Quick Revision), 12 (PYQ Archive)
+        Skip: Sections 2, 4, 5, 6, 9, 10, 11
+        Node floor: ≥ 30 nodes total
+        Add to Section 1 metadata: *~mode* ;- QUICK REVISION — 5 sections only;
+                                    run full CDF later for complete learning ladder
+        Still run Steps 2 and 3 (PYQ lookup and subject guidelines) — no data shortcuts.
+        File name: [subject]-[topic]-cdf-QUICK.md
 
 Is the topic clearly UPSC but maps to 3+ substantially different subjects?
   (e.g., "capital" → Economy / Polity / Geography)
@@ -63,6 +94,15 @@ Is the topic clearly UPSC but maps to 3+ substantially different subjects?
 
 Is the request too broad to scope? (e.g., "Make notes on India", "Notes on GS2")
   YES → Ask to narrow down to a specific topic.
+
+Has the user given NO specific topic — asking "what should I study?", "suggest a
+topic", "where do I start?", "what's most important?", "I have [N] weeks/days left"?
+  YES → Open `pyq-data/priority-list.md`. Identify the user's subject (or list
+        across subjects if unspecified). Present the top Tier 1 topics for that
+        subject with their PYQ count and last-asked year, and ask the user to pick
+        one. Do NOT generate notes until a specific topic is chosen.
+        Example prompt: "Here are your highest-ROI topics by PYQ frequency —
+        which one should I build full notes for?"
 
 Everything else (including partial ambiguity)?
   → State your assumption in Section 1 metadata and proceed immediately.
@@ -74,14 +114,26 @@ Everything else (including partial ambiguity)?
 **[ ] Step 2 — PYQ Lookup (two sub-steps, both required)**
 
 **2a — Find the slug:**
-Open and search `pyq-data/concept-index.json` for the topic slug.
+Open and search `pyq-data/concept-index.json` for the matching entry. The JSON keys are display names (e.g., `"Fundamental Rights"`, `"Indian Economy"`). To derive the topic-map file path from a key:
+1. Lowercase the key
+2. Replace spaces and `&` with hyphens
+3. Remove all other special characters (commas, apostrophes, brackets, slashes)
+4. Collapse any consecutive hyphens into one
+
+Example: `"Time Speed Distance"` → `time-speed-distance` → file is `topic-maps/time-speed-distance.md`
+
+If no entry matches exactly, try the parent topic key or a synonym key.
 
 **2b — Read the topic-map file:**
 Open and read `pyq-data/topic-maps/TOPIC-SLUG.md`. Finding the slug is not
 sufficient — you must open the actual file.
 
-Extract: `total_count`, `prelims_count`, `year_range`, `last_asked`,
-`dimensions_tested`, `revision_priority`, and every verbatim PYQ question.
+Extract:
+- `total_count`, `prelims_count`, `year_range`, `last_asked`, `dimensions_tested`, `revision_priority`, and every verbatim PYQ question.
+- **`## Exam Patterns & Insights`** — copy the "Most tested dimension" line and "Common Trap Patterns" subsection verbatim. This feeds the `🎯 LAST YEARS PYQ PATTERN` block in Section 10.
+- **`### Contemporary Relevance`** — copy the text verbatim. This feeds `*~contemporary_relevance*` in Section 11.
+
+Do not reconstruct these from memory — they are factual records of examiner behaviour.
 
 > **Why verbatim matters:** The most common fabrication pattern is: slug found
 > in index → file never opened → questions reconstructed from memory →
@@ -206,10 +258,23 @@ immediately before the first prerequisite entry:
 
 Use templates from `references/section-templates.md`. Completeness beats brevity.
 
+**Before writing any GS4 Ethics or Essay note:** Open `references/quote-bank.md`. Every `*~thinker quote*` must be copied verbatim from that file — never invented or paraphrased. If the theme you need is not in the file, use a `*~governance link* ;-` (Nolan Principle / constitutional article) instead.
+
+**Before writing Section 9 Practice MCQs:** Open `pyq-data/elimination-patterns.md`. Identify which elimination pattern type dominates for this topic's subject (e.g., History → General Factual 62%; Polity → Statement-Based). Design distractor logic in Section 9 MCQs to match that dominant pattern — not invented patterns.
+
+**Section output order — re-read this before starting:**
+- Standard (80–150 nodes): generate sections **1 → 2 → 3 → 4 → 5 → 6 → 7 → 8 → 9 → 10 → 11 → 12** in sequence.
+- Flagship (>150 nodes): generate **1 → 2 → 3 → 4 → 5 → 12** first, then **6 → 7 → 8 → 9 → 10 → 11** (see INTERRUPTION NOTICE above — this ordering ensures PYQ Archive survives a context cutoff).
+
 **Coverage floors** (a node = any indented bullet with a delimiter or descriptor):
 - Narrow topics (single amendment, one person): ≥ 40 nodes
 - Standard topics: ≥ 80 nodes
 - Flagship topics (Fundamental Rights, Indian Economy): ≥ 200 nodes
+
+> **Flagship threshold vs. coverage floor — two separate rules:**
+> - **Ordering rule (>150 nodes):** Any note expected to exceed 150 nodes uses flagship generation order (1→2→3→4→5→12 first). This is a *generation strategy* to survive context cutoffs.
+> - **Coverage floor (≥200 nodes):** Inherently flagship topics (Fundamental Rights, Indian Economy) require ≥200 nodes regardless of ordering chosen. These topics have enough PYQ breadth that 150 nodes would leave gaps.
+> A note can trigger the flagship *ordering* at 151 nodes while still being under the flagship *floor* — that means more content is needed, not that the ordering was wrong.
 
 No upper cap — never truncate to hit a length target. Do not stop until every
 major concept, every PYQ dimension, and every exam trap has been addressed.
@@ -292,6 +357,12 @@ be defined.
 
 Open `references/quality-checklist.md`. Verify all universal checks, then
 subject-specific checks. Open the file — do not run from memory.
+
+After running the full checklist, open `references/examples.md` and jump to the
+Verification Checklist at the end of the file (Section 5 in its table of contents).
+Use it as a quick benchmark comparison: does your output match the same structural
+quality as the worked example for this subject? The examples.md checklist is a
+calibration tool — the quality-checklist.md is the definitive pass/fail gate.
 
 **Top 3 failure modes — check these before opening the checklist:**
 1. **Section 12 PYQ count mismatch** — count MCQ nodes in output vs
@@ -424,6 +495,7 @@ descriptor naming conventions) → `references/syntax-guide.md`
 | `references/examples.md` | Step 5 — one worked example |
 | `references/quality-checklist.md` | Step 9 — full checklist |
 | `references/syntax-guide.md` | Steps 9–10 — syntax edge cases |
+| `references/quote-bank.md` | Step 7 — before writing any GS4 Ethics or Essay note; every `*~thinker quote*` must come from this file |
 | `references/core-philosophy.md` | When you need rationale for a principle (links to cognitive-science.md at its end) |
 | `pyq-data/elimination-patterns.md` | Step 7 — before writing Section 9 MCQs; match trap design to UPSC's 10 documented elimination patterns |
 

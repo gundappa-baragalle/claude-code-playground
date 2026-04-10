@@ -4,7 +4,7 @@ Extracted from 3,617+ GS Prelims PYQs (2011–2025). Each pattern includes the e
 
 ---
 
-## Pattern Frequency (GS Prelims only, CSAT excluded)
+## Pattern Frequency (GS Prelims only)
 
 | Pattern | Count | % of PYQs |
 |---------|-------|-----------|

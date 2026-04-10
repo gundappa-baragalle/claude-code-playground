@@ -27,8 +27,8 @@ These are the highest-impact checks. If any fail, fix before continuing.
 ### Structure ✓
 - [ ] No `##` markdown headers anywhere — only `:-` container nodes
 - [ ] Minimum 3 indentation levels for each major concept
-- [ ] All 12 sections present in correct order
-- [ ] File named `[subject]-[topic]-cdf.md`
+- [ ] **All 12 sections present in correct order** — *Exception: Quick Revision Mode notes intentionally contain only Sections 1 (metadata only), 3, 7, 8, 12. If `*~mode* ;- QUICK REVISION` is present in Section 1, skip this check and verify only the 5 mandated sections are complete.*
+- [ ] File named `[subject]-[topic]-cdf.md` (Quick Revision: `[subject]-[topic]-cdf-QUICK.md`)
 
 ### Logical Flow ✓ (NEW — check every note)
 - [ ] Section 4 entries are ordered from most foundational to most derived (prerequisite chain respected)
@@ -98,7 +98,7 @@ These are the highest-impact checks. If any fail, fix before continuing.
 - [ ] **Within-Basis Trap Zone** present in single-basis variant — names the most confused within-axis pair
 - [ ] `*~UPSC note*` flags which bases/types are tested vs untested (untested = Section 9 targets)
 - [ ] `**🔢 Enumeration Master**` block present with `*~[Basis] count* ;;` for each basis
-- [ ] Section 7 has **classification one-liners** — Category A (Type → basis attribution) and Category B (Type → threshold/defining criterion) for every Classification Landscape
+- [ ] Section 7 has **classification one-liners** — all three categories for every Classification Landscape: Category A (Type → basis attribution), Category B (Type → threshold/count facts), Category C (cross-basis discrimination "≠" one-liners for the trap pairs in the Cross-Basis Trap Zone)
 - [ ] Section 8 has **Classification Enumeration** cloze sub-block — one sentence per basis, count as hint on last cloze
 - [ ] Section 9 has at least one cross-basis discrimination MCQ — Frame A (attribution), B (basis ID), or C (pair discrimination)
 - [ ] Section 10 **⚠️ TRAP ALERTS** block contains cross-basis trap entries pulled from the Cross-Basis Trap Zone
@@ -141,6 +141,18 @@ These are the highest-impact checks. If any fail, fix before continuing.
 - [ ] Comparison table against most-confused style
 - [ ] Location cloze includes confusable wrong state as hint
 
+### Economy (GS3) ✓
+- [ ] `*~as of* ;; [year]` present on all numerical data (repo rate, fiscal deficit %, GDP growth, MSP values, inflation target, index base year)
+- [ ] Every scheme/programme has its launch year and current status tagged
+- [ ] Formula present for every measurable concept (Fiscal Deficit = E−R; GDP = C+I+G+NX)
+- [ ] Directional relationship stated explicitly where applicable (Repo rate ↑ → Borrowing cost ↑ → Inflation ↓)
+
+### Environment & Ecology (GS3) ✓
+- [ ] `*~as of* ;; [year]` present on all conservation status claims (IUCN Red List updates annually — an undated status is unreliable)
+- [ ] Every species note includes: IUCN status + Wildlife Protection Act Schedule + states found in
+- [ ] Every international convention entry includes: year signed/ratified + India's status
+- [ ] Every protected area / wetland entry includes the legal designation category (Biosphere Reserve / Ramsar / National Park / Wildlife Sanctuary)
+
 ### Geography — Map Questions ✓
 - [ ] **Locate It** block present with location cloze cards
 - [ ] Every location cloze includes the confusable wrong answer as hint
@@ -154,14 +166,14 @@ These are the highest-impact checks. If any fail, fix before continuing.
 - [ ] Indian govt program/agency linked for every S&T concept
 
 ### Current Affairs Integration ✓
-- [ ] `*~current affairs link*` filled in every note (not left blank) — event must be post-2022 (prefer 2024–2025); if uncertain of a recent event, write the search prompt (`Verify: search [topic] + 2024/2025`) rather than using stale or invented news
+- [ ] `*~current affairs link*` filled in every note (not left blank) — event must be post-2022 (prefer 2024–2025); if you cannot verify a recent event, write `*~current affairs link* ;- Unverified — search "[topic] + 2024/2025" and replace this with a confirmed event` using `;-` (disabled), NOT `;;` — a `;;` placeholder generates a broken flashcard in RemNote
 - [ ] `*~contemporary_relevance*` from topic-map carried into note
 - [ ] At least one current event cited with year in Mains Answer Framework body
 - [ ] Recent policy/law cited where relevant (post-2020 preferred)
 
 ### Ethics Notes (GS4) ✓
 - [ ] Section 3 Big Picture uses value-framework map (not factual hierarchy)
-- [ ] Every concept has `*~thinker quote*` — from Quote Bank only, NEVER invented
+- [ ] Every concept has `*~thinker quote*` — from `references/quote-bank.md` only, NEVER invented
 - [ ] Every concept has `*~case study angle*` — civil service scenario
 - [ ] Every concept has `*~opposite value*` — conflict named + resolution method stated
 - [ ] Every concept has `*~governance link*` — Nolan Principle / CCS Rule / Article cited
@@ -178,7 +190,7 @@ These are the highest-impact checks. If any fail, fix before continuing.
 - [ ] Indian example + global comparison paired in at least one paragraph
 - [ ] Clear thesis stated in intro (not the opening line)
 - [ ] Conclusion echoes Preamble / Art 21 / civilizational vision — NOT a summary
-- [ ] Quotes are attributable (from Quote Bank only)
+- [ ] Quotes are attributable (from `references/quote-bank.md` only)
 
 ---
 
@@ -198,12 +210,12 @@ These are the highest-impact checks. If any fail, fix before continuing.
 | Invent PYQ years or question counts | Only use data from pyq-data/ files |
 | Skip opening `elimination-patterns.md` before Section 9 | Section 9 MCQ distractor logic must match UPSC's actual elimination pattern frequency — invented traps miss what the exam tests |
 | Leave Section 7 empty of Category C discrimination one-liners when high-frequency traps exist | The trap list from Step 2c must produce `;;` one-liners — traps that appear in 3+ PYQs are prime atomic recall targets |
-| State post-`last_asked` developments as fact without verification | If not in topic-map, mark as `{{development}}{(verify: search [topic] + 2024/2025)}` — never invent |
+| State post-`last_asked` developments as fact without verification | If not in topic-map, write `*~unverified development* ;- search [topic] + 2024/2025 to confirm before including` using `;-` (disabled). Never use cloze syntax `{{...}}` for unverified content — it generates a broken flashcard with the placeholder text as the hidden answer |
 | Invent quotes in Ethics notes | Fabricated quotes destroy credibility |
 | Start Essay with a definition | Penalised by examiners; always quote/paradox/anecdote |
 | Write Essay as a list of points | Essay is prose — bullets lose marks |
 | Use only textbook examples in Ethics | Use Ashok Khemka, Sanjiv Chaturvedi, Aruna Roy |
-| Skip `*~as of*` on S&T/Economy notes | Undated tech/data facts become liabilities |
+| Skip `*~as of*` on S&T/Economy/Environment notes | Undated tech/data/status facts become liabilities — IUCN statuses change annually, rates and budgets change yearly |
 | Resolve value-conflict vaguely | Name the resolution principle explicitly |
 | Write location cloze without wrong answer as hint | The confusable wrong state IS the exam trap |
 | Use `;;>A)` for MCQs | `;;>A)` is a Descriptor MCQ — it breaks PYQ anchor linking and generates wrong card format; always use `>>A)` |

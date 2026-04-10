@@ -1868,7 +1868,7 @@ LED technology is central to India's UJALA scheme, which has avoided millions of
 ## Exam Patterns & Insights
 
 - **Most tested dimension:** WHAT (72/125 = 57% of questions)
-- **Question types (Prelims):** Conceptual: 64, Factual: 47, Analytical: 5, Application: 4, CSAT: 2
+- **Question types (Prelims):** Conceptual: 64, Factual: 47, Analytical: 5, Application: 4
 - **Recent frequency (2020–2025):** 3 questions
 
 ### Common Trap Patterns on This Topic
